@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f23db367-221f-4d34-85b3-978c49dc9587",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 744,
+  "height": 416,
+  "platformSettings": {},
+  "subMetas": {
+    "EscapeRoom_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "677eace2-99a3-4bb2-9245-c3f8c89bb544",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f23db367-221f-4d34-85b3-978c49dc9587",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 1.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 739,
+      "height": 413,
+      "rawWidth": 744,
+      "rawHeight": 416,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

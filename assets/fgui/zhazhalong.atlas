@@ -1,0 +1,69 @@
+
+zhazhalong.png
+size: 1591,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hu0_000
+  rotate: false
+  xy: 1425, 14
+  size: 82, 241
+  orig: 85, 256
+  offset: 1, 6
+  index: -1
+hu0_001
+  rotate: true
+  xy: 1181, 173
+  size: 82, 242
+  orig: 85, 256
+  offset: 2, 6
+  index: -1
+hu0_002
+  rotate: true
+  xy: 1181, 11
+  size: 76, 232
+  orig: 85, 256
+  offset: 4, 6
+  index: -1
+hu0_003
+  rotate: true
+  xy: 723, 2
+  size: 77, 231
+  orig: 85, 256
+  offset: 2, 7
+  index: -1
+hu0_004
+  rotate: false
+  xy: 1509, 15
+  size: 80, 240
+  orig: 85, 256
+  offset: 2, 6
+  index: -1
+hu0_005
+  rotate: true
+  xy: 1181, 89
+  size: 82, 239
+  orig: 85, 256
+  offset: 2, 7
+  index: -1
+long_1
+  rotate: false
+  xy: 723, 81
+  size: 456, 174
+  orig: 456, 174
+  offset: 0, 0
+  index: -1
+long_2
+  rotate: false
+  xy: 2, 2
+  size: 441, 253
+  orig: 441, 253
+  offset: 0, 0
+  index: -1
+long_t
+  rotate: true
+  xy: 445, 15
+  size: 240, 276
+  orig: 240, 276
+  offset: 0, 0
+  index: -1

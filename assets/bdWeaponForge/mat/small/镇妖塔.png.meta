@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "573f938b-c68d-4e86-bd65-46ec68e411e8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 98,
+  "height": 98,
+  "platformSettings": {},
+  "subMetas": {
+    "镇妖塔": {
+      "ver": "1.0.6",
+      "uuid": "7be99d58-0cf4-448f-b6e5-bfe0ff701af8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "573f938b-c68d-4e86-bd65-46ec68e411e8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 94,
+      "height": 97,
+      "rawWidth": 98,
+      "rawHeight": 98,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

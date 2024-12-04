@@ -1,0 +1,52 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "yanseyaoji",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "yanseyaoji",
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 3
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 463.0000305175781,
+      "height": 354.0015869140625
+    },
+    "_id": "7d8c7779-5f08-4917-b857-c4f949b7d61c"
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "_preCacheMode": 0,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "67c3e393-2c5d-46a0-b3c6-cc952c9660d7"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

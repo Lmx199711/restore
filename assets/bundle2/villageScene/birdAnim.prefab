@@ -1,0 +1,54 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "birdAnim",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "birdAnim",
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 3
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1002,
+      "height": 1668
+    },
+    "_id": "5625b391-32fd-41d7-87a3-2da0fe6991ac"
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "naio",
+    "_preCacheMode": 0,
+    "_animationName": "naio",
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "6cca416b-d9ae-4cfc-85a3-0fb21fc14bdc"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

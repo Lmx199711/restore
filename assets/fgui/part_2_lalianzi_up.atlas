@@ -1,0 +1,27 @@
+
+part_2_lalianzi_up.png
+size: 2010,1886
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+elbow
+  rotate: true
+  xy: 1006, 2
+  size: 474, 616
+  orig: 474, 616
+  offset: 0, 0
+  index: -1
+tu_1
+  rotate: false
+  xy: 1006, 478
+  size: 1002, 1406
+  orig: 1004, 1408
+  offset: 1, 1
+  index: -1
+tu_2
+  rotate: false
+  xy: 2, 471
+  size: 1002, 1413
+  orig: 1004, 1415
+  offset: 1, 1
+  index: -1

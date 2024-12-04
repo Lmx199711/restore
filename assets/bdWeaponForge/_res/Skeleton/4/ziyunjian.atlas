@@ -1,0 +1,153 @@
+
+ziyunjian.png
+size: 1949,1617
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 1717, 336
+  size: 94, 478
+  orig: 94, 478
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 861
+  size: 195, 754
+  orig: 264, 770
+  offset: 31, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 350
+  size: 124, 509
+  orig: 130, 515
+  offset: 3, 4
+  index: -1
+03_00000
+  rotate: false
+  xy: 199, 1210
+  size: 480, 405
+  orig: 600, 405
+  offset: 70, 0
+  index: -1
+03_00002
+  rotate: false
+  xy: 681, 1210
+  size: 480, 405
+  orig: 600, 405
+  offset: 70, 0
+  index: -1
+03_00004
+  rotate: false
+  xy: 652, 803
+  size: 446, 405
+  orig: 600, 405
+  offset: 78, 0
+  index: -1
+03_00006
+  rotate: false
+  xy: 199, 803
+  size: 451, 405
+  orig: 600, 405
+  offset: 78, 0
+  index: -1
+03_00008
+  rotate: false
+  xy: 1163, 1210
+  size: 453, 405
+  orig: 600, 405
+  offset: 78, 0
+  index: -1
+03_00010
+  rotate: true
+  xy: 2, 11
+  size: 337, 329
+  orig: 600, 405
+  offset: 130, 37
+  index: -1
+03_00012
+  rotate: true
+  xy: 1618, 1266
+  size: 349, 329
+  orig: 600, 405
+  offset: 118, 37
+  index: -1
+03_00014
+  rotate: true
+  xy: 1504, 816
+  size: 392, 388
+  orig: 600, 405
+  offset: 104, 5
+  index: -1
+03_00016
+  rotate: true
+  xy: 924, 399
+  size: 402, 393
+  orig: 600, 405
+  offset: 97, 0
+  index: -1
+03_00018
+  rotate: false
+  xy: 1100, 808
+  size: 402, 400
+  orig: 600, 405
+  offset: 97, 5
+  index: -1
+03_00020
+  rotate: false
+  xy: 1319, 406
+  size: 396, 400
+  orig: 600, 405
+  offset: 104, 5
+  index: -1
+03_00022
+  rotate: false
+  xy: 526, 400
+  size: 396, 401
+  orig: 600, 405
+  offset: 104, 0
+  index: -1
+03_00024
+  rotate: false
+  xy: 128, 396
+  size: 396, 405
+  orig: 600, 405
+  offset: 104, 0
+  index: -1
+03_00026
+  rotate: false
+  xy: 333, 2
+  size: 392, 392
+  orig: 600, 405
+  offset: 104, 5
+  index: -1
+03_00028
+  rotate: false
+  xy: 727, 5
+  size: 392, 392
+  orig: 600, 405
+  offset: 104, 5
+  index: -1
+03_00030
+  rotate: false
+  xy: 1121, 65
+  size: 328, 332
+  orig: 600, 405
+  offset: 136, 37
+  index: -1
+03_00032
+  rotate: false
+  xy: 1648, 54
+  size: 279, 280
+  orig: 600, 405
+  offset: 163, 66
+  index: -1
+03_00034
+  rotate: false
+  xy: 1451, 162
+  size: 195, 242
+  orig: 600, 405
+  offset: 204, 85
+  index: -1

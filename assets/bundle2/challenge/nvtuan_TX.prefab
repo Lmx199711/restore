@@ -1,0 +1,52 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "nvtuan_TX",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "nvtuan_TX",
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 3
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 125.87264251708984,
+      "height": 123.07546997070312
+    },
+    "_id": "390aa564-6f30-40a2-819b-ca641c9f67ce"
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "_preCacheMode": 0,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "ae6f3e36-3629-4b29-a8b2-7027cb1ed9c8"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

@@ -1,0 +1,69 @@
+
+feiji.png
+size: 1814,949
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_000
+  rotate: true
+  xy: 822, 751
+  size: 196, 967
+  orig: 256, 1024
+  offset: 20, 16
+  index: -1
+01_001
+  rotate: true
+  xy: 822, 544
+  size: 205, 964
+  orig: 256, 1024
+  offset: 19, 19
+  index: -1
+01_002
+  rotate: false
+  xy: 2, 2
+  size: 193, 945
+  orig: 256, 1024
+  offset: 26, 37
+  index: -1
+01_003
+  rotate: false
+  xy: 197, 3
+  size: 199, 944
+  orig: 256, 1024
+  offset: 28, 39
+  index: -1
+1
+  rotate: true
+  xy: 602, 154
+  size: 240, 103
+  orig: 240, 103
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 398, 83
+  size: 311, 202
+  orig: 311, 202
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1264, 50
+  size: 548, 492
+  orig: 640, 640
+  offset: 39, 108
+  index: -1
+5
+  rotate: true
+  xy: 398, 396
+  size: 551, 422
+  orig: 640, 640
+  offset: 41, 141
+  index: -1
+6
+  rotate: true
+  xy: 822, 8
+  size: 534, 440
+  orig: 640, 640
+  offset: 60, 139
+  index: -1

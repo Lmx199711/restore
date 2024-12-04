@@ -1,0 +1,67 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "bagAnim",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "anim",
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 3
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1.2,
+        1.2,
+        1
+      ]
+    },
+    "_id": "59484ec5-24c3-4b00-8dc2-8927e7b0a219"
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "fd_1",
+    "defaultAnimation": "fudai_Guang",
+    "_preCacheMode": 0,
+    "loop": false,
+    "_animationName": "fudai_Guang",
+    "_playTimes": 1,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "70b55901-bf24-4ef0-a854-bdb888b02ac7"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0d7f0347-77f8-4f31-97a1-b1bd23aed95c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1002,
+  "height": 1668,
+  "platformSettings": {},
+  "subMetas": {
+    "Banquet_atlas_kech1b": {
+      "ver": "1.0.6",
+      "uuid": "e41683a8-ed96-4fb4-852b-607c92b305d4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0d7f0347-77f8-4f31-97a1-b1bd23aed95c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1002,
+      "height": 1668,
+      "rawWidth": 1002,
+      "rawHeight": 1668,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

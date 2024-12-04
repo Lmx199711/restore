@@ -1,0 +1,41 @@
+
+jingyou.png
+size: 366,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+158_13
+  rotate: true
+  xy: 2, 67
+  size: 189, 280
+  orig: 189, 280
+  offset: 0, 0
+  index: -1
+158_22_1
+  rotate: true
+  xy: 2, 28
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+158_22_2
+  rotate: true
+  xy: 284, 2
+  size: 254, 80
+  orig: 254, 80
+  offset: 0, 0
+  index: -1
+2/43_12
+  rotate: true
+  xy: 65, 47
+  size: 18, 163
+  orig: 18, 163
+  offset: 0, 0
+  index: -1
+2/43_15
+  rotate: true
+  xy: 230, 43
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1

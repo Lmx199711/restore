@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "637fde63-5968-4d93-9c5f-ae50ef512c79",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 425,
+  "height": 425,
+  "platformSettings": {},
+  "subMetas": {
+    "大地精华": {
+      "ver": "1.0.6",
+      "uuid": "45af0fd2-6c85-45b4-b694-c4be42375f30",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "637fde63-5968-4d93-9c5f-ae50ef512c79",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 8,
+      "trimY": 8,
+      "width": 409,
+      "height": 409,
+      "rawWidth": 425,
+      "rawHeight": 425,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

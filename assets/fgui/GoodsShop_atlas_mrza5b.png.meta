@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0e29b1a1-eeaf-49e3-b10e-0bf4bf7716a6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 139,
+  "height": 148,
+  "platformSettings": {},
+  "subMetas": {
+    "GoodsShop_atlas_mrza5b": {
+      "ver": "1.0.6",
+      "uuid": "7ebb8585-9df3-4256-9114-b5e172126305",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0e29b1a1-eeaf-49e3-b10e-0bf4bf7716a6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 139,
+      "height": 148,
+      "rawWidth": 139,
+      "rawHeight": 148,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

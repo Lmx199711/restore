@@ -1,0 +1,27 @@
+
+chebiao_2.png
+size: 476,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+06
+  rotate: false
+  xy: 266, 2
+  size: 208, 188
+  orig: 240, 231
+  offset: 14, 24
+  index: -1
+a
+  rotate: true
+  xy: 2, 26
+  size: 164, 262
+  orig: 166, 264
+  offset: 1, 1
+  index: -1
+b
+  rotate: true
+  xy: 2, 192
+  size: 65, 370
+  orig: 69, 376
+  offset: 2, 3
+  index: -1

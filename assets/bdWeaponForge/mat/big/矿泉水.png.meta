@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f8996e51-f9cc-436e-8607-3999fe135a4b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 425,
+  "height": 425,
+  "platformSettings": {},
+  "subMetas": {
+    "矿泉水": {
+      "ver": "1.0.6",
+      "uuid": "9c28d4d9-cce0-4022-85bd-224be5571736",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f8996e51-f9cc-436e-8607-3999fe135a4b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 8,
+      "offsetY": 8,
+      "trimX": 143,
+      "trimY": 62,
+      "width": 155,
+      "height": 285,
+      "rawWidth": 425,
+      "rawHeight": 425,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

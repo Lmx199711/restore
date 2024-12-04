@@ -1,0 +1,52 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "bajie",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bajie",
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 3
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 338.6622009277344,
+      "height": 499.00396728515625
+    },
+    "_id": "956ce803-b341-49f4-bb5e-81aec35a92c2"
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "_preCacheMode": 0,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "5723b8fe-cc2d-404e-8f1a-9271337fa03e"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

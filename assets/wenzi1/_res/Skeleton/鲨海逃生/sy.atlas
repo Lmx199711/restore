@@ -1,0 +1,41 @@
+
+sy.png
+size: 2020,904
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 1799, 245
+  size: 185, 170
+  orig: 185, 170
+  offset: 0, 0
+  index: -1
+sy
+  rotate: true
+  xy: 2, 2
+  size: 900, 877
+  orig: 901, 877
+  offset: 0, 0
+  index: -1
+zb_1
+  rotate: false
+  xy: 881, 151
+  size: 485, 751
+  orig: 485, 752
+  offset: 0, 1
+  index: -1
+zb_2
+  rotate: true
+  xy: 1368, 417
+  size: 485, 650
+  orig: 485, 650
+  offset: 0, 0
+  index: -1
+zb_3
+  rotate: false
+  xy: 1368, 5
+  size: 429, 410
+  orig: 431, 410
+  offset: 1, 0
+  index: -1

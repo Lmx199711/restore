@@ -1,0 +1,27 @@
+
+ershouchechezhan.png
+size: 517,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 2, 469
+  size: 43, 66
+  orig: 45, 68
+  offset: 1, 1
+  index: -1
+f
+  rotate: false
+  xy: 2, 2
+  size: 513, 327
+  orig: 515, 329
+  offset: 1, 1
+  index: -1
+s
+  rotate: false
+  xy: 70, 331
+  size: 402, 181
+  orig: 409, 186
+  offset: 4, 2
+  index: -1

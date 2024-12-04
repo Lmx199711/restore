@@ -1,0 +1,27 @@
+
+weilaiqianbao.png
+size: 123,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qian
+  rotate: true
+  xy: 84, 60
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+qianb
+  rotate: true
+  xy: 2, 36
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+wz
+  rotate: false
+  xy: 2, 2
+  size: 112, 32
+  orig: 112, 32
+  offset: 0, 0
+  index: -1

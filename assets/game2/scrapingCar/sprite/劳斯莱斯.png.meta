@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "74cdc736-f278-403d-9dff-3f92a25d58fb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 596,
+  "height": 282,
+  "platformSettings": {},
+  "subMetas": {
+    "劳斯莱斯": {
+      "ver": "1.0.6",
+      "uuid": "fe177af4-5889-45ca-a3a5-e1dc7e0008fa",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "74cdc736-f278-403d-9dff-3f92a25d58fb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 596,
+      "height": 282,
+      "rawWidth": 596,
+      "rawHeight": 282,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

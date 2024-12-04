@@ -1,0 +1,188 @@
+
+juzhong.png
+size: 1777,581
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_arm_L
+  rotate: false
+  xy: 2, 6
+  size: 147, 122
+  orig: 147, 122
+  offset: 0, 0
+  index: -1
+1_arm_R
+  rotate: false
+  xy: 151, 6
+  size: 147, 122
+  orig: 147, 122
+  offset: 0, 0
+  index: -1
+1_body
+  rotate: false
+  xy: 1584, 370
+  size: 186, 209
+  orig: 186, 209
+  offset: 0, 0
+  index: -1
+1_eyeglass
+  rotate: false
+  xy: 1155, 2
+  size: 93, 14
+  orig: 95, 16
+  offset: 1, 1
+  index: -1
+1_hair
+  rotate: true
+  xy: 1584, 208
+  size: 160, 153
+  orig: 162, 156
+  offset: 1, 2
+  index: -1
+1_hair2
+  rotate: false
+  xy: 1555, 24
+  size: 102, 63
+  orig: 102, 63
+  offset: 0, 0
+  index: -1
+1_hand_L
+  rotate: true
+  xy: 1698, 147
+  size: 59, 58
+  orig: 61, 60
+  offset: 1, 1
+  index: -1
+1_hand_R
+  rotate: false
+  xy: 1659, 36
+  size: 59, 59
+  orig: 61, 61
+  offset: 1, 1
+  index: -1
+1_head
+  rotate: true
+  xy: 1584, 97
+  size: 109, 112
+  orig: 111, 114
+  offset: 1, 1
+  index: -1
+1_leg
+  rotate: false
+  xy: 679, 2
+  size: 474, 234
+  orig: 474, 234
+  offset: 0, 0
+  index: -1
+2_ eyeglass
+  rotate: true
+  xy: 1344, 167
+  size: 69, 11
+  orig: 71, 13
+  offset: 1, 1
+  index: -1
+2_arm_L
+  rotate: false
+  xy: 300, 8
+  size: 123, 120
+  orig: 123, 120
+  offset: 0, 0
+  index: -1
+2_arm_R
+  rotate: false
+  xy: 425, 8
+  size: 123, 120
+  orig: 123, 120
+  offset: 0, 0
+  index: -1
+2_body
+  rotate: false
+  xy: 1155, 18
+  size: 187, 218
+  orig: 187, 218
+  offset: 0, 0
+  index: -1
+2_eye_1
+  rotate: true
+  xy: 1344, 66
+  size: 47, 7
+  orig: 49, 9
+  offset: 1, 1
+  index: -1
+2_eye_2
+  rotate: true
+  xy: 1344, 115
+  size: 50, 7
+  orig: 52, 9
+  offset: 1, 1
+  index: -1
+2_hair_1
+  rotate: false
+  xy: 1453, 16
+  size: 100, 71
+  orig: 102, 73
+  offset: 1, 1
+  index: -1
+2_hair_2
+  rotate: false
+  xy: 550, 16
+  size: 108, 112
+  orig: 110, 114
+  offset: 1, 1
+  index: -1
+2_hand_L
+  rotate: true
+  xy: 1720, 89
+  size: 56, 55
+  orig: 58, 57
+  offset: 1, 1
+  index: -1
+2_hand_R
+  rotate: true
+  xy: 1720, 31
+  size: 56, 55
+  orig: 59, 57
+  offset: 1, 1
+  index: -1
+2_head
+  rotate: true
+  xy: 1353, 6
+  size: 81, 98
+  orig: 84, 100
+  offset: 2, 1
+  index: -1
+2_leg
+  rotate: true
+  xy: 1359, 89
+  size: 490, 223
+  orig: 490, 223
+  offset: 0, 0
+  index: -1
+2_mouth
+  rotate: true
+  xy: 1344, 39
+  size: 25, 7
+  orig: 27, 9
+  offset: 1, 1
+  index: -1
+3_nv_1
+  rotate: true
+  xy: 2, 232
+  size: 347, 675
+  orig: 347, 675
+  offset: 0, 0
+  index: -1
+3_nv_2
+  rotate: true
+  xy: 679, 238
+  size: 341, 678
+  orig: 341, 678
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 130
+  size: 599, 100
+  orig: 601, 102
+  offset: 1, 1
+  index: -1

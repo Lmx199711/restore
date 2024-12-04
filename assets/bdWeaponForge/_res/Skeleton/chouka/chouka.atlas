@@ -1,0 +1,27 @@
+
+chouka.png
+size: 442,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 373, 78
+  size: 168, 67
+  orig: 173, 69
+  offset: 2, 1
+  index: -1
+b
+  rotate: false
+  xy: 248, 9
+  size: 123, 237
+  orig: 125, 239
+  offset: 1, 1
+  index: -1
+c
+  rotate: false
+  xy: 2, 2
+  size: 244, 244
+  orig: 270, 270
+  offset: 13, 13
+  index: -1

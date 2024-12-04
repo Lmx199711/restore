@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d534f546-17fa-42cd-81c3-5645ebaefe6d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 292,
+  "height": 109,
+  "platformSettings": {},
+  "subMetas": {
+    "上缴私房钱": {
+      "ver": "1.0.6",
+      "uuid": "8ed32cec-d4ea-4fe9-a46f-b063edc769a0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d534f546-17fa-42cd-81c3-5645ebaefe6d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 292,
+      "height": 109,
+      "rawWidth": 292,
+      "rawHeight": 109,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

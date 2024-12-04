@@ -1,0 +1,153 @@
+
+yanwu.png
+size: 1924,1412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_00000
+  rotate: true
+  xy: 147, 55
+  size: 34, 32
+  orig: 600, 600
+  offset: 266, 266
+  index: -1
+001_00001
+  rotate: true
+  xy: 147, 91
+  size: 99, 77
+  orig: 600, 600
+  offset: 234, 244
+  index: -1
+001_00002
+  rotate: true
+  xy: 2, 17
+  size: 173, 143
+  orig: 600, 600
+  offset: 186, 214
+  index: -1
+001_00003
+  rotate: false
+  xy: 786, 6
+  size: 219, 198
+  orig: 600, 600
+  offset: 169, 181
+  index: -1
+001_00004
+  rotate: true
+  xy: 1171, 2
+  size: 284, 268
+  orig: 600, 600
+  offset: 140, 148
+  index: -1
+001_00005
+  rotate: false
+  xy: 1517, 5
+  size: 313, 297
+  orig: 600, 600
+  offset: 129, 134
+  index: -1
+001_00006
+  rotate: false
+  xy: 1171, 288
+  size: 344, 329
+  orig: 600, 600
+  offset: 117, 123
+  index: -1
+001_00007
+  rotate: false
+  xy: 1541, 304
+  size: 358, 346
+  orig: 600, 600
+  offset: 111, 115
+  index: -1
+001_00008
+  rotate: true
+  xy: 1553, 1035
+  size: 375, 363
+  orig: 600, 600
+  offset: 105, 105
+  index: -1
+001_00009
+  rotate: false
+  xy: 1541, 652
+  size: 381, 368
+  orig: 600, 600
+  offset: 102, 103
+  index: -1
+001_00010
+  rotate: true
+  xy: 1175, 1022
+  size: 388, 376
+  orig: 600, 600
+  offset: 98, 99
+  index: -1
+001_00011
+  rotate: true
+  xy: 1160, 619
+  size: 392, 379
+  orig: 600, 600
+  offset: 96, 97
+  index: -1
+001_00012
+  rotate: true
+  xy: 786, 206
+  size: 393, 383
+  orig: 600, 600
+  offset: 95, 96
+  index: -1
+001_00013
+  rotate: true
+  xy: 787, 1013
+  size: 397, 386
+  orig: 600, 600
+  offset: 94, 94
+  index: -1
+001_00014
+  rotate: true
+  xy: 398, 1009
+  size: 401, 387
+  orig: 600, 600
+  offset: 92, 94
+  index: -1
+001_00015
+  rotate: true
+  xy: 396, 601
+  size: 402, 390
+  orig: 600, 600
+  offset: 91, 93
+  index: -1
+001_00016
+  rotate: true
+  xy: 2, 600
+  size: 403, 392
+  orig: 600, 600
+  offset: 90, 92
+  index: -1
+001_00017
+  rotate: true
+  xy: 393, 195
+  size: 403, 391
+  orig: 600, 600
+  offset: 90, 93
+  index: -1
+001_00018
+  rotate: true
+  xy: 2, 1005
+  size: 405, 394
+  orig: 600, 600
+  offset: 88, 91
+  index: -1
+001_00019
+  rotate: true
+  xy: 2, 192
+  size: 406, 389
+  orig: 600, 600
+  offset: 88, 91
+  index: -1
+001_00020
+  rotate: true
+  xy: 788, 605
+  size: 406, 370
+  orig: 600, 600
+  offset: 88, 101
+  index: -1

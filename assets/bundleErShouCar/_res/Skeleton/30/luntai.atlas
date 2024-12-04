@@ -1,0 +1,132 @@
+
+luntai.png
+size: 1403,1088
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00000
+  rotate: true
+  xy: 856, 882
+  size: 204, 341
+  orig: 206, 343
+  offset: 1, 1
+  index: -1
+01_00001
+  rotate: false
+  xy: 585, 465
+  size: 203, 342
+  orig: 205, 344
+  offset: 1, 1
+  index: -1
+01_00002
+  rotate: true
+  xy: 2, 12
+  size: 203, 341
+  orig: 205, 343
+  offset: 1, 1
+  index: -1
+01_00003
+  rotate: false
+  xy: 1199, 746
+  size: 202, 340
+  orig: 204, 342
+  offset: 1, 1
+  index: -1
+01_00004
+  rotate: true
+  xy: 856, 693
+  size: 187, 341
+  orig: 189, 343
+  offset: 1, 1
+  index: -1
+01_00005
+  rotate: false
+  xy: 1210, 403
+  size: 186, 341
+  orig: 188, 343
+  offset: 1, 1
+  index: -1
+01_00006
+  rotate: true
+  xy: 874, 103
+  size: 190, 337
+  orig: 192, 339
+  offset: 1, 1
+  index: -1
+01_00007
+  rotate: true
+  xy: 535, 69
+  size: 194, 337
+  orig: 196, 339
+  offset: 1, 1
+  index: -1
+01_00008
+  rotate: true
+  xy: 531, 265
+  size: 198, 338
+  orig: 200, 340
+  offset: 1, 1
+  index: -1
+01_00009
+  rotate: true
+  xy: 871, 295
+  size: 197, 337
+  orig: 199, 339
+  offset: 1, 1
+  index: -1
+01_00010
+  rotate: true
+  xy: 790, 494
+  size: 197, 340
+  orig: 199, 342
+  offset: 1, 1
+  index: -1
+06
+  rotate: true
+  xy: 345, 16
+  size: 208, 188
+  orig: 240, 231
+  offset: 14, 24
+  index: -1
+a
+  rotate: false
+  xy: 273, 226
+  size: 256, 268
+  orig: 258, 270
+  offset: 1, 1
+  index: -1
+aaa
+  rotate: false
+  xy: 2, 217
+  size: 269, 277
+  orig: 269, 277
+  offset: 0, 0
+  index: -1
+b
+  rotate: true
+  xy: 535, 2
+  size: 65, 370
+  orig: 69, 376
+  offset: 2, 3
+  index: -1
+s
+  rotate: false
+  xy: 585, 809
+  size: 269, 277
+  orig: 271, 279
+  offset: 1, 1
+  index: -1
+ss
+  rotate: true
+  xy: 1213, 68
+  size: 333, 131
+  orig: 334, 131
+  offset: 1, 0
+  index: -1
+sss
+  rotate: false
+  xy: 2, 496
+  size: 581, 590
+  orig: 658, 658
+  offset: 39, 3
+  index: -1

@@ -1,0 +1,139 @@
+
+fadongji.png
+size: 1554,554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00000
+  rotate: true
+  xy: 2, 4
+  size: 204, 341
+  orig: 206, 343
+  offset: 1, 1
+  index: -1
+01_00001
+  rotate: false
+  xy: 2, 210
+  size: 203, 342
+  orig: 205, 344
+  offset: 1, 1
+  index: -1
+01_00002
+  rotate: false
+  xy: 207, 211
+  size: 203, 341
+  orig: 205, 343
+  offset: 1, 1
+  index: -1
+01_00003
+  rotate: true
+  xy: 345, 7
+  size: 202, 340
+  orig: 204, 342
+  offset: 1, 1
+  index: -1
+01_00004
+  rotate: false
+  xy: 412, 211
+  size: 187, 341
+  orig: 189, 343
+  offset: 1, 1
+  index: -1
+01_00005
+  rotate: false
+  xy: 601, 211
+  size: 186, 341
+  orig: 188, 343
+  offset: 1, 1
+  index: -1
+01_00006
+  rotate: false
+  xy: 1187, 215
+  size: 190, 337
+  orig: 192, 339
+  offset: 1, 1
+  index: -1
+01_00007
+  rotate: true
+  xy: 1027, 19
+  size: 194, 337
+  orig: 196, 339
+  offset: 1, 1
+  index: -1
+01_00008
+  rotate: true
+  xy: 687, 11
+  size: 198, 338
+  orig: 200, 340
+  offset: 1, 1
+  index: -1
+01_00009
+  rotate: false
+  xy: 988, 215
+  size: 197, 337
+  orig: 199, 339
+  offset: 1, 1
+  index: -1
+01_00010
+  rotate: false
+  xy: 789, 212
+  size: 197, 340
+  orig: 199, 342
+  offset: 1, 1
+  index: -1
+a
+  rotate: false
+  xy: 1366, 44
+  size: 186, 169
+  orig: 188, 171
+  offset: 1, 1
+  index: -1
+b
+  rotate: true
+  xy: 1379, 226
+  size: 138, 48
+  orig: 138, 48
+  offset: 0, 0
+  index: -1
+c
+  rotate: true
+  xy: 1366, 11
+  size: 31, 30
+  orig: 33, 32
+  offset: 1, 1
+  index: -1
+d_1
+  rotate: true
+  xy: 1429, 321
+  size: 43, 44
+  orig: 45, 46
+  offset: 1, 1
+  index: -1
+d_2
+  rotate: true
+  xy: 687, 2
+  size: 7, 6
+  orig: 9, 8
+  offset: 1, 1
+  index: -1
+e
+  rotate: true
+  xy: 1420, 22
+  size: 20, 19
+  orig: 22, 21
+  offset: 1, 1
+  index: -1
+f
+  rotate: true
+  xy: 1398, 21
+  size: 21, 20
+  orig: 23, 22
+  offset: 1, 1
+  index: -1
+g
+  rotate: true
+  xy: 1379, 366
+  size: 186, 169
+  orig: 188, 171
+  offset: 1, 1
+  index: -1

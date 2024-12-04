@@ -1,0 +1,104 @@
+
+jinmao.png
+size: 1888,1156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/01
+  rotate: false
+  xy: 539, 28
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+images/02
+  rotate: false
+  xy: 505, 27
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+images/03
+  rotate: false
+  xy: 457, 13
+  size: 46, 35
+  orig: 48, 35
+  offset: 1, 0
+  index: -1
+images/04
+  rotate: true
+  xy: 383, 2
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1
+images/05
+  rotate: false
+  xy: 1143, 590
+  size: 91, 66
+  orig: 91, 66
+  offset: 0, 0
+  index: -1
+images/06
+  rotate: true
+  xy: 1143, 658
+  size: 108, 76
+  orig: 108, 76
+  offset: 0, 0
+  index: -1
+images/bg0
+  rotate: true
+  xy: 1143, 25
+  size: 385, 739
+  orig: 385, 739
+  offset: 0, 0
+  index: -1
+images/bg1
+  rotate: true
+  xy: 1143, 25
+  size: 385, 739
+  orig: 385, 739
+  offset: 0, 0
+  index: -1
+images/bg10
+  rotate: false
+  xy: 383, 50
+  size: 359, 706
+  orig: 359, 708
+  offset: 0, 1
+  index: -1
+images/bg2
+  rotate: false
+  xy: 2, 17
+  size: 379, 739
+  orig: 379, 739
+  offset: 0, 0
+  index: -1
+images/bg4
+  rotate: true
+  xy: 747, 768
+  size: 386, 743
+  orig: 386, 743
+  offset: 0, 0
+  index: -1
+images/bg5
+  rotate: false
+  xy: 1492, 412
+  size: 394, 742
+  orig: 394, 742
+  offset: 0, 0
+  index: -1
+images/bg8
+  rotate: true
+  xy: 2, 758
+  size: 396, 743
+  orig: 396, 745
+  offset: 0, 1
+  index: -1
+images/bg9
+  rotate: false
+  xy: 747, 24
+  size: 394, 742
+  orig: 394, 742
+  offset: 0, 0
+  index: -1

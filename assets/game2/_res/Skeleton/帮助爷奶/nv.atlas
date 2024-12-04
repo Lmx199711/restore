@@ -1,0 +1,62 @@
+
+nv.png
+size: 207,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 112, 514
+  size: 73, 122
+  orig: 73, 122
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 2, 25
+  size: 87, 115
+  orig: 87, 117
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 638
+  size: 203, 404
+  orig: 203, 428
+  offset: 0, 24
+  index: -1
+elbow_L
+  rotate: true
+  xy: 2, 510
+  size: 126, 108
+  orig: 126, 108
+  offset: 0, 0
+  index: -1
+elbow_R
+  rotate: false
+  xy: 119, 2
+  size: 67, 114
+  orig: 67, 114
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 2, 114
+  size: 72, 394
+  orig: 72, 394
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 76, 118
+  size: 74, 390
+  orig: 78, 393
+  offset: 0, 3
+  index: -1
+yy
+  rotate: true
+  xy: 152, 318
+  size: 194, 50
+  orig: 196, 52
+  offset: 1, 1
+  index: -1

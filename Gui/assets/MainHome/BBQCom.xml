@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,500">
+  <displayList>
+    <image id="n0_vjv2" name="n0" src="ve8j5" fileName="Image/MainHome_atlas_hqwm104z.jpg" xy="1,42" size="750,653">
+      <relation target="" sidePair="width-width,height-height,bottom-bottom"/>
+    </image>
+    <loader3D id="n3_vjv2" name="animTanhuo" xy="351,4" size="267,239" url="ui://mlmgnhfvvjv2x" animation="" skin="" loop="true"/>
+    <loader3D id="n9_vjv2" name="hearthstone" xy="422,127" size="100,100" url="ui://mlmgnhfvvjv21a" animation="" skin="" loop="true"/>
+    <loader3D id="n10_vjv2" name="animBrush" xy="425,123" size="100,100" url="ui://mlmgnhfvvjv21a" animation="" skin="" loop="true"/>
+    <loader id="n11_vjv2" name="kao1" xy="336,124" size="50,50" group="n26_vjv2"/>
+    <loader id="n12_vjv2" name="kao2" xy="410,125" size="57,50" group="n26_vjv2"/>
+    <loader id="n13_vjv2" name="kao3" xy="487,127" size="53,50" group="n26_vjv2"/>
+    <loader id="n14_vjv2" name="kao4" xy="563,126" size="52,50" group="n26_vjv2"/>
+    <loader id="n15_vjv2" name="kao5" xy="634,124" size="52,50" group="n26_vjv2"/>
+    <group id="n26_vjv2" name="foodGroup" xy="336,124" size="350,53"/>
+    <image id="n2_vjv2" name="n2" src="vjv2v" fileName="Image/MainHome_BBQCom_Pan.png" xy="74,88" size="216,132" group="n23_vjv2"/>
+    <loader id="n17_vjv2" name="shu1" xy="51,129" size="46,50" group="n23_vjv2"/>
+    <loader id="n18_vjv2" name="shu2" xy="106,129" size="46,50" group="n23_vjv2"/>
+    <loader id="n19_vjv2" name="shu3" xy="160,129" size="46,50" group="n23_vjv2"/>
+    <loader id="n20_vjv2" name="shu4" xy="216,128" size="44,50" group="n23_vjv2"/>
+    <loader id="n21_vjv2" name="shu5" xy="270,130" size="37,50" group="n23_vjv2"/>
+    <group id="n23_vjv2" name="foodGroup2" xy="51,88" size="256,132"/>
+    <loader id="n25_vjv2" name="foot" xy="557,64" size="135,50"/>
+  </displayList>
+</component>

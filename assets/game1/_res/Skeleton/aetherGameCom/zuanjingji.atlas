@@ -1,0 +1,83 @@
+
+zuanjingji.png
+size: 567,1075
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_000
+  rotate: false
+  xy: 195, 5
+  size: 187, 301
+  orig: 205, 409
+  offset: 6, 10
+  index: -1
+01_001
+  rotate: false
+  xy: 2, 2
+  size: 191, 304
+  orig: 205, 409
+  offset: 5, 31
+  index: -1
+01_002
+  rotate: false
+  xy: 333, 494
+  size: 195, 321
+  orig: 205, 409
+  offset: 4, 41
+  index: -1
+01_003
+  rotate: true
+  xy: 2, 690
+  size: 193, 329
+  orig: 205, 409
+  offset: 2, 40
+  index: -1
+01_004
+  rotate: true
+  xy: 2, 885
+  size: 188, 345
+  orig: 205, 409
+  offset: 6, 39
+  index: -1
+01_005
+  rotate: true
+  xy: 2, 497
+  size: 191, 321
+  orig: 205, 409
+  offset: 8, 68
+  index: -1
+01_006
+  rotate: true
+  xy: 2, 308
+  size: 187, 310
+  orig: 205, 409
+  offset: 11, 86
+  index: -1
+01_007
+  rotate: false
+  xy: 384, 54
+  size: 181, 265
+  orig: 205, 409
+  offset: 20, 123
+  index: -1
+01_008
+  rotate: true
+  xy: 314, 321
+  size: 171, 246
+  orig: 205, 409
+  offset: 25, 140
+  index: -1
+a
+  rotate: false
+  xy: 530, 696
+  size: 29, 119
+  orig: 29, 119
+  offset: 0, 0
+  index: -1
+b
+  rotate: true
+  xy: 349, 817
+  size: 256, 206
+  orig: 256, 206
+  offset: 0, 0
+  index: -1

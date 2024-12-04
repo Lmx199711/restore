@@ -1,0 +1,41 @@
+
+paiqiguan.png
+size: 1109,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_000
+  rotate: false
+  xy: 2, 2
+  size: 256, 1024
+  orig: 256, 1024
+  offset: 0, 0
+  index: -1
+01_001
+  rotate: false
+  xy: 260, 2
+  size: 256, 1024
+  orig: 256, 1024
+  offset: 0, 0
+  index: -1
+01_002
+  rotate: false
+  xy: 518, 2
+  size: 256, 1024
+  orig: 256, 1024
+  offset: 0, 0
+  index: -1
+01_003
+  rotate: false
+  xy: 776, 2
+  size: 256, 1024
+  orig: 256, 1024
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 1034, 627
+  size: 73, 399
+  orig: 73, 399
+  offset: 0, 0
+  index: -1

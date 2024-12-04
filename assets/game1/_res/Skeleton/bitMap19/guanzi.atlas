@@ -1,0 +1,97 @@
+
+guanzi.png
+size: 238,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 107
+  size: 124, 149
+  orig: 124, 149
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 183, 125
+  size: 64, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 137, 2
+  size: 48, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 128, 195
+  size: 68, 61
+  orig: 70, 61
+  offset: 1, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 37
+  size: 81, 68
+  orig: 83, 70
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 181, 55
+  size: 65, 55
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 198, 191
+  size: 65, 28
+  orig: 67, 28
+  offset: 1, 0
+  index: -1
+4
+  rotate: true
+  xy: 137, 52
+  size: 68, 42
+  orig: 70, 42
+  offset: 1, 0
+  index: -1
+5
+  rotate: true
+  xy: 117, 8
+  size: 97, 18
+  orig: 100, 19
+  offset: 1, 0
+  index: -1
+6
+  rotate: true
+  xy: 128, 122
+  size: 71, 53
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 85, 12
+  size: 93, 30
+  orig: 96, 31
+  offset: 1, 1
+  index: -1
+8
+  rotate: true
+  xy: 181, 17
+  size: 36, 55
+  orig: 38, 57
+  offset: 1, 1
+  index: -1
+9
+  rotate: false
+  xy: 2, 3
+  size: 81, 32
+  orig: 82, 33
+  offset: 0, 1
+  index: -1

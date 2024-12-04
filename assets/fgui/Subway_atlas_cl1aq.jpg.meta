@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d82d45a2-4a07-41a3-886d-3c7dca517e8a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 501,
+  "height": 834,
+  "platformSettings": {},
+  "subMetas": {
+    "Subway_atlas_cl1aq": {
+      "ver": "1.0.6",
+      "uuid": "16a1b6de-5033-4dec-803a-b2ef53b4b3a1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d82d45a2-4a07-41a3-886d-3c7dca517e8a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 501,
+      "height": 834,
+      "rawWidth": 501,
+      "rawHeight": 834,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

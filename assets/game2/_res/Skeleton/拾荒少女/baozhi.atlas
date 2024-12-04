@@ -1,0 +1,34 @@
+
+baozhi.png
+size: 1085,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao1
+  rotate: false
+  xy: 2, 2
+  size: 296, 282
+  orig: 296, 282
+  offset: 0, 0
+  index: -1
+bao2
+  rotate: false
+  xy: 836, 28
+  size: 247, 256
+  orig: 247, 256
+  offset: 0, 0
+  index: -1
+bao3
+  rotate: false
+  xy: 300, 5
+  size: 286, 279
+  orig: 286, 279
+  offset: 0, 0
+  index: -1
+bao4
+  rotate: false
+  xy: 588, 18
+  size: 246, 266
+  orig: 246, 266
+  offset: 0, 0
+  index: -1

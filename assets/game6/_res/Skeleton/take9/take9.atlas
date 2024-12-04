@@ -1,0 +1,13 @@
+
+take9.png
+size: 235,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sz2
+  rotate: false
+  xy: 2, 2
+  size: 231, 232
+  orig: 231, 232
+  offset: 0, 0
+  index: -1

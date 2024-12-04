@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "97edd905-39b7-4236-9e67-997030ff20d5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 84,
+  "height": 33,
+  "platformSettings": {},
+  "subMetas": {
+    "二重龙门 拷贝": {
+      "ver": "1.0.6",
+      "uuid": "288461e9-013a-49e0-8374-76df5406e427",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "97edd905-39b7-4236-9e67-997030ff20d5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 84,
+      "height": 33,
+      "rawWidth": 84,
+      "rawHeight": 33,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

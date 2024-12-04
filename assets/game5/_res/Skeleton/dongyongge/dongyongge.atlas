@@ -1,0 +1,55 @@
+
+dongyongge.png
+size: 1023,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 2, 14
+  size: 259, 452
+  orig: 259, 452
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 803, 7
+  size: 130, 123
+  orig: 130, 123
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 456, 2
+  size: 125, 72
+  orig: 125, 72
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 928, 7
+  size: 93, 130
+  orig: 95, 132
+  offset: 1, 1
+  index: -1
+05
+  rotate: true
+  xy: 803, 139
+  size: 134, 165
+  orig: 134, 165
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 456, 76
+  size: 197, 345
+  orig: 197, 345
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 583, 19
+  size: 55, 139
+  orig: 55, 139
+  offset: 0, 0
+  index: -1

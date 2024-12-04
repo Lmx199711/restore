@@ -1,0 +1,153 @@
+
+liyoutian.png
+size: 595,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2321
+  rotate: false
+  xy: 447, 97
+  size: 146, 43
+  orig: 148, 45
+  offset: 1, 1
+  index: -1
+a
+  rotate: false
+  xy: 549, 44
+  size: 19, 25
+  orig: 28, 28
+  offset: 4, 0
+  index: -1
+arm_R_2
+  rotate: false
+  xy: 341, 36
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 402, 9
+  size: 18, 25
+  orig: 28, 28
+  offset: 4, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 174, 14
+  size: 126, 165
+  orig: 126, 165
+  offset: 0, 0
+  index: -1
+c
+  rotate: true
+  xy: 471, 4
+  size: 17, 25
+  orig: 28, 28
+  offset: 5, 1
+  index: -1
+d
+  rotate: false
+  xy: 570, 44
+  size: 18, 25
+  orig: 28, 28
+  offset: 5, 1
+  index: -1
+e
+  rotate: true
+  xy: 549, 25
+  size: 17, 26
+  orig: 28, 28
+  offset: 6, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 498, 7
+  size: 18, 14
+  orig: 20, 16
+  offset: 1, 1
+  index: -1
+eye_R
+  rotate: false
+  xy: 443, 6
+  size: 26, 15
+  orig: 28, 17
+  offset: 1, 1
+  index: -1
+eyebow_L_1
+  rotate: false
+  xy: 518, 8
+  size: 18, 13
+  orig: 20, 15
+  offset: 1, 1
+  index: -1
+eyebow_L_2
+  rotate: false
+  xy: 174, 2
+  size: 15, 10
+  orig: 17, 12
+  offset: 1, 1
+  index: -1
+eyebow_R_1
+  rotate: false
+  xy: 549, 71
+  size: 41, 24
+  orig: 43, 26
+  offset: 1, 1
+  index: -1
+eyebow_R_2
+  rotate: true
+  xy: 385, 2
+  size: 32, 15
+  orig: 34, 17
+  offset: 1, 1
+  index: -1
+f
+  rotate: false
+  xy: 549, 2
+  size: 17, 21
+  orig: 28, 28
+  offset: 5, 0
+  index: -1
+h
+  rotate: false
+  xy: 422, 10
+  size: 19, 24
+  orig: 28, 28
+  offset: 4, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 2, 3
+  size: 137, 170
+  orig: 137, 170
+  offset: 0, 0
+  index: -1
+leg_L_2
+  rotate: true
+  xy: 447, 23
+  size: 72, 100
+  orig: 72, 100
+  offset: 0, 0
+  index: -1
+leg_R_2
+  rotate: true
+  xy: 447, 23
+  size: 72, 100
+  orig: 72, 100
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 341, 2
+  size: 36, 11
+  orig: 39, 13
+  offset: 2, 1
+  index: -1
+mouth_2
+  rotate: false
+  xy: 341, 15
+  size: 42, 19
+  orig: 44, 21
+  offset: 1, 1
+  index: -1

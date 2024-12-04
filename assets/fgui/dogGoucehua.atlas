@@ -1,0 +1,118 @@
+
+dogGoucehua.png
+size: 2017,555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_body
+  rotate: true
+  xy: 640, 151
+  size: 402, 371
+  orig: 402, 371
+  offset: 0, 0
+  index: -1
+1_head
+  rotate: true
+  xy: 1729, 8
+  size: 221, 254
+  orig: 221, 254
+  offset: 0, 0
+  index: -1
+1_leg_L_1
+  rotate: true
+  xy: 882, 42
+  size: 107, 249
+  orig: 107, 249
+  offset: 0, 0
+  index: -1
+1_leg_L_2
+  rotate: true
+  xy: 1400, 90
+  size: 105, 239
+  orig: 105, 239
+  offset: 0, 0
+  index: -1
+1_leg_R_1
+  rotate: true
+  xy: 1133, 12
+  size: 150, 265
+  orig: 150, 265
+  offset: 0, 0
+  index: -1
+1_leg_R_2
+  rotate: true
+  xy: 640, 35
+  size: 114, 240
+  orig: 114, 240
+  offset: 0, 0
+  index: -1
+1_pai
+  rotate: false
+  xy: 1633, 7
+  size: 94, 81
+  orig: 101, 87
+  offset: 6, 4
+  index: -1
+1_tail
+  rotate: false
+  xy: 1816, 348
+  size: 199, 205
+  orig: 199, 205
+  offset: 0, 0
+  index: -1
+2_body
+  rotate: false
+  xy: 1588, 231
+  size: 226, 322
+  orig: 226, 322
+  offset: 0, 0
+  index: -1
+2_pai
+  rotate: false
+  xy: 1816, 236
+  size: 104, 110
+  orig: 110, 114
+  offset: 4, 2
+  index: -1
+3_body
+  rotate: false
+  xy: 2, 23
+  size: 324, 530
+  orig: 324, 530
+  offset: 0, 0
+  index: -1
+3_pai
+  rotate: true
+  xy: 1641, 135
+  size: 94, 81
+  orig: 101, 87
+  offset: 6, 4
+  index: -1
+wangzi
+  rotate: false
+  xy: 1313, 197
+  size: 273, 356
+  orig: 273, 356
+  offset: 0, 0
+  index: -1
+wanzi_2
+  rotate: false
+  xy: 1013, 164
+  size: 298, 389
+  orig: 298, 389
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 1400, 4
+  size: 231, 84
+  orig: 233, 86
+  offset: 1, 1
+  index: -1
+zuipian
+  rotate: true
+  xy: 328, 2
+  size: 551, 310
+  orig: 551, 310
+  offset: 0, 0
+  index: -1

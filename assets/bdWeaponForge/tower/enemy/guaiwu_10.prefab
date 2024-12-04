@@ -1,0 +1,54 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "guaiwu_10",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "shixianggui",
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 3
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 669.9991455078125,
+      "height": 654.0004272460938
+    },
+    "_id": "a3464820-ef95-4bfd-87bb-aed2a8e6a32f"
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "daiji",
+    "_preCacheMode": 0,
+    "_animationName": "daiji",
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "ca0b99e8-5201-48c0-b503-d896392a0489"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

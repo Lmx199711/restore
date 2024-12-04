@@ -1,0 +1,55 @@
+
+gou.png
+size: 178,583
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 2, 182
+  size: 161, 140
+  orig: 161, 140
+  offset: 0, 0
+  index: -1
+10_1
+  rotate: false
+  xy: 2, 324
+  size: 161, 129
+  orig: 161, 129
+  offset: 0, 0
+  index: -1
+10_2
+  rotate: false
+  xy: 2, 533
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+10_3
+  rotate: false
+  xy: 62, 533
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+10_4
+  rotate: true
+  xy: 66, 455
+  size: 76, 96
+  orig: 76, 96
+  offset: 0, 0
+  index: -1
+10_5
+  rotate: true
+  xy: 2, 472
+  size: 59, 62
+  orig: 61, 69
+  offset: 1, 6
+  index: -1
+11
+  rotate: true
+  xy: 2, 2
+  size: 178, 174
+  orig: 178, 174
+  offset: 0, 0
+  index: -1

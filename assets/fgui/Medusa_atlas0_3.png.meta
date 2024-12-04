@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "06cb47d4-54ba-401c-bb12-b1f0e481f510",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1824,
+  "height": 1800,
+  "platformSettings": {},
+  "subMetas": {
+    "Medusa_atlas0_3": {
+      "ver": "1.0.6",
+      "uuid": "b3caaaf8-e938-4c24-a9fe-5a0446e439b2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "06cb47d4-54ba-401c-bb12-b1f0e481f510",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1820,
+      "height": 1799,
+      "rawWidth": 1824,
+      "rawHeight": 1800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

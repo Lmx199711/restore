@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1cd22943-3ab3-42a8-ad89-1b01d8cc38bc",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 329,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "FlirtingGirl_atlas_w3wo1d": {
+      "ver": "1.0.6",
+      "uuid": "60a93329-ec4c-4122-8bcf-9eaeb83e493f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1cd22943-3ab3-42a8-ad89-1b01d8cc38bc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 329,
+      "height": 300,
+      "rawWidth": 329,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

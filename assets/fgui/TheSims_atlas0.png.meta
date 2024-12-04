@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1dd31163-f180-4a2d-8c57-a78636286ca9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 924,
+  "height": 620,
+  "platformSettings": {},
+  "subMetas": {
+    "TheSims_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "1eed231a-6af6-4386-b563-45cd14cce4fd",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1dd31163-f180-4a2d-8c57-a78636286ca9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 922,
+      "height": 617,
+      "rawWidth": 924,
+      "rawHeight": 620,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

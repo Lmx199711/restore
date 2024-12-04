@@ -1,0 +1,48 @@
+
+zhujue_move.png
+size: 1837,402
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 1477, 2
+  size: 127, 357
+  orig: 127, 357
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 872, 5
+  size: 123, 603
+  orig: 123, 603
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 874, 130
+  size: 270, 571
+  orig: 270, 571
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 1447, 131
+  size: 269, 388
+  orig: 269, 388
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 2, 207
+  size: 193, 870
+  orig: 193, 870
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 2, 25
+  size: 180, 868
+  orig: 180, 868
+  offset: 0, 0
+  index: -1

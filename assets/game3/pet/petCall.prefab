@@ -1,0 +1,56 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "petCall",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "petCall",
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 3
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1002.6226806640625,
+      "height": 1665.594482421875
+    },
+    "_id": "9a3cb227-516a-43ca-8f32-ddc8f94c9262"
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "_preCacheMode": 0,
+    "loop": false,
+    "premultipliedAlpha": false,
+    "_animationName": "guang",
+    "_playTimes": 1,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "e0c553f1-6071-4208-a715-056ee7f4bdce"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

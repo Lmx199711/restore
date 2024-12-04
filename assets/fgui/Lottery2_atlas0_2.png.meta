@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e9ec1ad4-d813-40fe-9f61-d3985d55c21d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1688,
+  "height": 1672,
+  "platformSettings": {},
+  "subMetas": {
+    "Lottery2_atlas0_2": {
+      "ver": "1.0.6",
+      "uuid": "7fa9b7b6-dee5-4ea9-9254-0e6d47ea41c6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e9ec1ad4-d813-40fe-9f61-d3985d55c21d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 2,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1684,
+      "height": 1668,
+      "rawWidth": 1688,
+      "rawHeight": 1672,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

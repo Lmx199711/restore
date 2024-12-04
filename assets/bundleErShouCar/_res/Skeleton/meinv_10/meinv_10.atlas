@@ -1,0 +1,34 @@
+
+meinv_10.png
+size: 599,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 207, 549
+  orig: 207, 549
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 553, 123
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+eyebow
+  rotate: true
+  xy: 553, 85
+  size: 36, 8
+  orig: 37, 8
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 553, 159
+  size: 50, 44
+  orig: 51, 45
+  offset: 1, 1
+  index: -1

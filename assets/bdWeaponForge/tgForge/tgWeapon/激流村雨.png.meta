@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "31bf2e8c-281d-4e55-96ef-c453cb88992d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 88,
+  "height": 513,
+  "platformSettings": {},
+  "subMetas": {
+    "激流村雨": {
+      "ver": "1.0.6",
+      "uuid": "8ff0a340-36f1-4b60-9875-9d0051cfdeb3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "31bf2e8c-281d-4e55-96ef-c453cb88992d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 88,
+      "height": 513,
+      "rawWidth": 88,
+      "rawHeight": 513,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

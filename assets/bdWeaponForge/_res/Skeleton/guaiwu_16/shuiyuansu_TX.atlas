@@ -1,0 +1,146 @@
+
+shuiyuansu_TX.png
+size: 2012,1608
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0001_00000
+  rotate: false
+  xy: 2, 1208
+  size: 399, 398
+  orig: 400, 400
+  offset: 1, 1
+  index: -1
+0001_00001
+  rotate: true
+  xy: 403, 1207
+  size: 399, 400
+  orig: 400, 400
+  offset: 1, 0
+  index: -1
+0001_00002
+  rotate: true
+  xy: 805, 1207
+  size: 399, 400
+  orig: 400, 400
+  offset: 1, 0
+  index: -1
+0001_00003
+  rotate: false
+  xy: 403, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+0001_00004
+  rotate: false
+  xy: 805, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+0001_00005
+  rotate: false
+  xy: 1207, 1207
+  size: 399, 399
+  orig: 400, 400
+  offset: 1, 0
+  index: -1
+0001_00006
+  rotate: true
+  xy: 1608, 1207
+  size: 399, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+0001_00007
+  rotate: false
+  xy: 1207, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+0001_00008
+  rotate: false
+  xy: 1609, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+0001_00009
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+0001_00010
+  rotate: false
+  xy: 404, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+0001_00011
+  rotate: false
+  xy: 806, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+0001_00012
+  rotate: false
+  xy: 403, 806
+  size: 400, 399
+  orig: 400, 400
+  offset: 0, 1
+  index: -1
+0001_00013
+  rotate: true
+  xy: 805, 806
+  size: 399, 400
+  orig: 400, 400
+  offset: 1, 0
+  index: -1
+0001_00014
+  rotate: true
+  xy: 1207, 806
+  size: 399, 400
+  orig: 400, 400
+  offset: 1, 0
+  index: -1
+0001_00015
+  rotate: false
+  xy: 1208, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+0001_00016
+  rotate: false
+  xy: 1610, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+0001_00017
+  rotate: false
+  xy: 2, 807
+  size: 399, 399
+  orig: 400, 400
+  offset: 1, 0
+  index: -1
+0001_00018
+  rotate: true
+  xy: 1609, 806
+  size: 399, 400
+  orig: 400, 400
+  offset: 1, 0
+  index: -1
+0001_00019
+  rotate: false
+  xy: 2, 406
+  size: 399, 399
+  orig: 400, 400
+  offset: 1, 0
+  index: -1

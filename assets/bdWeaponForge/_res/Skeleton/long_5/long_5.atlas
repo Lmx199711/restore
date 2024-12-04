@@ -1,0 +1,76 @@
+
+long_5.png
+size: 832,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 604, 44
+  size: 252, 108
+  orig: 258, 112
+  offset: 3, 2
+  index: -1
+10
+  rotate: false
+  xy: 714, 70
+  size: 98, 84
+  orig: 103, 90
+  offset: 2, 3
+  index: -1
+2
+  rotate: false
+  xy: 384, 168
+  size: 218, 133
+  orig: 223, 138
+  offset: 3, 2
+  index: -1
+3
+  rotate: true
+  xy: 384, 303
+  size: 218, 238
+  orig: 218, 238
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 532, 105
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 384, 2
+  size: 164, 146
+  orig: 164, 146
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 4
+  size: 380, 517
+  orig: 380, 517
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 624, 298
+  size: 206, 223
+  orig: 211, 228
+  offset: 3, 2
+  index: -1
+8
+  rotate: true
+  xy: 714, 156
+  size: 140, 102
+  orig: 146, 107
+  offset: 3, 2
+  index: -1
+9
+  rotate: true
+  xy: 532, 47
+  size: 56, 61
+  orig: 61, 67
+  offset: 3, 3
+  index: -1

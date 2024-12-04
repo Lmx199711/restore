@@ -1,0 +1,153 @@
+
+baozupo.png
+size: 389,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2321
+  rotate: false
+  xy: 2, 2
+  size: 146, 43
+  orig: 148, 45
+  offset: 1, 1
+  index: -1
+a
+  rotate: true
+  xy: 271, 2
+  size: 19, 25
+  orig: 28, 28
+  offset: 4, 0
+  index: -1
+arm_L_2
+  rotate: false
+  xy: 271, 23
+  size: 41, 90
+  orig: 41, 90
+  offset: 0, 0
+  index: -1
+arm_R_2
+  rotate: false
+  xy: 212, 13
+  size: 57, 100
+  orig: 57, 100
+  offset: 0, 0
+  index: -1
+b
+  rotate: true
+  xy: 324, 3
+  size: 18, 25
+  orig: 28, 28
+  offset: 4, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 212, 115
+  size: 139, 152
+  orig: 139, 152
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 353, 140
+  size: 17, 25
+  orig: 28, 28
+  offset: 5, 1
+  index: -1
+d
+  rotate: true
+  xy: 351, 4
+  size: 18, 25
+  orig: 28, 28
+  offset: 5, 1
+  index: -1
+e
+  rotate: false
+  xy: 370, 241
+  size: 17, 26
+  orig: 28, 28
+  offset: 6, 0
+  index: -1
+eye_L
+  rotate: true
+  xy: 353, 167
+  size: 26, 13
+  orig: 28, 15
+  offset: 1, 1
+  index: -1
+eye_R
+  rotate: true
+  xy: 353, 230
+  size: 37, 15
+  orig: 39, 17
+  offset: 1, 1
+  index: -1
+eyebow_L
+  rotate: true
+  xy: 353, 195
+  size: 33, 16
+  orig: 35, 18
+  offset: 1, 1
+  index: -1
+eyebow_R
+  rotate: true
+  xy: 348, 68
+  size: 45, 17
+  orig: 47, 19
+  offset: 1, 1
+  index: -1
+f
+  rotate: false
+  xy: 353, 117
+  size: 17, 21
+  orig: 28, 28
+  offset: 5, 0
+  index: -1
+foot_L_2
+  rotate: false
+  xy: 331, 24
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+foot_R_2
+  rotate: false
+  xy: 314, 68
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+h
+  rotate: true
+  xy: 298, 2
+  size: 19, 24
+  orig: 28, 28
+  offset: 4, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 2, 47
+  size: 220, 208
+  orig: 220, 208
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 150, 2
+  size: 39, 43
+  orig: 41, 45
+  offset: 1, 1
+  index: -1
+mouth_2
+  rotate: true
+  xy: 191, 2
+  size: 43, 19
+  orig: 45, 21
+  offset: 1, 1
+  index: -1
+yan
+  rotate: true
+  xy: 314, 23
+  size: 43, 15
+  orig: 45, 17
+  offset: 1, 1
+  index: -1

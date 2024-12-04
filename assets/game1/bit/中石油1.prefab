@@ -1,0 +1,156 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "中石油1",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "中石油1",
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 245.7078857421875,
+      "height": 237.0941162109375
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        574.202,
+        46.506,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_id": "52b58b7b-6362-4cb8-b01e-1ee32ee824c4"
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "daiji",
+    "_preCacheMode": 0,
+    "_animationName": "daiji",
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "a2e717fc-f732-4069-a8f0-579908e9addb"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "31c73ePuAVON64gwxImF51Q",
+    "bitId": "2004",
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": -63.8,
+        "y": -50.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -52.7,
+        "y": -74.8,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -2.1,
+        "y": -88.7,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 43.2,
+        "y": -95.3,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 74.8,
+        "y": -85.7,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 126,
+        "y": 11.2,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 100.8,
+        "y": 77.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 18.8,
+        "y": 102.1,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -22.5,
+        "y": 133.9,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -96.7,
+        "y": 127.2,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -106.9,
+        "y": 105.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -110.6,
+        "y": 81.7,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -104.4,
+        "y": 29,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

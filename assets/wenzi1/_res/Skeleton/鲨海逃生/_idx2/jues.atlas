@@ -1,0 +1,41 @@
+
+jues.png
+size: 1729,603
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+17
+  rotate: true
+  xy: 660, 29
+  size: 572, 644
+  orig: 572, 644
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 2, 2
+  size: 599, 656
+  orig: 599, 656
+  offset: 0, 0
+  index: -1
+sz
+  rotate: false
+  xy: 1306, 12
+  size: 139, 589
+  orig: 139, 589
+  offset: 0, 0
+  index: -1
+sz_s
+  rotate: false
+  xy: 1447, 12
+  size: 139, 589
+  orig: 139, 589
+  offset: 0, 0
+  index: -1
+sz_xia
+  rotate: false
+  xy: 1588, 12
+  size: 139, 589
+  orig: 139, 589
+  offset: 0, 0
+  index: -1

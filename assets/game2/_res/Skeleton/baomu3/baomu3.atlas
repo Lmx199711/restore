@@ -1,0 +1,34 @@
+
+baomu3.png
+size: 1107,187
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 860, 54
+  size: 68, 55
+  orig: 75, 55
+  offset: 3, 0
+  index: -1
+5
+  rotate: false
+  xy: 860, 28
+  size: 62, 24
+  orig: 75, 55
+  offset: 4, 21
+  index: -1
+6
+  rotate: true
+  xy: 2, 2
+  size: 183, 856
+  orig: 183, 856
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 860, 111
+  size: 245, 74
+  orig: 245, 74
+  offset: 0, 0
+  index: -1

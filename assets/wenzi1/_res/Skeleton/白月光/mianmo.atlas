@@ -1,0 +1,13 @@
+
+mianmo.png
+size: 106,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianmo
+  rotate: false
+  xy: 2, 2
+  size: 102, 99
+  orig: 105, 99
+  offset: 0, 0
+  index: -1

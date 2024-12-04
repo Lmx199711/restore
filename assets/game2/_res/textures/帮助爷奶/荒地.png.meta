@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "52a390eb-5fb5-467b-b2eb-3ab0b58b4c31",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1002,
+  "height": 589,
+  "platformSettings": {},
+  "subMetas": {
+    "荒地": {
+      "ver": "1.0.6",
+      "uuid": "75384207-450b-4027-8f44-89521e06586a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "52a390eb-5fb5-467b-b2eb-3ab0b58b4c31",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1002,
+      "height": 589,
+      "rawWidth": 1002,
+      "rawHeight": 589,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

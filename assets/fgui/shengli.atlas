@@ -1,0 +1,111 @@
+
+shengli.png
+size: 456,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_000
+  rotate: false
+  xy: 375, 2
+  size: 24, 70
+  orig: 77, 77
+  offset: 27, 3
+  index: -1
+01_001
+  rotate: true
+  xy: 298, 7
+  size: 62, 75
+  orig: 77, 77
+  offset: 8, 1
+  index: -1
+01_002
+  rotate: true
+  xy: 337, 74
+  size: 62, 75
+  orig: 77, 77
+  offset: 9, 1
+  index: -1
+01_003
+  rotate: true
+  xy: 298, 71
+  size: 69, 37
+  orig: 77, 77
+  offset: 4, 19
+  index: -1
+01_004
+  rotate: true
+  xy: 261, 142
+  size: 41, 61
+  orig: 77, 77
+  offset: 19, 7
+  index: -1
+01_005
+  rotate: false
+  xy: 401, 39
+  size: 53, 33
+  orig: 77, 77
+  offset: 13, 21
+  index: -1
+01_006
+  rotate: true
+  xy: 401, 10
+  size: 27, 22
+  orig: 77, 77
+  offset: 25, 26
+  index: -1
+01_007
+  rotate: false
+  xy: 225, 141
+  size: 34, 42
+  orig: 77, 77
+  offset: 17, 17
+  index: -1
+01_008
+  rotate: false
+  xy: 414, 100
+  size: 37, 36
+  orig: 77, 77
+  offset: 19, 20
+  index: -1
+a
+  rotate: true
+  xy: 225, 3
+  size: 133, 71
+  orig: 135, 73
+  offset: 1, 1
+  index: -1
+d
+  rotate: false
+  xy: 2, 11
+  size: 221, 172
+  orig: 221, 172
+  offset: 0, 0
+  index: -1
+f
+  rotate: false
+  xy: 346, 376
+  size: 98, 150
+  orig: 98, 150
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 346, 224
+  size: 98, 150
+  orig: 98, 150
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 2, 185
+  size: 342, 341
+  orig: 342, 341
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 346, 138
+  size: 96, 84
+  orig: 98, 86
+  offset: 1, 1
+  index: -1

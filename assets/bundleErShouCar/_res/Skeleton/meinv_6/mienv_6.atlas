@@ -1,0 +1,34 @@
+
+mienv_6.png
+size: 574,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 271, 535
+  orig: 271, 535
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 539, 182
+  size: 36, 13
+  orig: 37, 14
+  offset: 0, 1
+  index: -1
+eyebow
+  rotate: true
+  xy: 539, 140
+  size: 40, 8
+  orig: 41, 9
+  offset: 1, 0
+  index: -1
+hair
+  rotate: false
+  xy: 539, 220
+  size: 33, 53
+  orig: 34, 54
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+paihangbang.png
+size: 400,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 168, 259
+  orig: 168, 259
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 263, 35
+  size: 135, 135
+  orig: 161, 161
+  offset: 13, 13
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "fdb691ac-59c0-437d-8ce1-a107d51a763c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 999,
+  "height": 1662,
+  "platformSettings": {},
+  "subMetas": {
+    "结局2背景": {
+      "ver": "1.0.6",
+      "uuid": "bf8ed3e5-8430-4f48-bd07-2b1b1a0cf6f8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fdb691ac-59c0-437d-8ce1-a107d51a763c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 999,
+      "height": 1662,
+      "rawWidth": 999,
+      "rawHeight": 1662,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

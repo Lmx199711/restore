@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9759c9a5-1141-4a8a-93c3-f207c2ab2fd8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 301,
+  "height": 234,
+  "platformSettings": {},
+  "subMetas": {
+    "障碍破碎星球": {
+      "ver": "1.0.6",
+      "uuid": "41094b1b-eb8f-4d0b-9a39-18e968fcfe43",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9759c9a5-1141-4a8a-93c3-f207c2ab2fd8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 301,
+      "height": 234,
+      "rawWidth": 301,
+      "rawHeight": 234,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,55 @@
+
+aetherHuojian.png
+size: 399,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huojian_1
+  rotate: false
+  xy: 2, 2
+  size: 164, 324
+  orig: 164, 324
+  offset: 0, 0
+  index: -1
+huojian_2
+  rotate: false
+  xy: 327, 153
+  size: 64, 173
+  orig: 66, 173
+  offset: 1, 0
+  index: -1
+huojian_3
+  rotate: false
+  xy: 253, 25
+  size: 48, 103
+  orig: 48, 103
+  offset: 0, 0
+  index: -1
+huojian_4
+  rotate: false
+  xy: 315, 19
+  size: 82, 132
+  orig: 82, 132
+  offset: 0, 0
+  index: -1
+huojian_5
+  rotate: true
+  xy: 168, 221
+  size: 105, 157
+  orig: 105, 158
+  offset: 0, 0
+  index: -1
+huojian_6
+  rotate: true
+  xy: 168, 130
+  size: 89, 145
+  orig: 89, 145
+  offset: 0, 0
+  index: -1
+huojian_7
+  rotate: false
+  xy: 168, 32
+  size: 83, 96
+  orig: 83, 96
+  offset: 0, 0
+  index: -1

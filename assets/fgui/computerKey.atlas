@@ -1,0 +1,27 @@
+
+computerKey.png
+size: 100,38
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 35, 3
+  size: 33, 31
+  orig: 35, 32
+  offset: 1, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 68, 2
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1

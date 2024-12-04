@@ -1,0 +1,216 @@
+
+caidaochudao.png
+size: 1970,1047
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00000
+  rotate: false
+  xy: 838, 152
+  size: 178, 204
+  orig: 330, 295
+  offset: 72, 49
+  index: -1
+01_00001
+  rotate: false
+  xy: 1440, 136
+  size: 164, 202
+  orig: 330, 295
+  offset: 80, 50
+  index: -1
+01_00002
+  rotate: true
+  xy: 1018, 19
+  size: 160, 207
+  orig: 330, 295
+  offset: 82, 48
+  index: -1
+01_00003
+  rotate: true
+  xy: 1018, 181
+  size: 169, 208
+  orig: 330, 295
+  offset: 78, 47
+  index: -1
+01_00004
+  rotate: false
+  xy: 1606, 169
+  size: 192, 184
+  orig: 330, 295
+  offset: 67, 59
+  index: -1
+01_00005
+  rotate: false
+  xy: 1551, 363
+  size: 212, 169
+  orig: 330, 295
+  offset: 56, 66
+  index: -1
+01_00006
+  rotate: false
+  xy: 1227, 2
+  size: 205, 170
+  orig: 330, 295
+  offset: 59, 66
+  index: -1
+01_00007
+  rotate: true
+  xy: 1800, 161
+  size: 192, 168
+  orig: 330, 295
+  offset: 66, 65
+  index: -1
+01_00008
+  rotate: true
+  xy: 1765, 355
+  size: 177, 203
+  orig: 330, 295
+  offset: 72, 50
+  index: -1
+02_00000
+  rotate: true
+  xy: 976, 808
+  size: 237, 358
+  orig: 500, 900
+  offset: 144, 225
+  index: -1
+02_00001
+  rotate: true
+  xy: 1336, 814
+  size: 231, 358
+  orig: 500, 900
+  offset: 143, 225
+  index: -1
+02_00002
+  rotate: true
+  xy: 547, 410
+  size: 228, 358
+  orig: 500, 900
+  offset: 147, 225
+  index: -1
+02_00003
+  rotate: true
+  xy: 990, 578
+  size: 228, 358
+  orig: 500, 900
+  offset: 147, 225
+  index: -1
+02_00004
+  rotate: false
+  xy: 608, 50
+  size: 228, 358
+  orig: 500, 900
+  offset: 144, 225
+  index: -1
+02_00005
+  rotate: false
+  xy: 279, 327
+  size: 266, 358
+  orig: 500, 900
+  offset: 128, 225
+  index: -1
+02_00006
+  rotate: false
+  xy: 317, 687
+  size: 274, 358
+  orig: 500, 900
+  offset: 121, 225
+  index: -1
+02_00007
+  rotate: true
+  xy: 2, 60
+  size: 265, 358
+  orig: 500, 900
+  offset: 127, 225
+  index: -1
+02_00008
+  rotate: false
+  xy: 2, 327
+  size: 275, 358
+  orig: 500, 900
+  offset: 123, 225
+  index: -1
+02_00009
+  rotate: false
+  xy: 2, 687
+  size: 313, 358
+  orig: 500, 900
+  offset: 101, 225
+  index: -1
+03_00000
+  rotate: true
+  xy: 1696, 799
+  size: 246, 268
+  orig: 400, 400
+  offset: 54, 52
+  index: -1
+03_00001
+  rotate: false
+  xy: 1638, 534
+  size: 283, 263
+  orig: 400, 400
+  offset: 32, 83
+  index: -1
+03_00002
+  rotate: true
+  xy: 362, 42
+  size: 283, 244
+  orig: 400, 400
+  offset: 53, 91
+  index: -1
+03_00003
+  rotate: true
+  xy: 1350, 548
+  size: 264, 286
+  orig: 400, 400
+  offset: 66, 88
+  index: -1
+03_00004
+  rotate: true
+  xy: 907, 358
+  size: 218, 225
+  orig: 400, 400
+  offset: 99, 100
+  index: -1
+03_00005
+  rotate: true
+  xy: 1134, 352
+  size: 224, 205
+  orig: 400, 400
+  offset: 93, 101
+  index: -1
+03_00006
+  rotate: false
+  xy: 1341, 340
+  size: 208, 206
+  orig: 400, 400
+  offset: 100, 99
+  index: -1
+2
+  rotate: false
+  xy: 593, 640
+  size: 395, 153
+  orig: 395, 158
+  offset: 0, 5
+  index: -1
+3
+  rotate: false
+  xy: 1228, 174
+  size: 210, 164
+  orig: 211, 164
+  offset: 1, 0
+  index: -1
+3_1
+  rotate: false
+  xy: 593, 795
+  size: 381, 250
+  orig: 381, 250
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 2, 11
+  size: 47, 47
+  orig: 49, 48
+  offset: 1, 1
+  index: -1

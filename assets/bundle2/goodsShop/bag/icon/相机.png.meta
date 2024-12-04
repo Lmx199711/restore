@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1037ec9c-e34d-4efa-8f7e-fbadf0250182",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 135,
+  "height": 142,
+  "platformSettings": {},
+  "subMetas": {
+    "相机": {
+      "ver": "1.0.6",
+      "uuid": "215aac49-9c95-44d3-83df-bcc243e243d2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1037ec9c-e34d-4efa-8f7e-fbadf0250182",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 135,
+      "height": 142,
+      "rawWidth": 135,
+      "rawHeight": 142,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

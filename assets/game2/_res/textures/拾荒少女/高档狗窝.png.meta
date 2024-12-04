@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "80f70d58-5923-4a11-94f8-59ffc4a7abf2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 204,
+  "height": 233,
+  "platformSettings": {},
+  "subMetas": {
+    "高档狗窝": {
+      "ver": "1.0.6",
+      "uuid": "bd996ab6-0aca-4e5e-a416-02fc77c6fbc4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "80f70d58-5923-4a11-94f8-59ffc4a7abf2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 204,
+      "height": 233,
+      "rawWidth": 204,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

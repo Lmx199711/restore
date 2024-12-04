@@ -1,0 +1,209 @@
+
+zhoudong_TX.png
+size: 1942,1406
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00000
+  rotate: true
+  xy: 777, 414
+  size: 493, 385
+  orig: 500, 500
+  offset: 7, 14
+  index: -1
+01_00001
+  rotate: true
+  xy: 2, 402
+  size: 500, 386
+  orig: 500, 500
+  offset: 0, 14
+  index: -1
+01_00002
+  rotate: false
+  xy: 2, 14
+  size: 500, 386
+  orig: 500, 500
+  offset: 0, 14
+  index: -1
+01_00003
+  rotate: false
+  xy: 1004, 24
+  size: 489, 388
+  orig: 500, 500
+  offset: 11, 14
+  index: -1
+01_00004
+  rotate: true
+  xy: 1555, 928
+  size: 476, 385
+  orig: 500, 500
+  offset: 24, 14
+  index: -1
+01_00005
+  rotate: true
+  xy: 1552, 441
+  size: 477, 385
+  orig: 500, 500
+  offset: 23, 14
+  index: -1
+01_00006
+  rotate: true
+  xy: 1164, 428
+  size: 484, 386
+  orig: 500, 500
+  offset: 16, 14
+  index: -1
+01_00007
+  rotate: true
+  xy: 1167, 920
+  size: 484, 386
+  orig: 500, 500
+  offset: 16, 14
+  index: -1
+01_00008
+  rotate: true
+  xy: 779, 914
+  size: 490, 386
+  orig: 500, 500
+  offset: 10, 14
+  index: -1
+01_00009
+  rotate: true
+  xy: 392, 909
+  size: 495, 385
+  orig: 500, 500
+  offset: 5, 14
+  index: -1
+01_00010
+  rotate: false
+  xy: 504, 16
+  size: 498, 384
+  orig: 500, 500
+  offset: 2, 14
+  index: -1
+01_00011
+  rotate: true
+  xy: 2, 904
+  size: 500, 388
+  orig: 500, 500
+  offset: 0, 14
+  index: -1
+01_00012
+  rotate: true
+  xy: 390, 402
+  size: 500, 385
+  orig: 500, 500
+  offset: 0, 14
+  index: -1
+0222_000
+  rotate: false
+  xy: 1660, 353
+  size: 40, 86
+  orig: 197, 160
+  offset: 74, 45
+  index: -1
+0222_001
+  rotate: true
+  xy: 1495, 164
+  size: 103, 92
+  orig: 197, 160
+  offset: 18, 44
+  index: -1
+0222_002
+  rotate: true
+  xy: 1495, 269
+  size: 157, 92
+  orig: 197, 160
+  offset: 6, 47
+  index: -1
+0222_003
+  rotate: false
+  xy: 1674, 96
+  size: 45, 88
+  orig: 197, 160
+  offset: 49, 42
+  index: -1
+0222_004
+  rotate: false
+  xy: 1589, 186
+  size: 58, 85
+  orig: 197, 160
+  offset: 74, 31
+  index: -1
+0222_005
+  rotate: false
+  xy: 1614, 99
+  size: 58, 85
+  orig: 197, 160
+  offset: 54, 32
+  index: -1
+0222_006
+  rotate: false
+  xy: 1495, 38
+  size: 55, 124
+  orig: 197, 160
+  offset: 63, 30
+  index: -1
+0222_007
+  rotate: true
+  xy: 1495, 5
+  size: 31, 90
+  orig: 197, 160
+  offset: 58, 34
+  index: -1
+0222_008
+  rotate: false
+  xy: 1677, 23
+  size: 52, 71
+  orig: 197, 160
+  offset: 80, 34
+  index: -1
+0222_009
+  rotate: true
+  xy: 1702, 374
+  size: 65, 49
+  orig: 197, 160
+  offset: 47, 42
+  index: -1
+0222_010
+  rotate: false
+  xy: 1552, 64
+  size: 60, 98
+  orig: 197, 160
+  offset: 52, 32
+  index: -1
+0222_011
+  rotate: false
+  xy: 1649, 186
+  size: 54, 85
+  orig: 197, 160
+  offset: 37, 37
+  index: -1
+0222_012
+  rotate: true
+  xy: 1660, 310
+  size: 41, 82
+  orig: 197, 160
+  offset: 84, 27
+  index: -1
+0222_013
+  rotate: false
+  xy: 1589, 357
+  size: 69, 82
+  orig: 197, 160
+  offset: 50, 28
+  index: -1
+0222_014
+  rotate: false
+  xy: 1589, 273
+  size: 69, 82
+  orig: 197, 160
+  offset: 52, 29
+  index: -1
+0222_015
+  rotate: true
+  xy: 1587, 2
+  size: 60, 88
+  orig: 197, 160
+  offset: 31, 25
+  index: -1

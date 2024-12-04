@@ -1,0 +1,55 @@
+
+zcm(1).png
+size: 713,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mao
+  rotate: false
+  xy: 2, 156
+  size: 328, 492
+  orig: 433, 675
+  offset: 27, 3
+  index: -1
+shangb
+  rotate: true
+  xy: 491, 747
+  size: 260, 215
+  orig: 261, 220
+  offset: 1, 1
+  index: -1
+shouz
+  rotate: false
+  xy: 491, 650
+  size: 151, 95
+  orig: 155, 95
+  offset: 4, 0
+  index: -1
+xb
+  rotate: true
+  xy: 332, 2
+  size: 231, 379
+  orig: 253, 383
+  offset: 19, 4
+  index: -1
+yb_1
+  rotate: false
+  xy: 2, 57
+  size: 111, 97
+  orig: 117, 97
+  offset: 6, 0
+  index: -1
+yb_2
+  rotate: false
+  xy: 2, 650
+  size: 487, 357
+  orig: 495, 359
+  offset: 4, 0
+  index: -1
+yb_3
+  rotate: true
+  xy: 332, 235
+  size: 413, 352
+  orig: 431, 355
+  offset: 0, 1
+  index: -1

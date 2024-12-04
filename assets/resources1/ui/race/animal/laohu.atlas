@@ -1,0 +1,104 @@
+
+laohu.png
+size: 268,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_3
+  rotate: false
+  xy: 250, 153
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+1_3_1
+  rotate: true
+  xy: 250, 86
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+1_3_10
+  rotate: false
+  xy: 163, 7
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+1_3_11
+  rotate: false
+  xy: 2, 2
+  size: 159, 40
+  orig: 161, 40
+  offset: 1, 0
+  index: -1
+1_3_2
+  rotate: true
+  xy: 215, 87
+  size: 18, 20
+  orig: 18, 21
+  offset: 0, 1
+  index: -1
+1_3_3
+  rotate: true
+  xy: 250, 112
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+1_3_4
+  rotate: true
+  xy: 155, 134
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+1_3_5
+  rotate: true
+  xy: 194, 171
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+1_3_6
+  rotate: false
+  xy: 194, 107
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+1_3_7
+  rotate: true
+  xy: 155, 55
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+1_3_8
+  rotate: false
+  xy: 2, 44
+  size: 151, 110
+  orig: 151, 110
+  offset: 0, 0
+  index: -1
+1_3_9
+  rotate: false
+  xy: 215, 37
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+1_9
+  rotate: false
+  xy: 2, 156
+  size: 190, 91
+  orig: 190, 91
+  offset: 0, 0
+  index: -1
+sd1
+  rotate: false
+  xy: 250, 131
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1

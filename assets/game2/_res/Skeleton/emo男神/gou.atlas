@@ -1,0 +1,41 @@
+
+gou.png
+size: 574,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 211, 25
+  size: 184, 179
+  orig: 184, 179
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 392, 14
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+aixin
+  rotate: false
+  xy: 516, 37
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 516, 73
+  size: 136, 56
+  orig: 138, 58
+  offset: 1, 1
+  index: -1

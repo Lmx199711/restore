@@ -1,0 +1,13 @@
+
+shuzi.png
+size: 143,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 2
+  size: 139, 113
+  orig: 141, 115
+  offset: 1, 1
+  index: -1

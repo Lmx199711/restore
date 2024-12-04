@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ca2d7761-b093-4e4a-9f5e-07d8b1c1cf79",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 948,
+  "height": 636,
+  "platformSettings": {},
+  "subMetas": {
+    "FerruleGame_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "ad710f27-22e5-49a3-8b64-8297ebc24a8f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ca2d7761-b093-4e4a-9f5e-07d8b1c1cf79",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 2.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 946,
+      "height": 631,
+      "rawWidth": 948,
+      "rawHeight": 636,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

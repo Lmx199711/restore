@@ -1,0 +1,62 @@
+
+zh.png
+size: 1582,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+39
+  rotate: false
+  xy: 1028, 6
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+40
+  rotate: false
+  xy: 1319, 142
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+41
+  rotate: false
+  xy: 1461, 299
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+42
+  rotate: false
+  xy: 1114, 6
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+43
+  rotate: false
+  xy: 1319, 228
+  size: 140, 155
+  orig: 142, 157
+  offset: 1, 1
+  index: -1
+44
+  rotate: false
+  xy: 1028, 92
+  size: 289, 291
+  orig: 328, 329
+  offset: 20, 17
+  index: -1
+45
+  rotate: true
+  xy: 1028, 385
+  size: 641, 552
+  orig: 643, 553
+  offset: 1, 0
+  index: -1
+ia_700000053
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1

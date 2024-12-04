@@ -1,0 +1,132 @@
+
+pingdiguo.png
+size: 1643,1030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00001_00000
+  rotate: false
+  xy: 635, 13
+  size: 30, 35
+  orig: 450, 450
+  offset: 212, 210
+  index: -1
+00001_00001
+  rotate: true
+  xy: 2, 2
+  size: 320, 326
+  orig: 450, 450
+  offset: 63, 61
+  index: -1
+00001_00002
+  rotate: true
+  xy: 773, 333
+  size: 344, 336
+  orig: 450, 450
+  offset: 50, 58
+  index: -1
+00001_00003
+  rotate: true
+  xy: 588, 679
+  size: 349, 343
+  orig: 450, 450
+  offset: 50, 54
+  index: -1
+00001_00004
+  rotate: false
+  xy: 427, 324
+  size: 344, 345
+  orig: 450, 450
+  offset: 52, 53
+  index: -1
+00001_00005
+  rotate: false
+  xy: 330, 5
+  size: 303, 317
+  orig: 450, 450
+  offset: 95, 63
+  index: -1
+00001_00006
+  rotate: false
+  xy: 1202, 763
+  size: 262, 265
+  orig: 450, 450
+  offset: 93, 98
+  index: -1
+00001_00007
+  rotate: false
+  xy: 635, 50
+  size: 271, 272
+  orig: 450, 450
+  offset: 88, 91
+  index: -1
+00001_00008
+  rotate: false
+  xy: 933, 757
+  size: 267, 271
+  orig: 450, 450
+  offset: 92, 90
+  index: -1
+00001_00009
+  rotate: false
+  xy: 908, 59
+  size: 270, 272
+  orig: 450, 450
+  offset: 88, 90
+  index: -1
+00001_00010
+  rotate: true
+  xy: 1111, 485
+  size: 270, 265
+  orig: 450, 450
+  offset: 88, 92
+  index: -1
+00001_00011
+  rotate: true
+  xy: 1378, 504
+  size: 257, 263
+  orig: 450, 450
+  offset: 96, 91
+  index: -1
+00001_00012
+  rotate: false
+  xy: 1378, 254
+  size: 252, 248
+  orig: 450, 450
+  offset: 96, 106
+  index: -1
+00001_00013
+  rotate: true
+  xy: 1180, 23
+  size: 229, 223
+  orig: 450, 450
+  offset: 107, 120
+  index: -1
+00001_00014
+  rotate: false
+  xy: 330, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 427, 671
+  size: 159, 357
+  orig: 159, 357
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 1405, 52
+  size: 201, 200
+  orig: 250, 250
+  offset: 26, 25
+  index: -1
+05
+  rotate: false
+  xy: 2, 324
+  size: 423, 704
+  orig: 423, 704
+  offset: 0, 0
+  index: -1

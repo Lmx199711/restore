@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7b446473-a488-434d-b7fb-d095a334c206",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 535,
+  "height": 924,
+  "platformSettings": {},
+  "subMetas": {
+    "男呕吐": {
+      "ver": "1.0.6",
+      "uuid": "80584eca-bdea-4011-be4d-4cb069658608",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7b446473-a488-434d-b7fb-d095a334c206",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 535,
+      "height": 924,
+      "rawWidth": 535,
+      "rawHeight": 924,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

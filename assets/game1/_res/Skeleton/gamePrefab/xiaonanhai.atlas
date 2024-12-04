@@ -1,0 +1,41 @@
+
+xiaonanhai.png
+size: 189,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+18
+  rotate: true
+  xy: 2, 62
+  size: 100, 185
+  orig: 100, 185
+  offset: 0, 0
+  index: -1
+18_1
+  rotate: true
+  xy: 50, 6
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+18_2
+  rotate: true
+  xy: 2, 4
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+18_5
+  rotate: false
+  xy: 128, 3
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+18_6
+  rotate: false
+  xy: 95, 2
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1

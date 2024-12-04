@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6cfc044a-b7c9-4a2a-9730-630e9b7c2e87",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 172,
+  "height": 233,
+  "platformSettings": {},
+  "subMetas": {
+    "公主床": {
+      "ver": "1.0.6",
+      "uuid": "2613baf2-4bfa-4ffb-a460-c0519138c510",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6cfc044a-b7c9-4a2a-9730-630e9b7c2e87",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 172,
+      "height": 233,
+      "rawWidth": 172,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

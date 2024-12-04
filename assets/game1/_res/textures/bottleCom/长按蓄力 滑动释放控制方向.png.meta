@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c7d22f38-935b-4cfe-8ade-326c68a86473",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "长按蓄力 滑动释放控制方向": {
+      "ver": "1.0.6",
+      "uuid": "91f64a7c-472c-4f2b-aaa0-1d36d3b98b5b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c7d22f38-935b-4cfe-8ade-326c68a86473",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 72,
+      "rawWidth": 256,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

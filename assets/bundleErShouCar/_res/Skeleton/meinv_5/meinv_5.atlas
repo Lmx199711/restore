@@ -1,0 +1,34 @@
+
+meinv_5.png
+size: 575,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 164, 543
+  orig: 164, 543
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 547, 78
+  size: 35, 15
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+eyebow
+  rotate: true
+  xy: 547, 38
+  size: 38, 11
+  orig: 39, 11
+  offset: 1, 0
+  index: -1
+hair
+  rotate: false
+  xy: 547, 115
+  size: 26, 51
+  orig: 26, 52
+  offset: 0, 0
+  index: -1

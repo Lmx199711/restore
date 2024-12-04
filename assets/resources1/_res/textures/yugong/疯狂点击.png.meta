@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d441aaec-dcbf-4f25-9e36-0ac09becb09a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 483,
+  "height": 135,
+  "platformSettings": {},
+  "subMetas": {
+    "疯狂点击": {
+      "ver": "1.0.6",
+      "uuid": "034bdafa-3cee-409d-a947-8911f3dcca76",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d441aaec-dcbf-4f25-9e36-0ac09becb09a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 483,
+      "height": 135,
+      "rawWidth": 483,
+      "rawHeight": 135,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

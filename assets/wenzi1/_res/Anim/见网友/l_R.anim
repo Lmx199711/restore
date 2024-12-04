@@ -1,0 +1,19 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "l_R",
+  "_duration": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": -119.23
+        },
+        {
+          "frame": 1,
+          "value": 27.323
+        }
+      ]
+    }
+  }
+}

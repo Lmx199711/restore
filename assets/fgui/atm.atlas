@@ -1,0 +1,83 @@
+
+atm.png
+size: 954,458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuz
+  rotate: true
+  xy: 2, 2
+  size: 454, 624
+  orig: 471, 629
+  offset: 15, 2
+  index: -1
+jiao1
+  rotate: false
+  xy: 628, 335
+  size: 210, 121
+  orig: 210, 121
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 628, 6
+  size: 177, 190
+  orig: 184, 190
+  offset: 3, 0
+  index: -1
+yb1
+  rotate: true
+  xy: 840, 316
+  size: 87, 105
+  orig: 94, 107
+  offset: 3, 2
+  index: -1
+yb2
+  rotate: false
+  xy: 807, 71
+  size: 89, 86
+  orig: 90, 92
+  offset: 1, 5
+  index: -1
+yb3
+  rotate: true
+  xy: 835, 159
+  size: 88, 91
+  orig: 88, 94
+  offset: 0, 2
+  index: -1
+yb4
+  rotate: true
+  xy: 840, 405
+  size: 51, 111
+  orig: 53, 125
+  offset: 0, 8
+  index: -1
+yb5
+  rotate: false
+  xy: 898, 100
+  size: 54, 57
+  orig: 55, 66
+  offset: 0, 3
+  index: -1
+ys
+  rotate: true
+  xy: 628, 198
+  size: 135, 205
+  orig: 135, 205
+  offset: 0, 0
+  index: -1
+zs_yb
+  rotate: false
+  xy: 835, 249
+  size: 105, 65
+  orig: 105, 65
+  offset: 0, 0
+  index: -1
+zuos
+  rotate: false
+  xy: 807, 2
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+pokHeidong.png
+size: 524,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hei_1
+  rotate: true
+  xy: 424, 48
+  size: 104, 98
+  orig: 116, 116
+  offset: 7, 10
+  index: -1
+hei_3
+  rotate: true
+  xy: 2, 2
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1
+hei_5
+  rotate: true
+  xy: 304, 30
+  size: 122, 118
+  orig: 128, 128
+  offset: 2, 3
+  index: -1
+hei_6
+  rotate: true
+  xy: 153, 2
+  size: 150, 149
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

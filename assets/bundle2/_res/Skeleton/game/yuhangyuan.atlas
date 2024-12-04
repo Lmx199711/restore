@@ -1,0 +1,27 @@
+
+yuhangyuan.png
+size: 767,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 674, 208
+  size: 95, 91
+  orig: 97, 93
+  offset: 1, 1
+  index: -1
+02
+  rotate: true
+  xy: 332, 42
+  size: 261, 340
+  orig: 261, 340
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 2
+  size: 328, 301
+  orig: 328, 301
+  offset: 0, 0
+  index: -1

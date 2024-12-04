@@ -1,0 +1,20 @@
+
+muyu.png
+size: 282,318
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gunz
+  rotate: false
+  xy: 2, 2
+  size: 276, 111
+  orig: 276, 111
+  offset: 0, 0
+  index: -1
+muy
+  rotate: false
+  xy: 2, 115
+  size: 278, 201
+  orig: 278, 201
+  offset: 0, 0
+  index: -1

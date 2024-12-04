@@ -1,0 +1,13 @@
+
+qingwa_TX.png
+size: 213,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qingwa
+  rotate: false
+  xy: 2, 2
+  size: 209, 162
+  orig: 240, 240
+  offset: 16, 36
+  index: -1

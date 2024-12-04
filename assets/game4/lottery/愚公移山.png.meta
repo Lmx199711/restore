@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "fe9d9310-8230-4968-bae7-18c2bf3ac88e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 196,
+  "height": 232,
+  "platformSettings": {},
+  "subMetas": {
+    "愚公移山": {
+      "ver": "1.0.6",
+      "uuid": "1f93e626-e561-40ca-b20c-97a10fb2683e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fe9d9310-8230-4968-bae7-18c2bf3ac88e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 196,
+      "height": 232,
+      "rawWidth": 196,
+      "rawHeight": 232,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

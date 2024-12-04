@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d43a0c1b-260f-444f-80b6-691b4866d35b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1002,
+  "height": 1668,
+  "platformSettings": {},
+  "subMetas": {
+    "MysteryShop_atlas_jiwz6": {
+      "ver": "1.0.6",
+      "uuid": "841ad288-118e-4927-8df3-b2858d4bdb9c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d43a0c1b-260f-444f-80b6-691b4866d35b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1002,
+      "height": 1668,
+      "rawWidth": 1002,
+      "rawHeight": 1668,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

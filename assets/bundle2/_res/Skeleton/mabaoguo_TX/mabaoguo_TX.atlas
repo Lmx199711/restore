@@ -1,0 +1,146 @@
+
+mabaoguo_TX.png
+size: 1669,774
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+010_000
+  rotate: true
+  xy: 1538, 633
+  size: 139, 129
+  orig: 256, 256
+  offset: 52, 74
+  index: -1
+010_001
+  rotate: false
+  xy: 1476, 292
+  size: 189, 222
+  orig: 256, 256
+  offset: 23, 0
+  index: -1
+010_002
+  rotate: false
+  xy: 1292, 25
+  size: 210, 240
+  orig: 256, 256
+  offset: 20, 0
+  index: -1
+010_003
+  rotate: false
+  xy: 1241, 267
+  size: 233, 247
+  orig: 256, 256
+  offset: 15, 0
+  index: -1
+010_004
+  rotate: true
+  xy: 754, 263
+  size: 251, 243
+  orig: 256, 256
+  offset: 5, 6
+  index: -1
+010_005
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+010_006
+  rotate: false
+  xy: 260, 3
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+010_007
+  rotate: false
+  xy: 506, 516
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+010_008
+  rotate: true
+  xy: 999, 266
+  size: 248, 240
+  orig: 256, 256
+  offset: 8, 10
+  index: -1
+010_009
+  rotate: false
+  xy: 518, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+010_010
+  rotate: false
+  xy: 764, 516
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+010_011
+  rotate: false
+  xy: 776, 5
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+010_012
+  rotate: true
+  xy: 506, 262
+  size: 252, 246
+  orig: 256, 256
+  offset: 4, 3
+  index: -1
+010_013
+  rotate: false
+  xy: 1022, 516
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+010_014
+  rotate: false
+  xy: 1034, 8
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+010_015
+  rotate: false
+  xy: 1280, 516
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+01_000
+  rotate: true
+  xy: 132, 260
+  size: 512, 117
+  orig: 512, 128
+  offset: 0, 3
+  index: -1
+01_001
+  rotate: true
+  xy: 381, 262
+  size: 510, 123
+  orig: 512, 128
+  offset: 0, 3
+  index: -1
+01_002
+  rotate: true
+  xy: 251, 261
+  size: 511, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+01_003
+  rotate: true
+  xy: 2, 260
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1

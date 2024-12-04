@@ -1,0 +1,76 @@
+
+sg_2.png
+size: 471,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 251
+  size: 263, 270
+  orig: 265, 272
+  offset: 1, 1
+  index: -1
+guan_1
+  rotate: false
+  xy: 2, 17
+  size: 202, 232
+  orig: 204, 234
+  offset: 1, 1
+  index: -1
+guan_2
+  rotate: false
+  xy: 267, 289
+  size: 202, 232
+  orig: 204, 234
+  offset: 1, 1
+  index: -1
+shui_1
+  rotate: false
+  xy: 267, 264
+  size: 16, 23
+  orig: 18, 25
+  offset: 1, 1
+  index: -1
+shui_2
+  rotate: false
+  xy: 267, 251
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+shui_3
+  rotate: false
+  xy: 280, 251
+  size: 9, 11
+  orig: 11, 13
+  offset: 1, 1
+  index: -1
+shui_4
+  rotate: false
+  xy: 2, 2
+  size: 16, 13
+  orig: 20, 15
+  offset: 1, 1
+  index: -1
+shui_a
+  rotate: false
+  xy: 331, 21
+  size: 118, 128
+  orig: 120, 131
+  offset: 1, 1
+  index: -1
+shui_b
+  rotate: false
+  xy: 331, 151
+  size: 136, 136
+  orig: 138, 140
+  offset: 1, 2
+  index: -1
+shui_c
+  rotate: true
+  xy: 206, 6
+  size: 243, 123
+  orig: 243, 123
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+DLSZZ.png
+size: 930,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 874, 17
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 542, 85
+  size: 52, 120
+  orig: 53, 120
+  offset: 1, 0
+  index: -1
+11
+  rotate: true
+  xy: 834, 95
+  size: 42, 71
+  orig: 43, 73
+  offset: 1, 1
+  index: -1
+12
+  rotate: false
+  xy: 548, 2
+  size: 91, 81
+  orig: 92, 82
+  offset: 1, 0
+  index: -1
+13
+  rotate: true
+  xy: 387, 77
+  size: 60, 153
+  orig: 61, 153
+  offset: 1, 0
+  index: -1
+14
+  rotate: true
+  xy: 2, 3
+  size: 134, 298
+  orig: 134, 298
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 664, 89
+  size: 48, 83
+  orig: 49, 85
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 302, 3
+  size: 83, 134
+  orig: 84, 137
+  offset: 1, 0
+  index: -1
+4
+  rotate: true
+  xy: 749, 89
+  size: 48, 83
+  orig: 48, 83
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 809, 16
+  size: 63, 36
+  orig: 64, 38
+  offset: 0, 1
+  index: -1
+6
+  rotate: false
+  xy: 641, 18
+  size: 101, 65
+  orig: 101, 66
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 744, 12
+  size: 75, 63
+  orig: 75, 64
+  offset: 0, 1
+  index: -1
+8
+  rotate: false
+  xy: 809, 54
+  size: 107, 33
+  orig: 107, 33
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 387, 18
+  size: 57, 159
+  orig: 59, 160
+  offset: 1, 0
+  index: -1

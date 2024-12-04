@@ -1,0 +1,83 @@
+
+diann.png
+size: 900,367
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bq_1
+  rotate: false
+  xy: 848, 50
+  size: 35, 39
+  orig: 36, 40
+  offset: 1, 0
+  index: -1
+bq_2
+  rotate: true
+  xy: 802, 2
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: true
+  xy: 708, 187
+  size: 178, 190
+  orig: 178, 210
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 457, 69
+  size: 296, 249
+  orig: 340, 249
+  offset: 42, 0
+  index: -1
+shu
+  rotate: false
+  xy: 708, 91
+  size: 180, 94
+  orig: 180, 94
+  offset: 0, 0
+  index: -1
+sq
+  rotate: false
+  xy: 744, 2
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+sq_1
+  rotate: true
+  xy: 802, 41
+  size: 48, 44
+  orig: 50, 44
+  offset: 1, 0
+  index: -1
+sq_2
+  rotate: false
+  xy: 744, 25
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+zuodb
+  rotate: true
+  xy: 610, 10
+  size: 57, 132
+  orig: 60, 132
+  offset: 0, 0
+  index: -1
+zuos
+  rotate: false
+  xy: 457, 16
+  size: 151, 51
+  orig: 161, 65
+  offset: 10, 14
+  index: -1
+zuoz
+  rotate: false
+  xy: 2, 12
+  size: 453, 353
+  orig: 453, 353
+  offset: 0, 0
+  index: -1

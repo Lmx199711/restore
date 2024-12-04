@@ -1,0 +1,97 @@
+
+luoweina.png
+size: 846,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_body
+  rotate: false
+  xy: 2, 2
+  size: 289, 237
+  orig: 289, 325
+  offset: 0, 88
+  index: -1
+1_head
+  rotate: true
+  xy: 636, 2
+  size: 143, 170
+  orig: 143, 170
+  offset: 0, 0
+  index: -1
+1_leg_L_1
+  rotate: false
+  xy: 682, 315
+  size: 80, 199
+  orig: 80, 199
+  offset: 0, 0
+  index: -1
+1_leg_L_2
+  rotate: false
+  xy: 764, 368
+  size: 80, 146
+  orig: 80, 146
+  offset: 0, 0
+  index: -1
+1_leg_R_1
+  rotate: true
+  xy: 596, 213
+  size: 68, 169
+  orig: 68, 169
+  offset: 0, 0
+  index: -1
+1_leg_R_2
+  rotate: false
+  xy: 767, 226
+  size: 61, 140
+  orig: 64, 140
+  offset: 3, 0
+  index: -1
+1_tail
+  rotate: false
+  xy: 293, 34
+  size: 64, 205
+  orig: 64, 205
+  offset: 0, 0
+  index: -1
+2_body
+  rotate: true
+  xy: 359, 2
+  size: 205, 275
+  orig: 205, 275
+  offset: 0, 0
+  index: -1
+3_body
+  rotate: false
+  xy: 360, 209
+  size: 234, 305
+  orig: 234, 305
+  offset: 0, 0
+  index: -1
+3_shetou
+  rotate: true
+  xy: 293, 8
+  size: 24, 33
+  orig: 26, 36
+  offset: 1, 2
+  index: -1
+3_tail
+  rotate: true
+  xy: 636, 147
+  size: 64, 178
+  orig: 64, 178
+  offset: 0, 0
+  index: -1
+wangzi
+  rotate: true
+  xy: 2, 241
+  size: 273, 356
+  orig: 273, 356
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 596, 283
+  size: 231, 84
+  orig: 233, 86
+  offset: 1, 1
+  index: -1

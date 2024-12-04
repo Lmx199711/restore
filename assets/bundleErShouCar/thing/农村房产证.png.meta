@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "11fb576b-8b16-45e4-bff1-7305e36bc349",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 209,
+  "height": 285,
+  "platformSettings": {},
+  "subMetas": {
+    "农村房产证": {
+      "ver": "1.0.6",
+      "uuid": "5d27c442-d734-4d37-b851-fe4eda9455e6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "11fb576b-8b16-45e4-bff1-7305e36bc349",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 209,
+      "height": 285,
+      "rawWidth": 209,
+      "rawHeight": 285,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

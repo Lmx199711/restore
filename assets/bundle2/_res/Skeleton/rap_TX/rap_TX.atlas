@@ -1,0 +1,27 @@
+
+rap_TX.png
+size: 278,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 154
+  size: 270, 137
+  orig: 353, 183
+  offset: 28, 26
+  index: -1
+02
+  rotate: false
+  xy: 154, 26
+  size: 122, 126
+  orig: 122, 126
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 240, 216
+  offset: 41, 26
+  index: -1

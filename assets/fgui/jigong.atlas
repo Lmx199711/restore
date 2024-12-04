@@ -1,0 +1,139 @@
+
+jigong.png
+size: 1196,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 387, 5
+  size: 55, 111
+  orig: 55, 111
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 479, 98
+  size: 87, 169
+  orig: 87, 169
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 568, 105
+  size: 99, 162
+  orig: 100, 162
+  offset: 1, 0
+  index: -1
+dama_1
+  rotate: true
+  xy: 906, 169
+  size: 98, 288
+  orig: 98, 288
+  offset: 0, 0
+  index: -1
+dama_2
+  rotate: false
+  xy: 57, 52
+  size: 311, 215
+  orig: 311, 215
+  offset: 0, 0
+  index: -1
+duihuakuang
+  rotate: true
+  xy: 370, 62
+  size: 205, 107
+  orig: 205, 107
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1024, 65
+  size: 62, 102
+  orig: 64, 105
+  offset: 1, 2
+  index: -1
+head2
+  rotate: true
+  xy: 1088, 105
+  size: 62, 102
+  orig: 62, 103
+  offset: 0, 1
+  index: -1
+leg_L
+  rotate: false
+  xy: 807, 121
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 669, 113
+  size: 136, 154
+  orig: 136, 154
+  offset: 0, 0
+  index: -1
+niao_1
+  rotate: true
+  xy: 2, 12
+  size: 15, 10
+  orig: 17, 12
+  offset: 1, 1
+  index: -1
+niao_2
+  rotate: false
+  xy: 14, 13
+  size: 10, 14
+  orig: 12, 16
+  offset: 1, 1
+  index: -1
+niao_3
+  rotate: false
+  xy: 14, 2
+  size: 12, 9
+  orig: 15, 12
+  offset: 2, 2
+  index: -1
+niao_4
+  rotate: false
+  xy: 881, 2
+  size: 141, 117
+  orig: 151, 117
+  offset: 0, 0
+  index: -1
+niao_5
+  rotate: false
+  xy: 500, 5
+  size: 379, 91
+  orig: 379, 91
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 1088, 3
+  size: 100, 100
+  orig: 104, 104
+  offset: 2, 2
+  index: -1
+yy
+  rotate: true
+  xy: 2, 29
+  size: 238, 53
+  orig: 241, 63
+  offset: 2, 5
+  index: -1
+yy_1
+  rotate: false
+  xy: 272, 21
+  size: 113, 29
+  orig: 113, 29
+  offset: 0, 0
+  index: -1
+yy_2
+  rotate: false
+  xy: 57, 14
+  size: 213, 36
+  orig: 213, 36
+  offset: 0, 0
+  index: -1

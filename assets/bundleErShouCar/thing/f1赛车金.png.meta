@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1e7639c3-2410-417f-a769-5d4d6bc14b8f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 584,
+  "height": 177,
+  "platformSettings": {},
+  "subMetas": {
+    "f1赛车金": {
+      "ver": "1.0.6",
+      "uuid": "a3251280-689e-43ec-9c0c-dc05b95803ea",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1e7639c3-2410-417f-a769-5d4d6bc14b8f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 584,
+      "height": 177,
+      "rawWidth": 584,
+      "rawHeight": 177,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+
+animChat8.png
+size: 312,553
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 2
+  size: 308, 549
+  orig: 342, 550
+  offset: 8, 1
+  index: -1

@@ -1,0 +1,507 @@
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.MpnppolyType = exports.MpnppolyRandomCoin = exports.MpnppolyFreePrice = exports.InitMpnppolyProp = exports.MpnppolyProp = exports.MpnppolyEventCfg = exports.MpnppolyGridCfg = exports.MonopolyMap = undefined;
+exports.MonopolyMap = {
+  0: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25],
+  1: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 26, 27, 21, 22, 23, 24, 25]
+};
+exports.MpnppolyGridCfg = [{
+  id: 0,
+  type: 0,
+  isNoGet: false,
+  direction: 1,
+  value: 0,
+  num: 0,
+  name: "起点",
+  tips: "恭喜跑完一圈",
+  icon: "icon0",
+  lab: "",
+  isBad: false
+}, {
+  id: 1,
+  type: 1,
+  isNoGet: false,
+  direction: 1,
+  value: 5e4,
+  num: 0,
+  name: "+5万",
+  tips: "获得5万元",
+  icon: "icon1",
+  lab: "lab1",
+  isBad: false
+}, {
+  id: 2,
+  type: 9,
+  isNoGet: false,
+  direction: 1,
+  value: 0,
+  num: 0,
+  name: "再摇一次",
+  tips: "再摇一次",
+  icon: "icon11",
+  lab: "",
+  isBad: false
+}, {
+  id: 3,
+  type: 8,
+  isNoGet: false,
+  direction: 1,
+  value: 0,
+  num: 0,
+  name: "随机事件",
+  tips: "随机事件",
+  icon: "icon3",
+  lab: "lab3",
+  isBad: false
+}, {
+  id: 4,
+  type: 2,
+  isNoGet: false,
+  direction: 1,
+  value: -5,
+  num: 0,
+  name: "退5格",
+  tips: "遇到老虎退5格",
+  icon: "icon4",
+  lab: "lab4",
+  isBad: true
+}, {
+  id: 5,
+  type: 2,
+  isNoGet: false,
+  direction: 1,
+  value: 1,
+  num: 0,
+  name: "进1格",
+  tips: "搭上顺风车进1格",
+  icon: "icon5",
+  lab: "lab5",
+  isBad: false
+}, {
+  id: 6,
+  type: 1,
+  isNoGet: false,
+  direction: -1,
+  value: 1e6,
+  num: 0,
+  name: "+100万",
+  tips: "获得100万元",
+  icon: "icon15",
+  lab: "lab0",
+  isBad: false
+}, {
+  id: 7,
+  type: 3,
+  isNoGet: false,
+  direction: -1,
+  value: 0,
+  num: 1,
+  name: "骰子+1",
+  tips: "获得随机骰子+1",
+  icon: "icon6",
+  lab: "lab6",
+  isBad: false
+}, {
+  id: 8,
+  type: 6,
+  isNoGet: false,
+  direction: -1,
+  value: 1,
+  num: 1,
+  name: "支票+1",
+  tips: "获得一张支票",
+  icon: "icon22",
+  lab: "lab16",
+  isBad: false
+}, {
+  id: 9,
+  type: 1,
+  isNoGet: false,
+  direction: -1,
+  value: -1e8,
+  num: 0,
+  name: "-1亿",
+  tips: "掉进土坑扣除1亿",
+  icon: "icon2",
+  lab: "lab7",
+  isBad: true
+}, {
+  id: 10,
+  type: 4,
+  isNoGet: false,
+  direction: 1,
+  value: 0,
+  num: 0,
+  name: "走小路",
+  tips: "发现捷径",
+  icon: "icon8",
+  lab: "lab17",
+  isBad: false
+}, {
+  id: 11,
+  type: 3,
+  isNoGet: false,
+  direction: 1,
+  value: 2,
+  num: 1,
+  name: "获得护盾",
+  tips: "获得护盾+1",
+  icon: "icon9",
+  lab: "lab6",
+  isBad: false
+}, {
+  id: 12,
+  type: 2,
+  isNoGet: false,
+  direction: 1,
+  value: -3,
+  num: 0,
+  name: "退3格",
+  tips: "避让小刺猬退3格",
+  icon: "icon10",
+  lab: "lab2",
+  isBad: true
+}, {
+  id: 13,
+  type: 9,
+  isNoGet: false,
+  direction: 1,
+  value: 0,
+  num: 0,
+  name: "再摇一次",
+  tips: "再摇一次",
+  icon: "icon11",
+  lab: "",
+  isBad: false
+}, {
+  id: 14,
+  type: 2,
+  isNoGet: false,
+  direction: -1,
+  value: 2,
+  num: 0,
+  name: "前进2格",
+  tips: "遇到小美女一起前进2格",
+  icon: "icon12",
+  lab: "lab8",
+  isBad: false
+}, {
+  id: 15,
+  type: 3,
+  isNoGet: true,
+  direction: -1,
+  value: 1,
+  num: 1,
+  name: "获得指定卡",
+  tips: "获得指定点数骰子+1",
+  icon: "icon13",
+  lab: "lab9",
+  isBad: false
+}, {
+  id: 16,
+  type: 5,
+  isNoGet: false,
+  direction: -1,
+  value: -.05,
+  num: 0,
+  name: "-5%财富",
+  tips: "遇见盗贼丢失5%的财富",
+  icon: "icon14",
+  lab: "lab10",
+  isBad: true
+}, {
+  id: 17,
+  type: 1,
+  isNoGet: false,
+  direction: -1,
+  value: 1e6,
+  num: 0,
+  name: "+100万",
+  tips: "获得100万元",
+  icon: "icon15",
+  lab: "lab0",
+  isBad: false
+}, {
+  id: 18,
+  type: 3,
+  isNoGet: false,
+  direction: -1,
+  value: 0,
+  num: -1,
+  name: "-1颗骰子",
+  tips: "遇到海岛巡查扣除1颗骰子",
+  icon: "icon16",
+  lab: "lab11",
+  isBad: true
+}, {
+  id: 19,
+  type: 3,
+  isNoGet: false,
+  direction: -1,
+  value: 2,
+  num: 1,
+  name: "获得护盾",
+  tips: "获得护盾+1",
+  icon: "icon9",
+  lab: "lab6",
+  isBad: false
+}, {
+  id: 20,
+  type: 1,
+  isNoGet: false,
+  direction: -1,
+  value: 1e8,
+  num: 0,
+  name: "+1亿",
+  tips: "获得1亿元",
+  icon: "icon15",
+  lab: "lab18",
+  isBad: false
+}, {
+  id: 21,
+  type: 8,
+  isNoGet: false,
+  direction: -1,
+  value: 1,
+  num: 0,
+  name: "随机事件",
+  tips: "随机事件",
+  icon: "icon3",
+  lab: "lab3",
+  isBad: false
+}, {
+  id: 22,
+  type: 2,
+  isNoGet: false,
+  direction: -1,
+  value: 3,
+  num: 0,
+  name: "前进3格",
+  tips: "遇到小姐姐一起前进3格",
+  icon: "icon18",
+  lab: "lab13",
+  isBad: false
+}, {
+  id: 23,
+  type: 7,
+  isNoGet: false,
+  direction: -1,
+  value: 0,
+  num: 0,
+  name: "重伤重开",
+  tips: "踩到炸弹，重伤重开",
+  icon: "icon7",
+  lab: "lab14",
+  isBad: true
+}, {
+  id: 24,
+  type: 1,
+  isNoGet: false,
+  direction: 1,
+  value: 1e8,
+  num: 0,
+  name: "+1亿",
+  tips: "获得1亿元",
+  icon: "icon15",
+  lab: "lab18",
+  isBad: false
+}, {
+  id: 25,
+  type: 1,
+  isNoGet: false,
+  direction: 1,
+  value: -1e8,
+  num: 0,
+  name: "-1亿",
+  tips: "掉进土坑扣除1亿",
+  icon: "icon2",
+  lab: "lab7",
+  isBad: true
+}, {
+  id: 26,
+  type: 3,
+  isNoGet: true,
+  direction: -1,
+  value: 3,
+  num: 1,
+  name: "获得免广卡",
+  tips: "获得免广卡+1",
+  icon: "icon17",
+  lab: "lab12",
+  isBad: false
+}, {
+  id: 27,
+  type: 3,
+  isNoGet: false,
+  direction: -1,
+  value: 0,
+  num: -1,
+  name: "-1颗骰子",
+  tips: "遇到海岛巡查扣除1颗骰子",
+  icon: "icon16",
+  lab: "lab11",
+  isBad: true
+}];
+exports.MpnppolyEventCfg = [{
+  id: 0,
+  type: 1,
+  value: -1e6,
+  num: 0,
+  name: "-100万",
+  tips: "压到蚂蚁，罚款100万",
+  icon: "icon0"
+}, {
+  id: 1,
+  type: 1,
+  value: -1e5,
+  num: 0,
+  name: "-10万",
+  tips: "踩到一坨狗屎，熏到路人，罚款10万",
+  icon: "icon0"
+}, {
+  id: 2,
+  type: 3,
+  value: 0,
+  num: 1,
+  name: "+1骰子",
+  tips: "买到酱香拿铁，获得骰子x1",
+  icon: "icon0"
+}, {
+  id: 3,
+  type: 1,
+  value: -1e7,
+  num: 0,
+  name: "-1000万",
+  tips: "撞到路人，赔偿1千万",
+  icon: "icon0"
+}, {
+  id: 4,
+  type: 2,
+  value: 3,
+  num: 0,
+  name: "前进3格",
+  tips: "遇到大风，前进3格",
+  icon: "icon0"
+}, {
+  id: 5,
+  type: 3,
+  value: 0,
+  num: 3,
+  name: "+3筛子",
+  tips: "遇到策划，膜拜了一番，获得骰子x3",
+  icon: "icon0"
+}, {
+  id: 6,
+  type: 1,
+  value: 1e7,
+  num: 0,
+  name: "+1000万",
+  tips: "扶起贵妇，打赏你1千万",
+  icon: "icon0"
+}, {
+  id: 7,
+  type: 1,
+  value: -1e8,
+  num: 0,
+  name: "-1亿",
+  tips: "推销大力丸，被骗1个亿",
+  icon: "icon0"
+}];
+exports.MpnppolyProp = {
+  0: {
+    id: 0,
+    name: "骰子",
+    key: "dice"
+  },
+  1: {
+    id: 1,
+    name: "幸运骰子",
+    key: "assignDice"
+  },
+  2: {
+    id: 2,
+    name: "盾牌",
+    key: "shield"
+  },
+  3: {
+    id: 3,
+    name: "免广卡",
+    key: "freeCard"
+  }
+};
+exports.InitMpnppolyProp = {
+  dice: 5,
+  assignDice: 0,
+  shield: 0,
+  freeCard: 0,
+  countDown: 0
+};
+exports.MpnppolyFreePrice = 3e8;
+exports.MpnppolyRandomCoin = {
+  1: [{
+    pr: 10,
+    coin: 8888,
+    unit: "元"
+  }, {
+    pr: 10,
+    coin: 10,
+    unit: "万"
+  }, {
+    pr: 10,
+    coin: 88,
+    unit: "万"
+  }, {
+    pr: 10,
+    coin: 188,
+    unit: "万"
+  }, {
+    pr: 10,
+    coin: 520,
+    unit: "万"
+  }, {
+    pr: 10,
+    coin: 888,
+    unit: "万"
+  }, {
+    pr: 10,
+    coin: 1111,
+    unit: "万"
+  }, {
+    pr: 10,
+    coin: 1888,
+    unit: "万"
+  }, {
+    pr: 5,
+    coin: 4888,
+    unit: "万"
+  }, {
+    pr: 5,
+    coin: 8888,
+    unit: "万"
+  }, {
+    pr: 5,
+    coin: 1,
+    unit: "亿"
+  }, {
+    pr: 4,
+    coin: 3,
+    unit: "亿"
+  }, {
+    pr: 1,
+    coin: 10,
+    unit: "亿"
+  }]
+};
+(function (e) {
+  e[e["起点"] = 0] = "起点";
+  e[e["金钱"] = 1] = "金钱";
+  e[e["移动"] = 2] = "移动";
+  e[e["道具变化"] = 3] = "道具变化";
+  e[e["切换地图"] = 4] = "切换地图";
+  e[e["金钱2"] = 5] = "金钱2";
+  e[e["随机金币"] = 6] = "随机金币";
+  e[e["重开"] = 7] = "重开";
+  e[e["突发事件"] = 8] = "突发事件";
+  e[e["再摇一次"] = 9] = "再摇一次";
+})(exports.MpnppolyType || (exports.MpnppolyType = {}));

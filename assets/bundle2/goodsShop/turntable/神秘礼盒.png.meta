@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "74ad5eb9-f13b-4593-addd-84954d1c55d3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 81,
+  "height": 84,
+  "platformSettings": {},
+  "subMetas": {
+    "神秘礼盒": {
+      "ver": "1.0.6",
+      "uuid": "0863762b-b7bc-4db7-9b7f-ce97965a7ed2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "74ad5eb9-f13b-4593-addd-84954d1c55d3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 81,
+      "height": 84,
+      "rawWidth": 81,
+      "rawHeight": 84,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

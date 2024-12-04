@@ -1,0 +1,191 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "障碍太空站残骸",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "障碍太空站残骸",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 6
+      },
+      {
+        "__id__": 7
+      }
+    ],
+    "_prefab": {
+      "__id__": 8
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 270,
+      "height": 149
+    },
+    "_id": "033980ab-3a94-4fb3-914b-6dfff1bd8c1d"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "broken",
+    "_active": false,
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 268,
+      "height": 146
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "80286d73-c84c-49ea-9bd6-4fe80238e781"
+    },
+    "node": {
+      "__id__": 2
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "d2g1EZR3dNaKzX5hbIkcrC",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "c91c2c9a-eeb3-40b7-9880-5eeb6ddf5355"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "71767Nct+hBbZA1KU/5Gz+I",
+    "bitId": "2003",
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": 57,
+        "y": 74.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 9,
+        "y": 60.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -49,
+        "y": 60.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -43,
+        "y": 45.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -115,
+        "y": 20.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -135,
+        "y": -0.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -133,
+        "y": -51.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -89,
+        "y": -74.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 48,
+        "y": -63.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 60,
+        "y": -53.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 116,
+        "y": -48.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 135,
+        "y": -11.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 121,
+        "y": 51.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 100,
+        "y": 72.5,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

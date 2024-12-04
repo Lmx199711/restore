@@ -1,0 +1,13 @@
+
+shuazi.png
+size: 136,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/shuazi_02
+  rotate: false
+  xy: 2, 2
+  size: 132, 507
+  orig: 137, 507
+  offset: 0, 0
+  index: -1

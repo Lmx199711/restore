@@ -1,0 +1,149 @@
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.EmgcEnum = exports.EmgcCfg = undefined;
+exports.EmgcCfg = [{
+  id: 1,
+  type: "normal",
+  icon: "icon1",
+  btn1: "btn13",
+  btn2: "",
+  triggerDay: 11,
+  content: "一条面北的信息发给了你,你只是不小心打开了,就发现被骗了500元",
+  resultType1: "coin",
+  resultParam1: -500,
+  resultType2: "",
+  resultParam2: null,
+  btnVideo1: 0,
+  btnVideo2: 0
+}, {
+  id: 2,
+  type: "normal",
+  icon: "icon2",
+  btn1: "btn3",
+  btn2: "",
+  triggerDay: 2,
+  content: "你路过一个小摊,点了一份九转肥肠,吃完后呕吐不止,店家赶紧赔偿了你1000元",
+  resultType1: "coin",
+  resultParam1: 1e3,
+  btnVideo1: 0,
+  btnVideo2: 0
+}, {
+  id: 3,
+  type: "normal",
+  icon: "icon3",
+  btn1: "btn13",
+  btn2: "",
+  triggerDay: 10,
+  content: "一个开着五菱的靓仔从你面前狂飙,差点撞到你,你上前理论被揍了一顿,自己去医院接受了治疗,花费了5000",
+  resultType1: "coin",
+  resultParam1: -5e3,
+  btnVideo1: 0,
+  btnVideo2: 0
+}, {
+  id: 4,
+  type: "normal",
+  icon: "icon4",
+  btn1: "btn12",
+  btn2: "",
+  triggerDay: 4,
+  content: "你在路边看到一个舞者,你情不自禁跟着唱了起来“我没K,我没K”,不自觉得打赏了500元",
+  resultType1: "coin",
+  resultParam1: -500,
+  resultType2: "",
+  resultParam2: null,
+  btnVideo1: 0,
+  btnVideo2: 0
+}, {
+  id: 5,
+  type: "normal",
+  icon: "icon5",
+  btn1: "btn14",
+  btn2: "",
+  triggerDay: 5,
+  content: "你在垃圾桶内捡到了一张彩票,你刮开一看,运气爆棚,中了800元",
+  resultType1: "coin",
+  resultParam1: 800,
+  btnVideo1: 0,
+  btnVideo2: 0
+}, {
+  id: 6,
+  type: "normal",
+  icon: "icon6",
+  btn1: "btn3",
+  btn2: "",
+  triggerDay: 6,
+  content: "你向一位老者拜师,学习混元极意太极拳,支付了2000学费,结果你资质太差,被师傅踹出师门了",
+  resultType1: "coin",
+  resultParam1: -2e3,
+  btnVideo1: 0,
+  btnVideo2: 0
+}, {
+  id: 7,
+  type: "normal",
+  icon: "icon7",
+  btn1: "btn6",
+  btn2: "",
+  triggerDay: 7,
+  content: "主管最近看你打螺丝特别卖力,把“最佳员工”锦旗颁发给了你,顺带还给你颁发了一点小奖金",
+  resultType1: "coin",
+  resultParam1: 3e3,
+  btnVideo1: 0,
+  btnVideo2: 0
+}, {
+  id: 8,
+  type: "normal",
+  icon: "icon8",
+  btn1: "btn12",
+  btn2: "",
+  triggerDay: 8,
+  content: "曾今的同桌找到了你,邀请你加入他的家族,你同意后,他给你颁发了入会费1000元",
+  resultType1: "coin",
+  resultParam1: 1e3,
+  btnVideo1: 0,
+  btnVideo2: 0
+}, {
+  id: 0,
+  type: "normal",
+  icon: "icon9",
+  btn1: "btn5",
+  btn2: "",
+  triggerDay: 3,
+  content: "你在路边看到了一个青蛙正在残忍得卖青蛙玩偶,你也帮忙一起吆喝,最后他分红给了你200元",
+  resultType1: "coin",
+  resultParam1: 200,
+  btnVideo1: 0,
+  btnVideo2: 0
+}, {
+  id: 9,
+  type: "normal",
+  icon: "icon10",
+  btn1: "btn15",
+  btn2: "",
+  triggerDay: 9,
+  content: "你回到自己小破家,发现家里被小偷翻得乱七八糟,损失了2000元",
+  resultType1: "coin",
+  resultParam1: -2e3,
+  btnVideo1: 0,
+  btnVideo2: 0
+}, {
+  id: 11,
+  type: "emgc",
+  icon: "icon11",
+  btn1: "btn11",
+  btn2: "btn10",
+  triggerDay: null,
+  content: "",
+  resultType1: "coin_video",
+  resultParam1: 1,
+  resultType2: "",
+  resultParam2: null,
+  btnVideo1: 1,
+  btnVideo2: 0
+}];
+(function (e) {
+  e["金币"] = "coin";
+  e["触发事件"] = "nextEmgc";
+  e["消息"] = "chat";
+  e["视频金币"] = "coin_video";
+})(exports.EmgcEnum || (exports.EmgcEnum = {}));

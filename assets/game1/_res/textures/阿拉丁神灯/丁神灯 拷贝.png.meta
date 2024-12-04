@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "59058f0f-5489-4e50-9219-5cc609648c48",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 37,
+  "height": 35,
+  "platformSettings": {},
+  "subMetas": {
+    "丁神灯 拷贝": {
+      "ver": "1.0.6",
+      "uuid": "48614c45-661f-47d0-95fc-b952f85118fe",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "59058f0f-5489-4e50-9219-5cc609648c48",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 37,
+      "height": 35,
+      "rawWidth": 37,
+      "rawHeight": 35,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

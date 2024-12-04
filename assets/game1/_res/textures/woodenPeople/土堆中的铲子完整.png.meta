@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "127427bc-dbbb-4402-b5b6-7de940afdb49",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 159,
+  "height": 54,
+  "platformSettings": {},
+  "subMetas": {
+    "土堆中的铲子完整": {
+      "ver": "1.0.6",
+      "uuid": "1ce279df-787f-4c9d-a145-98bfe71bd9e5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "127427bc-dbbb-4402-b5b6-7de940afdb49",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 159,
+      "height": 54,
+      "rawWidth": 159,
+      "rawHeight": 54,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "516f7cf3-565b-476d-a6e0-4c242ac62c7d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 98,
+  "height": 98,
+  "platformSettings": {},
+  "subMetas": {
+    "仙泉水": {
+      "ver": "1.0.6",
+      "uuid": "9f261891-e66a-416e-858f-254c0d516528",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "516f7cf3-565b-476d-a6e0-4c242ac62c7d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": 1,
+      "trimX": 20,
+      "trimY": 2,
+      "width": 62,
+      "height": 92,
+      "rawWidth": 98,
+      "rawHeight": 98,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

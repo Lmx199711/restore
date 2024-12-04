@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d0c29572-f185-4b91-b95e-528f9d60e566",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 164,
+  "height": 262,
+  "platformSettings": {},
+  "subMetas": {
+    "裤里难车标金": {
+      "ver": "1.0.6",
+      "uuid": "d9a08c0e-4f9b-44b4-98f3-1f4bc2575bbe",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d0c29572-f185-4b91-b95e-528f9d60e566",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 164,
+      "height": 262,
+      "rawWidth": 164,
+      "rawHeight": 262,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

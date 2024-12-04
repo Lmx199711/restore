@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "63679e02-6eb7-41fe-8b8b-7c72377af20d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 429,
+  "height": 755,
+  "platformSettings": {},
+  "subMetas": {
+    "肌肉身体": {
+      "ver": "1.0.6",
+      "uuid": "b3d60916-9de5-480d-aed1-b33b6ddc9426",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "63679e02-6eb7-41fe-8b8b-7c72377af20d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 429,
+      "height": 755,
+      "rawWidth": 429,
+      "rawHeight": 755,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

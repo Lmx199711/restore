@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "22bdc927-418b-43c6-a83d-e15a2ce73aa2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1664,
+  "height": 1536,
+  "platformSettings": {},
+  "subMetas": {
+    "Monopoly_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "c94fc7da-445a-4788-9a33-7a82fa183802",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "22bdc927-418b-43c6-a83d-e15a2ce73aa2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1660,
+      "height": 1535,
+      "rawWidth": 1664,
+      "rawHeight": 1536,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

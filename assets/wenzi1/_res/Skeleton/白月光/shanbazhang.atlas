@@ -1,0 +1,48 @@
+
+shanbazhang.png
+size: 877,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+30_000
+  rotate: false
+  xy: 673, 115
+  size: 202, 367
+  orig: 256, 512
+  offset: 16, 70
+  index: -1
+30_001
+  rotate: true
+  xy: 2, 2
+  size: 238, 432
+  orig: 256, 512
+  offset: 6, 40
+  index: -1
+30_002
+  rotate: true
+  xy: 2, 242
+  size: 240, 437
+  orig: 256, 512
+  offset: 9, 37
+  index: -1
+30_003
+  rotate: false
+  xy: 441, 37
+  size: 230, 445
+  orig: 256, 512
+  offset: 11, 33
+  index: -1
+erguang
+  rotate: false
+  xy: 808, 75
+  size: 37, 38
+  orig: 39, 40
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: true
+  xy: 673, 12
+  size: 101, 133
+  orig: 101, 133
+  offset: 0, 0
+  index: -1

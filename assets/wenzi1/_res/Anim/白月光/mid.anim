@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mid",
+  "_duration": 0.26666666666666666,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            3.5,
+            5,
+            0
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            159.487,
+            349.473,
+            0
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0.25,
+          "value": 255
+        },
+        {
+          "frame": 0.26666666666666666,
+          "value": 0
+        }
+      ]
+    }
+  }
+}

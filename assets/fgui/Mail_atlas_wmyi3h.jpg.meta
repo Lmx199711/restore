@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b1133783-59ae-4629-b699-0ad82a3c2d5c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1002,
+  "height": 1668,
+  "platformSettings": {},
+  "subMetas": {
+    "Mail_atlas_wmyi3h": {
+      "ver": "1.0.6",
+      "uuid": "5b01ef9d-9de8-4666-8c3b-0d746dba3a80",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b1133783-59ae-4629-b699-0ad82a3c2d5c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1002,
+      "height": 1668,
+      "rawWidth": 1002,
+      "rawHeight": 1668,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

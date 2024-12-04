@@ -1,0 +1,48 @@
+
+yinbing.png
+size: 878,1292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+n_2
+  rotate: false
+  xy: 625, 634
+  size: 251, 656
+  orig: 251, 691
+  offset: 0, 0
+  index: -1
+n_3
+  rotate: false
+  xy: 2, 19
+  size: 325, 613
+  orig: 325, 613
+  offset: 0, 0
+  index: -1
+nan_2
+  rotate: true
+  xy: 2, 940
+  size: 350, 621
+  orig: 350, 621
+  offset: 0, 0
+  index: -1
+nan_3
+  rotate: true
+  xy: 2, 696
+  size: 242, 618
+  orig: 242, 618
+  offset: 0, 0
+  index: -1
+xn
+  rotate: false
+  xy: 329, 2
+  size: 177, 692
+  orig: 177, 692
+  offset: 0, 0
+  index: -1
+zhu
+  rotate: false
+  xy: 508, 32
+  size: 327, 600
+  orig: 327, 605
+  offset: 0, 0
+  index: -1

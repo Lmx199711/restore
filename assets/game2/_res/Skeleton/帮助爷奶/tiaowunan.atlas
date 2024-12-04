@@ -1,0 +1,62 @@
+
+tiaowunan.png
+size: 1321,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 972, 3
+  size: 76, 146
+  orig: 76, 249
+  offset: 0, 103
+  index: -1
+arm_R
+  rotate: true
+  xy: 1120, 4
+  size: 75, 142
+  orig: 75, 142
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 13
+  size: 190, 378
+  orig: 190, 378
+  offset: 0, 0
+  index: -1
+elbow_L
+  rotate: true
+  xy: 382, 2
+  size: 69, 185
+  orig: 69, 185
+  offset: 0, 0
+  index: -1
+elbow_R
+  rotate: true
+  xy: 569, 2
+  size: 69, 185
+  orig: 69, 185
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 382, 73
+  size: 130, 490
+  orig: 130, 490
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 874, 81
+  size: 122, 445
+  orig: 122, 445
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 756, 21
+  size: 214, 50
+  orig: 216, 52
+  offset: 1, 1
+  index: -1

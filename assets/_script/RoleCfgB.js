@@ -1,0 +1,7213 @@
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.TouchLevelCfgB = exports.RoleLevelCfgB = undefined;
+exports.RoleLevelCfgB = {
+  1: {
+    level: 1,
+    rivalName: "电焊工",
+    anim: "dianhan",
+    offset: [-80, -3],
+    upDiamond: "5",
+    upExp: 240,
+    rivalSpeed: 8,
+    price: 500,
+    onceExp: 20,
+    exhcangeDiamond: 1,
+    isMax: false
+  },
+  2: {
+    level: 2,
+    rivalName: "D法",
+    anim: "difa",
+    offset: [-100, -3],
+    upDiamond: "155",
+    upExp: 9e4,
+    rivalSpeed: 3e3,
+    price: 1e3,
+    onceExp: 40,
+    exhcangeDiamond: 2,
+    isMax: false
+  },
+  3: {
+    level: 3,
+    rivalName: "奥利给",
+    anim: "dongyongge",
+    offset: [-80, -3],
+    upDiamond: "655",
+    upExp: 198e4,
+    rivalSpeed: 6e4,
+    price: 5e3,
+    onceExp: 80,
+    exhcangeDiamond: 4,
+    isMax: false
+  },
+  4: {
+    level: 4,
+    rivalName: "卖鱼强",
+    anim: "gaoqiqiang",
+    offset: [-80, -3],
+    upDiamond: "2155",
+    upExp: 15e6,
+    rivalSpeed: 5e5,
+    price: 1e4,
+    onceExp: 160,
+    exhcangeDiamond: 8,
+    isMax: false
+  },
+  5: {
+    level: 5,
+    rivalName: "杰哥",
+    anim: "jiege",
+    offset: [-95, -3],
+    upDiamond: "5155",
+    upExp: 75e6,
+    rivalSpeed: 25e5,
+    price: 2e4,
+    onceExp: 320,
+    exhcangeDiamond: 16,
+    isMax: false
+  },
+  6: {
+    level: 6,
+    rivalName: "大笑哥",
+    anim: "jinguanzhang",
+    offset: [-83, -3],
+    upDiamond: "15155",
+    upExp: 1125e6,
+    rivalSpeed: 375e5,
+    price: 3e4,
+    onceExp: 640,
+    exhcangeDiamond: 32,
+    isMax: false
+  },
+  7: {
+    level: 7,
+    rivalName: "砍瓜佬",
+    anim: "liuhuaqiang",
+    offset: [-15, -20],
+    upDiamond: "35155",
+    upExp: 6e9,
+    rivalSpeed: 2e8,
+    price: 1e5,
+    onceExp: 1280,
+    exhcangeDiamond: 64,
+    isMax: false
+  },
+  8: {
+    level: 8,
+    rivalName: "糖三",
+    anim: "tangsan",
+    offset: [-45, -20],
+    upDiamond: "85155",
+    upExp: 45e9,
+    rivalSpeed: 15e8,
+    price: 1e5,
+    onceExp: 2560,
+    exhcangeDiamond: 128,
+    isMax: false
+  },
+  9: {
+    level: 9,
+    rivalName: "小胖",
+    anim: "xiaopang",
+    offset: [-90, -3],
+    upDiamond: "285155",
+    upExp: 3e11,
+    rivalSpeed: 1e10,
+    price: 1e5,
+    onceExp: 5100,
+    exhcangeDiamond: 256,
+    isMax: false
+  },
+  10: {
+    level: 10,
+    rivalName: "蓝色妖鸡",
+    anim: "yanseyaoji",
+    offset: [-100, -3],
+    upDiamond: "1085155",
+    upExp: 9e12,
+    rivalSpeed: 3e11,
+    price: 1e5,
+    onceExp: 1e4,
+    exhcangeDiamond: 500,
+    isMax: false
+  },
+  11: {
+    level: 11,
+    rivalName: "烧烤王老马",
+    anim: "bajie",
+    offset: [-100, -3],
+    upDiamond: "3085155",
+    upExp: 3e13,
+    rivalSpeed: 1e12,
+    price: 1e5,
+    onceExp: 2e4,
+    exhcangeDiamond: 1e3,
+    isMax: true
+  }
+};
+exports.TouchLevelCfgB = [{
+  level: 1,
+  flyCoin: 1e5,
+  num: 1,
+  isMax: false,
+  coin: 1e3,
+  text: 1e3
+}, {
+  level: 2,
+  flyCoin: 11e4,
+  num: 2,
+  isMax: false,
+  coin: 2e3,
+  text: 2e3
+}, {
+  level: 3,
+  flyCoin: 12e4,
+  num: 3,
+  isMax: false,
+  coin: 3600,
+  text: 3600
+}, {
+  level: 4,
+  flyCoin: 13e4,
+  num: 4,
+  isMax: false,
+  coin: 6480,
+  text: 6480
+}, {
+  level: 5,
+  flyCoin: 14e4,
+  num: 5,
+  isMax: false,
+  coin: 11664,
+  text: "1.16万"
+}, {
+  level: 6,
+  flyCoin: 15e4,
+  num: 6,
+  isMax: false,
+  coin: 20995,
+  text: "2.09万"
+}, {
+  level: 7,
+  flyCoin: 16e4,
+  num: 7,
+  isMax: false,
+  coin: 37791,
+  text: "3.77万"
+}, {
+  level: 8,
+  flyCoin: 17e4,
+  num: 8,
+  isMax: false,
+  coin: 68024,
+  text: "6.8万"
+}, {
+  level: 9,
+  flyCoin: 18e4,
+  num: 9,
+  isMax: false,
+  coin: 122444,
+  text: "12.24万"
+}, {
+  level: 10,
+  flyCoin: 19e4,
+  num: 10,
+  isMax: false,
+  coin: 220399,
+  text: "22.03万"
+}, {
+  level: 11,
+  flyCoin: 2e5,
+  num: 11,
+  isMax: false,
+  coin: 396719,
+  text: "39.67万"
+}, {
+  level: 12,
+  flyCoin: 21e4,
+  num: 12,
+  isMax: false,
+  coin: 714093,
+  text: "71.4万"
+}, {
+  level: 13,
+  flyCoin: 22e4,
+  num: 13,
+  isMax: false,
+  coin: 1285368,
+  text: "128.53万"
+}, {
+  level: 14,
+  flyCoin: 23e4,
+  num: 14,
+  isMax: false,
+  coin: 2313663,
+  text: "231.36万"
+}, {
+  level: 15,
+  flyCoin: 24e4,
+  num: 15,
+  isMax: false,
+  coin: 4164593,
+  text: "416.45万"
+}, {
+  level: 16,
+  flyCoin: 25e4,
+  num: 16,
+  isMax: false,
+  coin: 7496267,
+  text: "749.62万"
+}, {
+  level: 17,
+  flyCoin: 26e4,
+  num: 17,
+  isMax: false,
+  coin: 13493281,
+  text: "1349.32万"
+}, {
+  level: 18,
+  flyCoin: 27e4,
+  num: 18,
+  isMax: false,
+  coin: 24287906,
+  text: "2428.79万"
+}, {
+  level: 19,
+  flyCoin: 28e4,
+  num: 19,
+  isMax: false,
+  coin: 43718231,
+  text: "4371.82万"
+}, {
+  level: 20,
+  flyCoin: 29e4,
+  num: 20,
+  isMax: false,
+  coin: 78692816,
+  text: "7869.28万"
+}, {
+  level: 21,
+  flyCoin: 3e5,
+  num: 21,
+  isMax: false,
+  coin: 141647069,
+  text: "1.41亿"
+}, {
+  level: 22,
+  flyCoin: 31e4,
+  num: 22,
+  isMax: false,
+  coin: 169976483,
+  text: "1.69亿"
+}, {
+  level: 23,
+  flyCoin: 32e4,
+  num: 23,
+  isMax: false,
+  coin: 203971779,
+  text: "2.03亿"
+}, {
+  level: 24,
+  flyCoin: 33e4,
+  num: 24,
+  isMax: false,
+  coin: 244766135,
+  text: "2.44亿"
+}, {
+  level: 25,
+  flyCoin: 34e4,
+  num: 25,
+  isMax: false,
+  coin: 293719362,
+  text: "2.93亿"
+}, {
+  level: 26,
+  flyCoin: 35e4,
+  num: 26,
+  isMax: false,
+  coin: 352463235,
+  text: "3.52亿"
+}, {
+  level: 27,
+  flyCoin: 36e4,
+  num: 27,
+  isMax: false,
+  coin: 422955882,
+  text: "4.22亿"
+}, {
+  level: 28,
+  flyCoin: 37e4,
+  num: 28,
+  isMax: false,
+  coin: 507547058,
+  text: "5.07亿"
+}, {
+  level: 29,
+  flyCoin: 38e4,
+  num: 29,
+  isMax: false,
+  coin: 609056470,
+  text: "6.09亿"
+}, {
+  level: 30,
+  flyCoin: 39e4,
+  num: 30,
+  isMax: false,
+  coin: 730867764,
+  text: "7.3亿"
+}, {
+  level: 31,
+  flyCoin: 4e5,
+  num: 31,
+  isMax: false,
+  coin: 877041317,
+  text: "8.77亿"
+}, {
+  level: 32,
+  flyCoin: 41e4,
+  num: 32,
+  isMax: false,
+  coin: 1052449580,
+  text: "10.52亿"
+}, {
+  level: 33,
+  flyCoin: 42e4,
+  num: 33,
+  isMax: false,
+  coin: 1262939496,
+  text: "12.62亿"
+}, {
+  level: 34,
+  flyCoin: 43e4,
+  num: 34,
+  isMax: false,
+  coin: 1515527395,
+  text: "15.15亿"
+}, {
+  level: 35,
+  flyCoin: 44e4,
+  num: 35,
+  isMax: false,
+  coin: 1818632874,
+  text: "18.18亿"
+}, {
+  level: 36,
+  flyCoin: 45e4,
+  num: 36,
+  isMax: false,
+  coin: 2182359449,
+  text: "21.82亿"
+}, {
+  level: 37,
+  flyCoin: 46e4,
+  num: 37,
+  isMax: false,
+  coin: 2618831339,
+  text: "26.18亿"
+}, {
+  level: 38,
+  flyCoin: 47e4,
+  num: 38,
+  isMax: false,
+  coin: 3142597607,
+  text: "31.42亿"
+}, {
+  level: 39,
+  flyCoin: 48e4,
+  num: 39,
+  isMax: false,
+  coin: 3771117128,
+  text: "37.71亿"
+}, {
+  level: 40,
+  flyCoin: 49e4,
+  num: 40,
+  isMax: false,
+  coin: 4525340554,
+  text: "45.25亿"
+}, {
+  level: 41,
+  flyCoin: 5e5,
+  num: 41,
+  isMax: false,
+  coin: 5430408665,
+  text: "54.3亿"
+}, {
+  level: 42,
+  flyCoin: 51e4,
+  num: 42,
+  isMax: false,
+  coin: 6516490397,
+  text: "65.16亿"
+}, {
+  level: 43,
+  flyCoin: 52e4,
+  num: 43,
+  isMax: false,
+  coin: 7819788477,
+  text: "78.19亿"
+}, {
+  level: 44,
+  flyCoin: 53e4,
+  num: 44,
+  isMax: false,
+  coin: 9383746172,
+  text: "98.83亿"
+}, {
+  level: 45,
+  flyCoin: 54e4,
+  num: 45,
+  isMax: false,
+  coin: 11260495407,
+  text: "112.6亿"
+}, {
+  level: 46,
+  flyCoin: 55e4,
+  num: 46,
+  isMax: false,
+  coin: 13512594488,
+  text: "135.12亿"
+}, {
+  level: 47,
+  flyCoin: 56e4,
+  num: 47,
+  isMax: false,
+  coin: 16215113386,
+  text: "162.15亿"
+}, {
+  level: 48,
+  flyCoin: 57e4,
+  num: 48,
+  isMax: false,
+  coin: 19458136063,
+  text: "194.58亿"
+}, {
+  level: 49,
+  flyCoin: 58e4,
+  num: 49,
+  isMax: false,
+  coin: 23349763275,
+  text: "233.49亿"
+}, {
+  level: 50,
+  flyCoin: 59e4,
+  num: 50,
+  isMax: false,
+  coin: 28019715931,
+  text: "280.19亿"
+}, {
+  level: 51,
+  flyCoin: 6e5,
+  num: 51,
+  isMax: false,
+  coin: 33623659117,
+  text: "336.23亿"
+}, {
+  level: 52,
+  flyCoin: 61e4,
+  num: 52,
+  isMax: false,
+  coin: 40348390940,
+  text: "403.48亿"
+}, {
+  level: 53,
+  flyCoin: 62e4,
+  num: 53,
+  isMax: false,
+  coin: 48418069128,
+  text: "484.18亿"
+}, {
+  level: 54,
+  flyCoin: 63e4,
+  num: 54,
+  isMax: false,
+  coin: 58101682954,
+  text: "581.01亿"
+}, {
+  level: 55,
+  flyCoin: 64e4,
+  num: 55,
+  isMax: false,
+  coin: 69722019544,
+  text: "697.22亿"
+}, {
+  level: 56,
+  flyCoin: 65e4,
+  num: 56,
+  isMax: false,
+  coin: 83666423453,
+  text: "836.66亿"
+}, {
+  level: 57,
+  flyCoin: 66e4,
+  num: 57,
+  isMax: false,
+  coin: 100399708144,
+  text: "1003.99亿"
+}, {
+  level: 58,
+  flyCoin: 67e4,
+  num: 58,
+  isMax: false,
+  coin: 120479649772,
+  text: "1204.79亿"
+}, {
+  level: 59,
+  flyCoin: 68e4,
+  num: 59,
+  isMax: false,
+  coin: 144575579727,
+  text: "1445.75亿"
+}, {
+  level: 60,
+  flyCoin: 69e4,
+  num: 60,
+  isMax: false,
+  coin: 173490695672,
+  text: "1734.9亿"
+}, {
+  level: 61,
+  flyCoin: 7e5,
+  num: 61,
+  isMax: false,
+  coin: 208188834807,
+  text: "2081.88亿"
+}, {
+  level: 62,
+  flyCoin: 71e4,
+  num: 62,
+  isMax: false,
+  coin: 249826601768,
+  text: "2498.26亿"
+}, {
+  level: 63,
+  flyCoin: 72e4,
+  num: 63,
+  isMax: false,
+  coin: 299791922122,
+  text: "2997.91亿"
+}, {
+  level: 64,
+  flyCoin: 73e4,
+  num: 64,
+  isMax: false,
+  coin: 359750306546,
+  text: "3597.5亿"
+}, {
+  level: 65,
+  flyCoin: 74e4,
+  num: 65,
+  isMax: false,
+  coin: 431700367855,
+  text: "3597.5亿"
+}, {
+  level: 66,
+  flyCoin: 75e4,
+  num: 66,
+  isMax: false,
+  coin: 518040441426,
+  text: "5180.4亿"
+}, {
+  level: 67,
+  flyCoin: 76e4,
+  num: 67,
+  isMax: false,
+  coin: 621648529712,
+  text: "6216.48亿"
+}, {
+  level: 68,
+  flyCoin: 77e4,
+  num: 68,
+  isMax: false,
+  coin: 745978235654,
+  text: "7459.78亿"
+}, {
+  level: 69,
+  flyCoin: 78e4,
+  num: 69,
+  isMax: false,
+  coin: 895173882785,
+  text: "8951.73亿"
+}, {
+  level: 70,
+  flyCoin: 79e4,
+  num: 70,
+  isMax: false,
+  coin: 1074208659342,
+  text: "1.07兆"
+}, {
+  level: 71,
+  flyCoin: 8e5,
+  num: 71,
+  isMax: false,
+  coin: 1289050391210,
+  text: "1.28兆"
+}, {
+  level: 72,
+  flyCoin: 81e4,
+  num: 72,
+  isMax: false,
+  coin: 1546860469452,
+  text: "1.54兆"
+}, {
+  level: 73,
+  flyCoin: 82e4,
+  num: 73,
+  isMax: false,
+  coin: 1856232563343,
+  text: "1.85兆"
+}, {
+  level: 74,
+  flyCoin: 83e4,
+  num: 74,
+  isMax: false,
+  coin: 2227479076011,
+  text: "2.22兆"
+}, {
+  level: 75,
+  flyCoin: 84e4,
+  num: 75,
+  isMax: false,
+  coin: 2672974891214,
+  text: "2.67兆"
+}, {
+  level: 76,
+  flyCoin: 85e4,
+  num: 76,
+  isMax: false,
+  coin: 3207569869456,
+  text: "3.2兆"
+}, {
+  level: 77,
+  flyCoin: 86e4,
+  num: 77,
+  isMax: false,
+  coin: 3849083843348,
+  text: "3.84兆"
+}, {
+  level: 78,
+  flyCoin: 87e4,
+  num: 78,
+  isMax: false,
+  coin: 4618900612017,
+  text: "4.61兆"
+}, {
+  level: 79,
+  flyCoin: 88e4,
+  num: 79,
+  isMax: false,
+  coin: 5542680734421,
+  text: "5.54兆"
+}, {
+  level: 80,
+  flyCoin: 89e4,
+  num: 80,
+  isMax: false,
+  coin: 6651216881305,
+  text: "6.65兆"
+}, {
+  level: 81,
+  flyCoin: 9e5,
+  num: 81,
+  isMax: false,
+  coin: 7981460257566,
+  text: "7.98兆"
+}, {
+  level: 82,
+  flyCoin: 91e4,
+  num: 82,
+  isMax: false,
+  coin: 9577752309079,
+  text: "9.57兆"
+}, {
+  level: 83,
+  flyCoin: 92e4,
+  num: 83,
+  isMax: false,
+  coin: 11493302770895,
+  text: "11.49兆"
+}, {
+  level: 84,
+  flyCoin: 93e4,
+  num: 84,
+  isMax: false,
+  coin: 13791963325074,
+  text: "13.79兆"
+}, {
+  level: 85,
+  flyCoin: 94e4,
+  num: 85,
+  isMax: false,
+  coin: 16550355990089,
+  text: "16.55兆"
+}, {
+  level: 86,
+  flyCoin: 95e4,
+  num: 86,
+  isMax: false,
+  coin: 19860427188107,
+  text: "19.86兆"
+}, {
+  level: 87,
+  flyCoin: 96e4,
+  num: 87,
+  isMax: false,
+  coin: 23832512625728,
+  text: "23.83兆"
+}, {
+  level: 88,
+  flyCoin: 97e4,
+  num: 88,
+  isMax: false,
+  coin: 28599015150873,
+  text: "28.59兆"
+}, {
+  level: 89,
+  flyCoin: 98e4,
+  num: 89,
+  isMax: false,
+  coin: 34318818181048,
+  text: "34.34兆"
+}, {
+  level: 90,
+  flyCoin: 99e4,
+  num: 90,
+  isMax: false,
+  coin: 41182581817258,
+  text: "41.18兆"
+}, {
+  level: 91,
+  flyCoin: 1e6,
+  num: 91,
+  isMax: false,
+  coin: 49419098180709,
+  text: "49.41兆"
+}, {
+  level: 92,
+  flyCoin: 1012800,
+  num: 92,
+  isMax: false,
+  coin: 59302917816851,
+  text: "53.9兆"
+}, {
+  level: 93,
+  flyCoin: 1025763,
+  num: 93,
+  isMax: false,
+  coin: 71163501380221,
+  text: "71.16兆"
+}, {
+  level: 94,
+  flyCoin: 1038892,
+  num: 94,
+  isMax: false,
+  coin: 85396201656266,
+  text: "85.39兆"
+}, {
+  level: 95,
+  flyCoin: 1052189,
+  num: 95,
+  isMax: false,
+  coin: 102475441987519,
+  text: "102.47兆"
+}, {
+  level: 96,
+  flyCoin: 1065657,
+  num: 96,
+  isMax: false,
+  coin: 122970530385022,
+  text: "122.97兆"
+}, {
+  level: 97,
+  flyCoin: 1079297,
+  num: 97,
+  isMax: false,
+  coin: 147564636462027,
+  text: "147.56兆"
+}, {
+  level: 98,
+  flyCoin: 1093111,
+  num: 98,
+  isMax: false,
+  coin: 177077563754432,
+  text: "177.07兆"
+}, {
+  level: 99,
+  flyCoin: 1107103,
+  num: 99,
+  isMax: false,
+  coin: 212493076505319,
+  text: "212.49兆"
+}, {
+  level: 100,
+  flyCoin: 1121273,
+  num: 100,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 101,
+  flyCoin: 1135625,
+  num: 101,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 102,
+  flyCoin: 1150160,
+  num: 102,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 103,
+  flyCoin: 1164882,
+  num: 103,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 104,
+  flyCoin: 1179792,
+  num: 104,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 105,
+  flyCoin: 1194892,
+  num: 105,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 106,
+  flyCoin: 1210186,
+  num: 106,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 107,
+  flyCoin: 1225676,
+  num: 107,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 108,
+  flyCoin: 1241364,
+  num: 108,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 109,
+  flyCoin: 1257253,
+  num: 109,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 110,
+  flyCoin: 1273345,
+  num: 110,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 111,
+  flyCoin: 1289644,
+  num: 111,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 112,
+  flyCoin: 1306150,
+  num: 112,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 113,
+  flyCoin: 1322869,
+  num: 113,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 114,
+  flyCoin: 1339801,
+  num: 114,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 115,
+  flyCoin: 1356949,
+  num: 115,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 116,
+  flyCoin: 1374318,
+  num: 116,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 117,
+  flyCoin: 1391908,
+  num: 117,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 118,
+  flyCoin: 1409724,
+  num: 118,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 119,
+  flyCoin: 1427768,
+  num: 119,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 120,
+  flyCoin: 1446043,
+  num: 120,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 121,
+  flyCoin: 1464551,
+  num: 121,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 122,
+  flyCoin: 1483297,
+  num: 122,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 123,
+  flyCoin: 1502282,
+  num: 123,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 124,
+  flyCoin: 1521511,
+  num: 124,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 125,
+  flyCoin: 1540985,
+  num: 125,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 126,
+  flyCoin: 1560709,
+  num: 126,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 127,
+  flyCoin: 1580686,
+  num: 127,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 128,
+  flyCoin: 1600918,
+  num: 128,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 129,
+  flyCoin: 1621409,
+  num: 129,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 130,
+  flyCoin: 1642162,
+  num: 130,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 131,
+  flyCoin: 1663181,
+  num: 131,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 132,
+  flyCoin: 1684469,
+  num: 132,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 133,
+  flyCoin: 1706029,
+  num: 133,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 134,
+  flyCoin: 1727865,
+  num: 134,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 135,
+  flyCoin: 1749981,
+  num: 135,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 136,
+  flyCoin: 1772380,
+  num: 136,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 137,
+  flyCoin: 1795066,
+  num: 137,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 138,
+  flyCoin: 1818042,
+  num: 138,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 139,
+  flyCoin: 1841312,
+  num: 139,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 140,
+  flyCoin: 1864880,
+  num: 140,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 141,
+  flyCoin: 1888749,
+  num: 141,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 142,
+  flyCoin: 1912924,
+  num: 142,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 143,
+  flyCoin: 1937409,
+  num: 143,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 144,
+  flyCoin: 1962207,
+  num: 144,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 145,
+  flyCoin: 1987322,
+  num: 145,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 146,
+  flyCoin: 2012759,
+  num: 146,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 147,
+  flyCoin: 2038521,
+  num: 147,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 148,
+  flyCoin: 2064613,
+  num: 148,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 149,
+  flyCoin: 2091039,
+  num: 149,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 150,
+  flyCoin: 2117804,
+  num: 150,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 151,
+  flyCoin: 2144910,
+  num: 151,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 152,
+  flyCoin: 2172364,
+  num: 152,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 153,
+  flyCoin: 2200170,
+  num: 153,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 154,
+  flyCoin: 2228331,
+  num: 154,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 155,
+  flyCoin: 2256852,
+  num: 155,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 156,
+  flyCoin: 2285739,
+  num: 156,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 157,
+  flyCoin: 2314995,
+  num: 157,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 158,
+  flyCoin: 2344626,
+  num: 158,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 159,
+  flyCoin: 2374636,
+  num: 159,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 160,
+  flyCoin: 2405030,
+  num: 160,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 161,
+  flyCoin: 2435813,
+  num: 161,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 162,
+  flyCoin: 2466991,
+  num: 162,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 163,
+  flyCoin: 2498567,
+  num: 163,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 164,
+  flyCoin: 2530547,
+  num: 164,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 165,
+  flyCoin: 2562937,
+  num: 165,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 166,
+  flyCoin: 2595742,
+  num: 166,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 167,
+  flyCoin: 2628966,
+  num: 167,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 168,
+  flyCoin: 2662615,
+  num: 168,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 169,
+  flyCoin: 2696696,
+  num: 169,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 170,
+  flyCoin: 2731212,
+  num: 170,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 171,
+  flyCoin: 2766170,
+  num: 171,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 172,
+  flyCoin: 2801576,
+  num: 172,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 173,
+  flyCoin: 2837435,
+  num: 173,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 174,
+  flyCoin: 2873752,
+  num: 174,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 175,
+  flyCoin: 2910535,
+  num: 175,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 176,
+  flyCoin: 2947789,
+  num: 176,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 177,
+  flyCoin: 2985519,
+  num: 177,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 178,
+  flyCoin: 3023732,
+  num: 178,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 179,
+  flyCoin: 3062434,
+  num: 179,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 180,
+  flyCoin: 3101632,
+  num: 180,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 181,
+  flyCoin: 3141331,
+  num: 181,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 182,
+  flyCoin: 3181539,
+  num: 182,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 183,
+  flyCoin: 3222261,
+  num: 183,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 184,
+  flyCoin: 3263504,
+  num: 184,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 185,
+  flyCoin: 3305276,
+  num: 185,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 186,
+  flyCoin: 3347582,
+  num: 186,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 187,
+  flyCoin: 3390429,
+  num: 187,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 188,
+  flyCoin: 3433825,
+  num: 188,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 189,
+  flyCoin: 3477776,
+  num: 189,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 190,
+  flyCoin: 3522290,
+  num: 190,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 191,
+  flyCoin: 3567374,
+  num: 191,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 192,
+  flyCoin: 3613034,
+  num: 192,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 193,
+  flyCoin: 3659280,
+  num: 193,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 194,
+  flyCoin: 3706117,
+  num: 194,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 195,
+  flyCoin: 3753553,
+  num: 195,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 196,
+  flyCoin: 3801597,
+  num: 196,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 197,
+  flyCoin: 3850255,
+  num: 197,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 198,
+  flyCoin: 3899537,
+  num: 198,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 199,
+  flyCoin: 3949449,
+  num: 199,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 200,
+  flyCoin: 4e6,
+  num: 200,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 201,
+  flyCoin: 4191220,
+  num: 201,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 202,
+  flyCoin: 4384015,
+  num: 202,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 203,
+  flyCoin: 4585680,
+  num: 203,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 204,
+  flyCoin: 4796620,
+  num: 204,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 205,
+  flyCoin: 5017265,
+  num: 205,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 206,
+  flyCoin: 5248060,
+  num: 206,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 207,
+  flyCoin: 5489470,
+  num: 207,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 208,
+  flyCoin: 5741985,
+  num: 208,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 209,
+  flyCoin: 6006115,
+  num: 209,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 210,
+  flyCoin: 6282395,
+  num: 210,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 211,
+  flyCoin: 6571390,
+  num: 211,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 212,
+  flyCoin: 6873670,
+  num: 212,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 213,
+  flyCoin: 7189860,
+  num: 213,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 214,
+  flyCoin: 7520595,
+  num: 214,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 215,
+  flyCoin: 7866540,
+  num: 215,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 216,
+  flyCoin: 8228400,
+  num: 216,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 217,
+  flyCoin: 8606910,
+  num: 217,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 218,
+  flyCoin: 9002825,
+  num: 218,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 219,
+  flyCoin: 9416955,
+  num: 219,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 220,
+  flyCoin: 9850135,
+  num: 220,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 221,
+  flyCoin: 10303245,
+  num: 221,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 222,
+  flyCoin: 10777190,
+  num: 222,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 223,
+  flyCoin: 11272945,
+  num: 223,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 224,
+  flyCoin: 11791500,
+  num: 224,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 225,
+  flyCoin: 12333905,
+  num: 225,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 226,
+  flyCoin: 12901265,
+  num: 226,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 227,
+  flyCoin: 13494725,
+  num: 227,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 228,
+  flyCoin: 14115485,
+  num: 228,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 229,
+  flyCoin: 14764795,
+  num: 229,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 230,
+  flyCoin: 15443975,
+  num: 230,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 231,
+  flyCoin: 16154400,
+  num: 231,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 232,
+  flyCoin: 16897500,
+  num: 232,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 233,
+  flyCoin: 17674785,
+  num: 233,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 234,
+  flyCoin: 18487825,
+  num: 234,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 235,
+  flyCoin: 19338265,
+  num: 235,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 236,
+  flyCoin: 20227825,
+  num: 236,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 237,
+  flyCoin: 21158305,
+  num: 237,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 238,
+  flyCoin: 22131590,
+  num: 238,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 239,
+  flyCoin: 23149640,
+  num: 239,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 240,
+  flyCoin: 24214525,
+  num: 240,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 241,
+  flyCoin: 25328395,
+  num: 241,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 242,
+  flyCoin: 26493500,
+  num: 242,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 243,
+  flyCoin: 27712200,
+  num: 243,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 244,
+  flyCoin: 28986960,
+  num: 244,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 245,
+  flyCoin: 30320360,
+  num: 245,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 246,
+  flyCoin: 31715100,
+  num: 246,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 247,
+  flyCoin: 33173990,
+  num: 247,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 248,
+  flyCoin: 34699995,
+  num: 248,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 249,
+  flyCoin: 36296195,
+  num: 249,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 250,
+  flyCoin: 37965820,
+  num: 250,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 251,
+  flyCoin: 39712250,
+  num: 251,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 252,
+  flyCoin: 41539010,
+  num: 252,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 253,
+  flyCoin: 43449805,
+  num: 253,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 254,
+  flyCoin: 45448495,
+  num: 254,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 255,
+  flyCoin: 47539130,
+  num: 255,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 256,
+  flyCoin: 49725930,
+  num: 256,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 257,
+  flyCoin: 52013320,
+  num: 257,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 258,
+  flyCoin: 54405935,
+  num: 258,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 259,
+  flyCoin: 56908605,
+  num: 259,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 260,
+  flyCoin: 59526405,
+  num: 260,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 261,
+  flyCoin: 62264615,
+  num: 261,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 262,
+  flyCoin: 65128790,
+  num: 262,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 263,
+  flyCoin: 68124715,
+  num: 263,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 264,
+  flyCoin: 71258450,
+  num: 264,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 265,
+  flyCoin: 74536340,
+  num: 265,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 266,
+  flyCoin: 77965010,
+  num: 266,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 267,
+  flyCoin: 81551400,
+  num: 267,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 268,
+  flyCoin: 85302765,
+  num: 268,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 269,
+  flyCoin: 89226695,
+  num: 269,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 270,
+  flyCoin: 93331120,
+  num: 270,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 271,
+  flyCoin: 97624355,
+  num: 271,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 272,
+  flyCoin: 102115075,
+  num: 272,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 273,
+  flyCoin: 106812365,
+  num: 273,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 274,
+  flyCoin: 111725735,
+  num: 274,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 275,
+  flyCoin: 116865120,
+  num: 275,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 276,
+  flyCoin: 122240915,
+  num: 276,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 277,
+  flyCoin: 127863995,
+  num: 277,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 278,
+  flyCoin: 133745740,
+  num: 278,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 279,
+  flyCoin: 139898045,
+  num: 279,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 280,
+  flyCoin: 146333355,
+  num: 280,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 281,
+  flyCoin: 153064690,
+  num: 281,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 282,
+  flyCoin: 160105665,
+  num: 282,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 283,
+  flyCoin: 167470525,
+  num: 283,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 284,
+  flyCoin: 175174170,
+  num: 284,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 285,
+  flyCoin: 183232180,
+  num: 285,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 286,
+  flyCoin: 191660860,
+  num: 286,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 287,
+  flyCoin: 200477260,
+  num: 287,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 288,
+  flyCoin: 209699215,
+  num: 288,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 289,
+  flyCoin: 219345380,
+  num: 289,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 290,
+  flyCoin: 229435265,
+  num: 290,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 291,
+  flyCoin: 239989290,
+  num: 291,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 292,
+  flyCoin: 251028795,
+  num: 292,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 293,
+  flyCoin: 262576120,
+  num: 293,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 294,
+  flyCoin: 274654620,
+  num: 294,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 295,
+  flyCoin: 287288735,
+  num: 295,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 296,
+  flyCoin: 300504015,
+  num: 296,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 297,
+  flyCoin: 314327200,
+  num: 297,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 298,
+  flyCoin: 328786250,
+  num: 298,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 299,
+  flyCoin: 343910420,
+  num: 299,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 300,
+  flyCoin: 359730300,
+  num: 300,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 301,
+  flyCoin: 376277895,
+  num: 301,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 302,
+  flyCoin: 393586675,
+  num: 302,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 303,
+  flyCoin: 411691665,
+  num: 303,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 304,
+  flyCoin: 430629480,
+  num: 304,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 305,
+  flyCoin: 450438435,
+  num: 305,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 306,
+  flyCoin: 471158605,
+  num: 306,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 307,
+  flyCoin: 492831900,
+  num: 307,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 308,
+  flyCoin: 515502165,
+  num: 308,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 309,
+  flyCoin: 539215265,
+  num: 309,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 310,
+  flyCoin: 564019170,
+  num: 310,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 311,
+  flyCoin: 589964050,
+  num: 311,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 312,
+  flyCoin: 617102395,
+  num: 312,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 313,
+  flyCoin: 645489105,
+  num: 313,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 314,
+  flyCoin: 675181605,
+  num: 314,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 315,
+  flyCoin: 706239960,
+  num: 315,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 316,
+  flyCoin: 738726995,
+  num: 316,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 317,
+  flyCoin: 772708440,
+  num: 317,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 318,
+  flyCoin: 808253030,
+  num: 318,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 319,
+  flyCoin: 845432665,
+  num: 319,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 320,
+  flyCoin: 884322570,
+  num: 320,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 321,
+  flyCoin: 925001410,
+  num: 321,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 322,
+  flyCoin: 967551470,
+  num: 322,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 323,
+  flyCoin: 1012058840,
+  num: 323,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 324,
+  flyCoin: 1058613545,
+  num: 324,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 325,
+  flyCoin: 1107309770,
+  num: 325,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 326,
+  flyCoin: 1158246020,
+  num: 326,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 327,
+  flyCoin: 1211525335,
+  num: 327,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 328,
+  flyCoin: 1267255500,
+  num: 328,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 329,
+  flyCoin: 1325549255,
+  num: 329,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 330,
+  flyCoin: 1386524520,
+  num: 330,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 331,
+  flyCoin: 1450304650,
+  num: 331,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 332,
+  flyCoin: 1517018660,
+  num: 332,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 333,
+  flyCoin: 1586801520,
+  num: 333,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 334,
+  flyCoin: 1659794390,
+  num: 334,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 335,
+  flyCoin: 1736144935,
+  num: 335,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 336,
+  flyCoin: 1816007600,
+  num: 336,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 337,
+  flyCoin: 1899543950,
+  num: 337,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 338,
+  flyCoin: 1986922970,
+  num: 338,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 339,
+  flyCoin: 2078321425,
+  num: 339,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 340,
+  flyCoin: 2173924215,
+  num: 340,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 341,
+  flyCoin: 2273924725,
+  num: 341,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 342,
+  flyCoin: 2378525265,
+  num: 342,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 343,
+  flyCoin: 2487937425,
+  num: 343,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 344,
+  flyCoin: 2602382550,
+  num: 344,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 345,
+  flyCoin: 2722092145,
+  num: 345,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 346,
+  flyCoin: 2847308385,
+  num: 346,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 347,
+  flyCoin: 2978284570,
+  num: 347,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 348,
+  flyCoin: 3115285660,
+  num: 348,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 349,
+  flyCoin: 3258588800,
+  num: 349,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 350,
+  flyCoin: 3408483885,
+  num: 350,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 351,
+  flyCoin: 3565274145,
+  num: 351,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 352,
+  flyCoin: 3729276755,
+  num: 352,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 353,
+  flyCoin: 3900823485,
+  num: 353,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 354,
+  flyCoin: 4080261365,
+  num: 354,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 355,
+  flyCoin: 4267953390,
+  num: 355,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 356,
+  flyCoin: 4464279245,
+  num: 356,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 357,
+  flyCoin: 4669636090,
+  num: 357,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 358,
+  flyCoin: 4884439350,
+  num: 358,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 359,
+  flyCoin: 5109123560,
+  num: 359,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 360,
+  flyCoin: 5344143245,
+  num: 360,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 361,
+  flyCoin: 5589973830,
+  num: 361,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 362,
+  flyCoin: 5847112630,
+  num: 362,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 363,
+  flyCoin: 6116079810,
+  num: 363,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 364,
+  flyCoin: 6397419480,
+  num: 364,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 365,
+  flyCoin: 6691700775,
+  num: 365,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 366,
+  flyCoin: 6999519015,
+  num: 366,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 367,
+  flyCoin: 7321496885,
+  num: 367,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 368,
+  flyCoin: 7658285745,
+  num: 368,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 369,
+  flyCoin: 8010566890,
+  num: 369,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 370,
+  flyCoin: 8379052965,
+  num: 370,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 371,
+  flyCoin: 8764489400,
+  num: 371,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 372,
+  flyCoin: 9167655915,
+  num: 372,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 373,
+  flyCoin: 9589368085,
+  num: 373,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 374,
+  flyCoin: 10030479020,
+  num: 374,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 375,
+  flyCoin: 10491881055,
+  num: 375,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 376,
+  flyCoin: 10974507580,
+  num: 376,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 377,
+  flyCoin: 11479334930,
+  num: 377,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 378,
+  flyCoin: 12007384335,
+  num: 378,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 379,
+  flyCoin: 12559724015,
+  num: 379,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 380,
+  flyCoin: 13137471320,
+  num: 380,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 381,
+  flyCoin: 13741795e3,
+  num: 381,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 382,
+  flyCoin: 14373917570,
+  num: 382,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 383,
+  flyCoin: 15035117780,
+  num: 383,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 384,
+  flyCoin: 15726733200,
+  num: 384,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 385,
+  flyCoin: 16450162925,
+  num: 385,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 386,
+  flyCoin: 17206870420,
+  num: 386,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 387,
+  flyCoin: 17998386460,
+  num: 387,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 388,
+  flyCoin: 18826312235,
+  num: 388,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 389,
+  flyCoin: 19692322600,
+  num: 389,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 390,
+  flyCoin: 20598169440,
+  num: 390,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 391,
+  flyCoin: 21545685235,
+  num: 391,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 392,
+  flyCoin: 22536786755,
+  num: 392,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 393,
+  flyCoin: 23573478945,
+  num: 393,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 394,
+  flyCoin: 24657858975,
+  num: 394,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 395,
+  flyCoin: 25792120490,
+  num: 395,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 396,
+  flyCoin: 26978558030,
+  num: 396,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 397,
+  flyCoin: 28219571700,
+  num: 397,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 398,
+  flyCoin: 29517672e3,
+  num: 398,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 399,
+  flyCoin: 30875484910,
+  num: 399,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 400,
+  flyCoin: 32295757215,
+  num: 400,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 401,
+  flyCoin: 33781362050,
+  num: 401,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 402,
+  flyCoin: 35335304705,
+  num: 402,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 403,
+  flyCoin: 36960728720,
+  num: 403,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 404,
+  flyCoin: 38660922240,
+  num: 404,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 405,
+  flyCoin: 40439324665,
+  num: 405,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 406,
+  flyCoin: 42299533600,
+  num: 406,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 407,
+  flyCoin: 44245312145,
+  num: 407,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 408,
+  flyCoin: 46280596500,
+  num: 408,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 409,
+  flyCoin: 48409503940,
+  num: 409,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 410,
+  flyCoin: 50636341120,
+  num: 410,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 411,
+  flyCoin: 52965612815,
+  num: 411,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 412,
+  flyCoin: 55402031005,
+  num: 412,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 413,
+  flyCoin: 57950524430,
+  num: 413,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 414,
+  flyCoin: 60616248555,
+  num: 414,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 415,
+  flyCoin: 63404595985,
+  num: 415,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 416,
+  flyCoin: 66321207400,
+  num: 416,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 417,
+  flyCoin: 69371982945,
+  num: 417,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 418,
+  flyCoin: 72563094160,
+  num: 418,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 419,
+  flyCoin: 75900996490,
+  num: 419,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 420,
+  flyCoin: 79392442330,
+  num: 420,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 421,
+  flyCoin: 83044494675,
+  num: 421,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 422,
+  flyCoin: 86864541430,
+  num: 422,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 423,
+  flyCoin: 90860310335,
+  num: 423,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 424,
+  flyCoin: 95039884610,
+  num: 424,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 425,
+  flyCoin: 99411719305,
+  num: 425,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 426,
+  flyCoin: 103984658390,
+  num: 426,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 427,
+  flyCoin: 108767952675,
+  num: 427,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 428,
+  flyCoin: 113771278500,
+  num: 428,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 429,
+  flyCoin: 119004757310,
+  num: 429,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 430,
+  flyCoin: 124478976150,
+  num: 430,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 431,
+  flyCoin: 130205009050,
+  num: 431,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 432,
+  flyCoin: 136194439465,
+  num: 432,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 433,
+  flyCoin: 142459383680,
+  num: 433,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 434,
+  flyCoin: 149012515330,
+  num: 434,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 435,
+  flyCoin: 155867091035,
+  num: 435,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 436,
+  flyCoin: 163036977225,
+  num: 436,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 437,
+  flyCoin: 170536678175,
+  num: 437,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 438,
+  flyCoin: 178381365375,
+  num: 438,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 439,
+  flyCoin: 186586908180,
+  num: 439,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 440,
+  flyCoin: 195169905955,
+  num: 440,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 441,
+  flyCoin: 204147721630,
+  num: 441,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 442,
+  flyCoin: 213538516825,
+  num: 442,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 443,
+  flyCoin: 223361288600,
+  num: 443,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 444,
+  flyCoin: 233635907875,
+  num: 444,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 445,
+  flyCoin: 244383159635,
+  num: 445,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 446,
+  flyCoin: 255624784980,
+  num: 446,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 447,
+  flyCoin: 267383525090,
+  num: 447,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 448,
+  flyCoin: 279683167245,
+  num: 448,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 449,
+  flyCoin: 292548592935,
+  num: 449,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 450,
+  flyCoin: 306005828210,
+  num: 450,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 451,
+  flyCoin: 320082096310,
+  num: 451,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 452,
+  flyCoin: 334805872740,
+  num: 452,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 453,
+  flyCoin: 350206942885,
+  num: 453,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 454,
+  flyCoin: 366316462260,
+  num: 454,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 455,
+  flyCoin: 383167019525,
+  num: 455,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 456,
+  flyCoin: 400792702420,
+  num: 456,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 457,
+  flyCoin: 419229166730,
+  num: 457,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 458,
+  flyCoin: 438513708400,
+  num: 458,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 459,
+  flyCoin: 458685338990,
+  num: 459,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 460,
+  flyCoin: 479784864580,
+  num: 460,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 461,
+  flyCoin: 501854968350,
+  num: 461,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 462,
+  flyCoin: 524940296895,
+  num: 462,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 463,
+  flyCoin: 549087550555,
+  num: 463,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 464,
+  flyCoin: 574345577880,
+  num: 464,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 465,
+  flyCoin: 600765474460,
+  num: 465,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 466,
+  flyCoin: 628400686285,
+  num: 466,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 467,
+  flyCoin: 657307117855,
+  num: 467,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 468,
+  flyCoin: 687543245280,
+  num: 468,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 469,
+  flyCoin: 719170234560,
+  num: 469,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 470,
+  flyCoin: 752252065350,
+  num: 470,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 471,
+  flyCoin: 786855660355,
+  num: 471,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 472,
+  flyCoin: 823051020735,
+  num: 472,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 473,
+  flyCoin: 860911367685,
+  num: 473,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 474,
+  flyCoin: 900513290600,
+  num: 474,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 475,
+  flyCoin: 941936901970,
+  num: 475,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 476,
+  flyCoin: 985265999460,
+  num: 476,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 477,
+  flyCoin: 1030588235435,
+  num: 477,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 478,
+  flyCoin: 1077995294265,
+  num: 478,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 479,
+  flyCoin: 1127583077800,
+  num: 479,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 480,
+  flyCoin: 1179451899380,
+  num: 480,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 481,
+  flyCoin: 1233706686750,
+  num: 481,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 482,
+  flyCoin: 1290457194340,
+  num: 482,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 483,
+  flyCoin: 1349818225280,
+  num: 483,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 484,
+  flyCoin: 1411909863640,
+  num: 484,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 485,
+  flyCoin: 1476857717370,
+  num: 485,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 486,
+  flyCoin: 1544793172370,
+  num: 486,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 487,
+  flyCoin: 1615853658300,
+  num: 487,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 488,
+  flyCoin: 1690182926580,
+  num: 488,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 489,
+  flyCoin: 1767931341200,
+  num: 489,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 490,
+  flyCoin: 1849256182900,
+  num: 490,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 491,
+  flyCoin: 1934321967310,
+  num: 491,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 492,
+  flyCoin: 2023300777805,
+  num: 492,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 493,
+  flyCoin: 2116372613585,
+  num: 493,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 494,
+  flyCoin: 2213725753810,
+  num: 494,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 495,
+  flyCoin: 2315557138485,
+  num: 495,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 496,
+  flyCoin: 2422072766855,
+  num: 496,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 497,
+  flyCoin: 2533488114130,
+  num: 497,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 498,
+  flyCoin: 2650028567380,
+  num: 498,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 499,
+  flyCoin: 2771929881480,
+  num: 499,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 500,
+  flyCoin: 2899438656030,
+  num: 500,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 501,
+  flyCoin: 3032812834210,
+  num: 501,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 502,
+  flyCoin: 3172322224580,
+  num: 502,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 503,
+  flyCoin: 3318249046910,
+  num: 503,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 504,
+  flyCoin: 3470888503070,
+  num: 504,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 505,
+  flyCoin: 3630549374210,
+  num: 505,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 506,
+  flyCoin: 3797554645425,
+  num: 506,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 507,
+  flyCoin: 3972242159115,
+  num: 507,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 508,
+  flyCoin: 4154965298435,
+  num: 508,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 509,
+  flyCoin: 4346093702160,
+  num: 509,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 510,
+  flyCoin: 4546014012460,
+  num: 510,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 511,
+  flyCoin: 4755130657035,
+  num: 511,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 512,
+  flyCoin: 4973866667260,
+  num: 512,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 513,
+  flyCoin: 5202664533950,
+  num: 513,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 514,
+  flyCoin: 5441987102515,
+  num: 514,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 515,
+  flyCoin: 5692318509230,
+  num: 515,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 516,
+  flyCoin: 5954165160655,
+  num: 516,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 517,
+  flyCoin: 6228056758045,
+  num: 517,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 518,
+  flyCoin: 6514547368915,
+  num: 518,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 519,
+  flyCoin: 6814216547885,
+  num: 519,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 520,
+  flyCoin: 7127670509085,
+  num: 520,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 521,
+  flyCoin: 7455543352505,
+  num: 521,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 522,
+  flyCoin: 7798498346720,
+  num: 522,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 523,
+  flyCoin: 8157229270670,
+  num: 523,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 524,
+  flyCoin: 8532461817120,
+  num: 524,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 525,
+  flyCoin: 8924955060705,
+  num: 525,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 526,
+  flyCoin: 9335502993500,
+  num: 526,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 527,
+  flyCoin: 9764936131200,
+  num: 527,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 528,
+  flyCoin: 10214123193235,
+  num: 528,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 529,
+  flyCoin: 10683972860125,
+  num: 529,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 530,
+  flyCoin: 11175435611690,
+  num: 530,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 531,
+  flyCoin: 11689505649825,
+  num: 531,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 532,
+  flyCoin: 12227222909720,
+  num: 532,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 533,
+  flyCoin: 12789675163565,
+  num: 533,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 534,
+  flyCoin: 13378000221090,
+  num: 534,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 535,
+  flyCoin: 13993388231260,
+  num: 535,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 536,
+  flyCoin: 14637084089900,
+  num: 536,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 537,
+  flyCoin: 15310389958035,
+  num: 537,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 538,
+  flyCoin: 16014667896105,
+  num: 538,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 539,
+  flyCoin: 16751342619325,
+  num: 539,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 540,
+  flyCoin: 17521904379815,
+  num: 540,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 541,
+  flyCoin: 18327911981285,
+  num: 541,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 542,
+  flyCoin: 19170995932425,
+  num: 542,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 543,
+  flyCoin: 20052861745315,
+  num: 543,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 544,
+  flyCoin: 20975293385600,
+  num: 544,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 545,
+  flyCoin: 21940156881340,
+  num: 545,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 546,
+  flyCoin: 22949404097880,
+  num: 546,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 547,
+  flyCoin: 24005076686380,
+  num: 547,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 548,
+  flyCoin: 25109310213955,
+  num: 548,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 549,
+  flyCoin: 26264338483795,
+  num: 549,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 550,
+  flyCoin: 27472498054050,
+  num: 550,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 551,
+  flyCoin: 28736232964540,
+  num: 551,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 552,
+  flyCoin: 30058099680905,
+  num: 552,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 553,
+  flyCoin: 31440772266230,
+  num: 553,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 554,
+  flyCoin: 32887047790475,
+  num: 554,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 555,
+  flyCoin: 34399851988835,
+  num: 555,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 556,
+  flyCoin: 35982245180325,
+  num: 556,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 557,
+  flyCoin: 37637428458620,
+  num: 557,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 558,
+  flyCoin: 39368750167715,
+  num: 558,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 559,
+  flyCoin: 41179712675430,
+  num: 559,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 560,
+  flyCoin: 43073979458500,
+  num: 560,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 561,
+  flyCoin: 45055382513590,
+  num: 561,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 562,
+  flyCoin: 47127930109215,
+  num: 562,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 563,
+  flyCoin: 49295814894240,
+  num: 563,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 564,
+  flyCoin: 51563422379375,
+  num: 564,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 565,
+  flyCoin: 53935339808825,
+  num: 565,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 566,
+  flyCoin: 56416365440030,
+  num: 566,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 567,
+  flyCoin: 59011518250275,
+  num: 567,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 568,
+  flyCoin: 61726048089785,
+  num: 568,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 569,
+  flyCoin: 64565446301915,
+  num: 569,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 570,
+  flyCoin: 67535456831805,
+  num: 570,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 571,
+  flyCoin: 70642087846065,
+  num: 571,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 572,
+  flyCoin: 73891623886985,
+  num: 572,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 573,
+  flyCoin: 77290638585790,
+  num: 573,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 574,
+  flyCoin: 80846007960735,
+  num: 574,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 575,
+  flyCoin: 84564924326930,
+  num: 575,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 576,
+  flyCoin: 88454910845965,
+  num: 576,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 577,
+  flyCoin: 92523836744880,
+  num: 577,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 578,
+  flyCoin: 96779933235145,
+  num: 578,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 579,
+  flyCoin: 101231810163960,
+  num: 579,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 580,
+  flyCoin: 105888473431505,
+  num: 580,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 581,
+  flyCoin: 110759343209355,
+  num: 581,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 582,
+  flyCoin: 115854272996985,
+  num: 582,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 583,
+  flyCoin: 121183569554845,
+  num: 583,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 584,
+  flyCoin: 126758013754370,
+  num: 584,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 585,
+  flyCoin: 132588882387070,
+  num: 585,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 586,
+  flyCoin: 138687970976875,
+  num: 586,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 587,
+  flyCoin: 145067617641810,
+  num: 587,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 588,
+  flyCoin: 151740728053335,
+  num: 588,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 589,
+  flyCoin: 158720801543785,
+  num: 589,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 590,
+  flyCoin: 166021958414800,
+  num: 590,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 591,
+  flyCoin: 173658968501880,
+  num: 591,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 592,
+  flyCoin: 181647281052970,
+  num: 592,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 593,
+  flyCoin: 190003055981405,
+  num: 593,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 594,
+  flyCoin: 198743196556550,
+  num: 594,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 595,
+  flyCoin: 207885383598150,
+  num: 595,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 596,
+  flyCoin: 217448111243665,
+  num: 596,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 597,
+  flyCoin: 227450724360875,
+  num: 597,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 598,
+  flyCoin: 237913457681475,
+  num: 598,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 599,
+  flyCoin: 248857476734820,
+  num: 599,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 600,
+  flyCoin: 260304920664625,
+  num: 600,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 601,
+  flyCoin: 272278947015195,
+  num: 601,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 602,
+  flyCoin: 284803778577895,
+  num: 602,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 603,
+  flyCoin: 297904752392480,
+  num: 603,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 604,
+  flyCoin: 311608371002535,
+  num: 604,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 605,
+  flyCoin: 325942356068650,
+  num: 605,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 606,
+  flyCoin: 340935704447805,
+  num: 606,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 607,
+  flyCoin: 356618746852405,
+  num: 607,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 608,
+  flyCoin: 373023209207615,
+  num: 608,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 609,
+  flyCoin: 390182276831170,
+  num: 609,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 610,
+  flyCoin: 408130661565400,
+  num: 610,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 611,
+  flyCoin: 426904671997410,
+  num: 611,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 612,
+  flyCoin: 446542286909290,
+  num: 612,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 613,
+  flyCoin: 467083232107120,
+  num: 613,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 614,
+  flyCoin: 488569060784045,
+  num: 614,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 615,
+  flyCoin: 511043237580110,
+  num: 615,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 616,
+  flyCoin: 534551226508795,
+  num: 616,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 617,
+  flyCoin: 559140582928200,
+  num: 617,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 618,
+  flyCoin: 584861049742900,
+  num: 618,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 619,
+  flyCoin: 611764658031070,
+  num: 619,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 620,
+  flyCoin: 639905832300500,
+  num: 620,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 621,
+  flyCoin: 669341500586325,
+  num: 621,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 622,
+  flyCoin: 700131209613295,
+  num: 622,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 623,
+  flyCoin: 732337245255505,
+  num: 623,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 624,
+  flyCoin: 766024758537260,
+  num: 624,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 625,
+  flyCoin: 801261897429975,
+  num: 625,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 626,
+  flyCoin: 838119944711755,
+  num: 626,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 627,
+  flyCoin: 876673462168495,
+  num: 627,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 628,
+  flyCoin: 917000441428245,
+  num: 628,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 629,
+  flyCoin: 959182461733945,
+  num: 629,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 630,
+  flyCoin: 1003304854973700,
+  num: 630,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 631,
+  flyCoin: 1049456878302490,
+  num: 631,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 632,
+  flyCoin: 1097731894704410,
+  num: 632,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 633,
+  flyCoin: 1148227561860810,
+  num: 633,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 634,
+  flyCoin: 1201046029706410,
+  num: 634,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 635,
+  flyCoin: 1256294147072900,
+  num: 635,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 636,
+  flyCoin: 1314083677838260,
+  num: 636,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 637,
+  flyCoin: 1374531527018820,
+  num: 637,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 638,
+  flyCoin: 1437759977261680,
+  num: 638,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 639,
+  flyCoin: 1503896936215720,
+  num: 639,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 640,
+  flyCoin: 1573076195281640,
+  num: 640,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 641,
+  flyCoin: 1645437700264600,
+  num: 641,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 642,
+  flyCoin: 1721127834476770,
+  num: 642,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 643,
+  flyCoin: 1800299714862700,
+  num: 643,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 644,
+  flyCoin: 1883113501746390,
+  num: 644,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 645,
+  flyCoin: 1969736722826720,
+  num: 645,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 646,
+  flyCoin: 2060344612076750,
+  num: 646,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 647,
+  flyCoin: 2155120464232280,
+  num: 647,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 648,
+  flyCoin: 2254256005586970,
+  num: 648,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 649,
+  flyCoin: 2357951781843970,
+  num: 649,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 650,
+  flyCoin: 2466417563808790,
+  num: 650,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 651,
+  flyCoin: 2579872771744000,
+  num: 651,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 652,
+  flyCoin: 2698546919244220,
+  num: 652,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 653,
+  flyCoin: 2822680077529450,
+  num: 653,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 654,
+  flyCoin: 2952523361095810,
+  num: 654,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 655,
+  flyCoin: 3088339435706220,
+  num: 655,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 656,
+  flyCoin: 3230403049748700,
+  num: 656,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 657,
+  flyCoin: 3379001590037140,
+  num: 657,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 658,
+  flyCoin: 3534435663178850,
+  num: 658,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 659,
+  flyCoin: 3697019703685080,
+  num: 659,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 660,
+  flyCoin: 3867082610054590,
+  num: 660,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 661,
+  flyCoin: 4044968410117100,
+  num: 661,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 662,
+  flyCoin: 4231036956982490,
+  num: 662,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 663,
+  flyCoin: 4425664657003690,
+  num: 663,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 664,
+  flyCoin: 4629245231225860,
+  num: 664,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 665,
+  flyCoin: 4842190511862250,
+  num: 665,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 666,
+  flyCoin: 5064931275407900,
+  num: 666,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 667,
+  flyCoin: 5297918114076700,
+  num: 667,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 668,
+  flyCoin: 5541622347324200,
+  num: 668,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 669,
+  flyCoin: 5796536975301100,
+  num: 669,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 670,
+  flyCoin: 6063177676164950,
+  num: 670,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 671,
+  flyCoin: 6342083849268550,
+  num: 671,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 672,
+  flyCoin: 6633819706334900,
+  num: 672,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 673,
+  flyCoin: 6938975412826300,
+  num: 673,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 674,
+  flyCoin: 7258168281816350,
+  num: 674,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 675,
+  flyCoin: 7592044022779900,
+  num: 675,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 676,
+  flyCoin: 7941278047827750,
+  num: 676,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 677,
+  flyCoin: 8306576838027850,
+  num: 677,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 678,
+  flyCoin: 8688679372577100,
+  num: 678,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 679,
+  flyCoin: 9088358623715650,
+  num: 679,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 680,
+  flyCoin: 9506423120406600,
+  num: 680,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 681,
+  flyCoin: 9943718583945300,
+  num: 681,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 682,
+  flyCoin: 10401129638806700,
+  num: 682,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 683,
+  flyCoin: 10879581602191900,
+  num: 683,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 684,
+  flyCoin: 11380042355892700,
+  num: 684,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 685,
+  flyCoin: 11903524304263700,
+  num: 685,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 686,
+  flyCoin: 12451086422259900,
+  num: 686,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 687,
+  flyCoin: 13023836397683800,
+  num: 687,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 688,
+  flyCoin: 13622932871977300,
+  num: 688,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 689,
+  flyCoin: 14249587784088300,
+  num: 689,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 690,
+  flyCoin: 14905068822156300,
+  num: 690,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 691,
+  flyCoin: 15590701987975500,
+  num: 691,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 692,
+  flyCoin: 16307874279422400,
+  num: 692,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 693,
+  flyCoin: 17058036496275800,
+  num: 693,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 694,
+  flyCoin: 17842706175104500,
+  num: 694,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 695,
+  flyCoin: 18663470659159400,
+  num: 695,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 696,
+  flyCoin: 19521990309480600,
+  num: 696,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 697,
+  flyCoin: 20420001863716800,
+  num: 697,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 698,
+  flyCoin: 21359321949447800,
+  num: 698,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 699,
+  flyCoin: 22341850759122400,
+  num: 699,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 700,
+  flyCoin: 23369575894042000,
+  num: 700,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 701,
+  flyCoin: 24444576385167900,
+  num: 701,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 702,
+  flyCoin: 25569026898885600,
+  num: 702,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 703,
+  flyCoin: 26745202136234400,
+  num: 703,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 704,
+  flyCoin: 27975481434501200,
+  num: 704,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 705,
+  flyCoin: 29262353580488200,
+  num: 705,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 706,
+  flyCoin: 30608421845190700,
+  num: 706,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 707,
+  flyCoin: 32016409250069400,
+  num: 707,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 708,
+  flyCoin: 33489164075572600,
+  num: 708,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 709,
+  flyCoin: 35029665623049000,
+  num: 709,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 710,
+  flyCoin: 36641030241709200,
+  num: 710,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 711,
+  flyCoin: 38326517632827800,
+  num: 711,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 712,
+  flyCoin: 40089537443938000,
+  num: 712,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 713,
+  flyCoin: 41933656166359100,
+  num: 713,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 714,
+  flyCoin: 43862604350011600,
+  num: 714,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 715,
+  flyCoin: 45880284150112200,
+  num: 715,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 716,
+  flyCoin: 47990777221017400,
+  num: 716,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 717,
+  flyCoin: 50198352973184000,
+  num: 717,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 718,
+  flyCoin: 52507477209950500,
+  num: 718,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 719,
+  flyCoin: 54922821161608500,
+  num: 719,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 720,
+  flyCoin: 57449270935042500,
+  num: 720,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 721,
+  flyCoin: 60091937398054500,
+  num: 721,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 722,
+  flyCoin: 62856166518365000,
+  num: 722,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 723,
+  flyCoin: 65747550178209500,
+  num: 723,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 724,
+  flyCoin: 68771937486407000,
+  num: 724,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 725,
+  flyCoin: 71935446610782000,
+  num: 725,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 726,
+  flyCoin: 75244477154878e3,
+  num: 726,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 727,
+  flyCoin: 78705723104002500,
+  num: 727,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 728,
+  flyCoin: 82326186366786500,
+  num: 728,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 729,
+  flyCoin: 86113190939658500,
+  num: 729,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 730,
+  flyCoin: 90074397722883e3,
+  num: 730,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 731,
+  flyCoin: 94217820018135500,
+  num: 731,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 732,
+  flyCoin: 98551839738969500,
+  num: 732,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 733,
+  flyCoin: 103085224366962000,
+  num: 733,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 734,
+  flyCoin: 107827144687842000,
+  num: 734,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 735,
+  flyCoin: 112787193343484000,
+  num: 735,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 736,
+  flyCoin: 117975404237284000,
+  num: 736,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 737,
+  flyCoin: 123402272832198000,
+  num: 737,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 738,
+  flyCoin: 12907877738248e4,
+  num: 738,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 739,
+  flyCoin: 135016401142074000,
+  num: 739,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 740,
+  flyCoin: 14122715559461e4,
+  num: 740,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 741,
+  flyCoin: 147723604751962000,
+  num: 741,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 742,
+  flyCoin: 154518890570551000,
+  num: 742,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 743,
+  flyCoin: 161626759536797000,
+  num: 743,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 744,
+  flyCoin: 16906159047549e4,
+  num: 744,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 745,
+  flyCoin: 176838423637362000,
+  num: 745,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 746,
+  flyCoin: 184972991124681000,
+  num: 746,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 747,
+  flyCoin: 193481748716416000,
+  num: 747,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 748,
+  flyCoin: 202381909157372000,
+  num: 748,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 749,
+  flyCoin: 21169147697861e4,
+  num: 749,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 750,
+  flyCoin: 221429284919626000,
+  num: 750,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 751,
+  flyCoin: 23161503202593e4,
+  num: 751,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 752,
+  flyCoin: 242269323499122000,
+  num: 752,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 753,
+  flyCoin: 253413712380082000,
+  num: 753,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 754,
+  flyCoin: 265070743149566000,
+  num: 754,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 755,
+  flyCoin: 277263997334446000,
+  num: 755,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 756,
+  flyCoin: 29001814121183e4,
+  num: 756,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 757,
+  flyCoin: 303358975707574000,
+  num: 757,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 758,
+  flyCoin: 317313488590122000,
+  num: 758,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 759,
+  flyCoin: 331909909065268000,
+  num: 759,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 760,
+  flyCoin: 34717776488227e4,
+  num: 760,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 761,
+  flyCoin: 363147942066855000,
+  num: 761,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 762,
+  flyCoin: 37985274740193e4,
+  num: 762,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 763,
+  flyCoin: 39732597378242e4,
+  num: 763,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 764,
+  flyCoin: 41560296857641e4,
+  num: 764,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 765,
+  flyCoin: 434720705130926000,
+  num: 765,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 766,
+  flyCoin: 454717857566948000,
+  num: 766,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 767,
+  flyCoin: 475634879015028000,
+  num: 767,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 768,
+  flyCoin: 497514083449719000,
+  num: 768,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 769,
+  flyCoin: 520399731288405000,
+  num: 769,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 770,
+  flyCoin: 544338118927675000,
+  num: 770,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 771,
+  flyCoin: 569377672398345000,
+  num: 771,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 772,
+  flyCoin: 59556904532867e4,
+  num: 772,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 773,
+  flyCoin: 62296522141379e4,
+  num: 773,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 774,
+  flyCoin: 651621621598825000,
+  num: 774,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 775,
+  flyCoin: 68159621619237e4,
+  num: 775,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 776,
+  flyCoin: 71294964213722e4,
+  num: 776,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 777,
+  flyCoin: 74574532567553e4,
+  num: 777,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 778,
+  flyCoin: 780049610656605000,
+  num: 778,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 779,
+  flyCoin: 81593189274681e4,
+  num: 779,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 780,
+  flyCoin: 85346475981316e4,
+  num: 780,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 781,
+  flyCoin: 892724138764565000,
+  num: 781,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 782,
+  flyCoin: 933789449147735000,
+  num: 782,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 783,
+  flyCoin: 97674376380853e4,
+  num: 783,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 784,
+  flyCoin: 1021673976943720000,
+  num: 784,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 785,
+  flyCoin: 1068670979883130000,
+  num: 785,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 786,
+  flyCoin: 1117829844957760000,
+  num: 786,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 787,
+  flyCoin: 116925001782582e4,
+  num: 787,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 788,
+  flyCoin: 122303551864581e4,
+  num: 788,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 789,
+  flyCoin: 127929515250351e4,
+  num: 789,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 790,
+  flyCoin: 133814272951867e4,
+  num: 790,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 791,
+  flyCoin: 139969729507654e4,
+  num: 791,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 792,
+  flyCoin: 146408337065006e4,
+  num: 792,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 793,
+  flyCoin: 153143120569995e4,
+  num: 793,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 794,
+  flyCoin: 160187704116216e4,
+  num: 794,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 795,
+  flyCoin: 167556338505561e4,
+  num: 795,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 796,
+  flyCoin: 175263930076817e4,
+  num: 796,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 797,
+  flyCoin: 183326070860351e4,
+  num: 797,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 798,
+  flyCoin: 191759070119927e4,
+  num: 798,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 799,
+  flyCoin: 200579987345444e4,
+  num: 799,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 800,
+  flyCoin: 209806666763334e4,
+  num: 800,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 801,
+  flyCoin: 219457773434448e4,
+  num: 801,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 802,
+  flyCoin: 229552831012432e4,
+  num: 802,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 803,
+  flyCoin: 240112261239004e4,
+  num: 803,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 804,
+  flyCoin: 251157425255998e4,
+  num: 804,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 805,
+  flyCoin: 262710666817774e4,
+  num: 805,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 806,
+  flyCoin: 274795357491392e4,
+  num: 806,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 807,
+  flyCoin: 287435943935995e4,
+  num: 807,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 808,
+  flyCoin: 300657997357051e4,
+  num: 808,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 809,
+  flyCoin: 314488265235476e4,
+  num: 809,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 810,
+  flyCoin: 328954725436308e4,
+  num: 810,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 811,
+  flyCoin: 344086642806378e4,
+  num: 811,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 812,
+  flyCoin: 359914628375471e4,
+  num: 812,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 813,
+  flyCoin: 376470701280742e4,
+  num: 813,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 814,
+  flyCoin: 393788353539657e4,
+  num: 814,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 815,
+  flyCoin: 411902617802481e4,
+  num: 815,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 816,
+  flyCoin: 430850138221396e4,
+  num: 816,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 817,
+  flyCoin: 450669244579579e4,
+  num: 817,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 818,
+  flyCoin: 47140002983024e5,
+  num: 818,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 819,
+  flyCoin: 493084431202431e4,
+  num: 819,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 820,
+  flyCoin: 515766315037745e4,
+  num: 820,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 821,
+  flyCoin: 53949156552948e5,
+  num: 821,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 822,
+  flyCoin: 564308177543835e4,
+  num: 822,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 823,
+  flyCoin: 59026635371085e5,
+  num: 823,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 824,
+  flyCoin: 61741860598155e5,
+  num: 824,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 825,
+  flyCoin: 6458198618567e6,
+  num: 825,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 826,
+  flyCoin: 67552757550211e5,
+  num: 826,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 827,
+  flyCoin: 70660184397521e5,
+  num: 827,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 828,
+  flyCoin: 73910552879807e5,
+  num: 828,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 829,
+  flyCoin: 77310438312278e5,
+  num: 829,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 830,
+  flyCoin: 808667184746425e4,
+  num: 830,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 831,
+  flyCoin: 84586587524476e5,
+  num: 831,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 832,
+  flyCoin: 88477570550602e5,
+  num: 832,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 833,
+  flyCoin: 9254753879593e6,
+  num: 833,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 834,
+  flyCoin: 968047255805425e4,
+  num: 834,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 835,
+  flyCoin: 101257742957248e5,
+  num: 835,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 836,
+  flyCoin: 105915599133281e5,
+  num: 836,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 837,
+  flyCoin: 110787716693412e5,
+  num: 837,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 838,
+  flyCoin: 115883951661309e5,
+  num: 838,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 839,
+  flyCoin: 121214613437729e5,
+  num: 839,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 840,
+  flyCoin: 126790485655865e5,
+  num: 840,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 841,
+  flyCoin: 132622847996034e5,
+  num: 841,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 842,
+  flyCoin: 138723499003852e5,
+  num: 842,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 843,
+  flyCoin: 145104779958029e5,
+  num: 843,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 844,
+  flyCoin: 151779599836099e5,
+  num: 844,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 845,
+  flyCoin: 158761461428559e5,
+  num: 845,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 846,
+  flyCoin: 166064488654273e5,
+  num: 846,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 847,
+  flyCoin: 17370345513237e6,
+  num: 847,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 848,
+  flyCoin: 181693814068458e5,
+  num: 848,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 849,
+  flyCoin: 190051729515608e5,
+  num: 849,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 850,
+  flyCoin: 198794109073326e5,
+  num: 850,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 851,
+  flyCoin: 207938638090699e5,
+  num: 851,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 852,
+  flyCoin: 21750381544287e6,
+  num: 852,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 853,
+  flyCoin: 227508990953243e5,
+  num: 853,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 854,
+  flyCoin: 237974404537092e5,
+  num: 854,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 855,
+  flyCoin: 248921227145798e5,
+  num: 855,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 856,
+  flyCoin: 260371603594505e5,
+  num: 856,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 857,
+  flyCoin: 272348697359852e5,
+  num: 857,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 858,
+  flyCoin: 284876737438405e5,
+  num: 858,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 859,
+  flyCoin: 297981067360572e5,
+  num: 859,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 860,
+  flyCoin: 311688196459158e5,
+  num: 860,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 861,
+  flyCoin: 32602585349628e6,
+  num: 861,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 862,
+  flyCoin: 341023042757108e5,
+  num: 862,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 863,
+  flyCoin: 356710102723935e5,
+  num: 863,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 864,
+  flyCoin: 373118767449236e5,
+  num: 864,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 865,
+  flyCoin: 390282230751901e5,
+  num: 865,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 866,
+  flyCoin: 408235213366488e5,
+  num: 866,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 867,
+  flyCoin: 427014033181347e5,
+  num: 867,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 868,
+  flyCoin: 446656678707689e5,
+  num: 868,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 869,
+  flyCoin: 467202885928243e5,
+  num: 869,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 870,
+  flyCoin: 488694218680942e5,
+  num: 870,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 871,
+  flyCoin: 511174152740265e5,
+  num: 871,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 872,
+  flyCoin: 53468816376632e6,
+  num: 872,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 873,
+  flyCoin: 55928381929957e6,
+  num: 873,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 874,
+  flyCoin: 58501087498735e6,
+  num: 874,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 875,
+  flyCoin: 611921375236765e5,
+  num: 875,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 876,
+  flyCoin: 64006975849766e6,
+  num: 876,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 877,
+  flyCoin: 66951296738855e6,
+  num: 877,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 878,
+  flyCoin: 700310563888425e5,
+  num: 878,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 879,
+  flyCoin: 73252484982729e6,
+  num: 879,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 880,
+  flyCoin: 766220992919345e5,
+  num: 880,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 881,
+  flyCoin: 801467158593635e5,
+  num: 881,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 882,
+  flyCoin: 838334647888945e5,
+  num: 882,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 883,
+  flyCoin: 876898041691835e5,
+  num: 883,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 884,
+  flyCoin: 91723535160966e6,
+  num: 884,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 885,
+  flyCoin: 959428177783705e5,
+  num: 885,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 886,
+  flyCoin: 100356187396175e6,
+  num: 886,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 887,
+  flyCoin: 104972572016399e6,
+  num: 887,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 888,
+  flyCoin: 109801310329154e6,
+  num: 888,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 889,
+  flyCoin: 114852170604295e6,
+  num: 889,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 890,
+  flyCoin: 120135370452093e6,
+  num: 890,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 891,
+  flyCoin: 125661597492889e6,
+  num: 891,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 892,
+  flyCoin: 131442030977561e6,
+  num: 892,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 893,
+  flyCoin: 13748836440253e7,
+  num: 893,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 894,
+  flyCoin: 143812829165046e6,
+  num: 894,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 895,
+  flyCoin: 150428219306638e6,
+  num: 895,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 896,
+  flyCoin: 157347917394743e6,
+  num: 896,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 897,
+  flyCoin: 164585921594901e6,
+  num: 897,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 898,
+  flyCoin: 172156873988267e6,
+  num: 898,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 899,
+  flyCoin: 180076090191727e6,
+  num: 899,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 900,
+  flyCoin: 188359590340547e6,
+  num: 900,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 901,
+  flyCoin: 197024131496212e6,
+  num: 901,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 902,
+  flyCoin: 206087241545038e6,
+  num: 902,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 903,
+  flyCoin: 21556725465611e7,
+  num: 903,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 904,
+  flyCoin: 22548334837029e7,
+  num: 904,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 905,
+  flyCoin: 235855582395324e6,
+  num: 905,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 906,
+  flyCoin: 246704939185509e6,
+  num: 906,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 907,
+  flyCoin: 258053366388042e6,
+  num: 907,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 908,
+  flyCoin: 269923821241892e6,
+  num: 908,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 909,
+  flyCoin: 282340317019019e6,
+  num: 909,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 910,
+  flyCoin: 295327971601894e6,
+  num: 910,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 911,
+  flyCoin: 308913058295581e6,
+  num: 911,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 912,
+  flyCoin: 323123058977178e6,
+  num: 912,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 913,
+  flyCoin: 337986719690128e6,
+  num: 913,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 914,
+  flyCoin: 353534108795874e6,
+  num: 914,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 915,
+  flyCoin: 369796677800484e6,
+  num: 915,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 916,
+  flyCoin: 386807324979306e6,
+  num: 916,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 917,
+  flyCoin: 404600461928355e6,
+  num: 917,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 918,
+  flyCoin: 423212083177059e6,
+  num: 918,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 919,
+  flyCoin: 442679839003203e6,
+  num: 919,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 920,
+  flyCoin: 463043111597351e6,
+  num: 920,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 921,
+  flyCoin: 484343094730829e6,
+  num: 921,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 922,
+  flyCoin: 50662287708845e7,
+  num: 922,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 923,
+  flyCoin: 529927529434515e6,
+  num: 923,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 924,
+  flyCoin: 554304195788505e6,
+  num: 924,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 925,
+  flyCoin: 579802188794775e6,
+  num: 925,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 926,
+  flyCoin: 606473089479335e6,
+  num: 926,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 927,
+  flyCoin: 634370851595385e6,
+  num: 927,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 928,
+  flyCoin: 66355191076877e7,
+  num: 928,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 929,
+  flyCoin: 694075298664135e6,
+  num: 929,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 930,
+  flyCoin: 726002762402685e6,
+  num: 930,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 931,
+  flyCoin: 75939888947321e7,
+  num: 931,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 932,
+  flyCoin: 794331238388975e6,
+  num: 932,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 933,
+  flyCoin: 83087047535487e7,
+  num: 933,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 934,
+  flyCoin: 869090517221195e6,
+  num: 934,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 935,
+  flyCoin: 90906868101337e7,
+  num: 935,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 936,
+  flyCoin: 950885840339985e6,
+  num: 936,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 937,
+  flyCoin: 994626588995625e6,
+  num: 937,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 938,
+  flyCoin: 1.04037941208942e21,
+  num: 938,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 939,
+  flyCoin: 1.08823686504553e21,
+  num: 939,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 940,
+  flyCoin: 1.13829576083763e21,
+  num: 940,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 941,
+  flyCoin: 1.19065736583616e21,
+  num: 941,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 942,
+  flyCoin: 1.24542760466462e21,
+  num: 942,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 943,
+  flyCoin: 1.3027172744792e21,
+  num: 943,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 944,
+  flyCoin: 1.36264226910524e21,
+  num: 944,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 945,
+  flyCoin: 1.42532381348408e21,
+  num: 945,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 946,
+  flyCoin: 1.49088870890435e21,
+  num: 946,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 947,
+  flyCoin: 1.55946958951395e21,
+  num: 947,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 948,
+  flyCoin: 1.63120519063159e21,
+  num: 948,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 949,
+  flyCoin: 1.70624062940065e21,
+  num: 949,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 950,
+  flyCoin: 1.78472769835307e21,
+  num: 950,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 951,
+  flyCoin: 1.86682517247731e21,
+  num: 951,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 952,
+  flyCoin: 1.95269913041127e21,
+  num: 952,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 953,
+  flyCoin: 2.04252329041019e21,
+  num: 953,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 954,
+  flyCoin: 2.13647936176906e21,
+  num: 954,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 955,
+  flyCoin: 2.23475741241044e21,
+  num: 955,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 956,
+  flyCoin: 2.33755625338132e21,
+  num: 956,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 957,
+  flyCoin: 2.44508384103686e21,
+  num: 957,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 958,
+  flyCoin: 2.55755769772456e21,
+  num: 958,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 959,
+  flyCoin: 2.67520535181988e21,
+  num: 959,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 960,
+  flyCoin: 2.7982647980036e21,
+  num: 960,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 961,
+  flyCoin: 2.92698497871176e21,
+  num: 961,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 962,
+  flyCoin: 3.0616262877325e21,
+  num: 962,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 963,
+  flyCoin: 3.2024610969682e21,
+  num: 963,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 964,
+  flyCoin: 3.34977430742874e21,
+  num: 964,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 965,
+  flyCoin: 3.50386392557046e21,
+  num: 965,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 966,
+  flyCoin: 3.6650416661467e21,
+  num: 966,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 967,
+  flyCoin: 3.83363358278945e21,
+  num: 967,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 968,
+  flyCoin: 4.00998072759777e21,
+  num: 968,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 969,
+  flyCoin: 4.19443984106726e21,
+  num: 969,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 970,
+  flyCoin: 4.38738407375635e21,
+  num: 970,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 971,
+  flyCoin: 4.58920374114915e21,
+  num: 971,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 972,
+  flyCoin: 4.80030711324201e21,
+  num: 972,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 973,
+  flyCoin: 5.02112124045115e21,
+  num: 973,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 974,
+  flyCoin: 5.25212124045115e21,
+  num: 974,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 975,
+  flyCoin: 5.49367124045115e21,
+  num: 975,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 976,
+  flyCoin: 5.74637124045115e21,
+  num: 976,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 977,
+  flyCoin: 6.01072124045115e21,
+  num: 977,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 978,
+  flyCoin: 6.28722124045115e21,
+  num: 978,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 979,
+  flyCoin: 6.57642124045115e21,
+  num: 979,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 980,
+  flyCoin: 6.87897124045115e21,
+  num: 980,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 981,
+  flyCoin: 7.19537124045115e21,
+  num: 981,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 982,
+  flyCoin: 7.52637124045115e21,
+  num: 982,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 983,
+  flyCoin: 7.87257124045115e21,
+  num: 983,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 984,
+  flyCoin: 8.23472124045115e21,
+  num: 984,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 985,
+  flyCoin: 8.61352124045115e21,
+  num: 985,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 986,
+  flyCoin: 9.00972124045115e21,
+  num: 986,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 987,
+  flyCoin: 9.42416124045115e21,
+  num: 987,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 988,
+  flyCoin: 9.85772124045115e21,
+  num: 988,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 989,
+  flyCoin: 1.03111712404512e22,
+  num: 989,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 990,
+  flyCoin: 1.07854712404511e22,
+  num: 990,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 991,
+  flyCoin: 1.12816212404512e22,
+  num: 991,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 992,
+  flyCoin: 1.18005712404512e22,
+  num: 992,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 993,
+  flyCoin: 1.23433712404512e22,
+  num: 993,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 994,
+  flyCoin: 1.29111842404512e22,
+  num: 994,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 995,
+  flyCoin: 1.35050712404512e22,
+  num: 995,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 996,
+  flyCoin: 1.41263212404512e22,
+  num: 996,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 997,
+  flyCoin: 1.47761212404512e22,
+  num: 997,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 998,
+  flyCoin: 1.54558212404512e22,
+  num: 998,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 999,
+  flyCoin: 1.61681712404511e22,
+  num: 999,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 1e3,
+  flyCoin: 1.79104712404511e22,
+  num: 1e3,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 1001,
+  flyCoin: 1.89104712404511e22,
+  num: 1001,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 1002,
+  flyCoin: 1.99104712404511e22,
+  num: 1002,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 1003,
+  flyCoin: 2.09104712404511e22,
+  num: 1003,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 1004,
+  flyCoin: 2.19104712404511e22,
+  num: 1004,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 1005,
+  flyCoin: 2.29104712404511e22,
+  num: 1005,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 1006,
+  flyCoin: 2.39104712404511e22,
+  num: 1006,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 1007,
+  flyCoin: 2.49104712404511e22,
+  num: 1007,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 1008,
+  flyCoin: 2.59104712404511e22,
+  num: 1008,
+  isMax: false,
+  coin: 254991691806383,
+  text: "254.49兆"
+}, {
+  level: 1009,
+  flyCoin: 2.69104712404511e22,
+  num: 1009,
+  isMax: true,
+  coin: 254991691806383,
+  text: "254.49兆"
+}];

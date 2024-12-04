@@ -1,0 +1,111 @@
+
+guang.png
+size: 1656,667
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+022_00002
+  rotate: false
+  xy: 967, 33
+  size: 280, 290
+  orig: 658, 370
+  offset: 184, 14
+  index: -1
+022_00003
+  rotate: true
+  xy: 603, 2
+  size: 313, 362
+  orig: 658, 370
+  offset: 170, 8
+  index: -1
+022_00004
+  rotate: false
+  xy: 2, 304
+  size: 328, 361
+  orig: 658, 370
+  offset: 164, 9
+  index: -1
+022_00005
+  rotate: false
+  xy: 332, 317
+  size: 328, 348
+  orig: 658, 370
+  offset: 163, 22
+  index: -1
+022_00006
+  rotate: false
+  xy: 662, 325
+  size: 328, 340
+  orig: 658, 370
+  offset: 162, 30
+  index: -1
+022_00007
+  rotate: false
+  xy: 2, 3
+  size: 307, 299
+  orig: 658, 370
+  offset: 173, 45
+  index: -1
+022_00008
+  rotate: false
+  xy: 311, 10
+  size: 290, 292
+  orig: 658, 370
+  offset: 184, 58
+  index: -1
+022_00009
+  rotate: false
+  xy: 992, 383
+  size: 257, 282
+  orig: 658, 370
+  offset: 207, 75
+  index: -1
+022_00010
+  rotate: false
+  xy: 1249, 75
+  size: 211, 306
+  orig: 658, 370
+  offset: 233, 64
+  index: -1
+022_00011
+  rotate: false
+  xy: 1251, 399
+  size: 177, 266
+  orig: 658, 370
+  offset: 259, 80
+  index: -1
+022_00012
+  rotate: true
+  xy: 1430, 479
+  size: 186, 187
+  orig: 658, 370
+  offset: 263, 86
+  index: -1
+022_00013
+  rotate: false
+  xy: 1462, 299
+  size: 192, 178
+  orig: 658, 370
+  offset: 264, 106
+  index: -1
+022_00014
+  rotate: false
+  xy: 1462, 155
+  size: 186, 142
+  orig: 658, 370
+  offset: 269, 160
+  index: -1
+022_00015
+  rotate: false
+  xy: 1462, 7
+  size: 145, 146
+  orig: 658, 370
+  offset: 279, 176
+  index: -1
+022_00016
+  rotate: false
+  xy: 992, 337
+  size: 62, 44
+  orig: 658, 370
+  offset: 289, 276
+  index: -1

@@ -1,0 +1,20 @@
+
+nainai.png
+size: 465,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nainai_1
+  rotate: true
+  xy: 350, 111
+  size: 156, 113
+  orig: 156, 113
+  offset: 0, 0
+  index: -1
+nainai_2
+  rotate: true
+  xy: 2, 2
+  size: 265, 346
+  orig: 265, 346
+  offset: 0, 0
+  index: -1

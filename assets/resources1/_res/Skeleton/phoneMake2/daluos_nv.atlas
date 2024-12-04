@@ -1,0 +1,118 @@
+
+daluos_nv.png
+size: 993,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aix
+  rotate: false
+  xy: 84, 51
+  size: 40, 40
+  orig: 43, 44
+  offset: 2, 2
+  index: -1
+cm_dz
+  rotate: true
+  xy: 2, 93
+  size: 165, 217
+  orig: 165, 217
+  offset: 0, 0
+  index: -1
+cm_st
+  rotate: true
+  xy: 221, 120
+  size: 138, 229
+  orig: 138, 229
+  offset: 0, 0
+  index: -1
+cm_tou
+  rotate: true
+  xy: 465, 7
+  size: 111, 121
+  orig: 111, 121
+  offset: 0, 0
+  index: -1
+cm_tui
+  rotate: true
+  xy: 681, 138
+  size: 120, 221
+  orig: 120, 221
+  offset: 0, 0
+  index: -1
+cm_ys
+  rotate: false
+  xy: 896, 11
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+cm_zs
+  rotate: true
+  xy: 588, 31
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 2, 11
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+ht_st
+  rotate: true
+  xy: 452, 120
+  size: 138, 227
+  orig: 138, 227
+  offset: 0, 0
+  index: -1
+ht_tf
+  rotate: false
+  xy: 904, 93
+  size: 87, 165
+  orig: 87, 165
+  offset: 0, 0
+  index: -1
+ht_tou1
+  rotate: false
+  xy: 681, 15
+  size: 126, 121
+  orig: 126, 121
+  offset: 0, 0
+  index: -1
+ht_tou1_yj
+  rotate: false
+  xy: 809, 2
+  size: 34, 24
+  orig: 35, 25
+  offset: 0, 1
+  index: -1
+ht_tou2
+  rotate: true
+  xy: 340, 5
+  size: 113, 123
+  orig: 114, 123
+  offset: 0, 0
+  index: -1
+ht_tou2_yj
+  rotate: false
+  xy: 845, 7
+  size: 28, 19
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+ht_zsb
+  rotate: false
+  xy: 809, 28
+  size: 85, 108
+  orig: 85, 108
+  offset: 0, 0
+  index: -1
+ht_zxb
+  rotate: false
+  xy: 221, 2
+  size: 117, 116
+  orig: 117, 116
+  offset: 0, 0
+  index: -1

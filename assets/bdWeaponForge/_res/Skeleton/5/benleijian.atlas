@@ -1,0 +1,132 @@
+
+benleijian.png
+size: 1906,675
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+002_00000
+  rotate: true
+  xy: 1526, 181
+  size: 101, 370
+  orig: 576, 640
+  offset: 212, 214
+  index: -1
+002_00001
+  rotate: true
+  xy: 1150, 23
+  size: 254, 374
+  orig: 576, 640
+  offset: 189, 212
+  index: -1
+002_00002
+  rotate: false
+  xy: 349, 249
+  size: 266, 424
+  orig: 576, 640
+  offset: 166, 176
+  index: -1
+002_00003
+  rotate: false
+  xy: 617, 278
+  size: 273, 395
+  orig: 576, 640
+  offset: 152, 176
+  index: -1
+002_00004
+  rotate: true
+  xy: 763, 16
+  size: 260, 385
+  orig: 576, 640
+  offset: 142, 173
+  index: -1
+002_00005
+  rotate: true
+  xy: 1275, 284
+  size: 192, 350
+  orig: 576, 640
+  offset: 186, 175
+  index: -1
+002_00006
+  rotate: false
+  xy: 228, 9
+  size: 314, 199
+  orig: 576, 640
+  offset: 128, 180
+  index: -1
+002_00007
+  rotate: false
+  xy: 1526, 10
+  size: 318, 169
+  orig: 576, 640
+  offset: 124, 199
+  index: -1
+002_00008
+  rotate: false
+  xy: 1627, 309
+  size: 162, 167
+  orig: 576, 640
+  offset: 126, 199
+  index: -1
+003_00000
+  rotate: false
+  xy: 892, 278
+  size: 209, 198
+  orig: 237, 219
+  offset: 15, 6
+  index: -1
+003_00001
+  rotate: true
+  xy: 544, 16
+  size: 231, 217
+  orig: 237, 219
+  offset: 0, 0
+  index: -1
+003_00002
+  rotate: false
+  xy: 2, 2
+  size: 224, 171
+  orig: 237, 219
+  offset: 13, 16
+  index: -1
+003_00003
+  rotate: true
+  xy: 1103, 279
+  size: 197, 170
+  orig: 237, 219
+  offset: 16, 24
+  index: -1
+003_00004
+  rotate: true
+  xy: 892, 492
+  size: 181, 132
+  orig: 237, 219
+  offset: 18, 43
+  index: -1
+003_00005
+  rotate: true
+  xy: 1026, 525
+  size: 148, 119
+  orig: 237, 219
+  offset: 48, 41
+  index: -1
+01
+  rotate: false
+  xy: 193, 210
+  size: 154, 463
+  orig: 154, 463
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 1150, 478
+  size: 195, 754
+  orig: 208, 765
+  offset: 7, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 175
+  size: 189, 498
+  orig: 194, 502
+  offset: 3, 2
+  index: -1

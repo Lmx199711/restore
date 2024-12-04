@@ -1,0 +1,104 @@
+
+hamJuese_1.png
+size: 1730,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0000
+  rotate: false
+  xy: 1692, 119
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+01
+  rotate: true
+  xy: 2, 2
+  size: 275, 460
+  orig: 447, 476
+  offset: 94, 0
+  index: -1
+010_00001
+  rotate: false
+  xy: 1506, 24
+  size: 184, 124
+  orig: 250, 250
+  offset: 4, 65
+  index: -1
+010_00003
+  rotate: false
+  xy: 1538, 150
+  size: 190, 127
+  orig: 250, 250
+  offset: 4, 63
+  index: -1
+010_00005
+  rotate: false
+  xy: 1106, 27
+  size: 197, 127
+  orig: 250, 250
+  offset: 5, 64
+  index: -1
+010_00007
+  rotate: false
+  xy: 901, 25
+  size: 203, 129
+  orig: 250, 250
+  offset: 5, 64
+  index: -1
+010_00009
+  rotate: false
+  xy: 1329, 150
+  size: 207, 127
+  orig: 250, 250
+  offset: 6, 65
+  index: -1
+010_00011
+  rotate: false
+  xy: 464, 25
+  size: 211, 125
+  orig: 250, 250
+  offset: 7, 66
+  index: -1
+010_00013
+  rotate: false
+  xy: 901, 156
+  size: 214, 121
+  orig: 250, 250
+  offset: 7, 66
+  index: -1
+010_00015
+  rotate: false
+  xy: 682, 154
+  size: 217, 123
+  orig: 250, 250
+  offset: 6, 66
+  index: -1
+010_00017
+  rotate: false
+  xy: 464, 152
+  size: 216, 125
+  orig: 250, 250
+  offset: 6, 65
+  index: -1
+010_00019
+  rotate: false
+  xy: 1117, 156
+  size: 210, 121
+  orig: 250, 250
+  offset: 6, 68
+  index: -1
+010_00021
+  rotate: false
+  xy: 682, 34
+  size: 209, 118
+  orig: 250, 250
+  offset: 5, 67
+  index: -1
+010_00023
+  rotate: false
+  xy: 1305, 27
+  size: 199, 121
+  orig: 250, 250
+  offset: 5, 65
+  index: -1

@@ -1,0 +1,13 @@
+
+take12.png
+size: 251,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sz1
+  rotate: false
+  xy: 2, 2
+  size: 247, 247
+  orig: 247, 247
+  offset: 0, 0
+  index: -1

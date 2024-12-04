@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cfc8f026-3d55-4877-94d7-833b86ba0677",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 425,
+  "height": 425,
+  "platformSettings": {},
+  "subMetas": {
+    "海洋精华": {
+      "ver": "1.0.6",
+      "uuid": "0106a62b-5959-4355-bab2-86464ee673b2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cfc8f026-3d55-4877-94d7-833b86ba0677",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 15.5,
+      "trimX": 8,
+      "trimY": 8,
+      "width": 409,
+      "height": 378,
+      "rawWidth": 425,
+      "rawHeight": 425,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

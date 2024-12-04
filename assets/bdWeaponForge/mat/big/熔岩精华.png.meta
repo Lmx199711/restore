@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "20108f08-25ee-41cb-82d4-6310b0cc2f1d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 425,
+  "height": 425,
+  "platformSettings": {},
+  "subMetas": {
+    "熔岩精华": {
+      "ver": "1.0.6",
+      "uuid": "321d55f1-205d-47e0-bd88-08e32b6da153",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "20108f08-25ee-41cb-82d4-6310b0cc2f1d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 15.5,
+      "trimX": 8,
+      "trimY": 8,
+      "width": 409,
+      "height": 378,
+      "rawWidth": 425,
+      "rawHeight": 425,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

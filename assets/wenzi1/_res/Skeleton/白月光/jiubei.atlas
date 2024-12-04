@@ -1,0 +1,111 @@
+
+jiubei.png
+size: 2025,868
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02_00030
+  rotate: false
+  xy: 1554, 21
+  size: 143, 208
+  orig: 658, 470
+  offset: 125, 162
+  index: -1
+02_00032
+  rotate: true
+  xy: 1529, 497
+  size: 369, 361
+  orig: 658, 470
+  offset: 65, 67
+  index: -1
+02_00034
+  rotate: true
+  xy: 2, 2
+  size: 422, 391
+  orig: 658, 470
+  offset: 65, 47
+  index: -1
+02_00036
+  rotate: true
+  xy: 403, 427
+  size: 439, 395
+  orig: 658, 470
+  offset: 64, 45
+  index: -1
+02_00038
+  rotate: true
+  xy: 2, 426
+  size: 440, 399
+  orig: 658, 470
+  offset: 64, 42
+  index: -1
+02_00040
+  rotate: true
+  xy: 395, 15
+  size: 409, 400
+  orig: 658, 470
+  offset: 96, 42
+  index: -1
+02_00042
+  rotate: true
+  xy: 800, 485
+  size: 381, 372
+  orig: 658, 470
+  offset: 94, 59
+  index: -1
+02_00044
+  rotate: false
+  xy: 1178, 108
+  size: 374, 375
+  orig: 658, 470
+  offset: 93, 57
+  index: -1
+02_00046
+  rotate: false
+  xy: 797, 44
+  size: 379, 381
+  orig: 658, 470
+  offset: 92, 54
+  index: -1
+02_00048
+  rotate: false
+  xy: 1174, 485
+  size: 353, 381
+  orig: 658, 470
+  offset: 118, 54
+  index: -1
+02_00050
+  rotate: false
+  xy: 1554, 231
+  size: 294, 264
+  orig: 658, 470
+  offset: 122, 123
+  index: -1
+02_00052
+  rotate: false
+  xy: 1699, 42
+  size: 272, 187
+  orig: 658, 470
+  offset: 145, 146
+  index: -1
+jiubei_1
+  rotate: false
+  xy: 1178, 12
+  size: 80, 94
+  orig: 82, 96
+  offset: 1, 1
+  index: -1
+jiubei_2
+  rotate: true
+  xy: 1892, 740
+  size: 126, 129
+  orig: 128, 131
+  offset: 1, 1
+  index: -1
+jiubei_3
+  rotate: false
+  xy: 1850, 323
+  size: 173, 172
+  orig: 175, 174
+  offset: 1, 1
+  index: -1

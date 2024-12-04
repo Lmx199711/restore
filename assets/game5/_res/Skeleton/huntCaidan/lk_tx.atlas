@@ -1,0 +1,20 @@
+
+lk_tx.png
+size: 1600,1600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 0, 401
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+2222
+  rotate: false
+  xy: 0, 531
+  size: 1600, 1069
+  orig: 1600, 1069
+  offset: 0, 0
+  index: -1

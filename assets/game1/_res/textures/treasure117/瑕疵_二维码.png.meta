@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "433a161d-1abc-4338-8983-0fbae4718f97",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 69,
+  "height": 69,
+  "platformSettings": {},
+  "subMetas": {
+    "瑕疵_二维码": {
+      "ver": "1.0.6",
+      "uuid": "1aac91b6-f9b2-456f-8066-3a13fbd10d71",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "433a161d-1abc-4338-8983-0fbae4718f97",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 69,
+      "height": 69,
+      "rawWidth": 69,
+      "rawHeight": 69,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,55 @@
+
+nvren.png
+size: 420,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+19
+  rotate: true
+  xy: 2, 40
+  size: 106, 248
+  orig: 106, 248
+  offset: 0, 0
+  index: -1
+19_1
+  rotate: false
+  xy: 374, 78
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+19_1_1
+  rotate: true
+  xy: 252, 71
+  size: 75, 61
+  orig: 75, 61
+  offset: 0, 0
+  index: -1
+19_2
+  rotate: true
+  xy: 315, 40
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+19_2_1
+  rotate: true
+  xy: 315, 76
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+19_3
+  rotate: true
+  xy: 2, 2
+  size: 36, 209
+  orig: 36, 209
+  offset: 0, 0
+  index: -1
+19_4
+  rotate: true
+  xy: 213, 2
+  size: 36, 205
+  orig: 36, 205
+  offset: 0, 0
+  index: -1

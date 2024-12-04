@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3a4ff06f-2de7-4efe-950c-d7a97edf02f4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 669,
+  "height": 450,
+  "platformSettings": {},
+  "subMetas": {
+    "避暑山庄": {
+      "ver": "1.0.6",
+      "uuid": "5694599e-b9b7-4cec-b035-e2363b6b10a1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3a4ff06f-2de7-4efe-950c-d7a97edf02f4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 669,
+      "height": 450,
+      "rawWidth": 669,
+      "rawHeight": 450,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

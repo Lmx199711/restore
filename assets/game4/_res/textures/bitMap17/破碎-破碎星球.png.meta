@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4bc5b392-4484-4dfb-8f49-e35845eb1a99",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 299,
+  "height": 232,
+  "platformSettings": {},
+  "subMetas": {
+    "破碎-破碎星球": {
+      "ver": "1.0.6",
+      "uuid": "5a0dcab5-2e49-4a2d-b2eb-d56ee4af03a9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4bc5b392-4484-4dfb-8f49-e35845eb1a99",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 299,
+      "height": 232,
+      "rawWidth": 299,
+      "rawHeight": 232,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,125 @@
+
+jiujingdeng.png
+size: 626,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/158_26_1
+  rotate: false
+  xy: 2, 4
+  size: 120, 128
+  orig: 120, 129
+  offset: 0, 0
+  index: -1
+images/h_000
+  rotate: false
+  xy: 256, 68
+  size: 61, 64
+  orig: 64, 64
+  offset: 1, 0
+  index: -1
+images/h_001
+  rotate: false
+  xy: 255, 2
+  size: 62, 64
+  orig: 64, 64
+  offset: 2, 0
+  index: -1
+images/h_002
+  rotate: true
+  xy: 382, 68
+  size: 64, 59
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/h_003
+  rotate: true
+  xy: 564, 3
+  size: 63, 60
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/h_004
+  rotate: false
+  xy: 319, 2
+  size: 60, 64
+  orig: 64, 64
+  offset: 2, 0
+  index: -1
+images/h_005
+  rotate: false
+  xy: 504, 68
+  size: 58, 64
+  orig: 64, 64
+  offset: 5, 0
+  index: -1
+images/h_006
+  rotate: false
+  xy: 381, 2
+  size: 60, 64
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+images/h_007
+  rotate: false
+  xy: 124, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/h_008
+  rotate: false
+  xy: 319, 68
+  size: 61, 64
+  orig: 64, 64
+  offset: 3, 0
+  index: -1
+images/h_009
+  rotate: false
+  xy: 124, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/h_010
+  rotate: false
+  xy: 190, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/h_011
+  rotate: false
+  xy: 190, 2
+  size: 63, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/h_012
+  rotate: false
+  xy: 504, 2
+  size: 58, 64
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+images/h_013
+  rotate: false
+  xy: 443, 68
+  size: 59, 64
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+images/h_014
+  rotate: false
+  xy: 443, 2
+  size: 59, 64
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+images/h_015
+  rotate: false
+  xy: 564, 68
+  size: 58, 64
+  orig: 64, 64
+  offset: 5, 0
+  index: -1

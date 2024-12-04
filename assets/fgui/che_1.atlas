@@ -1,0 +1,41 @@
+
+che_1.png
+size: 102,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+010001
+  rotate: true
+  xy: 70, 52
+  size: 46, 30
+  orig: 55, 47
+  offset: 7, 7
+  index: -1
+010002
+  rotate: true
+  xy: 2, 2
+  size: 44, 28
+  orig: 55, 47
+  offset: 8, 8
+  index: -1
+010003
+  rotate: true
+  xy: 70, 3
+  size: 47, 27
+  orig: 55, 47
+  offset: 6, 7
+  index: -1
+010004
+  rotate: true
+  xy: 32, 7
+  size: 39, 28
+  orig: 55, 47
+  offset: 10, 7
+  index: -1
+1
+  rotate: false
+  xy: 2, 48
+  size: 66, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1

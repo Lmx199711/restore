@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5e7008f1-25ca-42ef-ae66-d0084b435317",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 762,
+  "height": 385,
+  "platformSettings": {},
+  "subMetas": {
+    "痘痘勒身体": {
+      "ver": "1.0.6",
+      "uuid": "664e575f-a9cc-4e91-ab74-50cadaaa75a6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5e7008f1-25ca-42ef-ae66-d0084b435317",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 762,
+      "height": 385,
+      "rawWidth": 762,
+      "rawHeight": 385,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

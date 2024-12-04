@@ -1,0 +1,48 @@
+
+hy.png
+size: 1394,1086
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_1
+  rotate: true
+  xy: 2, 364
+  size: 360, 695
+  orig: 361, 695
+  offset: 1, 0
+  index: -1
+hy_2
+  rotate: true
+  xy: 2, 2
+  size: 360, 694
+  orig: 360, 695
+  offset: 0, 1
+  index: -1
+hy_3
+  rotate: true
+  xy: 2, 727
+  size: 357, 691
+  orig: 358, 691
+  offset: 1, 0
+  index: -1
+hy_4
+  rotate: true
+  xy: 699, 364
+  size: 360, 693
+  orig: 361, 693
+  offset: 1, 0
+  index: -1
+hy_5
+  rotate: true
+  xy: 695, 726
+  size: 358, 690
+  orig: 358, 691
+  offset: 0, 1
+  index: -1
+hy_6
+  rotate: true
+  xy: 698, 2
+  size: 360, 692
+  orig: 360, 693
+  offset: 0, 1
+  index: -1

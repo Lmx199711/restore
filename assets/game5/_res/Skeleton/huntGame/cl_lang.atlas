@@ -1,0 +1,69 @@
+
+cl_lang.png
+size: 197,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 89, 112
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 154, 61
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 103, 36
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 0, 75
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+55
+  rotate: false
+  xy: 154, 0
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 152, 129
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 0, 48
+  size: 58, 25
+  orig: 58, 25
+  offset: 0, 0
+  index: -1
+lang
+  rotate: false
+  xy: 0, 131
+  size: 87, 66
+  orig: 87, 66
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 60, 34
+  size: 41, 76
+  orig: 41, 76
+  offset: 0, 0
+  index: -1

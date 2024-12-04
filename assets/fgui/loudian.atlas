@@ -1,0 +1,69 @@
+
+loudian.png
+size: 1196,1175
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_00000
+  rotate: true
+  xy: 690, 400
+  size: 347, 399
+  orig: 500, 500
+  offset: 46, 60
+  index: -1
+001_00002
+  rotate: true
+  xy: 2, 2
+  size: 360, 385
+  orig: 500, 500
+  offset: 22, 59
+  index: -1
+001_00004
+  rotate: false
+  xy: 2, 813
+  size: 445, 360
+  orig: 500, 500
+  offset: 11, 74
+  index: -1
+001_00006
+  rotate: true
+  xy: 2, 364
+  size: 447, 339
+  orig: 500, 500
+  offset: 13, 78
+  index: -1
+001_00008
+  rotate: true
+  xy: 883, 749
+  size: 424, 311
+  orig: 500, 500
+  offset: 36, 84
+  index: -1
+001_00010
+  rotate: true
+  xy: 343, 379
+  size: 432, 345
+  orig: 500, 500
+  offset: 36, 99
+  index: -1
+001_00013
+  rotate: false
+  xy: 449, 820
+  size: 432, 353
+  orig: 500, 500
+  offset: 19, 84
+  index: -1
+001_00015
+  rotate: true
+  xy: 779, 14
+  size: 384, 355
+  orig: 500, 500
+  offset: 34, 80
+  index: -1
+001_00017
+  rotate: true
+  xy: 389, 17
+  size: 360, 388
+  orig: 500, 500
+  offset: 46, 45
+  index: -1

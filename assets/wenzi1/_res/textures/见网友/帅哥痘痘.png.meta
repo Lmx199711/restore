@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a7bcf261-4076-4556-ba51-6e838edd83e4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 423,
+  "height": 675,
+  "platformSettings": {},
+  "subMetas": {
+    "帅哥痘痘": {
+      "ver": "1.0.6",
+      "uuid": "182d694f-698a-4fbf-bbc0-e6177bdb0611",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a7bcf261-4076-4556-ba51-6e838edd83e4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 423,
+      "height": 675,
+      "rawWidth": 423,
+      "rawHeight": 675,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

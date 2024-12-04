@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7c2c0ca4-f9ed-49d6-b638-347a2333261c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 84,
+  "height": 160,
+  "platformSettings": {},
+  "subMetas": {
+    "军大衣": {
+      "ver": "1.0.6",
+      "uuid": "849f2b75-d3ef-4969-a5cc-65a244ead987",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7c2c0ca4-f9ed-49d6-b638-347a2333261c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 84,
+      "height": 160,
+      "rawWidth": 84,
+      "rawHeight": 160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

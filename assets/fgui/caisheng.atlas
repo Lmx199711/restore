@@ -1,0 +1,20 @@
+
+caisheng.png
+size: 338,225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 221, 264
+  orig: 221, 264
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 268, 139
+  size: 84, 68
+  orig: 86, 70
+  offset: 1, 1
+  index: -1

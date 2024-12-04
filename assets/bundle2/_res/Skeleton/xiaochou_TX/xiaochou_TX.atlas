@@ -1,0 +1,27 @@
+
+xiaochou_TX.png
+size: 158,54
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hong
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+huang
+  rotate: false
+  xy: 54, 2
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+lan
+  rotate: false
+  xy: 106, 2
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1

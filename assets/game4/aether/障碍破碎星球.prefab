@@ -1,0 +1,188 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "障碍破碎星球",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "障碍破碎星球",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 6
+      },
+      {
+        "__id__": 7
+      }
+    ],
+    "_prefab": {
+      "__id__": 8
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 301,
+      "height": 234
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1.8,
+        1.8,
+        1
+      ]
+    },
+    "_id": "ea5108b4-43f2-4cbc-8d18-389c4fbd2d77"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "broken",
+    "_active": false,
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 299,
+      "height": 232
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0.55556
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "5a0dcab5-2e49-4a2d-b2eb-d56ee4af03a9"
+    },
+    "node": {
+      "__id__": 2
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "7cjhb8VntENpgqoPEBgo3D",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "41094b1b-eb8f-4d0b-9a39-18e968fcfe43"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "71767Nct+hBbZA1KU/5Gz+I",
+    "bitId": "2004",
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": 24.5,
+        "y": 117,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -76.5,
+        "y": 80,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -123.5,
+        "y": -7,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -88.5,
+        "y": -99,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 41.5,
+        "y": -101,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 102.5,
+        "y": 53,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 72.5,
+        "y": 36,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

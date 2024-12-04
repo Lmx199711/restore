@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5d978e9c-0a24-4243-9151-117a3b777964",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2026,
+  "height": 2000,
+  "platformSettings": {},
+  "subMetas": {
+    "侏罗纪": {
+      "ver": "1.0.6",
+      "uuid": "109396e3-2ceb-422c-8045-8b3bc341c36c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5d978e9c-0a24-4243-9151-117a3b777964",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2026,
+      "height": 2000,
+      "rawWidth": 2026,
+      "rawHeight": 2000,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

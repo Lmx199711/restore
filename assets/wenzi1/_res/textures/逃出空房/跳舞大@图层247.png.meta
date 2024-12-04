@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "dd3ec6ff-ac9f-4b52-90c7-e439f045403a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 236,
+  "height": 1221,
+  "platformSettings": {},
+  "subMetas": {
+    "跳舞大@图层247": {
+      "ver": "1.0.6",
+      "uuid": "7b3577f7-1c8c-4457-9812-2a605a180c99",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "dd3ec6ff-ac9f-4b52-90c7-e439f045403a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 1221,
+      "rawWidth": 236,
+      "rawHeight": 1221,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

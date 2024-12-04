@@ -1,0 +1,48 @@
+
+baozupo.png
+size: 598,230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 348, 28
+  size: 166, 104
+  orig: 166, 104
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 348, 134
+  size: 183, 94
+  orig: 183, 94
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 533, 75
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+005
+  rotate: true
+  xy: 516, 16
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+006
+  rotate: true
+  xy: 2, 2
+  size: 226, 344
+  orig: 226, 344
+  offset: 0, 0
+  index: -1
+01
+  rotate: true
+  xy: 533, 138
+  size: 90, 63
+  orig: 90, 63
+  offset: 0, 0
+  index: -1

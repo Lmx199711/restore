@@ -1,0 +1,20 @@
+
+meinv_2.png
+size: 413,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 2, 2
+  size: 100, 385
+  orig: 100, 385
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 389, 44
+  size: 58, 22
+  orig: 58, 22
+  offset: 0, 0
+  index: -1

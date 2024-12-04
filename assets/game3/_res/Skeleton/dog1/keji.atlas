@@ -1,0 +1,97 @@
+
+keji.png
+size: 1110,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_body
+  rotate: false
+  xy: 846, 90
+  size: 198, 190
+  orig: 198, 248
+  offset: 0, 58
+  index: -1
+1_head
+  rotate: false
+  xy: 846, 7
+  size: 76, 81
+  orig: 79, 84
+  offset: 1, 1
+  index: -1
+1_leg_L_1
+  rotate: false
+  xy: 924, 7
+  size: 57, 81
+  orig: 59, 83
+  offset: 1, 1
+  index: -1
+1_leg_L_2
+  rotate: true
+  xy: 760, 12
+  size: 35, 58
+  orig: 37, 60
+  offset: 1, 1
+  index: -1
+1_leg_R_1
+  rotate: true
+  xy: 1046, 89
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+1_leg_R_2
+  rotate: true
+  xy: 1046, 147
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+1_tail
+  rotate: false
+  xy: 1046, 205
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+2_body
+  rotate: false
+  xy: 596, 35
+  size: 162, 245
+  orig: 162, 245
+  offset: 0, 0
+  index: -1
+3_body
+  rotate: false
+  xy: 2, 3
+  size: 234, 277
+  orig: 234, 277
+  offset: 0, 0
+  index: -1
+3_shetou
+  rotate: false
+  xy: 596, 2
+  size: 28, 31
+  orig: 30, 33
+  offset: 1, 1
+  index: -1
+3_tail
+  rotate: true
+  xy: 983, 18
+  size: 69, 99
+  orig: 69, 99
+  offset: 0, 0
+  index: -1
+wangzi
+  rotate: true
+  xy: 238, 7
+  size: 273, 356
+  orig: 273, 356
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 760, 49
+  size: 231, 84
+  orig: 233, 86
+  offset: 1, 1
+  index: -1

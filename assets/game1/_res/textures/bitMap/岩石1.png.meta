@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "acb73d3b-8a3f-4664-8850-33ce79295f64",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 69,
+  "height": 89,
+  "platformSettings": {},
+  "subMetas": {
+    "岩石1": {
+      "ver": "1.0.6",
+      "uuid": "87b06e85-f92e-4236-937b-9afd6a892b3d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "acb73d3b-8a3f-4664-8850-33ce79295f64",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 69,
+      "height": 89,
+      "rawWidth": 69,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

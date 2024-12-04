@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b669886b-6598-47c6-9345-74393589fa9a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1984,
+  "height": 1664,
+  "platformSettings": {},
+  "subMetas": {
+    "Bartender_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "ce494ef4-fd40-4767-a3d2-60bbb21666d7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b669886b-6598-47c6-9345-74393589fa9a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1982,
+      "height": 1662,
+      "rawWidth": 1984,
+      "rawHeight": 1664,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

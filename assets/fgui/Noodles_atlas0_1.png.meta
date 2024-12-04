@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2537eff6-06d1-49fa-a817-237f060e39cb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1956,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "Noodles_atlas0_1": {
+      "ver": "1.0.6",
+      "uuid": "dbb7e56e-22e7-4c33-86b7-08e756e893e5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2537eff6-06d1-49fa-a817-237f060e39cb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 2,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1952,
+      "height": 2044,
+      "rawWidth": 1956,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

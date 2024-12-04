@@ -1,0 +1,83 @@
+
+kd.png
+size: 330,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CHEJIA
+  rotate: false
+  xy: 2, 135
+  size: 181, 127
+  orig: 181, 127
+  offset: 0, 0
+  index: -1
+LT1
+  rotate: false
+  xy: 2, 49
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+LT2
+  rotate: false
+  xy: 88, 49
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+S1
+  rotate: true
+  xy: 231, 59
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+S2
+  rotate: false
+  xy: 231, 11
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+ST
+  rotate: false
+  xy: 185, 127
+  size: 116, 135
+  orig: 116, 135
+  offset: 0, 0
+  index: -1
+T
+  rotate: true
+  xy: 87, 2
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+TUI1
+  rotate: false
+  xy: 174, 22
+  size: 55, 103
+  orig: 55, 103
+  offset: 0, 0
+  index: -1
+TUI2
+  rotate: true
+  xy: 2, 2
+  size: 45, 83
+  orig: 45, 83
+  offset: 0, 0
+  index: -1
+TY
+  rotate: true
+  xy: 303, 29
+  size: 233, 25
+  orig: 233, 25
+  offset: 0, 0
+  index: -1
+ZB
+  rotate: false
+  xy: 174, 129
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1

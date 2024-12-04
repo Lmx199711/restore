@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "dc0f0798-a254-4a5a-8f06-79f826094092",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 207,
+  "height": 71,
+  "platformSettings": {},
+  "subMetas": {
+    "土堆底部": {
+      "ver": "1.0.6",
+      "uuid": "e871cea2-193e-44b8-be60-396b7836dbc3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "dc0f0798-a254-4a5a-8f06-79f826094092",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 207,
+      "height": 71,
+      "rawWidth": 207,
+      "rawHeight": 71,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

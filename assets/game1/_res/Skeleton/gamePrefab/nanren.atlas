@@ -1,0 +1,41 @@
+
+nanren.png
+size: 508,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20
+  rotate: true
+  xy: 2, 75
+  size: 114, 239
+  orig: 114, 240
+  offset: 0, 1
+  index: -1
+20_1
+  rotate: true
+  xy: 263, 3
+  size: 102, 107
+  orig: 102, 107
+  offset: 0, 0
+  index: -1
+20_2
+  rotate: false
+  xy: 372, 14
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+20_3
+  rotate: true
+  xy: 243, 107
+  size: 82, 263
+  orig: 82, 263
+  offset: 0, 0
+  index: -1
+20_4
+  rotate: true
+  xy: 2, 2
+  size: 71, 259
+  orig: 71, 259
+  offset: 0, 0
+  index: -1

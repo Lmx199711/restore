@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a4138c27-37d2-4dcb-95bd-1704c996cd14",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 215,
+  "height": 284,
+  "platformSettings": {},
+  "subMetas": {
+    "结局3女遗像": {
+      "ver": "1.0.6",
+      "uuid": "af5a3e36-97c8-4faf-8e7c-e830d1ceecb3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a4138c27-37d2-4dcb-95bd-1704c996cd14",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 215,
+      "height": 284,
+      "rawWidth": 215,
+      "rawHeight": 284,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

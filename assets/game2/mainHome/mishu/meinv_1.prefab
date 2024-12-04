@@ -1,0 +1,62 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "meinv_1",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "meinv_10",
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 102.08003234863281,
+      "height": 271.5882263183594
+    },
+    "_id": "f5f1eadc-7203-44f7-82f2-dacb52d28c82"
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "_preCacheMode": 0,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "2900933d-c212-4e20-96bf-f88f74ab4e12"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "9c069AEK7pKIofvk5KM2ds2",
+    "id": 1,
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

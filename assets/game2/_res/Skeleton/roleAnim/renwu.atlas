@@ -1,0 +1,111 @@
+
+renwu.png
+size: 1985,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_00075
+  rotate: true
+  xy: 1443, 55
+  size: 196, 179
+  orig: 200, 184
+  offset: 1, 1
+  index: -1
+001_00080
+  rotate: true
+  xy: 1416, 253
+  size: 195, 180
+  orig: 200, 184
+  offset: 0, 1
+  index: -1
+001_00086
+  rotate: true
+  xy: 1598, 254
+  size: 194, 179
+  orig: 200, 184
+  offset: 1, 2
+  index: -1
+001_00092
+  rotate: true
+  xy: 1806, 68
+  size: 190, 177
+  orig: 200, 184
+  offset: 5, 5
+  index: -1
+001_00098
+  rotate: true
+  xy: 1779, 260
+  size: 188, 180
+  orig: 200, 184
+  offset: 5, 4
+  index: -1
+001_00103
+  rotate: true
+  xy: 1624, 63
+  size: 189, 180
+  orig: 200, 184
+  offset: 4, 4
+  index: -1
+1
+  rotate: true
+  xy: 529, 173
+  size: 275, 708
+  orig: 275, 708
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 529, 24
+  size: 147, 429
+  orig: 147, 429
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1239, 175
+  size: 175, 273
+  orig: 175, 273
+  offset: 0, 0
+  index: -1
+5_1
+  rotate: false
+  xy: 1151, 26
+  size: 113, 145
+  orig: 113, 145
+  offset: 0, 0
+  index: -1
+5_2
+  rotate: true
+  xy: 960, 22
+  size: 149, 189
+  orig: 149, 189
+  offset: 0, 0
+  index: -1
+5_3
+  rotate: false
+  xy: 1352, 83
+  size: 84, 90
+  orig: 84, 90
+  offset: 0, 0
+  index: -1
+5_4
+  rotate: true
+  xy: 1352, 2
+  size: 79, 89
+  orig: 79, 90
+  offset: 0, 1
+  index: -1
+5_5
+  rotate: true
+  xy: 1266, 80
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 2, 11
+  size: 437, 525
+  orig: 437, 525
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+xifashui.png
+size: 336,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 2, 18
+  size: 194, 98
+  orig: 194, 98
+  offset: 0, 0
+  index: -1
+01
+  rotate: true
+  xy: 198, 8
+  size: 108, 136
+  orig: 110, 138
+  offset: 1, 1
+  index: -1
+02
+  rotate: true
+  xy: 2, 2
+  size: 14, 136
+  orig: 14, 136
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+tuyuansu.png
+size: 1465,376
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 1259, 129
+  size: 245, 204
+  orig: 245, 204
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 1017, 134
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 398, 372
+  orig: 398, 372
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1323, 113
+  size: 62, 14
+  orig: 64, 16
+  offset: 1, 1
+  index: -1
+leg_L
+  rotate: true
+  xy: 402, 86
+  size: 288, 310
+  orig: 288, 310
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 714, 111
+  size: 263, 301
+  orig: 263, 301
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 714, 19
+  size: 607, 90
+  orig: 610, 93
+  offset: 2, 2
+  index: -1

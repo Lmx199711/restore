@@ -1,0 +1,20 @@
+
+light.png
+size: 518,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_1
+  rotate: false
+  xy: 260, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guang_2
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

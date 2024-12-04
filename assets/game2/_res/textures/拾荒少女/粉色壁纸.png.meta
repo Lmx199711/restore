@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7b6c8dd6-494b-436f-a758-04e13ecffcc9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 207,
+  "height": 234,
+  "platformSettings": {},
+  "subMetas": {
+    "粉色壁纸": {
+      "ver": "1.0.6",
+      "uuid": "792352ea-a98e-4606-b930-bdd291e71224",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7b6c8dd6-494b-436f-a758-04e13ecffcc9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 207,
+      "height": 234,
+      "rawWidth": 207,
+      "rawHeight": 234,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

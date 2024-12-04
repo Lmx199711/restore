@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "caa6c736-4374-41cd-b998-d4d5d9bdb3f8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 118,
+  "height": 62,
+  "platformSettings": {},
+  "subMetas": {
+    "切尔西": {
+      "ver": "1.0.6",
+      "uuid": "f5ca7f54-51c2-4493-b001-0fc36c14d275",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "caa6c736-4374-41cd-b998-d4d5d9bdb3f8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 62,
+      "rawWidth": 118,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

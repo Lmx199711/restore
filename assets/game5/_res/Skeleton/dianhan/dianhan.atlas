@@ -1,0 +1,48 @@
+
+dianhan.png
+size: 386,557
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 206, 100
+  size: 160, 108
+  orig: 160, 108
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 206, 262
+  size: 293, 178
+  orig: 293, 178
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 2, 2
+  size: 107, 126
+  orig: 107, 126
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2, 111
+  size: 202, 444
+  orig: 202, 444
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 130, 30
+  size: 68, 160
+  orig: 68, 160
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 316, 101
+  size: 66, 159
+  orig: 66, 159
+  offset: 0, 0
+  index: -1

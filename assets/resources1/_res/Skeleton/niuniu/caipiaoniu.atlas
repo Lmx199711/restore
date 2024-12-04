@@ -1,0 +1,41 @@
+
+caipiaoniu.png
+size: 351,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_1
+  rotate: false
+  xy: 2, 179
+  size: 238, 239
+  orig: 278, 278
+  offset: 16, 19
+  index: -1
+light_2
+  rotate: false
+  xy: 242, 217
+  size: 96, 96
+  orig: 120, 120
+  offset: 12, 12
+  index: -1
+light_3
+  rotate: true
+  xy: 242, 315
+  size: 103, 107
+  orig: 120, 120
+  offset: 8, 6
+  index: -1
+niu
+  rotate: false
+  xy: 2, 2
+  size: 202, 175
+  orig: 202, 175
+  offset: 0, 0
+  index: -1
+pai
+  rotate: false
+  xy: 206, 65
+  size: 137, 112
+  orig: 141, 119
+  offset: 2, 2
+  index: -1

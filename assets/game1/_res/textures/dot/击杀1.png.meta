@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6e265e6e-290a-4dda-baa8-d4750a62bc1e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 36,
+  "height": 36,
+  "platformSettings": {},
+  "subMetas": {
+    "击杀1": {
+      "ver": "1.0.6",
+      "uuid": "a2d9611f-d29a-4fca-9ca4-8962efd81093",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6e265e6e-290a-4dda-baa8-d4750a62bc1e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 36,
+      "height": 36,
+      "rawWidth": 36,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

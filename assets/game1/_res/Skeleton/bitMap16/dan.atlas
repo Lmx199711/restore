@@ -1,0 +1,62 @@
+
+dan.png
+size: 185,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DK_2
+  rotate: true
+  xy: 152, 89
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+Dk_1
+  rotate: true
+  xy: 76, 67
+  size: 71, 74
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+dan
+  rotate: false
+  xy: 2, 51
+  size: 72, 87
+  orig: 72, 87
+  offset: 0, 0
+  index: -1
+lei_1
+  rotate: false
+  xy: 2, 2
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+lei_2
+  rotate: false
+  xy: 39, 2
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+lei_3
+  rotate: false
+  xy: 148, 18
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+long
+  rotate: true
+  xy: 76, 11
+  size: 54, 70
+  orig: 56, 70
+  offset: 2, 0
+  index: -1
+shetou
+  rotate: false
+  xy: 148, 3
+  size: 32, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1

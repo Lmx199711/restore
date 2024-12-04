@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f2afa16e-6720-4c44-bff1-4ef4e672f40b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1002,
+  "height": 870,
+  "platformSettings": {},
+  "subMetas": {
+    "PhoneMake_atlas_n8p611": {
+      "ver": "1.0.6",
+      "uuid": "a4349730-d6fa-4b98-886e-ec4834d14142",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f2afa16e-6720-4c44-bff1-4ef4e672f40b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1002,
+      "height": 870,
+      "rawWidth": 1002,
+      "rawHeight": 870,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

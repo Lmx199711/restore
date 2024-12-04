@@ -1,0 +1,83 @@
+
+yunshi_1.png
+size: 450,554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_000
+  rotate: false
+  xy: 256, 203
+  size: 176, 201
+  orig: 256, 256
+  offset: 0, 30
+  index: -1
+01_001
+  rotate: false
+  xy: 2, 375
+  size: 252, 177
+  orig: 256, 256
+  offset: 0, 31
+  index: -1
+01_002
+  rotate: false
+  xy: 2, 220
+  size: 248, 153
+  orig: 256, 256
+  offset: 4, 56
+  index: -1
+01_003
+  rotate: false
+  xy: 2, 54
+  size: 218, 164
+  orig: 256, 256
+  offset: 30, 51
+  index: -1
+a_1
+  rotate: false
+  xy: 363, 117
+  size: 85, 84
+  orig: 87, 86
+  offset: 1, 1
+  index: -1
+a_2
+  rotate: false
+  xy: 222, 3
+  size: 69, 86
+  orig: 71, 88
+  offset: 1, 1
+  index: -1
+a_3
+  rotate: true
+  xy: 293, 2
+  size: 95, 64
+  orig: 97, 66
+  offset: 1, 1
+  index: -1
+a_4
+  rotate: false
+  xy: 281, 99
+  size: 80, 102
+  orig: 82, 104
+  offset: 1, 1
+  index: -1
+a_5
+  rotate: true
+  xy: 222, 91
+  size: 110, 57
+  orig: 112, 59
+  offset: 1, 1
+  index: -1
+a_6
+  rotate: false
+  xy: 363, 16
+  size: 53, 99
+  orig: 55, 101
+  offset: 1, 1
+  index: -1
+b
+  rotate: false
+  xy: 256, 406
+  size: 192, 146
+  orig: 192, 146
+  offset: 0, 0
+  index: -1

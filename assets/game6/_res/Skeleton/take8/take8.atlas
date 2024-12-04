@@ -1,0 +1,13 @@
+
+take8.png
+size: 202,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pw
+  rotate: false
+  xy: 2, 2
+  size: 198, 218
+  orig: 198, 218
+  offset: 0, 0
+  index: -1

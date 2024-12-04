@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6f6f7145-8498-4679-bc93-e30203ab6653",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1784,
+  "height": 632,
+  "platformSettings": {},
+  "subMetas": {
+    "BecomeGambleGod_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "deae03f8-a804-404a-bd34-1275de2a28e8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6f6f7145-8498-4679-bc93-e30203ab6653",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 2.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1780,
+      "height": 627,
+      "rawWidth": 1784,
+      "rawHeight": 632,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

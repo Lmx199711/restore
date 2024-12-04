@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d5636da2-863e-4c57-ad53-db996a6ffb50",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 133,
+  "height": 131,
+  "platformSettings": {},
+  "subMetas": {
+    "冰魄剑": {
+      "ver": "1.0.6",
+      "uuid": "7f22a7c9-dd52-4716-bc9b-a18dcb218ed5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d5636da2-863e-4c57-ad53-db996a6ffb50",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": -2,
+      "trimX": 9,
+      "trimY": 8,
+      "width": 118,
+      "height": 119,
+      "rawWidth": 133,
+      "rawHeight": 131,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

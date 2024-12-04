@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d518cd65-892c-4452-8ef1-72bde01e160c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 750,
+  "height": 979,
+  "platformSettings": {},
+  "subMetas": {
+    "土地1": {
+      "ver": "1.0.6",
+      "uuid": "7443efe0-d655-4628-8420-73aa9c9ee7af",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d518cd65-892c-4452-8ef1-72bde01e160c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 750,
+      "height": 979,
+      "rawWidth": 750,
+      "rawHeight": 979,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2e64c1ec-b707-4b18-a02c-d527d395071c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 196,
+  "height": 232,
+  "platformSettings": {},
+  "subMetas": {
+    "打年兽": {
+      "ver": "1.0.6",
+      "uuid": "ccf81b67-be1b-47b9-9f00-1057ee2dc1f2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2e64c1ec-b707-4b18-a02c-d527d395071c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 196,
+      "height": 232,
+      "rawWidth": 196,
+      "rawHeight": 232,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

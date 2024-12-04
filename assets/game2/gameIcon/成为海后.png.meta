@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "93e45d61-083f-48a6-96f5-527c4fa3fb92",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 147,
+  "height": 147,
+  "platformSettings": {},
+  "subMetas": {
+    "成为海后": {
+      "ver": "1.0.6",
+      "uuid": "c28b35ec-af5c-4d7d-a31d-ae01af2994d4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "93e45d61-083f-48a6-96f5-527c4fa3fb92",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 147,
+      "height": 147,
+      "rawWidth": 147,
+      "rawHeight": 147,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

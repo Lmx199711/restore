@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "74b161c3-d52d-4707-beb7-ea19b255527f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 900,
+  "height": 760,
+  "platformSettings": {},
+  "subMetas": {
+    "Train_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "2d29023b-3f9c-438b-b874-57a6102a09a9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "74b161c3-d52d-4707-beb7-ea19b255527f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 2.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 895,
+      "height": 755,
+      "rawWidth": 900,
+      "rawHeight": 760,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

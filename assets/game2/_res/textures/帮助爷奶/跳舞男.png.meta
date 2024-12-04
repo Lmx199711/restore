@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b8717c1a-00b2-44e9-9bf6-f9f9fa47adac",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 283,
+  "height": 746,
+  "platformSettings": {},
+  "subMetas": {
+    "跳舞男": {
+      "ver": "1.0.6",
+      "uuid": "f9b5824e-e9ee-439e-9e20-17ce194cd827",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b8717c1a-00b2-44e9-9bf6-f9f9fa47adac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 283,
+      "height": 746,
+      "rawWidth": 283,
+      "rawHeight": 746,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

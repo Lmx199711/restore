@@ -1,0 +1,48 @@
+
+weapon.png
+size: 264,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 43, 70
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 43, 115
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 43, 161
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 0, 0
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 43, 210
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 0, 63
+  size: 41, 201
+  orig: 41, 201
+  offset: 0, 0
+  index: -1

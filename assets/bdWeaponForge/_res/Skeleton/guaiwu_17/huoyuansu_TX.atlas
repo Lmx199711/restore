@@ -1,0 +1,83 @@
+
+huoyuansu_TX.png
+size: 1781,1330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02_00000
+  rotate: false
+  xy: 446, 445
+  size: 443, 441
+  orig: 658, 658
+  offset: 100, 100
+  index: -1
+02_00001
+  rotate: false
+  xy: 891, 445
+  size: 443, 441
+  orig: 658, 658
+  offset: 100, 100
+  index: -1
+02_00002
+  rotate: false
+  xy: 1336, 445
+  size: 443, 441
+  orig: 658, 658
+  offset: 100, 100
+  index: -1
+02_00003
+  rotate: false
+  xy: 2, 2
+  size: 443, 441
+  orig: 658, 658
+  offset: 100, 100
+  index: -1
+02_00004
+  rotate: false
+  xy: 2, 888
+  size: 442, 440
+  orig: 658, 658
+  offset: 101, 101
+  index: -1
+02_00005
+  rotate: false
+  xy: 446, 888
+  size: 442, 440
+  orig: 658, 658
+  offset: 101, 101
+  index: -1
+02_00006
+  rotate: false
+  xy: 890, 888
+  size: 442, 440
+  orig: 658, 658
+  offset: 101, 101
+  index: -1
+02_00007
+  rotate: false
+  xy: 1334, 888
+  size: 442, 440
+  orig: 658, 658
+  offset: 101, 101
+  index: -1
+02_00008
+  rotate: false
+  xy: 2, 446
+  size: 442, 440
+  orig: 658, 658
+  offset: 101, 101
+  index: -1
+02_00009
+  rotate: false
+  xy: 447, 2
+  size: 443, 441
+  orig: 658, 658
+  offset: 100, 100
+  index: -1
+02_00010
+  rotate: false
+  xy: 892, 2
+  size: 443, 441
+  orig: 658, 658
+  offset: 100, 100
+  index: -1

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="mlmgnhfv">
+  <resources>
+    <image id="ve8j3" name="MainHome_atlas_ushxzwq.jpg" path="/Image/"/>
+    <component id="ve8j4" name="Main.xml" path="/"/>
+    <image id="ve8j5" name="MainHome_atlas_hqwm104z.jpg" path="/Image/"/>
+    <image id="ve8j6" name="MainHome_atlas_qqi72.jpg" path="/Image/"/>
+    <component id="ve8j7" name="CoinCom.xml" path="/"/>
+    <image id="vjv28" name="MainHome_CoinImage.png" path="/Image/"/>
+    <image id="vjv29" name="MainHome_CoinImage_bg.png" path="/Image/" scale="9grid" scale9grid="9,5,129,16"/>
+    <component id="vjv2a" name="DayCom.xml" path="/"/>
+    <image id="vjv2b" name="MainHome_DayCom_bg.png" path="/Image/"/>
+    <component id="vjv2c" name="DayCom2.xml" path="/"/>
+    <image id="vjv2d" name="MainHome_Earn_Time.png" path="/Image/"/>
+    <image id="vjv2e" name="MainHome_Earn_Touch.png" path="/Image/"/>
+    <component id="vjv2f" name="EarnCom.xml" path="/"/>
+    <component id="vjv2h" name="headComp.xml" path="/"/>
+    <image id="vjv2i" name="新手摊贩.png" path="/Image/"/>
+    <image id="vjv2j" name="菜鸟摊贩.png" path="/Image/"/>
+    <image id="vjv2k" name="低档摊贩.png" path="/Image/"/>
+    <image id="vjv2l" name="普通摊贩.png" path="/Image/"/>
+    <image id="vjv2m" name="中档摊贩.png" path="/Image/"/>
+    <image id="vjv2n" name="高档摊贩.png" path="/Image/"/>
+    <image id="vjv2o" name="顶级摊贩.png" path="/Image/"/>
+    <image id="vjv2p" name="网红摊贩.png" path="/Image/"/>
+    <image id="vjv2q" name="全国名摊.png" path="/Image/"/>
+    <image id="vjv2r" name="世界名摊.png" path="/Image/"/>
+    <image id="vjv2s" name="宇宙名摊.png" path="/Image/"/>
+    <image id="vjv2t" name="烧烤之王.png" path="/Image/"/>
+    <component id="vjv2u" name="BBQCom.xml" path="/"/>
+    <image id="vjv2v" name="MainHome_BBQCom_Pan.png" path="/Image/"/>
+    <image id="vjv2w" name="tanhuo.png" path="/Image/"/>
+    <misc id="vjv2y" name="tanhuo.atlas" path="/Image/"/>
+    <spine id="vjv2x" name="tanhuo.skel" path="/Image/" width="267" height="239" require="vjv2y,vjv2z" atlasNames="tanhuo" anchor="130,202"/>
+    <image id="vjv219" name="shaokao.png" path="/Image/"/>
+    <misc id="vjv21b" name="shaokao.atlas" path="/Image/"/>
+    <spine id="vjv21a" name="shaokao.skel" path="/Image/" width="100" height="100" require="vjv21b,vjv21c" atlasNames="shaokao" anchor="100,100"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

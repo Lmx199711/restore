@@ -1,0 +1,122 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "钻石",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "钻石",
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 165,
+      "height": 153
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -546.002,
+        -196.688,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.7,
+        0.7,
+        1
+      ]
+    },
+    "_id": "83b8c127-8ef5-4c38-be4a-00309657ea7d"
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "d75c05a8-08db-4e54-a81a-879f10791fec"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "31c73ePuAVON64gwxImF51Q",
+    "bitId": "6002",
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": 24.5,
+        "y": 76.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -30.5,
+        "y": 74.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -82.5,
+        "y": 38.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -78.5,
+        "y": 12.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 0.5,
+        "y": -76.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 82.5,
+        "y": 22.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 77.5,
+        "y": 44.5,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

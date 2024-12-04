@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ef61e3b7-fd48-4a78-9385-0ae6760e2dfa",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 425,
+  "height": 425,
+  "platformSettings": {},
+  "subMetas": {
+    "自然精华": {
+      "ver": "1.0.6",
+      "uuid": "a9427949-5439-4db2-b61e-d03a9ee6935a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ef61e3b7-fd48-4a78-9385-0ae6760e2dfa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 8,
+      "trimY": 8,
+      "width": 409,
+      "height": 409,
+      "rawWidth": 425,
+      "rawHeight": 425,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

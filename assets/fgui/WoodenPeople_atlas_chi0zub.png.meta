@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2c7b3ed8-6707-45c9-876a-5d214109edd8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 86,
+  "height": 112,
+  "platformSettings": {},
+  "subMetas": {
+    "WoodenPeople_atlas_chi0zub": {
+      "ver": "1.0.6",
+      "uuid": "10b779ac-03a3-4d82-9112-6d4a17cc194b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2c7b3ed8-6707-45c9-876a-5d214109edd8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 86,
+      "height": 112,
+      "rawWidth": 86,
+      "rawHeight": 112,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "jian",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "jian",
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 3
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 393.9745178222656,
+      "height": 465.2752380371094
+    },
+    "_id": "d52ee6d2-7f15-4d03-b2a8-5fda3296bfc8"
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "jiyanzhiren",
+    "defaultAnimation": "gongji_1",
+    "_preCacheMode": 0,
+    "_animationName": "gongji_1",
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "a1a9f57e-2702-4935-a172-7149aa5aa36a"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

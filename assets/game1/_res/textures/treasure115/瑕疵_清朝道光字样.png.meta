@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "db91e967-05ce-42b9-8a1b-7fe1fd80c2d0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 73,
+  "height": 73,
+  "platformSettings": {},
+  "subMetas": {
+    "瑕疵_清朝道光字样": {
+      "ver": "1.0.6",
+      "uuid": "1b52cf7a-db59-43ed-94f2-08692c8686d2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "db91e967-05ce-42b9-8a1b-7fe1fd80c2d0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 73,
+      "height": 73,
+      "rawWidth": 73,
+      "rawHeight": 73,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

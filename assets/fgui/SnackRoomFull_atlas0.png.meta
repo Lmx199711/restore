@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9c97280e-c9cc-4fce-86c9-0a44a5b12112",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1600,
+  "height": 1536,
+  "platformSettings": {},
+  "subMetas": {
+    "SnackRoomFull_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "ee59d9c3-78a4-4ce1-8f6a-96de8a529780",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9c97280e-c9cc-4fce-86c9-0a44a5b12112",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1598,
+      "height": 1534,
+      "rawWidth": 1600,
+      "rawHeight": 1536,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

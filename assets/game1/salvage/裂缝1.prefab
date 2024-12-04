@@ -1,0 +1,199 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "裂缝1",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "flaw0",
+    "_groupIndex": 1,
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 6
+      },
+      {
+        "__id__": 7
+      },
+      {
+        "__id__": 8
+      }
+    ],
+    "_prefab": {
+      "__id__": 9
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 89,
+      "height": 66
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -8.798,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "groupIndex": 1,
+    "_id": "c7775cbc-2427-43b0-a4c5-33794fe50617"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "tip",
+    "_groupIndex": 1,
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 0,
+      "g": 0,
+      "r": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 89,
+      "height": 66
+    },
+    "groupIndex": 1
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_type": 3,
+    "_sizeMode": 0,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "8857cd42-0c78-44e5-b62f-f5aa247ced79"
+    },
+    "node": {
+      "__id__": 2
+    }
+  },
+  {
+    "__type__": "cc.Widget",
+    "_alignFlags": 45,
+    "_originalWidth": 89,
+    "_originalHeight": 66,
+    "node": {
+      "__id__": 2
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "b0onxdm75N948drb4iKq75",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "c707840f-8b3c-4040-973d-069ba7688c34"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "b9658IqG29CMrMWGvbF0ARf",
+    "bubble": "分割请用|巴拉巴拉",
+    "price": -1000,
+    "hitArea": 0.8,
+    "findType": 1,
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": -20.3,
+        "y": 29,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -30.1,
+        "y": -17.7,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 5.2,
+        "y": -26.8,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 32.9,
+        "y": -14.3,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 29.9,
+        "y": 20.9,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 28.5,
+        "y": 22.1,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 28.9,
+        "y": 27.6,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

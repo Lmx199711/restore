@@ -1,0 +1,125 @@
+
+fangzi.png
+size: 449,852
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00001
+  rotate: true
+  xy: 122, 2
+  size: 95, 105
+  orig: 262, 246
+  offset: 87, 71
+  index: -1
+01_00002
+  rotate: true
+  xy: 122, 2
+  size: 95, 105
+  orig: 262, 246
+  offset: 87, 71
+  index: -1
+01_00003
+  rotate: true
+  xy: 122, 2
+  size: 95, 105
+  orig: 262, 246
+  offset: 87, 71
+  index: -1
+01_00004
+  rotate: true
+  xy: 122, 2
+  size: 95, 105
+  orig: 262, 246
+  offset: 87, 71
+  index: -1
+01_00005
+  rotate: true
+  xy: 142, 99
+  size: 123, 127
+  orig: 262, 246
+  offset: 69, 64
+  index: -1
+01_00006
+  rotate: false
+  xy: 309, 110
+  size: 133, 123
+  orig: 262, 246
+  offset: 63, 69
+  index: -1
+01_00007
+  rotate: false
+  xy: 2, 119
+  size: 138, 131
+  orig: 262, 246
+  offset: 62, 64
+  index: -1
+01_00008
+  rotate: false
+  xy: 157, 224
+  size: 150, 142
+  orig: 262, 246
+  offset: 59, 57
+  index: -1
+01_00009
+  rotate: true
+  xy: 2, 252
+  size: 151, 153
+  orig: 262, 246
+  offset: 56, 56
+  index: -1
+01_00010
+  rotate: true
+  xy: 256, 683
+  size: 167, 179
+  orig: 262, 246
+  offset: 50, 40
+  index: -1
+01_00011
+  rotate: false
+  xy: 235, 368
+  size: 158, 149
+  orig: 262, 246
+  offset: 52, 57
+  index: -1
+01_00012
+  rotate: false
+  xy: 309, 235
+  size: 138, 131
+  orig: 262, 246
+  offset: 62, 64
+  index: -1
+01_00013
+  rotate: false
+  xy: 2, 5
+  size: 118, 112
+  orig: 262, 246
+  offset: 73, 73
+  index: -1
+01_00014
+  rotate: false
+  xy: 271, 3
+  size: 105, 105
+  orig: 262, 246
+  offset: 78, 73
+  index: -1
+1
+  rotate: true
+  xy: 2, 405
+  size: 210, 231
+  orig: 210, 232
+  offset: 0, 0
+  index: -1
+aa
+  rotate: false
+  xy: 256, 519
+  size: 167, 162
+  orig: 168, 164
+  offset: 1, 0
+  index: -1
+ss
+  rotate: true
+  xy: 2, 617
+  size: 233, 252
+  orig: 256, 256
+  offset: 16, 4
+  index: -1

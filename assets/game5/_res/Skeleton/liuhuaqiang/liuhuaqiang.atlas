@@ -1,0 +1,62 @@
+
+liuhuaqiang.png
+size: 407,549
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02
+  rotate: false
+  xy: 2, 86
+  size: 152, 280
+  orig: 153, 372
+  offset: 1, 72
+  index: -1
+arm_L
+  rotate: true
+  xy: 354, 503
+  size: 44, 51
+  orig: 46, 53
+  offset: 1, 1
+  index: -1
+arm_R_1
+  rotate: true
+  xy: 156, 221
+  size: 145, 235
+  orig: 145, 235
+  offset: 0, 0
+  index: -1
+arm_R_2
+  rotate: true
+  xy: 120, 21
+  size: 63, 123
+  orig: 63, 123
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 368
+  size: 179, 350
+  orig: 179, 350
+  offset: 0, 0
+  index: -1
+elbow_L
+  rotate: true
+  xy: 156, 96
+  size: 123, 99
+  orig: 123, 99
+  offset: 0, 0
+  index: -1
+elbow_R
+  rotate: false
+  xy: 257, 15
+  size: 141, 204
+  orig: 141, 204
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 2
+  size: 82, 116
+  orig: 84, 118
+  offset: 1, 1
+  index: -1

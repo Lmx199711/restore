@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4f34df36-0c3e-427a-8560-1ea5a48aacf5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 55,
+  "height": 52,
+  "platformSettings": {},
+  "subMetas": {
+    "结算男胸前花": {
+      "ver": "1.0.6",
+      "uuid": "de562625-dcf0-4d5c-ae78-1732c5cfec52",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4f34df36-0c3e-427a-8560-1ea5a48aacf5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 55,
+      "height": 52,
+      "rawWidth": 55,
+      "rawHeight": 52,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

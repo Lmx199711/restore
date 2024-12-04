@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "194f659d-3790-4fe7-9ce5-7dc1b6eaf982",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 219,
+  "height": 81,
+  "platformSettings": {},
+  "subMetas": {
+    "拖动三种原材料倒入摇瓶中2": {
+      "ver": "1.0.6",
+      "uuid": "3ec64954-d368-48c7-97f2-da596780d9a4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "194f659d-3790-4fe7-9ce5-7dc1b6eaf982",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 219,
+      "height": 81,
+      "rawWidth": 219,
+      "rawHeight": 81,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 72,
+      "borderRight": 76,
+      "subMetas": {}
+    }
+  }
+}

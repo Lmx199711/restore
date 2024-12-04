@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8032dfe6-47bf-413e-a04b-72eb3b88d8cb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1002,
+  "height": 1668,
+  "platformSettings": {},
+  "subMetas": {
+    "Battle_atlas_hpt1zv0": {
+      "ver": "1.0.6",
+      "uuid": "9cee854e-2c3f-4ea2-898c-f61cc80186c3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8032dfe6-47bf-413e-a04b-72eb3b88d8cb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1002,
+      "height": 1668,
+      "rawWidth": 1002,
+      "rawHeight": 1668,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

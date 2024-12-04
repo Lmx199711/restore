@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "66ef633b-74ff-4664-9bf6-7e053210a2e5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1002,
+  "height": 1668,
+  "platformSettings": {},
+  "subMetas": {
+    "MoveBrick_atlas_mfkx15": {
+      "ver": "1.0.6",
+      "uuid": "aab946ac-d8e5-4661-b011-479edfd27c29",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "66ef633b-74ff-4664-9bf6-7e053210a2e5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1002,
+      "height": 1668,
+      "rawWidth": 1002,
+      "rawHeight": 1668,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

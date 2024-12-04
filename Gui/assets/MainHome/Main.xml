@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_ve8j" name="bg" src="ve8j3" fileName="Image/MainHome_atlas_ushxzwq.jpg" xy="-1,3" size="750,1334">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </image>
+    <component id="n2_vjv2" name="n2" src="ve8j7" fileName="CoinCom.xml" xy="92,48"/>
+    <component id="n3_vjv2" name="n3" src="vjv2a" fileName="DayCom.xml" xy="395,33" size="164,169"/>
+    <component id="n4_vjv2" name="n4" src="vjv2f" fileName="EarnCom.xml" xy="14,160"/>
+    <component id="n5_vjv2" name="n5" src="vjv2h" fileName="headComp.xml" xy="94,101" size="336,100"/>
+    <component id="n6_vjv2" name="n6" src="vjv2u" fileName="BBQCom.xml" xy="-4,839">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

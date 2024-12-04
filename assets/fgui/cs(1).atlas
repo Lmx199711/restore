@@ -1,0 +1,76 @@
+
+cs(1).png
+size: 1677,793
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pd
+  rotate: true
+  xy: 505, 236
+  size: 555, 305
+  orig: 657, 580
+  offset: 44, 164
+  index: -1
+st
+  rotate: false
+  xy: 505, 2
+  size: 255, 232
+  orig: 256, 242
+  offset: 0, 8
+  index: -1
+tou
+  rotate: false
+  xy: 1187, 11
+  size: 361, 268
+  orig: 362, 268
+  offset: 0, 0
+  index: -1
+yb_1
+  rotate: true
+  xy: 812, 264
+  size: 527, 373
+  orig: 528, 377
+  offset: 0, 0
+  index: -1
+yb_2
+  rotate: true
+  xy: 2, 20
+  size: 66, 47
+  orig: 90, 61
+  offset: 4, 14
+  index: -1
+yb_3
+  rotate: true
+  xy: 1187, 281
+  size: 510, 488
+  orig: 518, 494
+  offset: 4, 2
+  index: -1
+yb_4
+  rotate: true
+  xy: 2, 88
+  size: 703, 501
+  orig: 711, 508
+  offset: 4, 5
+  index: -1
+yous
+  rotate: false
+  xy: 762, 7
+  size: 200, 227
+  orig: 200, 227
+  offset: 0, 0
+  index: -1
+zb
+  rotate: true
+  xy: 51, 33
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+zuos
+  rotate: false
+  xy: 964, 35
+  size: 200, 227
+  orig: 200, 227
+  offset: 0, 0
+  index: -1

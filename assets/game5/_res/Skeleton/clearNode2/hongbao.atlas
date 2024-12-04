@@ -1,0 +1,41 @@
+
+hongbao.png
+size: 405,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+04
+  rotate: false
+  xy: 2, 203
+  size: 220, 316
+  orig: 221, 316
+  offset: 1, 0
+  index: -1
+05
+  rotate: true
+  xy: 186, 2
+  size: 199, 84
+  orig: 199, 84
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 272, 30
+  size: 209, 124
+  orig: 209, 124
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 17
+  size: 182, 184
+  orig: 182, 184
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 224, 241
+  size: 179, 278
+  orig: 180, 278
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+wuyingjian.png
+size: 344,575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: false
+  xy: 2, 2
+  size: 169, 571
+  orig: 169, 571
+  offset: 0, 0
+  index: -1
+6_1
+  rotate: false
+  xy: 173, 2
+  size: 169, 571
+  orig: 169, 571
+  offset: 0, 0
+  index: -1

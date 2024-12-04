@@ -1,0 +1,20 @@
+
+mishu_18.png
+size: 498,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22
+  rotate: true
+  xy: 2, 2
+  size: 389, 468
+  orig: 420, 468
+  offset: 13, 0
+  index: -1
+yy
+  rotate: true
+  xy: 472, 331
+  size: 60, 24
+  orig: 62, 26
+  offset: 1, 1
+  index: -1

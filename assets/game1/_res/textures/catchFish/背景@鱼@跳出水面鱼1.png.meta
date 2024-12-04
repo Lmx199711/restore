@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cfdc9f42-2828-487c-9be7-86cce500f246",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 149,
+  "height": 96,
+  "platformSettings": {},
+  "subMetas": {
+    "背景@鱼@跳出水面鱼1": {
+      "ver": "1.0.6",
+      "uuid": "f66abb55-031b-4ba4-b05b-089ffd48413f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cfdc9f42-2828-487c-9be7-86cce500f246",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 148,
+      "height": 96,
+      "rawWidth": 149,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "xuanzhuan",
+  "_duration": 4.016666666666667,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 4.016666666666667,
+          "value": 360
+        }
+      ]
+    }
+  }
+}

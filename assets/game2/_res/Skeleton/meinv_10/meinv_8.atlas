@@ -1,0 +1,20 @@
+
+meinv_8.png
+size: 347,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8
+  rotate: true
+  xy: 2, 2
+  size: 132, 319
+  orig: 132, 343
+  offset: 0, 24
+  index: -1
+yy
+  rotate: true
+  xy: 323, 76
+  size: 58, 22
+  orig: 58, 22
+  offset: 0, 0
+  index: -1

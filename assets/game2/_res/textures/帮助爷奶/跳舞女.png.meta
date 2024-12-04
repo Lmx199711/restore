@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "da18d753-dfe7-473a-bbc8-b905ba21ebe6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 219,
+  "height": 747,
+  "platformSettings": {},
+  "subMetas": {
+    "跳舞女": {
+      "ver": "1.0.6",
+      "uuid": "4962fa13-78aa-428f-95c4-243825acd860",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "da18d753-dfe7-473a-bbc8-b905ba21ebe6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 219,
+      "height": 747,
+      "rawWidth": 219,
+      "rawHeight": 747,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

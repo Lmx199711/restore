@@ -1,0 +1,55 @@
+
+cxy2.png
+size: 1331,426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daima
+  rotate: false
+  xy: 587, 2
+  size: 396, 422
+  orig: 397, 422
+  offset: 1, 0
+  index: -1
+diann
+  rotate: true
+  xy: 2, 3
+  size: 421, 583
+  orig: 421, 583
+  offset: 0, 0
+  index: -1
+jianp
+  rotate: false
+  xy: 1141, 9
+  size: 188, 53
+  orig: 189, 61
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: true
+  xy: 985, 205
+  size: 219, 212
+  orig: 219, 212
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1141, 64
+  size: 138, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 1199, 284
+  size: 124, 140
+  orig: 124, 140
+  offset: 0, 0
+  index: -1
+zuos
+  rotate: true
+  xy: 985, 26
+  size: 177, 154
+  orig: 179, 154
+  offset: 2, 0
+  index: -1

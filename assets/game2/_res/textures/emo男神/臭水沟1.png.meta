@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8ec465f8-4362-469a-aafb-bbad170d33ac",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 750,
+  "height": 180,
+  "platformSettings": {},
+  "subMetas": {
+    "臭水沟1": {
+      "ver": "1.0.6",
+      "uuid": "87a197ca-38bf-4eb4-95b0-7b531cf0d8da",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8ec465f8-4362-469a-aafb-bbad170d33ac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 750,
+      "height": 180,
+      "rawWidth": 750,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

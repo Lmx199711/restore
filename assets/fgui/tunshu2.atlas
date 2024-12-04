@@ -1,0 +1,34 @@
+
+tunshu2.png
+size: 1205,614
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+010
+  rotate: true
+  xy: 962, 359
+  size: 253, 241
+  orig: 277, 255
+  offset: 13, 12
+  index: -1
+02
+  rotate: true
+  xy: 2, 339
+  size: 273, 958
+  orig: 273, 958
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 2, 2
+  size: 335, 549
+  orig: 335, 549
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 553, 2
+  size: 335, 549
+  orig: 335, 549
+  offset: 0, 0
+  index: -1

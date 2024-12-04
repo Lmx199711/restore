@@ -1,0 +1,13 @@
+
+stoneAnim22.png
+size: 227,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+long
+  rotate: false
+  xy: 2, 2
+  size: 223, 253
+  orig: 255, 260
+  offset: 8, 7
+  index: -1

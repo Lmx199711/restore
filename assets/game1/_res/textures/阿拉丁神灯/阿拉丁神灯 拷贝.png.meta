@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "dda77e88-973e-4ff1-b3f0-49b52514a01a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 73,
+  "height": 38,
+  "platformSettings": {},
+  "subMetas": {
+    "阿拉丁神灯 拷贝": {
+      "ver": "1.0.6",
+      "uuid": "eef69377-e2fe-4dc8-900e-668d14f47af3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "dda77e88-973e-4ff1-b3f0-49b52514a01a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 73,
+      "height": 38,
+      "rawWidth": 73,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

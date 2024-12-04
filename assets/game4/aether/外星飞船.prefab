@@ -1,0 +1,116 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "外星飞船",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "飞船",
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 304,
+      "height": 150
+    },
+    "_id": "872880e9-21b6-4420-89a0-541bbba2cc20"
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "df33adcc-5ba0-4f01-90b7-00ed57cc5a80"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": -19,
+        "y": 75,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -141,
+        "y": 50,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -152,
+        "y": 28,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -128,
+        "y": -1,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 11,
+        "y": -75,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 120,
+        "y": -70,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 152,
+        "y": -50,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 140,
+        "y": -9,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 72,
+        "y": 51,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "71767Nct+hBbZA1KU/5Gz+I",
+    "bitId": "5001",
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

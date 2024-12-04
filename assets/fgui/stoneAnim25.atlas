@@ -1,0 +1,13 @@
+
+stoneAnim25.png
+size: 236,242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xuanw
+  rotate: false
+  xy: 2, 2
+  size: 232, 238
+  orig: 268, 256
+  offset: 5, 14
+  index: -1

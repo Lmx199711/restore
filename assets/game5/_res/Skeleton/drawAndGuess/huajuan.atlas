@@ -1,0 +1,83 @@
+
+huajuan.png
+size: 1478,664
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 330, 289
+  size: 409, 48
+  orig: 409, 48
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 652, 2
+  size: 285, 323
+  orig: 285, 323
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 977, 14
+  size: 285, 323
+  orig: 285, 323
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 302
+  size: 326, 360
+  orig: 326, 360
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1264, 83
+  size: 254, 105
+  orig: 254, 105
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 15
+  size: 285, 323
+  orig: 285, 323
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 330, 339
+  size: 285, 323
+  orig: 285, 323
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 617, 339
+  size: 285, 323
+  orig: 285, 323
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 904, 339
+  size: 285, 323
+  orig: 285, 323
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1191, 339
+  size: 285, 323
+  orig: 285, 323
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 327, 2
+  size: 285, 323
+  orig: 285, 323
+  offset: 0, 0
+  index: -1

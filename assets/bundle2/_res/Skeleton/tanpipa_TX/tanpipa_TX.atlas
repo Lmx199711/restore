@@ -1,0 +1,34 @@
+
+tanpipa_TX.png
+size: 548,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02
+  rotate: false
+  xy: 424, 108
+  size: 122, 126
+  orig: 122, 126
+  offset: 0, 0
+  index: -1
+WXP
+  rotate: true
+  xy: 2, 2
+  size: 232, 420
+  orig: 232, 420
+  offset: 0, 0
+  index: -1
+yinfu_1
+  rotate: false
+  xy: 424, 77
+  size: 25, 29
+  orig: 27, 31
+  offset: 1, 1
+  index: -1
+yinfu_2
+  rotate: false
+  xy: 424, 47
+  size: 23, 28
+  orig: 25, 30
+  offset: 1, 1
+  index: -1

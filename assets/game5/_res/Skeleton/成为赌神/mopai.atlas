@@ -1,0 +1,13 @@
+
+mopai.png
+size: 102,65
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12
+  rotate: false
+  xy: 2, 2
+  size: 98, 61
+  orig: 98, 61
+  offset: 0, 0
+  index: -1

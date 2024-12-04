@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2d8d7519-8f9f-4555-8aef-121827e487b9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 172,
+  "height": 233,
+  "platformSettings": {},
+  "subMetas": {
+    "公主裙": {
+      "ver": "1.0.6",
+      "uuid": "c4c2f3ad-dd15-4ad1-97fb-cdb78a7f552e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2d8d7519-8f9f-4555-8aef-121827e487b9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 172,
+      "height": 233,
+      "rawWidth": 172,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

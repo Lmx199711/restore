@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "n",
+    "feedExp": 10,
+    "frame": "ui://FairyLandShop/type1",
+    "cornor": "ui://FairyLandShop/corner1"
+  },
+  {
+    "id": 2,
+    "name": "r",
+    "feedExp": 20,
+    "frame": "ui://FairyLandShop/type2",
+    "cornor": "ui://FairyLandShop/corner2"
+  },
+  {
+    "id": 3,
+    "name": "sr",
+    "feedExp": 50,
+    "frame": "ui://FairyLandShop/type3",
+    "cornor": "ui://FairyLandShop/corner3"
+  },
+  {
+    "id": 4,
+    "name": "ssr",
+    "feedExp": 200,
+    "frame": "ui://FairyLandShop/type4",
+    "cornor": "ui://FairyLandShop/corner4"
+  }
+]

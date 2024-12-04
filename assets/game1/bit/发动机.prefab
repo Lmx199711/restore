@@ -1,0 +1,187 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "发动机",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "发动机",
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 226,
+      "height": 168
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        513.222,
+        -168.559,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_id": "72430398-e408-4c7b-8dc3-2efdef57cf7c"
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "d5e4d9ca-970b-456c-be2d-0766ac354755"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "31c73ePuAVON64gwxImF51Q",
+    "bitId": "8002",
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": -69,
+        "y": 84,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -85,
+        "y": 56,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -103,
+        "y": 51,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -113,
+        "y": 16,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -109,
+        "y": -41,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -80,
+        "y": -83,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -61,
+        "y": -84,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -57,
+        "y": -75,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 54,
+        "y": -75,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 57,
+        "y": -83,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 78,
+        "y": -83,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 96,
+        "y": -64,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 113,
+        "y": -29,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 113,
+        "y": 7,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 106,
+        "y": 13,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 105,
+        "y": 29,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 91,
+        "y": 37,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 70,
+        "y": 70,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 42,
+        "y": 70,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 31,
+        "y": 84,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

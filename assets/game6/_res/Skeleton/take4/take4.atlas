@@ -1,0 +1,13 @@
+
+take4.png
+size: 143,175
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s4
+  rotate: false
+  xy: 2, 2
+  size: 139, 171
+  orig: 139, 171
+  offset: 0, 0
+  index: -1

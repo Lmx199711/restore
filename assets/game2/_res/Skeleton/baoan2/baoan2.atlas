@@ -1,0 +1,160 @@
+
+baoan2.png
+size: 1917,881
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00002
+  rotate: false
+  xy: 719, 16
+  size: 240, 205
+  orig: 240, 205
+  offset: 0, 0
+  index: -1
+1_arm_L
+  rotate: false
+  xy: 1692, 155
+  size: 179, 260
+  orig: 179, 260
+  offset: 0, 0
+  index: -1
+1_arm_R
+  rotate: false
+  xy: 1479, 431
+  size: 230, 243
+  orig: 230, 243
+  offset: 0, 0
+  index: -1
+1_body_1
+  rotate: false
+  xy: 428, 4
+  size: 289, 217
+  orig: 329, 338
+  offset: 30, 121
+  index: -1
+1_body_2
+  rotate: true
+  xy: 1711, 417
+  size: 257, 197
+  orig: 257, 197
+  offset: 0, 0
+  index: -1
+1_erji
+  rotate: false
+  xy: 1302, 427
+  size: 175, 452
+  orig: 175, 452
+  offset: 0, 0
+  index: -1
+1_eye_1
+  rotate: true
+  xy: 961, 15
+  size: 83, 32
+  orig: 83, 32
+  offset: 0, 0
+  index: -1
+1_head_1
+  rotate: true
+  xy: 871, 223
+  size: 119, 161
+  orig: 119, 161
+  offset: 0, 0
+  index: -1
+1_head_2
+  rotate: true
+  xy: 1692, 32
+  size: 121, 161
+  orig: 125, 161
+  offset: 4, 0
+  index: -1
+1_leg_L
+  rotate: false
+  xy: 1330, 2
+  size: 232, 423
+  orig: 232, 423
+  offset: 0, 0
+  index: -1
+1_leg_R
+  rotate: true
+  xy: 1479, 676
+  size: 203, 436
+  orig: 203, 436
+  offset: 0, 0
+  index: -1
+2_body
+  rotate: false
+  xy: 2, 30
+  size: 424, 849
+  orig: 424, 849
+  offset: 0, 0
+  index: -1
+2_yy
+  rotate: true
+  xy: 1564, 46
+  size: 383, 126
+  orig: 385, 128
+  offset: 1, 1
+  index: -1
+3_body_1
+  rotate: true
+  xy: 1034, 10
+  size: 332, 294
+  orig: 332, 294
+  offset: 0, 0
+  index: -1
+3_body_2
+  rotate: true
+  xy: 428, 223
+  size: 656, 441
+  orig: 656, 441
+  offset: 0, 0
+  index: -1
+4_body_1
+  rotate: true
+  xy: 871, 344
+  size: 535, 429
+  orig: 535, 429
+  offset: 0, 0
+  index: -1
+a
+  rotate: true
+  xy: 961, 146
+  size: 75, 67
+  orig: 77, 69
+  offset: 1, 1
+  index: -1
+d
+  rotate: true
+  xy: 1600, 9
+  size: 35, 34
+  orig: 37, 36
+  offset: 1, 1
+  index: -1
+f
+  rotate: false
+  xy: 961, 100
+  size: 59, 44
+  orig: 61, 46
+  offset: 1, 1
+  index: -1
+g
+  rotate: false
+  xy: 995, 15
+  size: 35, 39
+  orig: 37, 41
+  offset: 1, 1
+  index: -1
+h
+  rotate: false
+  xy: 995, 56
+  size: 35, 42
+  orig: 37, 44
+  offset: 1, 1
+  index: -1
+s
+  rotate: false
+  xy: 1564, 6
+  size: 34, 38
+  orig: 36, 40
+  offset: 1, 1
+  index: -1

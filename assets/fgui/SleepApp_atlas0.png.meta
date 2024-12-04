@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9c61ff2a-3239-4aba-a785-bfadb771ff4e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 480,
+  "height": 504,
+  "platformSettings": {},
+  "subMetas": {
+    "SleepApp_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "b429d68a-4649-4e6b-9f43-63f438e8109a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9c61ff2a-3239-4aba-a785-bfadb771ff4e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 475,
+      "height": 502,
+      "rawWidth": 480,
+      "rawHeight": 504,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

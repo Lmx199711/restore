@@ -1,0 +1,146 @@
+
+baozha.png
+size: 1968,1499
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_00000
+  rotate: false
+  xy: 2, 1376
+  size: 121, 121
+  orig: 600, 600
+  offset: 251, 61
+  index: -1
+001_00002
+  rotate: false
+  xy: 664, 1221
+  size: 350, 276
+  orig: 600, 600
+  offset: 139, 15
+  index: -1
+001_00004
+  rotate: true
+  xy: 1628, 487
+  size: 435, 328
+  orig: 600, 600
+  offset: 77, 1
+  index: -1
+001_00006
+  rotate: false
+  xy: 1069, 14
+  size: 481, 341
+  orig: 600, 600
+  offset: 49, 0
+  index: -1
+001_00008
+  rotate: true
+  xy: 1620, 2
+  size: 483, 346
+  orig: 600, 600
+  offset: 44, 0
+  index: -1
+001_00010
+  rotate: false
+  xy: 550, 34
+  size: 517, 329
+  orig: 600, 600
+  offset: 33, 15
+  index: -1
+001_00012
+  rotate: false
+  xy: 548, 652
+  size: 530, 285
+  orig: 600, 600
+  offset: 31, 46
+  index: -1
+001_00014
+  rotate: false
+  xy: 125, 1223
+  size: 537, 274
+  orig: 600, 600
+  offset: 30, 57
+  index: -1
+001_00016
+  rotate: false
+  xy: 1016, 1219
+  size: 541, 278
+  orig: 600, 600
+  offset: 29, 53
+  index: -1
+001_00018
+  rotate: false
+  xy: 2, 943
+  size: 543, 278
+  orig: 600, 600
+  offset: 29, 52
+  index: -1
+001_00020
+  rotate: false
+  xy: 2, 658
+  size: 544, 279
+  orig: 600, 600
+  offset: 29, 51
+  index: -1
+001_00022
+  rotate: false
+  xy: 1080, 641
+  size: 546, 281
+  orig: 600, 600
+  offset: 28, 49
+  index: -1
+001_00024
+  rotate: false
+  xy: 1071, 357
+  size: 547, 282
+  orig: 600, 600
+  offset: 28, 48
+  index: -1
+001_00026
+  rotate: false
+  xy: 2, 80
+  size: 546, 283
+  orig: 600, 600
+  offset: 28, 47
+  index: -1
+001_00028
+  rotate: false
+  xy: 2, 371
+  size: 532, 285
+  orig: 600, 600
+  offset: 27, 45
+  index: -1
+001_00030
+  rotate: false
+  xy: 536, 365
+  size: 533, 285
+  orig: 600, 600
+  offset: 27, 45
+  index: -1
+001_00032
+  rotate: false
+  xy: 547, 939
+  size: 533, 278
+  orig: 600, 600
+  offset: 27, 43
+  index: -1
+001_00034
+  rotate: false
+  xy: 1082, 934
+  size: 466, 283
+  orig: 600, 600
+  offset: 27, 41
+  index: -1
+001_00036
+  rotate: false
+  xy: 1559, 1214
+  size: 406, 283
+  orig: 600, 600
+  offset: 88, 41
+  index: -1
+001_00038
+  rotate: false
+  xy: 1550, 924
+  size: 409, 288
+  orig: 600, 600
+  offset: 87, 39
+  index: -1

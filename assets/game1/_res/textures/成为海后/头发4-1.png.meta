@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8c870c46-102f-4d35-bb98-dac1a629261e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 262,
+  "height": 369,
+  "platformSettings": {},
+  "subMetas": {
+    "头发4-1": {
+      "ver": "1.0.6",
+      "uuid": "e9a362a0-d748-4d00-8811-886f041c9a2a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8c870c46-102f-4d35-bb98-dac1a629261e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 262,
+      "height": 369,
+      "rawWidth": 262,
+      "rawHeight": 369,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

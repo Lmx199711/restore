@@ -1,0 +1,324 @@
+[
+  {
+    "id": 1,
+    "name": "铁剑",
+    "timeFire": 30,
+    "speedGrow": 5,
+    "sizeFire": 350,
+    "timeHam": 36,
+    "countHam": 5,
+    "speedCursor": 100,
+    "sizeSlid": 150,
+    "speedSlid": 60,
+    "skinName": "tiejian",
+    "res": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "name": "长虹剑",
+    "timeFire": 20,
+    "speedGrow": 10,
+    "sizeFire": 240,
+    "timeHam": 20,
+    "countHam": 8,
+    "speedCursor": 240,
+    "sizeSlid": 75,
+    "speedSlid": 150,
+    "skinName": "changhongjian",
+    "showAnim": "weapon/stageShow/2",
+    "res": [
+      16,
+      11,
+      13
+    ]
+  },
+  {
+    "id": 3,
+    "name": "冰魄剑",
+    "timeFire": 21,
+    "speedGrow": 9,
+    "sizeFire": 250,
+    "timeHam": 22,
+    "countHam": 8,
+    "speedCursor": 220,
+    "sizeSlid": 85,
+    "speedSlid": 120,
+    "skinName": "bingpo",
+    "showAnim": "weapon/stageShow/3",
+    "res": [
+      14,
+      12,
+      10
+    ]
+  },
+  {
+    "id": 4,
+    "name": "紫云剑",
+    "timeFire": 22,
+    "speedGrow": 8,
+    "sizeFire": 260,
+    "timeHam": 24,
+    "countHam": 7,
+    "speedCursor": 200,
+    "sizeSlid": 90,
+    "speedSlid": 100,
+    "skinName": "ziyunjian",
+    "showAnim": "weapon/stageShow/4",
+    "res": [
+      11,
+      10,
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "name": "奔雷剑",
+    "timeFire": 23,
+    "speedGrow": 7,
+    "sizeFire": 270,
+    "timeHam": 26,
+    "countHam": 6,
+    "speedCursor": 180,
+    "sizeSlid": 100,
+    "speedSlid": 80,
+    "skinName": "benlei",
+    "showAnim": "weapon/stageShow/5",
+    "res": [
+      13,
+      8,
+      6
+    ]
+  },
+  {
+    "id": 6,
+    "name": "青光剑",
+    "timeFire": 24,
+    "speedGrow": 6,
+    "sizeFire": 280,
+    "timeHam": 28,
+    "countHam": 5,
+    "speedCursor": 160,
+    "sizeSlid": 110,
+    "speedSlid": 60,
+    "skinName": "qingguang",
+    "showAnim": "weapon/stageShow/6",
+    "res": [
+      10,
+      7,
+      4
+    ]
+  },
+  {
+    "id": 7,
+    "name": "雨花剑",
+    "timeFire": 26,
+    "speedGrow": 5,
+    "sizeFire": 290,
+    "timeHam": 30,
+    "countHam": 5,
+    "speedCursor": 140,
+    "sizeSlid": 120,
+    "speedSlid": 60,
+    "skinName": "yuhuajian",
+    "showAnim": "weapon/stageShow/7",
+    "res": [
+      9,
+      2,
+      1
+    ]
+  },
+  {
+    "id": 8,
+    "name": "旋风剑",
+    "timeFire": 28,
+    "speedGrow": 5,
+    "sizeFire": 300,
+    "timeHam": 32,
+    "countHam": 5,
+    "speedCursor": 120,
+    "sizeSlid": 140,
+    "speedSlid": 60,
+    "skinName": "xuanfengjian",
+    "showAnim": "weapon/stageShow/8",
+    "res": [
+      6,
+      5,
+      3
+    ]
+  },
+  {
+    "id": 9,
+    "name": "盘古斧",
+    "timeFire": 21,
+    "speedGrow": 9,
+    "sizeFire": 250,
+    "timeHam": 22,
+    "countHam": 8,
+    "speedCursor": 220,
+    "sizeSlid": 85,
+    "speedSlid": 120,
+    "skinName": "shuangrenfu",
+    "showAnim": "weapon/stageShow/shuangrenfu",
+    "res": [
+      4001,
+      3001,
+      11
+    ]
+  },
+  {
+    "id": 10,
+    "name": "金箍棒",
+    "timeFire": 20,
+    "speedGrow": 10,
+    "sizeFire": 240,
+    "timeHam": 20,
+    "countHam": 8,
+    "speedCursor": 240,
+    "sizeSlid": 75,
+    "speedSlid": 150,
+    "skinName": "jingubang",
+    "showAnim": "weapon/stageShow/jingubang",
+    "res": [
+      15,
+      10,
+      3001
+    ]
+  },
+  {
+    "id": 11,
+    "name": "平底锅",
+    "timeFire": 26,
+    "speedGrow": 6,
+    "sizeFire": 300,
+    "timeHam": 30,
+    "countHam": 6,
+    "speedCursor": 160,
+    "sizeSlid": 110,
+    "speedSlid": 60,
+    "skinName": "pingdiguo",
+    "showAnim": "weapon/stageShow/PDG",
+    "res": [
+      8,
+      9,
+      1002
+    ]
+  },
+  {
+    "id": 12,
+    "name": "螺旋剑",
+    "timeFire": 26,
+    "speedGrow": 6,
+    "sizeFire": 300,
+    "timeHam": 30,
+    "countHam": 6,
+    "speedCursor": 140,
+    "sizeSlid": 120,
+    "speedSlid": 60,
+    "skinName": "luoxuanjian",
+    "showAnim": "weapon/stageShow/LXJ",
+    "res": [
+      6,
+      2,
+      1003
+    ]
+  },
+  {
+    "id": 13,
+    "name": "拳头伸缩剑",
+    "timeFire": 26,
+    "speedGrow": 6,
+    "sizeFire": 300,
+    "timeHam": 30,
+    "countHam": 6,
+    "speedCursor": 140,
+    "sizeSlid": 120,
+    "speedSlid": 60,
+    "skinName": "quantoushensuojian",
+    "showAnim": "weapon/stageShow/QTJ",
+    "res": [
+      9,
+      1,
+      1003
+    ]
+  },
+  {
+    "id": 14,
+    "name": "水形刃",
+    "timeFire": 22,
+    "speedGrow": 7,
+    "sizeFire": 270,
+    "timeHam": 26,
+    "countHam": 7,
+    "speedCursor": 180,
+    "sizeSlid": 90,
+    "speedSlid": 80,
+    "skinName": "shuixingren",
+    "showAnim": "weapon/stageShow/SXR",
+    "res": [
+      3002,
+      2002,
+      2001
+    ]
+  },
+  {
+    "id": 15,
+    "name": "大地之刃",
+    "timeFire": 20,
+    "speedGrow": 10,
+    "sizeFire": 240,
+    "timeHam": 23,
+    "countHam": 10,
+    "speedCursor": 250,
+    "sizeSlid": 80,
+    "speedSlid": 180,
+    "skinName": "dadizhiren",
+    "showAnim": "weapon/stageShow/DDZR",
+    "res": [
+      4004,
+      4001,
+      11
+    ]
+  },
+  {
+    "id": 16,
+    "name": "深海之刃",
+    "timeFire": 20,
+    "speedGrow": 10,
+    "sizeFire": 240,
+    "timeHam": 23,
+    "countHam": 10,
+    "speedCursor": 250,
+    "sizeSlid": 80,
+    "speedSlid": 180,
+    "skinName": "shenhaizhiren",
+    "showAnim": "weapon/stageShow/SHZR",
+    "res": [
+      4005,
+      14,
+      10
+    ]
+  },
+  {
+    "id": 17,
+    "name": "森林之刃",
+    "timeFire": 20,
+    "speedGrow": 10,
+    "sizeFire": 240,
+    "timeHam": 23,
+    "countHam": 10,
+    "speedCursor": 250,
+    "sizeSlid": 80,
+    "speedSlid": 180,
+    "skinName": "shenlinzhiren",
+    "showAnim": "weapon/stageShow/SLZR",
+    "res": [
+      4003,
+      16,
+      3002
+    ]
+  }
+]

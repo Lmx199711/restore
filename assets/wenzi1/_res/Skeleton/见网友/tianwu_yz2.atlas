@@ -1,0 +1,62 @@
+
+tianwu_yz2.png
+size: 254,582
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L_1
+  rotate: true
+  xy: 143, 6
+  size: 93, 109
+  orig: 101, 109
+  offset: 8, 0
+  index: -1
+arm_R_1
+  rotate: true
+  xy: 93, 202
+  size: 110, 106
+  orig: 110, 106
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 2
+  size: 139, 159
+  orig: 139, 159
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 143, 101
+  size: 99, 107
+  orig: 99, 107
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 93, 330
+  size: 84, 104
+  orig: 86, 106
+  offset: 1, 1
+  index: -1
+leg_L_1
+  rotate: false
+  xy: 181, 314
+  size: 71, 266
+  orig: 71, 266
+  offset: 0, 0
+  index: -1
+leg_R_1
+  rotate: false
+  xy: 2, 163
+  size: 89, 271
+  orig: 89, 271
+  offset: 0, 0
+  index: -1
+qunzi_1
+  rotate: false
+  xy: 2, 436
+  size: 177, 144
+  orig: 177, 144
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2efb8145-52e6-4864-8493-1a3fd57ff952",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 425,
+  "height": 425,
+  "platformSettings": {},
+  "subMetas": {
+    "香蕉皮": {
+      "ver": "1.0.6",
+      "uuid": "383f9206-b702-48d3-9f7f-23be234334c9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2efb8145-52e6-4864-8493-1a3fd57ff952",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": 2,
+      "trimX": 86,
+      "trimY": 94,
+      "width": 257,
+      "height": 233,
+      "rawWidth": 425,
+      "rawHeight": 425,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

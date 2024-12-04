@@ -1,0 +1,153 @@
+
+shuixingren.png
+size: 2014,1719
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 1833, 1330
+  size: 152, 387
+  orig: 152, 387
+  offset: 0, 0
+  index: -1
+011_00000
+  rotate: true
+  xy: 580, 11
+  size: 499, 147
+  orig: 658, 658
+  offset: 81, 374
+  index: -1
+011_00001
+  rotate: true
+  xy: 908, 38
+  size: 472, 147
+  orig: 658, 658
+  offset: 84, 370
+  index: -1
+011_00002
+  rotate: true
+  xy: 729, 16
+  size: 494, 177
+  orig: 658, 658
+  offset: 83, 357
+  index: -1
+011_00003
+  rotate: true
+  xy: 1025, 1265
+  size: 452, 353
+  orig: 658, 658
+  offset: 102, 153
+  index: -1
+011_00004
+  rotate: false
+  xy: 1380, 1361
+  size: 451, 356
+  orig: 658, 658
+  offset: 102, 151
+  index: -1
+011_00005
+  rotate: false
+  xy: 1380, 1000
+  size: 405, 359
+  orig: 658, 658
+  offset: 117, 150
+  index: -1
+011_00006
+  rotate: false
+  xy: 1039, 610
+  size: 305, 343
+  orig: 658, 658
+  offset: 172, 152
+  index: -1
+011_00007
+  rotate: false
+  xy: 1057, 279
+  size: 287, 329
+  orig: 658, 658
+  offset: 183, 152
+  index: -1
+011_00008
+  rotate: false
+  xy: 1057, 955
+  size: 321, 308
+  orig: 658, 658
+  offset: 162, 138
+  index: -1
+011_00009
+  rotate: false
+  xy: 1380, 682
+  size: 326, 316
+  orig: 658, 658
+  offset: 162, 136
+  index: -1
+011_00010
+  rotate: false
+  xy: 1673, 357
+  size: 325, 323
+  orig: 658, 658
+  offset: 163, 136
+  index: -1
+011_00011
+  rotate: true
+  xy: 1346, 356
+  size: 324, 325
+  orig: 658, 658
+  offset: 164, 135
+  index: -1
+011_00012
+  rotate: false
+  xy: 1673, 38
+  size: 318, 317
+  orig: 658, 658
+  offset: 167, 140
+  index: -1
+011_00013
+  rotate: false
+  xy: 1346, 43
+  size: 313, 311
+  orig: 658, 658
+  offset: 172, 143
+  index: -1
+011_00014
+  rotate: false
+  xy: 1708, 695
+  size: 304, 303
+  orig: 658, 658
+  offset: 175, 147
+  index: -1
+011_00015
+  rotate: false
+  xy: 560, 1249
+  size: 463, 468
+  orig: 658, 658
+  offset: 98, 87
+  index: -1
+011_00016
+  rotate: false
+  xy: 2, 2
+  size: 576, 507
+  orig: 658, 658
+  offset: 42, 73
+  index: -1
+011_00017
+  rotate: true
+  xy: 532, 512
+  size: 601, 505
+  orig: 658, 658
+  offset: 28, 84
+  index: -1
+011_00018
+  rotate: true
+  xy: 2, 511
+  size: 602, 528
+  orig: 658, 658
+  offset: 28, 67
+  index: -1
+011_00019
+  rotate: true
+  xy: 2, 1115
+  size: 602, 556
+  orig: 658, 658
+  offset: 28, 44
+  index: -1

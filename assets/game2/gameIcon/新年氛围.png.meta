@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "17219066-fe47-4aae-9ca2-afd34e0d0784",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 147,
+  "height": 147,
+  "platformSettings": {},
+  "subMetas": {
+    "新年氛围": {
+      "ver": "1.0.6",
+      "uuid": "286b7633-6288-4320-a2fe-4c8b36d6e504",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "17219066-fe47-4aae-9ca2-afd34e0d0784",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 147,
+      "height": 147,
+      "rawWidth": 147,
+      "rawHeight": 147,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

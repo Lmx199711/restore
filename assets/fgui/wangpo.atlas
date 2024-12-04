@@ -1,0 +1,27 @@
+
+wangpo.png
+size: 674,943
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 355, 58
+  size: 317, 883
+  orig: 317, 883
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 28
+  size: 351, 913
+  orig: 351, 913
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 355, 2
+  size: 133, 54
+  orig: 133, 54
+  offset: 0, 0
+  index: -1

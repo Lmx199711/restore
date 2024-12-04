@@ -1,0 +1,62 @@
+
+zhu.png
+size: 966,226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan1
+  rotate: false
+  xy: 2, 2
+  size: 294, 14
+  orig: 294, 14
+  offset: 0, 0
+  index: -1
+biyan2
+  rotate: false
+  xy: 400, 140
+  size: 336, 84
+  orig: 344, 92
+  offset: 4, 3
+  index: -1
+kh
+  rotate: true
+  xy: 738, 96
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 2, 18
+  size: 206, 396
+  orig: 221, 396
+  offset: 0, 0
+  index: -1
+zb_1
+  rotate: false
+  xy: 711, 4
+  size: 239, 54
+  orig: 239, 54
+  offset: 0, 0
+  index: -1
+zb_2
+  rotate: true
+  xy: 911, 93
+  size: 131, 53
+  orig: 131, 60
+  offset: 0, 1
+  index: -1
+zhenyan1
+  rotate: false
+  xy: 400, 2
+  size: 309, 56
+  orig: 309, 56
+  offset: 0, 0
+  index: -1
+zhenyan2
+  rotate: false
+  xy: 400, 60
+  size: 327, 78
+  orig: 329, 83
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "63edafa3-0765-4050-abb5-22f11140994d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 564,
+  "height": 876,
+  "platformSettings": {},
+  "subMetas": {
+    "CitySelect_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "0ed924f3-2a57-4e91-a5f1-49056987e227",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "63edafa3-0765-4050-abb5-22f11140994d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 2,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 562,
+      "height": 872,
+      "rawWidth": 564,
+      "rawHeight": 876,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,973 @@
+[
+  {
+    "id": 1,
+    "name": "蓝波鸡牛",
+    "video": 1,
+    "index": 1,
+    "path": "car1",
+    "oriPrice": 4800000,
+    "pngName": "发动机",
+    "scaleX": 0.3,
+    "scaleY": 0.3,
+    "x": -26,
+    "y": -26,
+    "thing": "发动机",
+    "op": "听声音",
+    "actionPath": "acts/1",
+    "desc": "发动机声浪给力，鉴定为真，涨价",
+    "reward": 800000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "A",
+        "arg2": "args=fadongji_doudong|1"
+      },
+      {
+        "id": "音效",
+        "arg1": "erShouCar/发动机",
+        "arg2": 0.5
+      },
+      {
+        "id": "结束",
+        "delay": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "op": "测硬度",
+    "actionPath": "acts/2",
+    "desc": "发动机质量不合格，鉴定为假，价格",
+    "reward": -500000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "锤子",
+        "arg2": "args=haotianchui_daiji|1"
+      },
+      {
+        "id": "spine",
+        "arg1": "锤子",
+        "arg2": "args=huiza_1|0",
+        "delay": 1
+      },
+      {
+        "id": "显隐",
+        "arg1": "A",
+        "delay": 1.3
+      },
+      {
+        "id": "spine",
+        "arg1": "粉碎",
+        "arg2": "args=fensui|0",
+        "delay": 1.3
+      },
+      {
+        "id": "结束",
+        "delay": 3
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "pngName": "轮胎",
+    "pngName2": "坏轮胎",
+    "scaleX": 0.2,
+    "scaleY": 0.2,
+    "x": 136,
+    "y": -89,
+    "thing": "轮胎",
+    "op": "看磨损",
+    "actionPath": "acts/3",
+    "desc": "轮胎质量不合格，鉴定为假，价格",
+    "reward": -100000
+  },
+  {
+    "id": 4,
+    "pngName2": "坏轮胎",
+    "op": "测材质",
+    "actionPath": "acts/4",
+    "desc": "轮胎质量不合格，鉴定为假，价格",
+    "reward": -200000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "牙签",
+        "arg2": "args=yaqian|0",
+        "delay": 0.5
+      },
+      {
+        "id": "显隐",
+        "arg1": "牙签",
+        "delay": 1
+      },
+      {
+        "id": "spine",
+        "arg1": "轮胎",
+        "arg2": "args=luntai_louqi|0",
+        "delay": 1
+      },
+      {
+        "id": "属性",
+        "arg1": "A|opacity",
+        "arg2": "val=255,0|0.2|sineIn",
+        "delay": 1
+      },
+      {
+        "id": "结束",
+        "delay": 3
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "pngName": "蓝波车标金",
+    "pngName2": "蓝波车标黑",
+    "scaleX": 0.15,
+    "scaleY": 0.15,
+    "x": -142,
+    "y": -44,
+    "thing": "车标",
+    "op": "擦拭车标",
+    "actionPath": "acts/5",
+    "desc": "车标造假，鉴定为假，价格",
+    "reward": -3000000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "扫帚",
+        "arg2": "args=dipan_cashi",
+        "delay": 0.5
+      },
+      {
+        "id": "属性",
+        "arg1": "A|opacity",
+        "arg2": "val=255,0|4|sineIn"
+      },
+      {
+        "id": "结束",
+        "delay": 7
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "op": "敲打车标",
+    "actionPath": "acts/6",
+    "desc": "车标质量过关，鉴定为真，涨价",
+    "reward": 50000,
+    "action": [
+      {
+        "id": "缓动节点",
+        "arg1": "屠龙刀",
+        "arg2": "P|0.5",
+        "delay": 0.1
+      },
+      {
+        "id": "spine",
+        "arg1": "屠龙刀",
+        "arg2": "args=tulongdao_huikan_1|0",
+        "delay": 1
+      },
+      {
+        "id": "结束",
+        "delay": 3
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "pngName": "排气管",
+    "scaleX": 0.2,
+    "scaleY": 0.2,
+    "x": 249,
+    "y": -46,
+    "thing": "排气管",
+    "op": "查看管内",
+    "actionPath": "acts/7",
+    "desc": "发现珍惜动物，涨价",
+    "reward": 1000000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "神龙",
+        "arg2": "args=step_0|1"
+      },
+      {
+        "id": "通知",
+        "arg1": "carThingFlash",
+        "delay": 1
+      },
+      {
+        "id": "结束",
+        "delay": 3
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "op": "测试尾气",
+    "actionPath": "acts/8",
+    "desc": "排气管质量不合格，鉴定为假，价格",
+    "reward": -1000000,
+    "action": [
+      {
+        "id": "结束",
+        "delay": 3
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "f1赛车",
+    "video": 1,
+    "index": 2,
+    "path": "car2",
+    "oriPrice": 30000000,
+    "pngName": "鸡爪",
+    "scaleX": 0.1,
+    "scaleY": 0.1,
+    "x": 114,
+    "y": -13,
+    "thing": "鸡爪",
+    "op": "丢掉",
+    "action": [
+      {
+        "id": "事件",
+        "arg1": "丢掉骨头砸到行人，赔偿#医疗费",
+        "arg2": -1200000,
+        "delay": 0.5
+      },
+      {
+        "id": "结束",
+        "delay": 6
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "op": "留下来",
+    "action": [
+      {
+        "id": "事件",
+        "arg1": "经认证发现是恐龙骨。价值不菲，上交博物馆，奖励#元",
+        "arg2": 2000000,
+        "delay": 0.5
+      },
+      {
+        "id": "结束",
+        "delay": 6
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "pngName": "底盘",
+    "pngName2": "f1赛车血",
+    "scaleX": 0.2,
+    "scaleY": 0.2,
+    "x": 122,
+    "y": -79,
+    "thing": "底盘",
+    "op": "擦干灰尘",
+    "actionPath": "acts/11",
+    "desc": "事故车处理不干净，价格",
+    "reward": -4000000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "扫帚",
+        "arg2": "args=dipan_cashi",
+        "delay": 0.5
+      },
+      {
+        "id": "spine",
+        "arg1": "A",
+        "arg2": "args=dipan_cashi"
+      },
+      {
+        "id": "结束",
+        "delay": 6
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "pngName2": "f1赛车金",
+    "op": "检验材质",
+    "actionPath": "acts/12",
+    "desc": "车辆火烧质量过关，鉴定为真，涨价",
+    "reward": 2000000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "打火机",
+        "arg2": "args=dahuoji_huoyan|1"
+      },
+      {
+        "id": "spine",
+        "arg1": "打火机",
+        "arg2": "args=dahuoji_huoshao|0",
+        "delay": 0.5
+      },
+      {
+        "id": "spine",
+        "arg1": "A",
+        "arg2": "args=dipan_faguang|1",
+        "delay": 2
+      },
+      {
+        "id": "属性",
+        "arg1": "黑色|opacity",
+        "arg2": "val=255,0|2|sineIn",
+        "delay": 0.5
+      },
+      {
+        "id": "结束",
+        "delay": 4
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "pngName": "发动机",
+    "scaleX": 0.2,
+    "scaleY": 0.2,
+    "x": -105,
+    "y": -58,
+    "thing": "发动机",
+    "op": "听声音",
+    "actionPath": "acts/13",
+    "desc": "水泡车，发动机拉缸，鉴定为假，价格",
+    "reward": -25000000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "发动机",
+        "arg2": "args=fadongji_doudong|1"
+      },
+      {
+        "id": "spine",
+        "arg1": "发动机",
+        "arg2": "args=fafongji_heiyan|1",
+        "delay": 1
+      },
+      {
+        "id": "音效",
+        "arg1": "erShouCar/发动机"
+      },
+      {
+        "id": "结束",
+        "delay": 4
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "op": "测硬度",
+    "actionPath": "acts/14",
+    "desc": "发动机质量合格，鉴定为真，涨价",
+    "reward": 15000000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "锤子",
+        "arg2": "args=haotianchui_daiji|1"
+      },
+      {
+        "id": "spine",
+        "arg1": "锤子",
+        "arg2": "args=huiza_2|0",
+        "delay": 1
+      },
+      {
+        "id": "结束",
+        "delay": 3
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "pngName": "迪摆房产证",
+    "scaleX": 0.1,
+    "scaleY": 0.1,
+    "x": 22,
+    "y": -1,
+    "thing": "迪摆房产证",
+    "op": "转手卖出",
+    "action": [
+      {
+        "id": "事件",
+        "arg1": "失主找上门来打了你一顿，住院花费了#元。",
+        "arg2": -1000000
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "op": "归还失主",
+    "action": [
+      {
+        "id": "事件",
+        "arg1": "失主是迪摆国王，发现你居然是他失散多年的亲生儿子，继承他的家产，获得#元",
+        "arg2": 10000000
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "裤里难",
+    "video": 1,
+    "index": 3,
+    "path": "car3",
+    "oriPrice": 6000000,
+    "pngName": "轮胎",
+    "pngName2": "坏轮胎",
+    "scaleX": 0.2,
+    "scaleY": 0.2,
+    "x": 110,
+    "y": -117,
+    "thing": "轮胎",
+    "op": "看磨损",
+    "actionPath": "acts/17",
+    "desc": "轮胎质量不合格，鉴定为假，价格",
+    "reward": -1500000
+  },
+  {
+    "id": 18,
+    "op": "测强度",
+    "actionPath": "acts/18",
+    "desc": "轮胎质量合格，鉴定为真，涨价",
+    "reward": 1000000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "屠龙刀",
+        "arg2": "args=tulongdao_huikan_2|0",
+        "delay": 1
+      },
+      {
+        "id": "结束",
+        "delay": 3
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "pngName": "茅抬",
+    "scaleX": 0.2,
+    "scaleY": 0.2,
+    "x": -16,
+    "y": -27,
+    "thing": "茅抬",
+    "op": "转手卖掉",
+    "action": [
+      {
+        "id": "事件",
+        "arg1": "简简单单赚了#元",
+        "arg2": 200000
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "op": "直接喝下",
+    "action": [
+      {
+        "id": "事件",
+        "arg1": "喝醉后在街头即兴表演，路人打赏#元。",
+        "arg2": 100
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "pngName": "裤里难车标黑",
+    "pngName2": "裤里难车标金",
+    "scaleX": 0.2,
+    "scaleY": 0.2,
+    "x": -177,
+    "y": -43,
+    "thing": "车标",
+    "op": "擦拭车标",
+    "actionPath": "acts/21",
+    "desc": "车标保真，鉴定为真，涨价",
+    "reward": 2000000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "扫帚",
+        "arg2": "args=dipan_cashi",
+        "delay": 0.5
+      },
+      {
+        "id": "属性",
+        "arg1": "A|opacity",
+        "arg2": "val=255,0|4|sineIn"
+      },
+      {
+        "id": "spine",
+        "arg1": "车标",
+        "arg2": "args=chebiao_2|1",
+        "delay": 4.5
+      },
+      {
+        "id": "结束",
+        "delay": 6
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "op": "敲打车标",
+    "actionPath": "acts/22",
+    "desc": "车标质量造假，鉴定为假，价格",
+    "reward": -4490000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "锤子",
+        "arg2": "args=haotianchui_daiji|1"
+      },
+      {
+        "id": "spine",
+        "arg1": "锤子",
+        "arg2": "args=huiza_1|0",
+        "delay": 1
+      },
+      {
+        "id": "显隐",
+        "arg1": "A",
+        "delay": 1.3
+      },
+      {
+        "id": "spine",
+        "arg1": "粉碎",
+        "arg2": "args=fensui|0",
+        "delay": 1.3
+      },
+      {
+        "id": "结束",
+        "delay": 2
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "pngName": "施工证",
+    "scaleX": 0.15,
+    "scaleY": 0.15,
+    "x": 220,
+    "y": -14,
+    "thing": "施工证",
+    "op": "自己承包工程",
+    "action": [
+      {
+        "id": "事件",
+        "arg1": "顺利完成项目，公司奖励#元",
+        "arg2": 1500000
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "op": "直接转卖",
+    "action": [
+      {
+        "id": "事件",
+        "arg1": "工人无法开工，上门揍了你一顿，看病花费#元",
+        "arg2": -1500000
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "老爷车",
+    "video": 1,
+    "index": 4,
+    "path": "car4",
+    "oriPrice": 1800000,
+    "pngName": "茅抬",
+    "scaleX": 0.2,
+    "scaleY": 0.2,
+    "x": -138,
+    "y": -34,
+    "thing": "茅抬",
+    "op": "珍藏",
+    "action": [
+      {
+        "id": "事件",
+        "arg1": "茅抬股价飞升，天价卖出赚了#元",
+        "arg2": 1000000
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "op": "直接喝下",
+    "action": [
+      {
+        "id": "事件",
+        "arg1": "喝醉后不省人事，被偷走了全身家当，损失#元",
+        "arg2": -3000000
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "pngName": "底盘",
+    "pngName2": "老爷车金",
+    "scaleX": 0.2,
+    "scaleY": 0.2,
+    "x": -19,
+    "y": -71,
+    "thing": "底盘",
+    "op": "擦干灰尘",
+    "actionPath": "acts/27",
+    "desc": "车架质量过关，鉴定为真，涨价",
+    "reward": 360000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "扫帚",
+        "arg2": "args=dipan_cashi",
+        "delay": 0.5
+      },
+      {
+        "id": "spine",
+        "arg1": "老爷车",
+        "arg2": "args=dipan_faguang|1",
+        "delay": 4
+      },
+      {
+        "id": "属性",
+        "arg1": "黑色|opacity",
+        "arg2": "val=255,0|3.5|sineIn"
+      },
+      {
+        "id": "结束",
+        "delay": 6
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "pngName2": "粉末",
+    "op": "检验材质",
+    "actionPath": "acts/28",
+    "desc": "车辆火烧质量不合格，鉴定为假，价格",
+    "reward": -500000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "打火机",
+        "arg2": "args=dahuoji_huoshao|0",
+        "delay": 0.5
+      },
+      {
+        "id": "属性",
+        "arg1": "黑色|opacity",
+        "arg2": "val=0,255|1|sineIn"
+      },
+      {
+        "id": "显隐",
+        "arg1": "黑色",
+        "delay": 1.5
+      },
+      {
+        "id": "spine",
+        "arg1": "老爷车",
+        "arg2": "args=dipan_fenmo|0",
+        "delay": 1.5
+      },
+      {
+        "id": "结束",
+        "delay": 4
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "pngName": "轮胎",
+    "pngName2": "金条",
+    "scaleX": 0.2,
+    "scaleY": 0.2,
+    "x": -256,
+    "y": -80,
+    "thing": "轮胎",
+    "op": "检查轮胎",
+    "actionPath": "acts/29",
+    "desc": "轮胎里藏黄金，不是正经轮胎，价格",
+    "reward": -700000
+  },
+  {
+    "id": 30,
+    "op": "清理轮胎",
+    "actionPath": "acts/30",
+    "desc": "轮胎质量合格，鉴定为真，涨价",
+    "reward": 480000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "轮胎",
+        "arg2": "args=luntai_shuazi|0",
+        "delay": 0.5
+      },
+      {
+        "id": "结束",
+        "delay": 5
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "pngName": "发动机",
+    "scaleX": 0.2,
+    "scaleY": 0.2,
+    "x": 206,
+    "y": -50,
+    "thing": "发动机",
+    "op": "听声音",
+    "actionPath": "acts/1",
+    "desc": "发动机声浪给力，鉴定为真，涨价",
+    "reward": 880000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "A",
+        "arg2": "args=fadongji_doudong|1"
+      },
+      {
+        "id": "音效",
+        "arg1": "erShouCar/发动机",
+        "arg2": 0.5
+      },
+      {
+        "id": "结束",
+        "delay": 2
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "op": "测硬度",
+    "actionPath": "acts/2",
+    "desc": "发动机质量不合格，鉴定为假，价格",
+    "reward": -560000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "锤子",
+        "arg2": "args=haotianchui_daiji|1"
+      },
+      {
+        "id": "spine",
+        "arg1": "锤子",
+        "arg2": "args=huiza_1|0",
+        "delay": 1
+      },
+      {
+        "id": "显隐",
+        "arg1": "A",
+        "delay": 1.3
+      },
+      {
+        "id": "spine",
+        "arg1": "粉碎",
+        "arg2": "args=fensui|0",
+        "delay": 1.3
+      },
+      {
+        "id": "结束",
+        "delay": 3
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "六灵宏光",
+    "video": 1,
+    "index": 5,
+    "path": "car5",
+    "oriPrice": 750000,
+    "pngName": "排气管",
+    "scaleX": 0.2,
+    "scaleY": 0.2,
+    "x": 209,
+    "y": -45,
+    "thing": "排气管",
+    "op": "检查质量",
+    "actionPath": "acts/33",
+    "desc": "排气管质量不合格，鉴定为假，价格",
+    "reward": -350000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "锤子",
+        "arg2": "args=haotianchui_daiji|1"
+      },
+      {
+        "id": "spine",
+        "arg1": "锤子",
+        "arg2": "args=huiza_1|0",
+        "delay": 1
+      },
+      {
+        "id": "显隐",
+        "arg1": "A",
+        "delay": 1.3
+      },
+      {
+        "id": "spine",
+        "arg1": "粉碎",
+        "arg2": "args=fensui|0",
+        "delay": 1.3
+      },
+      {
+        "id": "结束",
+        "delay": 3
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "op": "测试尾气",
+    "actionPath": "acts/34",
+    "desc": "排气管质量不合格，鉴定为假，价格",
+    "reward": -150000,
+    "action": [
+      {
+        "id": "结束",
+        "delay": 3
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "pngName": "施工证",
+    "scaleX": 0.15,
+    "scaleY": 0.15,
+    "x": -73,
+    "y": 102,
+    "thing": "施工证",
+    "op": "自己承包工程",
+    "action": [
+      {
+        "id": "事件",
+        "arg1": "项目投资失败，损失#元",
+        "arg2": -5000000
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "op": "直接转卖",
+    "action": [
+      {
+        "id": "事件",
+        "arg1": "天价卖给了需要的公司，赚了#元",
+        "arg2": 1800000
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "pngName": "六灵车标",
+    "pngName2": "六灵车标钻",
+    "scaleX": 0.2,
+    "scaleY": 0.2,
+    "x": -211,
+    "y": -19,
+    "thing": "车标",
+    "op": "擦拭车标",
+    "actionPath": "acts/37",
+    "desc": "车标价值上涨，鉴定为真，涨价",
+    "reward": 250000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "扫帚",
+        "arg2": "args=dipan_cashi",
+        "delay": 0.5
+      },
+      {
+        "id": "属性",
+        "arg1": "A|opacity",
+        "arg2": "val=0,255|4|sineIn"
+      },
+      {
+        "id": "spine",
+        "arg1": "车标",
+        "arg2": "args=chebiao_3|1",
+        "delay": 4.5
+      },
+      {
+        "id": "结束",
+        "delay": 6
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "op": "敲打车标",
+    "actionPath": "acts/38",
+    "desc": "车标质量造假，鉴定为假，价格",
+    "reward": -390000,
+    "action": [
+      {
+        "id": "spine",
+        "arg1": "锤子",
+        "arg2": "args=haotianchui_daiji|1"
+      },
+      {
+        "id": "spine",
+        "arg1": "锤子",
+        "arg2": "args=huiza_1|0",
+        "delay": 1
+      },
+      {
+        "id": "显隐",
+        "arg1": "A",
+        "delay": 1.3
+      },
+      {
+        "id": "spine",
+        "arg1": "粉碎",
+        "arg2": "args=fensui|0",
+        "delay": 1.3
+      },
+      {
+        "id": "结束",
+        "delay": 3
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "pngName": "农村房产证",
+    "scaleX": 0.15,
+    "scaleY": 0.15,
+    "x": 179,
+    "y": 100,
+    "thing": "农村房产证",
+    "op": "自己收下",
+    "action": [
+      {
+        "id": "事件",
+        "arg1": "农村房屋拆迁，补偿拆迁款#元",
+        "arg2": 3600000
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "op": "归还失主",
+    "action": [
+      {
+        "id": "事件",
+        "arg1": "村霸怀疑是你偷了，打了你一顿，获得赔偿金#元",
+        "arg2": 100
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+
+xiaonvhai.png
+size: 194,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+17
+  rotate: true
+  xy: 2, 43
+  size: 101, 190
+  orig: 101, 190
+  offset: 0, 0
+  index: -1
+17_2
+  rotate: false
+  xy: 171, 2
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+17_3
+  rotate: true
+  xy: 119, 18
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+17_6
+  rotate: false
+  xy: 2, 2
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+17_7
+  rotate: false
+  xy: 58, 3
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1

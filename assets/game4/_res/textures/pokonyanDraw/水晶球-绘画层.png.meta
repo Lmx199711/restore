@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "55a0cb09-10d6-4778-b2af-4093af6e5e33",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 681,
+  "height": 681,
+  "platformSettings": {},
+  "subMetas": {
+    "水晶球-绘画层": {
+      "ver": "1.0.6",
+      "uuid": "68395419-42b1-432d-bda8-825dcc3814a2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "55a0cb09-10d6-4778-b2af-4093af6e5e33",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 681,
+      "height": 681,
+      "rawWidth": 681,
+      "rawHeight": 681,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

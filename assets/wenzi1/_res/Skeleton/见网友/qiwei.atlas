@@ -1,0 +1,118 @@
+
+qiwei.png
+size: 96,322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_000
+  rotate: true
+  xy: 2, 129
+  size: 37, 47
+  orig: 58, 58
+  offset: 11, 5
+  index: -1
+01_001
+  rotate: true
+  xy: 2, 90
+  size: 37, 47
+  orig: 58, 58
+  offset: 12, 5
+  index: -1
+01_002
+  rotate: true
+  xy: 2, 168
+  size: 36, 48
+  orig: 58, 58
+  offset: 13, 5
+  index: -1
+01_003
+  rotate: true
+  xy: 2, 244
+  size: 36, 49
+  orig: 58, 58
+  offset: 13, 5
+  index: -1
+01_004
+  rotate: true
+  xy: 2, 206
+  size: 36, 49
+  orig: 58, 58
+  offset: 12, 5
+  index: -1
+01_005
+  rotate: true
+  xy: 2, 282
+  size: 38, 50
+  orig: 58, 58
+  offset: 11, 5
+  index: -1
+01_006
+  rotate: true
+  xy: 53, 195
+  size: 39, 41
+  orig: 58, 58
+  offset: 11, 5
+  index: -1
+01_007
+  rotate: false
+  xy: 50, 38
+  size: 40, 40
+  orig: 58, 58
+  offset: 10, 5
+  index: -1
+01_008
+  rotate: true
+  xy: 54, 278
+  size: 42, 40
+  orig: 58, 58
+  offset: 8, 5
+  index: -1
+01_009
+  rotate: true
+  xy: 44, 2
+  size: 34, 40
+  orig: 58, 58
+  offset: 8, 5
+  index: -1
+01_010
+  rotate: true
+  xy: 2, 10
+  size: 39, 40
+  orig: 58, 58
+  offset: 7, 5
+  index: -1
+01_011
+  rotate: true
+  xy: 53, 236
+  size: 40, 41
+  orig: 58, 58
+  offset: 8, 5
+  index: -1
+01_012
+  rotate: true
+  xy: 52, 154
+  size: 39, 41
+  orig: 58, 58
+  offset: 8, 5
+  index: -1
+01_013
+  rotate: true
+  xy: 51, 80
+  size: 34, 41
+  orig: 58, 58
+  offset: 11, 5
+  index: -1
+01_014
+  rotate: true
+  xy: 51, 116
+  size: 36, 43
+  orig: 58, 58
+  offset: 10, 5
+  index: -1
+01_015
+  rotate: true
+  xy: 2, 51
+  size: 37, 46
+  orig: 58, 58
+  offset: 9, 5
+  index: -1

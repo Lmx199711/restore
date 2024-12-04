@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bb79f14c-5b88-4f52-a320-273f3711f476",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 98,
+  "height": 98,
+  "platformSettings": {},
+  "subMetas": {
+    "不朽之盾": {
+      "ver": "1.0.6",
+      "uuid": "33060f71-cf52-4feb-82a2-e8313cf03352",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bb79f14c-5b88-4f52-a320-273f3711f476",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -2,
+      "trimX": 12,
+      "trimY": 8,
+      "width": 73,
+      "height": 86,
+      "rawWidth": 98,
+      "rawHeight": 98,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

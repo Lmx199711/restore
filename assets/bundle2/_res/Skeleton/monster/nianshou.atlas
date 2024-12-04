@@ -1,0 +1,139 @@
+
+nianshou.png
+size: 134,975
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 2, 469
+  size: 116, 125
+  orig: 116, 125
+  offset: 0, 0
+  index: -1
+10_1
+  rotate: false
+  xy: 2, 2
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+10_2
+  rotate: false
+  xy: 2, 59
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1
+10_3
+  rotate: true
+  xy: 78, 134
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+10_4
+  rotate: true
+  xy: 89, 294
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+10_5
+  rotate: true
+  xy: 78, 107
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 335
+  size: 108, 32
+  orig: 108, 32
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 587
+  size: 125, 124
+  orig: 125, 124
+  offset: 0, 0
+  index: -1
+8_1
+  rotate: false
+  xy: 2, 263
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+8_2
+  rotate: false
+  xy: 2, 123
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+8_3
+  rotate: false
+  xy: 89, 255
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+8_4
+  rotate: false
+  xy: 82, 163
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+8_5
+  rotate: false
+  xy: 2, 713
+  size: 125, 124
+  orig: 125, 124
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 2, 839
+  size: 134, 127
+  orig: 134, 127
+  offset: 0, 0
+  index: -1
+9_1
+  rotate: false
+  xy: 2, 194
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+9_2
+  rotate: false
+  xy: 82, 202
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+9_3
+  rotate: true
+  xy: 76, 34
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+9_4
+  rotate: false
+  xy: 2, 369
+  size: 113, 98
+  orig: 113, 98
+  offset: 0, 0
+  index: -1
+9_5
+  rotate: true
+  xy: 76, 68
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1

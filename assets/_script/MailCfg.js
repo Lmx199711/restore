@@ -1,0 +1,708 @@
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.MailCaiDanCfg = exports.MailConpoundLevelCfg = exports.MailConpoundCfg = exports.MailVideoRareCfg = exports.MailRare4Cfg = exports.MailRare3Cfg = exports.MailRare2Cfg = exports.MailRare1Cfg = exports.MailRareCfg = exports.MailGroupCfg = exports.MailItemCfg = undefined;
+exports.MailItemCfg = [{
+  id: 1,
+  name: "鼠",
+  rare: 1,
+  year: 1984,
+  price: 8,
+  sellPrice: 2e3,
+  icon: "icon1",
+  groupId: 1
+}, {
+  id: 2,
+  name: "牛",
+  rare: 2,
+  year: 1985,
+  price: 8,
+  sellPrice: 5e3,
+  icon: "icon2",
+  groupId: 1
+}, {
+  id: 3,
+  name: "虎",
+  rare: 3,
+  year: 1986,
+  price: 8,
+  sellPrice: 1e4,
+  icon: "icon3",
+  groupId: 1
+}, {
+  id: 4,
+  name: "兔",
+  rare: 1,
+  year: 1987,
+  price: 8,
+  sellPrice: 2e3,
+  icon: "icon4",
+  groupId: 1
+}, {
+  id: 5,
+  name: "猴",
+  rare: 4,
+  year: 1980,
+  price: 8,
+  sellPrice: 5e5,
+  icon: "icon5",
+  groupId: 1
+}, {
+  id: 6,
+  name: "马",
+  rare: 1,
+  year: 1990,
+  price: 8,
+  sellPrice: 2e3,
+  icon: "icon6",
+  groupId: 1
+}, {
+  id: 7,
+  name: "猪",
+  rare: 1,
+  year: 1983,
+  price: 8,
+  sellPrice: 2e3,
+  icon: "icon7",
+  groupId: 1
+}, {
+  id: 8,
+  name: "狗",
+  rare: 1,
+  year: 1982,
+  price: 8,
+  sellPrice: 2e3,
+  icon: "icon8",
+  groupId: 1
+}, {
+  id: 9,
+  name: "羊",
+  rare: 1,
+  year: 1991,
+  price: 20,
+  sellPrice: 2e3,
+  icon: "icon9",
+  groupId: 1
+}, {
+  id: 10,
+  name: "蛇",
+  rare: 2,
+  year: 1989,
+  price: 8,
+  sellPrice: 5e3,
+  icon: "icon10",
+  groupId: 1
+}, {
+  id: 11,
+  name: "龙",
+  rare: 3,
+  year: 1988,
+  price: 8,
+  sellPrice: 1e4,
+  icon: "icon11",
+  groupId: 1
+}, {
+  id: 12,
+  name: "鸡",
+  rare: 1,
+  year: 1981,
+  price: 8,
+  sellPrice: 2e3,
+  icon: "icon12",
+  groupId: 1
+}, {
+  id: 13,
+  name: "熊猫花花",
+  rare: 4,
+  year: 2020,
+  price: 20,
+  sellPrice: 5e5,
+  icon: "icon13",
+  groupId: 3
+}, {
+  id: 14,
+  name: "北京故宫",
+  rare: 4,
+  year: 1949,
+  price: 49,
+  sellPrice: 5e5,
+  icon: "icon14",
+  groupId: 2
+}, {
+  id: 15,
+  name: "上海东方明珠",
+  rare: 4,
+  year: 1966,
+  price: 22,
+  sellPrice: 5e5,
+  icon: "icon15",
+  groupId: 2
+}, {
+  id: 16,
+  name: "石家庄艺术中心",
+  rare: 1,
+  year: 1970,
+  price: 5,
+  sellPrice: 2e3,
+  icon: "icon16",
+  groupId: 2
+}, {
+  id: 17,
+  name: "天津天塔",
+  rare: 1,
+  year: 1971,
+  price: 10,
+  sellPrice: 2e3,
+  icon: "icon17",
+  groupId: 2
+}, {
+  id: 18,
+  name: "太原双塔",
+  rare: 1,
+  year: 1972,
+  price: 15,
+  sellPrice: 2e3,
+  icon: "icon18",
+  groupId: 2
+}, {
+  id: 19,
+  name: "呼和浩特舍利塔",
+  rare: 1,
+  year: 1973,
+  price: 5,
+  sellPrice: 2e3,
+  icon: "icon19",
+  groupId: 2
+}, {
+  id: 20,
+  name: "沈阳植物园",
+  rare: 1,
+  year: 1974,
+  price: 20,
+  sellPrice: 2e3,
+  icon: "icon20",
+  groupId: 2
+}, {
+  id: 21,
+  name: "长春城市之花",
+  rare: 2,
+  year: 1975,
+  price: 8,
+  sellPrice: 5e3,
+  icon: "icon21",
+  groupId: 2
+}, {
+  id: 22,
+  name: "哈尔滨索菲亚教堂",
+  rare: 2,
+  year: 1976,
+  price: 7,
+  sellPrice: 5e3,
+  icon: "icon22",
+  groupId: 2
+}, {
+  id: 23,
+  name: "南昌滕王阁",
+  rare: 2,
+  year: 1977,
+  price: 7,
+  sellPrice: 5e3,
+  icon: "icon23",
+  groupId: 2
+}, {
+  id: 24,
+  name: "济南泉城广场",
+  rare: 1,
+  year: 1978,
+  price: 6,
+  sellPrice: 2e3,
+  icon: "icon24",
+  groupId: 2
+}, {
+  id: 25,
+  name: "洛阳老君山",
+  rare: 2,
+  year: 1979,
+  price: 6,
+  sellPrice: 5e3,
+  icon: "icon25",
+  groupId: 2
+}, {
+  id: 26,
+  name: "武汉黄鹤楼",
+  rare: 3,
+  year: 1980,
+  price: 6,
+  sellPrice: 1e4,
+  icon: "icon26",
+  groupId: 2
+}, {
+  id: 27,
+  name: "重庆人民大礼堂",
+  rare: 1,
+  year: 1981,
+  price: 7,
+  sellPrice: 2e3,
+  icon: "icon27",
+  groupId: 2
+}, {
+  id: 28,
+  name: "广东广州塔",
+  rare: 3,
+  year: 1982,
+  price: 9,
+  sellPrice: 1e4,
+  icon: "icon28",
+  groupId: 2
+}, {
+  id: 29,
+  name: "香港中银大厦",
+  rare: 1,
+  year: 1983,
+  price: 9,
+  sellPrice: 2e3,
+  icon: "icon29",
+  groupId: 2
+}, {
+  id: 30,
+  name: "澳门大三巴牌坊",
+  rare: 1,
+  year: 1984,
+  price: 9,
+  sellPrice: 2e3,
+  icon: "icon30",
+  groupId: 2
+}, {
+  id: 31,
+  name: "台北101大楼",
+  rare: 1,
+  year: 1985,
+  price: 10,
+  sellPrice: 2e3,
+  icon: "icon31",
+  groupId: 2
+}, {
+  id: 32,
+  name: "昆明春之眼",
+  rare: 1,
+  year: 1986,
+  price: 10,
+  sellPrice: 2e3,
+  icon: "icon33",
+  groupId: 2
+}, {
+  id: 33,
+  name: "福州白塔",
+  rare: 2,
+  year: 1987,
+  price: 20,
+  sellPrice: 5e3,
+  icon: "icon32",
+  groupId: 2
+}, {
+  id: 34,
+  name: "成都天府广场",
+  rare: 2,
+  year: 1988,
+  price: 20,
+  sellPrice: 5e3,
+  icon: "icon35",
+  groupId: 2
+}, {
+  id: 35,
+  name: "新疆国际大巴扎",
+  rare: 1,
+  year: 1989,
+  price: 10,
+  sellPrice: 2e3,
+  icon: "icon34",
+  groupId: 2
+}, {
+  id: 36,
+  name: "拉萨布达拉宫",
+  rare: 3,
+  year: 1990,
+  price: 15,
+  sellPrice: 1e4,
+  icon: "icon36",
+  groupId: 2
+}, {
+  id: 37,
+  name: "银川民族团结碑",
+  rare: 1,
+  year: 1991,
+  price: 3,
+  sellPrice: 2e3,
+  icon: "icon37",
+  groupId: 2
+}, {
+  id: 38,
+  name: "兰州黄河母亲",
+  rare: 3,
+  year: 1992,
+  price: 3,
+  sellPrice: 1e4,
+  icon: "icon38",
+  groupId: 2
+}, {
+  id: 39,
+  name: "海口千年塔",
+  rare: 1,
+  year: 1993,
+  price: 3,
+  sellPrice: 2e3,
+  icon: "icon39",
+  groupId: 2
+}, {
+  id: 40,
+  name: "贵阳电视发射塔",
+  rare: 1,
+  year: 1994,
+  price: 3,
+  sellPrice: 2e3,
+  icon: "icon40",
+  groupId: 2
+}, {
+  id: 41,
+  name: "合肥广播电视中心",
+  rare: 1,
+  year: 1995,
+  price: 5,
+  sellPrice: 2e3,
+  icon: "icon41",
+  groupId: 2
+}, {
+  id: 42,
+  name: "南京紫峰大厦",
+  rare: 2,
+  year: 1996,
+  price: 5,
+  sellPrice: 5e3,
+  icon: "icon42",
+  groupId: 2
+}, {
+  id: 43,
+  name: "杭州雷峰塔",
+  rare: 2,
+  year: 1997,
+  price: 1,
+  sellPrice: 5e3,
+  icon: "icon43",
+  groupId: 2
+}, {
+  id: 44,
+  name: "西安大雁塔",
+  rare: 1,
+  year: 1998,
+  price: 1,
+  sellPrice: 2e3,
+  icon: "icon44",
+  groupId: 2
+}, {
+  id: 45,
+  name: "广西日月双塔",
+  rare: 1,
+  year: 1999,
+  price: 1,
+  sellPrice: 2e3,
+  icon: "icon45",
+  groupId: 2
+}, {
+  id: 46,
+  name: "湖南岳阳楼",
+  rare: 2,
+  year: 2e3,
+  price: 7,
+  sellPrice: 5e3,
+  icon: "icon46",
+  groupId: 2
+}, {
+  id: 47,
+  name: "青海塔尔寺",
+  rare: 1,
+  year: 2001,
+  price: 10,
+  sellPrice: 2e3,
+  icon: "icon47",
+  groupId: 2
+}, {
+  id: 48,
+  name: "蓝色妖姬",
+  rare: 4,
+  year: 2020,
+  price: 99,
+  sellPrice: 1e4,
+  icon: "icon48",
+  groupId: 3
+}, {
+  id: 49,
+  name: "猪猪奶茶",
+  rare: 3,
+  year: 2022,
+  price: 18,
+  sellPrice: 5e3,
+  icon: "icon49",
+  groupId: 3
+}, {
+  id: 50,
+  name: "冻鱼战神",
+  rare: 3,
+  year: 2023,
+  price: 66,
+  sellPrice: 5e3,
+  icon: "icon50",
+  groupId: 3
+}, {
+  id: 51,
+  name: "大唐不夜城",
+  rare: 2,
+  year: 2023,
+  price: 34,
+  sellPrice: 2e3,
+  icon: "icon51",
+  groupId: 3
+}, {
+  id: 52,
+  name: "小飞棍来咯",
+  rare: 3,
+  year: 2023,
+  price: 27,
+  sellPrice: 5e3,
+  icon: "icon52",
+  groupId: 3
+}, {
+  id: 53,
+  name: "真爱粉",
+  rare: 4,
+  year: 2023,
+  price: 99,
+  sellPrice: 1e4,
+  icon: "icon53",
+  groupId: 3
+}, {
+  id: 54,
+  name: "挖呀挖呀挖",
+  rare: 3,
+  year: 2023,
+  price: 44,
+  sellPrice: 5e3,
+  icon: "icon54",
+  groupId: 3
+}, {
+  id: 55,
+  name: "双手插兜",
+  rare: 2,
+  year: 2023,
+  price: 58,
+  sellPrice: 2e3,
+  icon: "icon55",
+  groupId: 3
+}, {
+  id: 56,
+  name: "泰裤辣",
+  rare: 4,
+  year: 2023,
+  price: 77,
+  sellPrice: 1e4,
+  icon: "icon56",
+  groupId: 3
+}];
+exports.MailGroupCfg = [{
+  id: 1,
+  name: "十二生肖",
+  icon: "bg1",
+  coin: "100000000"
+}, {
+  id: 2,
+  name: "游历中国",
+  icon: "bg2",
+  coin: "500000000"
+}, {
+  id: 3,
+  name: "潮流前线",
+  icon: "bg3",
+  coin: "50000000"
+}];
+exports.MailRareCfg = [{
+  rare: 1,
+  pr: 67
+}, {
+  rare: 2,
+  pr: 21
+}, {
+  rare: 3,
+  pr: 11
+}, {
+  rare: 4,
+  pr: 1
+}];
+exports.MailRare1Cfg = [{
+  rare: 1,
+  pr: 30
+}, {
+  rare: 2,
+  pr: 40
+}, {
+  rare: 3,
+  pr: 27
+}, {
+  rare: 4,
+  pr: 3
+}];
+exports.MailRare2Cfg = [{
+  rare: 1,
+  pr: 27
+}, {
+  rare: 2,
+  pr: 33
+}, {
+  rare: 3,
+  pr: 32
+}, {
+  rare: 4,
+  pr: 8
+}];
+exports.MailRare3Cfg = [{
+  rare: 1,
+  pr: 33
+}, {
+  rare: 2,
+  pr: 30
+}, {
+  rare: 3,
+  pr: 22
+}, {
+  rare: 4,
+  pr: 15
+}];
+exports.MailRare4Cfg = [{
+  rare: 1,
+  pr: 0
+}, {
+  rare: 2,
+  pr: 0
+}, {
+  rare: 3,
+  pr: 0
+}, {
+  rare: 4,
+  pr: 100
+}];
+exports.MailVideoRareCfg = [{
+  rare: 1,
+  pr: 30
+}, {
+  rare: 2,
+  pr: 40
+}, {
+  rare: 3,
+  pr: 27
+}, {
+  rare: 4,
+  pr: 3
+}];
+exports.MailConpoundCfg = {
+  0: [{
+    rare: 1,
+    pr: 45
+  }, {
+    rare: 2,
+    pr: 35
+  }, {
+    rare: 3,
+    pr: 19
+  }, {
+    rare: 4,
+    pr: 1
+  }],
+  1: [{
+    rare: 1,
+    pr: 23
+  }, {
+    rare: 2,
+    pr: 47
+  }, {
+    rare: 3,
+    pr: 27
+  }, {
+    rare: 4,
+    pr: 3
+  }],
+  2: [{
+    rare: 1,
+    pr: 10
+  }, {
+    rare: 2,
+    pr: 30
+  }, {
+    rare: 3,
+    pr: 45
+  }, {
+    rare: 4,
+    pr: 15
+  }],
+  3: [{
+    rare: 1,
+    pr: 5
+  }, {
+    rare: 2,
+    pr: 15
+  }, {
+    rare: 3,
+    pr: 50
+  }, {
+    rare: 4,
+    pr: 30
+  }],
+  4: [{
+    rare: 1,
+    pr: 1
+  }, {
+    rare: 2,
+    pr: 5
+  }, {
+    rare: 3,
+    pr: 14
+  }, {
+    rare: 4,
+    pr: 80
+  }],
+  5: [{
+    rare: 1,
+    pr: 1
+  }, {
+    rare: 2,
+    pr: 2
+  }, {
+    rare: 3,
+    pr: 3
+  }, {
+    rare: 4,
+    pr: 94
+  }],
+  6: [{
+    rare: 1,
+    pr: 30
+  }, {
+    rare: 2,
+    pr: 40
+  }, {
+    rare: 3,
+    pr: 27
+  }, {
+    rare: 4,
+    pr: 3
+  }]
+};
+exports.MailConpoundLevelCfg = {
+  2: 0,
+  3: 1,
+  4: 1,
+  5: 2,
+  6: 3,
+  7: 3,
+  8: 4,
+  9: 5,
+  10: 5
+};
+exports.MailCaiDanCfg = [];

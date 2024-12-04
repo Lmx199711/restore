@@ -1,0 +1,27 @@
+
+fahongbao.png
+size: 883,353
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+14
+  rotate: true
+  xy: 395, 9
+  size: 342, 310
+  orig: 342, 310
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 707, 50
+  size: 301, 174
+  orig: 301, 174
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 2, 2
+  size: 391, 349
+  orig: 392, 350
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,27 @@
+
+LB_1.png
+size: 204,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: true
+  xy: 2, 2
+  size: 123, 125
+  orig: 128, 128
+  offset: 2, 3
+  index: -1
+images/LB1
+  rotate: false
+  xy: 129, 16
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+images/LB2
+  rotate: false
+  xy: 129, 51
+  size: 73, 74
+  orig: 73, 75
+  offset: 0, 0
+  index: -1

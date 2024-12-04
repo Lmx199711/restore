@@ -1,0 +1,94 @@
+[
+  {
+    "id": 101,
+    "keyFlag": "sganc",
+    "desc": "这个少女看起来很沮丧\n难不成要做傻事？",
+    "uiPath": "pngUI/1",
+    "bgPath": "pngBg/1",
+    "actPath": "pngAct/1",
+    "x": 150,
+    "y": 290,
+    "report": "新城区女孩",
+    "rewardType": "灵石",
+    "rewardNum": 5000,
+    "rewardDesc": "将玉佩拿去当铺，获\n得5000灵石",
+    "function": 2,
+    "say": "我失恋了，我男朋友把我的钱都骗走了，我不想活了",
+    "EggDialogChoose": [
+      {
+        "choose": "给她一百万元帮她度过难关",
+        "goto": "102|104",
+        "change": "使用金币|1000000"
+      },
+      {
+        "choose": "不理会她",
+        "goto": -1
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "function": 2,
+    "say": "谢谢你，这是我家传的玉佩，送给你作为答谢叭",
+    "EggDialogChoose": [
+      {
+        "choose": "你也要好好生活啊",
+        "goto": 103
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "function": 5
+  },
+  {
+    "id": 106,
+    "function": 3
+  },
+  {
+    "id": 104,
+    "function": 2,
+    "say": "谢谢你，以后我们还有机会再见，我会补偿你的"
+  },
+  {
+    "id": 105,
+    "function": 4
+  },
+  {
+    "id": 201,
+    "keyFlag": "alass",
+    "desc": "这个灯笼好像有点奇怪，里面有什么东西？",
+    "uiPath": "pngUI/2",
+    "bgPath": "pngBg/2",
+    "actPath": "pngAct/2",
+    "x": 270,
+    "y": 180,
+    "report": "商业街灯笼",
+    "rewardType": "金币",
+    "rewardNum": 1000000,
+    "rewardDesc": "感谢你帮我脱困了，这是你的100万元奖励。",
+    "function": 2,
+    "say": "谢谢你把我释放了出来，这是你的奖励",
+    "EggDialogChoose": [
+      {
+        "choose": "举手之劳罢了",
+        "goto": 202
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "function": 5
+  },
+  {
+    "id": 203,
+    "function": 3
+  },
+  {
+    "id": 9999,
+    "keyFlag": "Error",
+    "report": "测试对话",
+    "function": 2,
+    "say": "出现问题了(用来测试的，不要再表里删除）"
+  }
+]

@@ -1,0 +1,118 @@
+
+guanzhong.png
+size: 1662,114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/2_1
+  rotate: false
+  xy: 1173, 7
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+images/2_1_1
+  rotate: true
+  xy: 1281, 7
+  size: 42, 76
+  orig: 42, 76
+  offset: 0, 0
+  index: -1
+images/2_1_2
+  rotate: true
+  xy: 1281, 51
+  size: 61, 113
+  orig: 61, 113
+  offset: 0, 0
+  index: -1
+images/2_2
+  rotate: true
+  xy: 1046, 35
+  size: 77, 126
+  orig: 77, 126
+  offset: 0, 0
+  index: -1
+images/2_2_1
+  rotate: true
+  xy: 1174, 35
+  size: 77, 105
+  orig: 77, 105
+  offset: 0, 0
+  index: -1
+images/2_2_2
+  rotate: true
+  xy: 2, 3
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+images/2_3
+  rotate: true
+  xy: 1046, 2
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+images/2_3_1
+  rotate: true
+  xy: 1396, 56
+  size: 56, 117
+  orig: 56, 117
+  offset: 0, 0
+  index: -1
+images/2_3_2
+  rotate: true
+  xy: 1116, 8
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+images/2_3_3
+  rotate: false
+  xy: 1087, 2
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+images/2_4
+  rotate: false
+  xy: 1594, 19
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+images/2_5
+  rotate: true
+  xy: 943, 7
+  size: 105, 101
+  orig: 105, 101
+  offset: 0, 0
+  index: -1
+images/2_5_1
+  rotate: false
+  xy: 1515, 31
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+images/2_5_2
+  rotate: true
+  xy: 1150, 2
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+images/2_5_3
+  rotate: false
+  xy: 1396, 5
+  size: 69, 49
+  orig: 69, 49
+  offset: 0, 0
+  index: -1
+images/bg3
+  rotate: false
+  xy: 2, 19
+  size: 939, 93
+  orig: 939, 93
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+ms.png
+size: 345,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aix
+  rotate: false
+  xy: 150, 2
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+bgg
+  rotate: false
+  xy: 2, 4
+  size: 146, 140
+  orig: 146, 145
+  offset: 0, 2
+  index: -1
+kuan
+  rotate: false
+  xy: 150, 28
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+wz
+  rotate: false
+  xy: 268, 25
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+zhujue
+  rotate: false
+  xy: 268, 59
+  size: 75, 85
+  orig: 76, 85
+  offset: 0, 0
+  index: -1

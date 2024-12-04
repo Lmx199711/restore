@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "AE86",
+    "scan": "AE87",
+    "case": 1,
+    "extra1": 10000,
+    "extra2": -1000000,
+    "actor": 2,
+    "sell1": 40000,
+    "sell2": 200000,
+    "baseSell": 90000,
+    "repair1": 10000,
+    "repair2": 50000,
+    "baseRepair": 20000,
+    "shout": [
+      180000,
+      300000,
+      500000
+    ]
+  },
+  {
+    "id": 3,
+    "name": "hongguang",
+    "scan": "wulinghongguang",
+    "case": 1,
+    "extra1": 20000,
+    "extra2": -2000000,
+    "actor": 3,
+    "sell1": 80000,
+    "sell2": 500000,
+    "baseSell": 100000,
+    "repair1": 20000,
+    "repair2": 100000,
+    "baseRepair": 50000,
+    "shout": [
+      450000,
+      640000,
+      1000000
+    ]
+  },
+  {
+    "id": 5,
+    "name": "lanbojini",
+    "scan": "lanbojini",
+    "case": 1,
+    "extra1": 50000,
+    "extra2": -9000000,
+    "actor": 1,
+    "sell1": 500000,
+    "sell2": 3000000,
+    "baseSell": 800000,
+    "repair1": 40000,
+    "repair2": 500000,
+    "baseRepair": 80000,
+    "shout": [
+      3200000,
+      4000000,
+      4500000
+    ]
+  }
+]

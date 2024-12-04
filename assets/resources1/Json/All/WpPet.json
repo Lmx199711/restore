@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "小神龙",
+    "stages": 5,
+    "stageName": "龙蛋|小火龙|暴龙|龙王|龙神",
+    "expInfo": 1,
+    "atkBuffInfo": 2,
+    "strongInfo": 3,
+    "path": "pet/long_",
+    "range": [
+      0,
+      10,
+      20,
+      50,
+      80
+    ]
+  }
+]

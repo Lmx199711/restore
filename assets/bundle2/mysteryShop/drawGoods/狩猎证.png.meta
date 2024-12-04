@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "44db85e4-9d94-4491-85da-030f8d499789",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 108,
+  "platformSettings": {},
+  "subMetas": {
+    "狩猎证": {
+      "ver": "1.0.6",
+      "uuid": "7f5e7902-d667-4701-9839-1feaa8013e74",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "44db85e4-9d94-4491-85da-030f8d499789",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 144,
+      "height": 108,
+      "rawWidth": 144,
+      "rawHeight": 108,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

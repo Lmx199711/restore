@@ -1,0 +1,13 @@
+
+ms.png
+size: 148,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgg
+  rotate: false
+  xy: 2, 2
+  size: 144, 143
+  orig: 145, 145
+  offset: 1, 1
+  index: -1

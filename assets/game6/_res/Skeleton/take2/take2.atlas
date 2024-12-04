@@ -1,0 +1,13 @@
+
+take2.png
+size: 239,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s2
+  rotate: false
+  xy: 2, 2
+  size: 235, 160
+  orig: 235, 160
+  offset: 0, 0
+  index: -1

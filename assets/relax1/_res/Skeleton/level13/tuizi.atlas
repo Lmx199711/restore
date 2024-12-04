@@ -1,0 +1,13 @@
+
+tuizi.png
+size: 125,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chaizi
+  rotate: false
+  xy: 2, 2
+  size: 121, 289
+  orig: 121, 289
+  offset: 0, 0
+  index: -1

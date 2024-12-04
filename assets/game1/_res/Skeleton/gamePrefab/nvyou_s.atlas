@@ -1,0 +1,111 @@
+
+nvyou_s.png
+size: 677,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_3
+  rotate: false
+  xy: 577, 32
+  size: 33, 37
+  orig: 34, 37
+  offset: 1, 0
+  index: -1
+21
+  rotate: false
+  xy: 183, 83
+  size: 183, 202
+  orig: 183, 202
+  offset: 0, 0
+  index: -1
+21_1
+  rotate: true
+  xy: 532, 4
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+21_2
+  rotate: true
+  xy: 221, 2
+  size: 79, 110
+  orig: 79, 110
+  offset: 0, 0
+  index: -1
+21_3
+  rotate: true
+  xy: 517, 121
+  size: 164, 59
+  orig: 164, 59
+  offset: 0, 0
+  index: -1
+21_5
+  rotate: false
+  xy: 63, 61
+  size: 58, 224
+  orig: 58, 224
+  offset: 0, 0
+  index: -1
+21_6
+  rotate: true
+  xy: 2, 3
+  size: 56, 217
+  orig: 56, 217
+  offset: 0, 0
+  index: -1
+21_7
+  rotate: true
+  xy: 333, 2
+  size: 79, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 368, 88
+  size: 147, 197
+  orig: 147, 197
+  offset: 0, 0
+  index: -1
+22_1
+  rotate: false
+  xy: 123, 61
+  size: 58, 224
+  orig: 58, 224
+  offset: 0, 0
+  index: -1
+22_2
+  rotate: false
+  xy: 2, 61
+  size: 59, 224
+  orig: 59, 224
+  offset: 0, 0
+  index: -1
+22_7
+  rotate: false
+  xy: 578, 123
+  size: 97, 162
+  orig: 102, 162
+  offset: 0, 0
+  index: -1
+22_8
+  rotate: true
+  xy: 417, 6
+  size: 80, 113
+  orig: 84, 114
+  offset: 4, 1
+  index: -1
+6
+  rotate: false
+  xy: 532, 58
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 578, 71
+  size: 50, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1

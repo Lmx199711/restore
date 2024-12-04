@@ -1,0 +1,69 @@
+
+baoxiangguangxiao.png
+size: 744,1055
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00000
+  rotate: true
+  xy: 646, 880
+  size: 173, 73
+  orig: 658, 658
+  offset: 244, 293
+  index: -1
+01_00001
+  rotate: true
+  xy: 532, 375
+  size: 409, 166
+  orig: 658, 658
+  offset: 122, 246
+  index: -1
+01_00002
+  rotate: false
+  xy: 2, 786
+  size: 642, 267
+  orig: 658, 658
+  offset: 8, 195
+  index: -1
+01_00003
+  rotate: false
+  xy: 2, 502
+  size: 528, 282
+  orig: 658, 658
+  offset: 64, 188
+  index: -1
+01_00004
+  rotate: true
+  xy: 2, 76
+  size: 424, 292
+  orig: 658, 658
+  offset: 118, 183
+  index: -1
+01_00005
+  rotate: true
+  xy: 296, 2
+  size: 316, 290
+  orig: 658, 658
+  offset: 170, 184
+  index: -1
+01_00006
+  rotate: false
+  xy: 296, 320
+  size: 209, 180
+  orig: 658, 658
+  offset: 225, 239
+  index: -1
+01_00007
+  rotate: true
+  xy: 588, 200
+  size: 173, 154
+  orig: 658, 658
+  offset: 245, 255
+  index: -1
+01_00008
+  rotate: true
+  xy: 588, 22
+  size: 176, 148
+  orig: 658, 658
+  offset: 244, 254
+  index: -1

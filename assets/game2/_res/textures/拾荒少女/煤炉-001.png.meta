@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "579b5ed2-251f-4ac9-9267-ea6efc55e10d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 264,
+  "height": 449,
+  "platformSettings": {},
+  "subMetas": {
+    "煤炉-001": {
+      "ver": "1.0.6",
+      "uuid": "4c9ba7fa-0e43-432e-8b63-6df5067b6951",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "579b5ed2-251f-4ac9-9267-ea6efc55e10d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 264,
+      "height": 449,
+      "rawWidth": 264,
+      "rawHeight": 449,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

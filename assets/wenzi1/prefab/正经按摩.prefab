@@ -1,0 +1,8771 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "正经按摩",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "正经按摩",
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 6
+      },
+      {
+        "__id__": 49
+      },
+      {
+        "__id__": 293
+      },
+      {
+        "__id__": 299
+      },
+      {
+        "__id__": 313
+      },
+      {
+        "__id__": 319
+      },
+      {
+        "__id__": 332
+      },
+      {
+        "__id__": 347
+      },
+      {
+        "__id__": 350
+      },
+      {
+        "__id__": 359
+      },
+      {
+        "__id__": 368
+      },
+      {
+        "__id__": 378
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 382
+      },
+      {
+        "__id__": 383
+      },
+      {
+        "__id__": 384
+      },
+      {
+        "__id__": 385
+      }
+    ],
+    "_prefab": {
+      "__id__": 386
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 750,
+      "height": 1334
+    },
+    "_id": "16ef559a-518b-4711-be26-52d99878d4ff"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "背景",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1002,
+      "height": 1668
+    }
+  },
+  {
+    "__type__": "cc.Widget",
+    "_alignFlags": 45,
+    "_left": -126,
+    "_right": -126,
+    "_top": -167,
+    "_bottom": -167,
+    "_originalWidth": 750,
+    "_originalHeight": 1334,
+    "node": {
+      "__id__": 2
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_type": 1,
+    "_sizeMode": 0,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "535f2d61-f4a8-4d6b-8efe-8daa56204163"
+    },
+    "node": {
+      "__id__": 2
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "c9OP3+RCJJl4QSDxiBbT6y",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "行为节点",
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 7
+      },
+      {
+        "__id__": 10
+      },
+      {
+        "__id__": 13
+      },
+      {
+        "__id__": 16
+      },
+      {
+        "__id__": 19
+      },
+      {
+        "__id__": 22
+      },
+      {
+        "__id__": 26
+      },
+      {
+        "__id__": 30
+      },
+      {
+        "__id__": 33
+      },
+      {
+        "__id__": 36
+      },
+      {
+        "__id__": 39
+      },
+      {
+        "__id__": 42
+      },
+      {
+        "__id__": 45
+      }
+    ],
+    "_prefab": {
+      "__id__": 48
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "游戏开始",
+    "_parent": {
+      "__id__": 6
+    },
+    "_components": [
+      {
+        "__id__": 8
+      }
+    ],
+    "_prefab": {
+      "__id__": 9
+    }
+  },
+  {
+    "__type__": "8334cf1MXNOF4TkP2PlxP6w",
+    "addType": 1,
+    "actionList": [
+      {
+        "__type__": "StartBehaviorCom",
+        "behaviorType": "直接触发一个行为",
+        "behaviorId": "_游戏开始",
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "游戏开始",
+                "delay": 0.1
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "禁点"
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "禁点#0",
+                "delay": 4
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "node": {
+      "__id__": 7
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "f1WXW4J1dOnrd4w5GHZj+S",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "结算",
+    "_parent": {
+      "__id__": 6
+    },
+    "_components": [
+      {
+        "__id__": 11
+      }
+    ],
+    "_prefab": {
+      "__id__": 12
+    }
+  },
+  {
+    "__type__": "8334cf1MXNOF4TkP2PlxP6w",
+    "addType": 35,
+    "actionList": [
+      {
+        "__type__": "TriggerFunctionCom",
+        "behaviorType": "触发方法",
+        "behaviorId": "游戏失败",
+        "events": [
+          {
+            "__type__": "cc.ClickEvent",
+            "_componentId": "b7a4aqFK+RO6qEg1si+ldaX",
+            "handler": "failLevel",
+            "target": {
+              "__id__": 1
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "TriggerFunctionCom",
+        "behaviorType": "触发方法",
+        "behaviorId": "游戏胜利",
+        "events": [
+          {
+            "__type__": "cc.ClickEvent",
+            "_componentId": "b7a4aqFK+RO6qEg1si+ldaX",
+            "handler": "passLevel",
+            "target": {
+              "__id__": 1
+            }
+          },
+          {
+            "__type__": "cc.ClickEvent",
+            "_componentId": "928551iWOVBxL4oXtVAYllB",
+            "handler": "end",
+            "target": {
+              "__id__": 1
+            }
+          }
+        ]
+      }
+    ],
+    "node": {
+      "__id__": 10
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "c1e1HNWolACoXT3SOsTboH",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "禁点",
+    "_parent": {
+      "__id__": 6
+    },
+    "_components": [
+      {
+        "__id__": 14
+      }
+    ],
+    "_prefab": {
+      "__id__": 15
+    }
+  },
+  {
+    "__type__": "8334cf1MXNOF4TkP2PlxP6w",
+    "addType": 14,
+    "actionList": [
+      {
+        "__type__": "TouchDisabledCom",
+        "behaviorType": "禁用所有点击",
+        "behaviorId": "禁点"
+      }
+    ],
+    "node": {
+      "__id__": 13
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "44pN9rTIxC9JBJsvO+XC/Y",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "字幕设置",
+    "_parent": {
+      "__id__": 6
+    },
+    "_components": [
+      {
+        "__id__": 17
+      }
+    ],
+    "_prefab": {
+      "__id__": 18
+    }
+  },
+  {
+    "__type__": "8334cf1MXNOF4TkP2PlxP6w",
+    "addType": 31,
+    "actionList": [
+      {
+        "__type__": "ActorCom",
+        "behaviorType": "角色说话",
+        "behaviorId": "女生说",
+        "isHideBub": true,
+        "defaultClipName": ""
+      },
+      {
+        "__type__": "ActorCom",
+        "behaviorType": "角色说话",
+        "behaviorId": "男生说",
+        "isHideBub": true,
+        "defaultClipName": ""
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "字幕结束",
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "禁点#0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__type__": "ActorCom",
+        "behaviorType": "角色说话",
+        "behaviorId": "字幕设置",
+        "isHideBub": true,
+        "defaultClipName": "",
+        "bubNode": {
+          "__id__": 359
+        }
+      }
+    ],
+    "node": {
+      "__id__": 16
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "97Lkdd/ONOOLjNj/lVnjFI",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "显示隐藏节点",
+    "_objFlags": 512,
+    "_parent": {
+      "__id__": 6
+    },
+    "_components": [
+      {
+        "__id__": 20
+      }
+    ],
+    "_prefab": {
+      "__id__": 21
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 932,
+      "height": 1270
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -157.31,
+        99.832,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "8334cf1MXNOF4TkP2PlxP6w",
+    "addType": 3,
+    "actionList": [
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "双击莲花灯",
+        "saveKeys": "莲花灯",
+        "delaySaveKeys": 6,
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "走路动画"
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "乔杉说话#args={莲花灯}|{莲花灯url}",
+                "delay": 6
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "播放音效#lv79/开花"
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "播放音效#lv79/来了老弟",
+                "delay": 5
+              }
+            ]
+          }
+        ],
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 170
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "delay": 6,
+            "originIsShow": false,
+            "target": {
+              "__id__": 170
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "点击开关",
+        "saveKeys": "开关",
+        "delaySaveKeys": 6.5,
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "分身动画#daiji|0"
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "乔杉说话#args={开关}|{开关url}",
+                "delay": 6.5
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "播放音效#{跳舞url}"
+              }
+            ]
+          },
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "分身动画#shengli|1",
+                "delay": 0.5
+              }
+            ]
+          }
+        ],
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 242
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "delay": 6.5,
+            "originIsShow": false,
+            "target": {
+              "__id__": 242
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "手机给乔杉",
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 259
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "点击手机",
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 251
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "点击厕所门",
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 85
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "上滑地毯",
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "target": {
+              "__id__": 78
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 73
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 70
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "点击柜门右",
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "target": {
+              "__id__": 108
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 103
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "点击柜门左",
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "target": {
+              "__id__": 113
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 98
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "锤子给乔杉",
+        "saveKeys": "乔杉卡片4",
+        "delaySaveKeys": 2.5,
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "乔杉动画#daiji_3|1",
+                "delay": 0.8
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "乔杉说话#args={乔杉2}|{乔杉2url}",
+                "delay": 2
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "播放音效#{锤子}",
+                "delay": 0.6
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "播放音效#{被锤url}",
+                "delay": 0.6
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "播放音效#{卡片url}",
+                "delay": 0.8
+              }
+            ]
+          }
+        ],
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "delay": 0.8,
+            "originIsShow": false,
+            "target": {
+              "__id__": 212
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "delay": 2.5,
+            "originIsShow": false,
+            "target": {
+              "__id__": 212
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 239
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "delay": 0.8,
+            "originIsShow": false,
+            "target": {
+              "__id__": 239
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "delay": 0.8,
+            "target": {
+              "__id__": 160
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "隐藏掉落美女",
+        "saveKeys": "天花板",
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "乔杉说话#args={天花板}|{天花板url}"
+              }
+            ]
+          }
+        ],
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "originIsShow": false,
+            "target": {
+              "__id__": 215
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "显示乔杉手里3",
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "播放音效#{卡片url}"
+              }
+            ]
+          }
+        ],
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 205
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "显示乔杉手里2",
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "播放音效#{卡片url}"
+              }
+            ]
+          }
+        ],
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 198
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "显示乔杉手里1",
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "播放音效#{卡片url}"
+              }
+            ]
+          }
+        ],
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 191
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "拿锤子",
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 161
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "锤子给天花板",
+        "saveKeys": "锤子给天花板",
+        "delaySaveKeys": 3,
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "播放音效#lv79/锤子",
+                "delay": 0.6
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "播放音效#{欢迎光临url}",
+                "delay": 0.8
+              }
+            ]
+          }
+        ],
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "delay": 0.7,
+            "originIsShow": false,
+            "target": {
+              "__id__": 67
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 230
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "delay": 0.8,
+            "target": {
+              "__id__": 160
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "delay": 0.8,
+            "originIsShow": false,
+            "target": {
+              "__id__": 230
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "delay": 0.8,
+            "originIsShow": false,
+            "target": {
+              "__id__": 215
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "delay": 2.5,
+            "originIsShow": false,
+            "target": {
+              "__id__": 216
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "锤子给牌匾",
+        "saveKeys": "锤子给牌匾",
+        "delaySaveKeys": 3,
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "牌匾掉落",
+                "delay": 0.8
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "播放音效#lv79/锤子",
+                "delay": 0.6
+              }
+            ]
+          }
+        ],
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "delay": 0.7,
+            "originIsShow": false,
+            "target": {
+              "__id__": 129
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "delay": 0.7,
+            "originIsShow": false,
+            "target": {
+              "__id__": 126
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "delay": 0.8,
+            "target": {
+              "__id__": 160
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 236
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "delay": 0.8,
+            "originIsShow": false,
+            "target": {
+              "__id__": 236
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "delay": 1.7,
+            "target": {
+              "__id__": 134
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "锤子给地板",
+        "saveKeys": "锤子给地板",
+        "delaySaveKeys": 1,
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "播放音效#lv79/锤子",
+                "delay": 0.6
+              }
+            ]
+          }
+        ],
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "delay": 0.7,
+            "target": {
+              "__id__": 64
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "delay": 0.7,
+            "originIsShow": false,
+            "target": {
+              "__id__": 61
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "delay": 0.7,
+            "originIsShow": false,
+            "target": {
+              "__id__": 56
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 233
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "delay": 0.8,
+            "originIsShow": false,
+            "target": {
+              "__id__": 233
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "delay": 0.8,
+            "target": {
+              "__id__": 160
+            }
+          }
+        ]
+      }
+    ],
+    "node": {
+      "__id__": 19
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "41gkTTx1pKGpIPefsvwBkV",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Action_key",
+    "_parent": {
+      "__id__": 6
+    },
+    "_components": [
+      {
+        "__id__": 23
+      },
+      {
+        "__id__": 24
+      }
+    ],
+    "_prefab": {
+      "__id__": 25
+    }
+  },
+  {
+    "__type__": "8334cf1MXNOF4TkP2PlxP6w",
+    "addType": 33,
+    "actionList": [
+      {
+        "__type__": "TriggerFunctionCom",
+        "behaviorType": "触发方法",
+        "behaviorId": "key",
+        "events": [
+          {
+            "__type__": "cc.ClickEvent",
+            "_componentId": "ce3e1TPiF5ABLH4kiUiwAUJ",
+            "handler": "AcFun",
+            "target": {
+              "__id__": 22
+            }
+          }
+        ]
+      }
+    ],
+    "node": {
+      "__id__": 22
+    }
+  },
+  {
+    "__type__": "ce3e1TPiF5ABLH4kiUiwAUJ",
+    "node": {
+      "__id__": 22
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "83mzLUwwBOYJNoffCLT9d3",
+    "root": {
+      "__id__": 22
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Action_var",
+    "_parent": {
+      "__id__": 6
+    },
+    "_components": [
+      {
+        "__id__": 27
+      },
+      {
+        "__id__": 28
+      }
+    ],
+    "_prefab": {
+      "__id__": 29
+    }
+  },
+  {
+    "__type__": "8334cf1MXNOF4TkP2PlxP6w",
+    "addType": 33,
+    "actionList": [
+      {
+        "__type__": "TriggerFunctionCom",
+        "behaviorType": "触发方法",
+        "behaviorId": "var",
+        "events": [
+          {
+            "__type__": "cc.ClickEvent",
+            "_componentId": "3ac83gA7spM15BwLmPVsYhm",
+            "handler": "handleArg",
+            "target": {
+              "__id__": 26
+            }
+          }
+        ]
+      }
+    ],
+    "node": {
+      "__id__": 26
+    }
+  },
+  {
+    "__type__": "3ac83gA7spM15BwLmPVsYhm",
+    "node": {
+      "__id__": 26
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "caE1IEN1JOGKNGZZixcRrA",
+    "root": {
+      "__id__": 26
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "中转器",
+    "_parent": {
+      "__id__": 6
+    },
+    "_components": [
+      {
+        "__id__": 31
+      }
+    ],
+    "_prefab": {
+      "__id__": 32
+    }
+  },
+  {
+    "__type__": "31593xBnN1DvIZYHlPknGOj",
+    "node": {
+      "__id__": 30
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "4bhBMxthdPhLyUzZlVnZlk",
+    "root": {
+      "__id__": 30
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "变量",
+    "_parent": {
+      "__id__": 6
+    },
+    "_components": [
+      {
+        "__id__": 34
+      }
+    ],
+    "_prefab": {
+      "__id__": 35
+    }
+  },
+  {
+    "__type__": "8334cf1MXNOF4TkP2PlxP6w",
+    "addType": 30,
+    "actionList": [
+      {
+        "__type__": "CalculateValueCom",
+        "behaviorType": "定义变量",
+        "behaviorId": "手里数量计数",
+        "isDebug": true,
+        "varKey": "手里数量",
+        "initValue": 1,
+        "idsPass": "手里没了",
+        "calculateInfos": [
+          {
+            "__type__": "CalculateInfo",
+            "type": 5,
+            "a": "手里数量",
+            "b": "1"
+          }
+        ],
+        "conditionInfos": [
+          {
+            "__type__": "ConditionInfo",
+            "varName": "手里数量",
+            "var_Var": "3"
+          }
+        ]
+      }
+    ],
+    "node": {
+      "__id__": 33
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "e8HkzY4kpKrJeAegs8UKI3",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "动画行为",
+    "_parent": {
+      "__id__": 6
+    },
+    "_components": [
+      {
+        "__id__": 37
+      }
+    ],
+    "_prefab": {
+      "__id__": 38
+    }
+  },
+  {
+    "__type__": "8334cf1MXNOF4TkP2PlxP6w",
+    "addType": 7,
+    "actionList": [
+      {
+        "__type__": "PlaySpineAnimationByParamCom",
+        "behaviorType": "播放Spine动画通过传入参数",
+        "behaviorId": "走路动画",
+        "defaultAnimationName": "",
+        "skNode": {
+          "__id__": 175
+        }
+      },
+      {
+        "__type__": "PlaySpineAnimationByParamCom",
+        "behaviorType": "播放Spine动画通过传入参数",
+        "behaviorId": "分身动画",
+        "defaultAnimationName": "",
+        "skNode": {
+          "__id__": 247
+        }
+      },
+      {
+        "__type__": "PlaySpineAnimationByParamCom",
+        "behaviorType": "播放Spine动画通过传入参数",
+        "behaviorId": "贾玲动画",
+        "defaultAnimationName": "",
+        "skNode": {
+          "__id__": 157
+        }
+      },
+      {
+        "__type__": "PlaySpineAnimationByParamCom",
+        "behaviorType": "播放Spine动画通过传入参数",
+        "behaviorId": "乔杉动画",
+        "defaultAnimationName": "",
+        "skNode": {
+          "__id__": 149
+        }
+      }
+    ],
+    "node": {
+      "__id__": 36
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "0dd9P87GNDCZodF1zZ49og",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "其他行为",
+    "_parent": {
+      "__id__": 6
+    },
+    "_components": [
+      {
+        "__id__": 40
+      }
+    ],
+    "_prefab": {
+      "__id__": 41
+    }
+  },
+  {
+    "__type__": "8334cf1MXNOF4TkP2PlxP6w",
+    "addType": 3,
+    "actionList": [
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "走路动画",
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "走路",
+                "delay": 2
+              }
+            ]
+          }
+        ],
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "delay": 0.2,
+            "originIsShow": false,
+            "target": {
+              "__id__": 180
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "delay": 1,
+            "originIsShow": false,
+            "target": {
+              "__id__": 171
+            }
+          },
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "delay": 2,
+            "originIsShow": false,
+            "target": {
+              "__id__": 174
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ExecuteBehaviorCom",
+        "behaviorType": "执行一个行为",
+        "behaviorId": "找完道具",
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "游戏胜利",
+                "delay": 8
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "禁点"
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "贾玲说话#args={结算}|{结算url}",
+                "delay": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__type__": "TweenPosCom",
+        "behaviorType": "移动位置到指定位置",
+        "behaviorId": "走路",
+        "targetNodes": [
+          {
+            "__type__": "TweenPosNodeInfo",
+            "target": {
+              "__id__": 174
+            },
+            "targetPosNode": {
+              "__id__": 177
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "TweenPosCom",
+        "behaviorType": "移动位置到指定位置",
+        "behaviorId": "牌匾掉落",
+        "targetNodes": [
+          {
+            "__type__": "TweenPosNodeInfo",
+            "duration": 0.5,
+            "target": {
+              "__id__": 134
+            },
+            "targetPosNode": {
+              "__id__": 137
+            }
+          }
+        ]
+      }
+    ],
+    "node": {
+      "__id__": 39
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "c9v3/nEnNLT4PoC5Y5q3vp",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "男生说话",
+    "_parent": {
+      "__id__": 6
+    },
+    "_components": [
+      {
+        "__id__": 43
+      }
+    ],
+    "_prefab": {
+      "__id__": 44
+    }
+  },
+  {
+    "__type__": "8334cf1MXNOF4TkP2PlxP6w",
+    "addType": 31,
+    "actionList": [
+      {
+        "__type__": "ActorCom",
+        "behaviorType": "角色说话",
+        "behaviorId": "贾玲说话",
+        "isHideBub": true,
+        "bubNode": {
+          "__id__": 279
+        }
+      },
+      {
+        "__type__": "ActorCom",
+        "behaviorType": "角色说话",
+        "behaviorId": "乔杉说话",
+        "isHideBub": true,
+        "defaultClipName": "",
+        "bubNode": {
+          "__id__": 270
+        }
+      }
+    ],
+    "node": {
+      "__id__": 42
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "89+oVklahHtb5qTho0pa5e",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "音效",
+    "_parent": {
+      "__id__": 6
+    },
+    "_components": [
+      {
+        "__id__": 46
+      }
+    ],
+    "_prefab": {
+      "__id__": 47
+    }
+  },
+  {
+    "__type__": "8334cf1MXNOF4TkP2PlxP6w",
+    "addType": 8,
+    "actionList": [
+      {
+        "__type__": "PlaySoundByParamCom",
+        "behaviorType": "播放音效通过传参完成",
+        "behaviorId": "播放音效"
+      }
+    ],
+    "node": {
+      "__id__": 45
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "acGmf4SKFB3oh+3uvu3l9u",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "b1q0JMhntPzrQIgz2+tzy4",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "内容节点",
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 50
+      }
+    ],
+    "_prefab": {
+      "__id__": 292
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        99.832,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "mask",
+    "_children": [
+      {
+        "__id__": 51
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 290
+      }
+    ],
+    "_prefab": {
+      "__id__": 291
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 675,
+      "height": 784
+    },
+    "_parent": {
+      "__id__": 49
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "缩放节点",
+    "_children": [
+      {
+        "__id__": 52
+      }
+    ],
+    "_prefab": {
+      "__id__": 289
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 675,
+      "height": 784
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    "_parent": {
+      "__id__": 50
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "neirong ",
+    "_children": [
+      {
+        "__id__": 53
+      },
+      {
+        "__id__": 56
+      },
+      {
+        "__id__": 61
+      },
+      {
+        "__id__": 64
+      },
+      {
+        "__id__": 67
+      },
+      {
+        "__id__": 70
+      },
+      {
+        "__id__": 73
+      },
+      {
+        "__id__": 78
+      },
+      {
+        "__id__": 82
+      },
+      {
+        "__id__": 85
+      },
+      {
+        "__id__": 90
+      },
+      {
+        "__id__": 95
+      },
+      {
+        "__id__": 98
+      },
+      {
+        "__id__": 103
+      },
+      {
+        "__id__": 108
+      },
+      {
+        "__id__": 113
+      },
+      {
+        "__id__": 118
+      },
+      {
+        "__id__": 121
+      },
+      {
+        "__id__": 126
+      },
+      {
+        "__id__": 129
+      },
+      {
+        "__id__": 134
+      },
+      {
+        "__id__": 137
+      },
+      {
+        "__id__": 139
+      },
+      {
+        "__id__": 144
+      },
+      {
+        "__id__": 147
+      },
+      {
+        "__id__": 155
+      },
+      {
+        "__id__": 160
+      },
+      {
+        "__id__": 170
+      },
+      {
+        "__id__": 185
+      },
+      {
+        "__id__": 188
+      },
+      {
+        "__id__": 191
+      },
+      {
+        "__id__": 198
+      },
+      {
+        "__id__": 205
+      },
+      {
+        "__id__": 212
+      },
+      {
+        "__id__": 215
+      },
+      {
+        "__id__": 222
+      },
+      {
+        "__id__": 226
+      },
+      {
+        "__id__": 230
+      },
+      {
+        "__id__": 233
+      },
+      {
+        "__id__": 236
+      },
+      {
+        "__id__": 239
+      },
+      {
+        "__id__": 242
+      },
+      {
+        "__id__": 251
+      },
+      {
+        "__id__": 259
+      },
+      {
+        "__id__": 270
+      },
+      {
+        "__id__": 279
+      }
+    ],
+    "_prefab": {
+      "__id__": 288
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1.4,
+        1.4,
+        1
+      ]
+    },
+    "_parent": {
+      "__id__": 51
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bg",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 54
+      }
+    ],
+    "_prefab": {
+      "__id__": 55
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 596,
+      "height": 687
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "f276e212-9ec5-4ca4-99b2-c3c69687c040"
+    },
+    "node": {
+      "__id__": 53
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "a5NfzZ9KxLP6zmIt2BLspV",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "地板人",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 57
+      },
+      {
+        "__id__": 58
+      },
+      {
+        "__id__": 59
+      }
+    ],
+    "_prefab": {
+      "__id__": 60
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 596,
+      "height": 269
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -168.54839,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "ed247614-6332-428f-a2b9-73b743dedcc5"
+    },
+    "node": {
+      "__id__": 56
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "乔杉说话#args={裂纹}|{裂纹url},key#裂纹",
+    "handType": 0,
+    "node": {
+      "__id__": 56
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isHideNode": true,
+    "node": {
+      "__id__": 56
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "73IMa63vZB+IWewRXTIhux",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "碎地板",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 62
+      }
+    ],
+    "_prefab": {
+      "__id__": 63
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 420,
+      "height": 188
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        18.54839,
+        -146.37097,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "07692ab5-fb84-49e4-a059-3eef4f496451"
+    },
+    "node": {
+      "__id__": 61
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "88QoHUMZdCebUpHLc3PtBa",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "地板",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 65
+      }
+    ],
+    "_prefab": {
+      "__id__": 66
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 596,
+      "height": 293
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -158.87097,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "5f63b097-8e11-4f4c-ad88-227cad616c13"
+    },
+    "node": {
+      "__id__": 64
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "f56oRKXBJAdLSmB3isS/up",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "天花板洞",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 68
+      }
+    ],
+    "_prefab": {
+      "__id__": 69
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 596,
+      "height": 45
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        258.87097,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "8ed7a421-7bec-423e-886d-6a0fe0ba7ebc"
+    },
+    "node": {
+      "__id__": 67
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "57spMMMZZJ248zIeiSAGrA",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "1-37",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 71
+      }
+    ],
+    "_prefab": {
+      "__id__": 72
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 152,
+      "height": 148
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -8.87097,
+        -151.20968,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "da1b8ce9-6ef4-4fd0-83c4-58082a5f75c5"
+    },
+    "node": {
+      "__id__": 70
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "eeqdQzRmJDyKn3nRb4Ew3p",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "地垫人",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 74
+      },
+      {
+        "__id__": 75
+      },
+      {
+        "__id__": 76
+      }
+    ],
+    "_prefab": {
+      "__id__": 77
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 152,
+      "height": 148
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -8.87097,
+        -151.20968,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "63af2786-0221-468c-b967-ebbbc858c70c"
+    },
+    "node": {
+      "__id__": 73
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "乔杉说话#args={地毯}|{地毯url},key#地毯",
+    "handType": 0,
+    "node": {
+      "__id__": 73
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isHideNode": true,
+    "node": {
+      "__id__": 73
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "31RnRm36xFnL/fvtqlZujT",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "地垫",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 79
+      },
+      {
+        "__id__": 80
+      }
+    ],
+    "_prefab": {
+      "__id__": 81
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 152,
+      "height": 148
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -8.87097,
+        -151.20968,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "89453be0-1fe2-4311-9427-b447b55a9df8"
+    },
+    "node": {
+      "__id__": 78
+    }
+  },
+  {
+    "__type__": "51cd14ir79L64zzf05qGftJ",
+    "isDragItem": false,
+    "canTouchInfo": {
+      "__type__": "TouchCanOperate",
+      "successTriggerActions": {
+        "__type__": "ExecuteBehaviorInfo"
+      }
+    },
+    "beginEvent": {
+      "__type__": "ExecuteBehaviorInfo"
+    },
+    "endEvent": {
+      "__type__": "ExecuteBehaviorInfo",
+      "executeBehaviorInfo": [
+        {
+          "__type__": "ExecuteBehaviorInfoByKeys",
+          "delayBehaviors": [
+            {
+              "__type__": "DelayExecuteBehaviorInfo",
+              "behaviorId": "上滑地毯"
+            }
+          ]
+        }
+      ]
+    },
+    "successEvent": {
+      "__type__": "ExecuteBehaviorInfo"
+    },
+    "node": {
+      "__id__": 78
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "96M57TaEpMrYHKvNLpYVwY",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "框",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 83
+      }
+    ],
+    "_prefab": {
+      "__id__": 84
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 159,
+      "height": 302
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -120.56452,
+        77.01613,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "f5e2269e-ad39-4162-9cbd-8bbbca09c8c2"
+    },
+    "node": {
+      "__id__": 82
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "3dqSZKvtVJlJ6+5mBT0FC3",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "厕所人",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 86
+      },
+      {
+        "__id__": 87
+      },
+      {
+        "__id__": 88
+      }
+    ],
+    "_prefab": {
+      "__id__": 89
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 132,
+      "height": 273
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -122.58065,
+        70.96774,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "91fdce7c-f194-480c-957f-2cce61bc7c04"
+    },
+    "node": {
+      "__id__": 85
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "乔杉说话#args={厕所}|{厕所url},key#厕所",
+    "handType": 0,
+    "node": {
+      "__id__": 85
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isHideNode": true,
+    "node": {
+      "__id__": 85
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "a27Cyqq9lE25r5997S/oTm",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "厕所门",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 91
+      },
+      {
+        "__id__": 92
+      },
+      {
+        "__id__": 93
+      }
+    ],
+    "_prefab": {
+      "__id__": 94
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 131,
+      "height": 292
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -122.17742,
+        72.98387,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "df6e3356-d6a7-44ab-bc4b-9ea2010b3e1e"
+    },
+    "node": {
+      "__id__": 90
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "点击厕所门,key#厕所门",
+    "handType": 0,
+    "node": {
+      "__id__": 90
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isHideNode": true,
+    "node": {
+      "__id__": 90
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "5dTIilaWBMQoxT9Y8WZe3W",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "柜子",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 96
+      }
+    ],
+    "_prefab": {
+      "__id__": 97
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 287,
+      "height": 209
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        103.62903,
+        18.54839,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "1806b5fb-96ed-4bfb-b0aa-8078cf0cb1ec"
+    },
+    "node": {
+      "__id__": 95
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "8aVMA0YfpI3KpRbHmtVNUW",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "左柜人",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 99
+      },
+      {
+        "__id__": 100
+      },
+      {
+        "__id__": 101
+      }
+    ],
+    "_prefab": {
+      "__id__": 102
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 119,
+      "height": 137
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        46.37097,
+        -4.03226,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "6a6a7994-073a-470e-83a8-ee0746a74da4"
+    },
+    "node": {
+      "__id__": 98
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "乔杉说话#args={柜子}|{柜子url},key#柜子2",
+    "handType": 0,
+    "node": {
+      "__id__": 98
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isHideNode": true,
+    "node": {
+      "__id__": 98
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "96676QYVZIX4+lSBXmSf8u",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "右柜人",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 104
+      },
+      {
+        "__id__": 105
+      },
+      {
+        "__id__": 106
+      }
+    ],
+    "_prefab": {
+      "__id__": 107
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 128,
+      "height": 139
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        150,
+        -4.83871,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "bac1a0c9-3f40-4d2c-8223-04eba2ed4b14"
+    },
+    "node": {
+      "__id__": 103
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "乔杉说话#args={柜子}|{柜子url},key#柜子1",
+    "handType": 0,
+    "node": {
+      "__id__": 103
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isHideNode": true,
+    "node": {
+      "__id__": 103
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "a775eO1c5JyZZdIHXPRtV7",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "右柜门",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 109
+      },
+      {
+        "__id__": 110
+      },
+      {
+        "__id__": 111
+      }
+    ],
+    "_prefab": {
+      "__id__": 112
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 116,
+      "height": 136
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        145.16129,
+        -3.62903,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "bd03d596-c759-4af5-960d-0f59d6450963"
+    },
+    "node": {
+      "__id__": 108
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "点击柜门右,key#柜子右",
+    "handType": 0,
+    "node": {
+      "__id__": 108
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isAutoHide": true,
+    "node": {
+      "__id__": 108
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "4619owjUxCU52WrEuXj4jQ",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "左柜门",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 114
+      },
+      {
+        "__id__": 115
+      },
+      {
+        "__id__": 116
+      }
+    ],
+    "_prefab": {
+      "__id__": 117
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 117,
+      "height": 137
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        45.56452,
+        -3.22581,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "3ada3b45-2b65-49c4-8938-e9b946a3a5ea"
+    },
+    "node": {
+      "__id__": 113
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "点击柜门左,key#柜子左",
+    "handType": 0,
+    "node": {
+      "__id__": 113
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isAutoHide": true,
+    "node": {
+      "__id__": 113
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "d4l5wp43NGHrENyq75WVMP",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "床",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 119
+      }
+    ],
+    "_prefab": {
+      "__id__": 120
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 165,
+      "height": 262
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -173.79032,
+        -117.33871,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "f481b34b-80f9-451d-96ab-7b7154168da4"
+    },
+    "node": {
+      "__id__": 118
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "fawi5a3jRAy6fU/zva13uf",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "开关",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 122
+      },
+      {
+        "__id__": 123
+      },
+      {
+        "__id__": 124
+      }
+    ],
+    "_prefab": {
+      "__id__": 125
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 26,
+      "height": 25
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        202.41935,
+        127.41935,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "15f2dbd2-5e35-4459-8c8a-dcaf4a7ae925"
+    },
+    "node": {
+      "__id__": 121
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "点击开关,key#点开关",
+    "handType": 0,
+    "node": {
+      "__id__": 121
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isAutoHide": true,
+    "node": {
+      "__id__": 121
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "6brPj1nBNL6bZzmTzswtTx",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "牌匾洞",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 127
+      }
+    ],
+    "_prefab": {
+      "__id__": 128
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 296,
+      "height": 89
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        100.80645,
+        200,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "8067e277-54fd-42fe-a007-257779144b56"
+    },
+    "node": {
+      "__id__": 126
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "8bl+lHtatH6q/eWubxRA+t",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "牌匾人",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 130
+      },
+      {
+        "__id__": 131
+      },
+      {
+        "__id__": 132
+      }
+    ],
+    "_prefab": {
+      "__id__": 133
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 234,
+      "height": 80
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        91.93548,
+        202.01613,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "5dfe8046-3279-48d3-9147-68fb142e264b"
+    },
+    "node": {
+      "__id__": 129
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "贾玲说话#args={正经按摩}|{正经按摩url},key#正经按摩",
+    "handType": 0,
+    "node": {
+      "__id__": 129
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isHideNode": true,
+    "node": {
+      "__id__": 129
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "83oWZpsfhPoL6JPHIMTq6F",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "牌匾",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 135
+      }
+    ],
+    "_prefab": {
+      "__id__": 136
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 312,
+      "height": 89
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        103.62903,
+        199.19355,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "ad7923df-980f-44d5-8f5d-14bf1d434d9d"
+    },
+    "node": {
+      "__id__": 134
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "f9W0wsidtHb7CZeKKjV6Ln",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "牌匾位置",
+    "_parent": {
+      "__id__": 52
+    },
+    "_prefab": {
+      "__id__": 138
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 312,
+      "height": 89
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        103.629,
+        117.283,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "73xK+DFLdOho+xgDQf90+q",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "莲花灯",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 140
+      },
+      {
+        "__id__": 141
+      },
+      {
+        "__id__": 142
+      }
+    ],
+    "_prefab": {
+      "__id__": 143
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 90,
+      "height": 89
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        78.22581,
+        106.45161,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "0488427d-8832-4dc0-9c07-d924e68ccde1"
+    },
+    "node": {
+      "__id__": 139
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "双击莲花灯",
+    "handType": 0,
+    "node": {
+      "__id__": 139
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isAutoHide": true,
+    "node": {
+      "__id__": 139
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "262EjMw3VOSqFX+WS3+x7a",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "搓衣板",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 145
+      }
+    ],
+    "_prefab": {
+      "__id__": 146
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 182,
+      "height": 101
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        120.96774,
+        -220.96774,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "1f059376-eb3e-496f-88bf-2fe1824fa303"
+    },
+    "node": {
+      "__id__": 144
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "0azEdHuUpPq5HUQKbEhg50",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "乔杉",
+    "_parent": {
+      "__id__": 52
+    },
+    "_children": [
+      {
+        "__id__": 148
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 151
+      },
+      {
+        "__id__": 152
+      },
+      {
+        "__id__": 153
+      }
+    ],
+    "_prefab": {
+      "__id__": 154
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 154,
+      "height": 281
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        139.51613,
+        -116.93548,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "79",
+    "_parent": {
+      "__id__": 147
+    },
+    "_components": [
+      {
+        "__id__": 149
+      }
+    ],
+    "_prefab": {
+      "__id__": 150
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -13.331,
+        -136.383,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "daiji_2",
+    "_preCacheMode": 0,
+    "_animationName": "daiji_2",
+    "node": {
+      "__id__": 148
+    },
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "a8636a1a-1ef7-40c7-a70c-a9c2f8606d6e"
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "88ucqrhxBN9KoMNM27tmma",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "点击乔杉",
+    "handType": 0,
+    "node": {
+      "__id__": 147
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "coolTime": 2000,
+    "node": {
+      "__id__": 147
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": -67,
+        "y": -127,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 2,
+        "y": -133,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 71,
+        "y": -109,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 50,
+        "y": 50,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -37,
+        "y": 135,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -85,
+        "y": 119,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 147
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "bakq8GXD9O8LSsAKyfB3r2",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "贾玲",
+    "_parent": {
+      "__id__": 52
+    },
+    "_children": [
+      {
+        "__id__": 156
+      }
+    ],
+    "_prefab": {
+      "__id__": 159
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 214,
+      "height": 334
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -133.06452,
+        -52.01613,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "79",
+    "_parent": {
+      "__id__": 155
+    },
+    "_components": [
+      {
+        "__id__": 157
+      }
+    ],
+    "_prefab": {
+      "__id__": 158
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -2.629,
+        -190.62,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1.24,
+        1.24,
+        1.24
+      ]
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "daiji_1_1",
+    "_preCacheMode": 0,
+    "_animationName": "daiji_1_1",
+    "node": {
+      "__id__": 156
+    },
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "a8636a1a-1ef7-40c7-a70c-a9c2f8606d6e"
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "86lopJGVdBhYyakAtRltzq",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "a0p9RKtKBBppKvy/5B85aC",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "锤子",
+    "_parent": {
+      "__id__": 52
+    },
+    "_children": [
+      {
+        "__id__": 161
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 164
+      },
+      {
+        "__id__": 165
+      },
+      {
+        "__id__": 166
+      },
+      {
+        "__id__": 167
+      },
+      {
+        "__id__": 168
+      }
+    ],
+    "_prefab": {
+      "__id__": 169
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 166,
+      "height": 122
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -147.735,
+        -118.431,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "1-16",
+    "_active": false,
+    "_parent": {
+      "__id__": 160
+    },
+    "_components": [
+      {
+        "__id__": 162
+      }
+    ],
+    "_prefab": {
+      "__id__": 163
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 166,
+      "height": 122
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "99089f61-dfee-4630-9358-5797c240da95"
+    },
+    "node": {
+      "__id__": 161
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "5aUFyb28tHlr1tu3nhnEK3",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "d053dea0-99bb-4ae1-a2a9-7d2360a46149"
+    },
+    "node": {
+      "__id__": 160
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "startTouchActionId": "拿锤子",
+    "endTouchActionId": "拿锤子#0",
+    "node": {
+      "__id__": 160
+    }
+  },
+  {
+    "__type__": "f2454QgTs9KF7usbUfAURF1",
+    "node": {
+      "__id__": 160
+    }
+  },
+  {
+    "__type__": "096c9IRnNlIDKZCMdXcXabB",
+    "isMoveToDist": false,
+    "distInfos": [
+      {
+        "__type__": "MoveEndInfo",
+        "distActionId": "锤子给地板,key#!砸地板",
+        "distNode": {
+          "__id__": 188
+        }
+      },
+      {
+        "__type__": "MoveEndInfo",
+        "distActionId": "锤子给乔杉,key#!砸乔杉",
+        "distNode": {
+          "__id__": 147
+        }
+      },
+      {
+        "__type__": "MoveEndInfo",
+        "distActionId": "锤子给牌匾,key#!砸牌匾",
+        "distNode": {
+          "__id__": 134
+        }
+      },
+      {
+        "__type__": "MoveEndInfo",
+        "distActionId": "锤子给天花板,key#!砸天花板",
+        "distNode": {
+          "__id__": 185
+        }
+      }
+    ],
+    "node": {
+      "__id__": 160
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": 15.2,
+        "y": -60.2,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 76.9,
+        "y": -60.2,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 76.9,
+        "y": 60.2,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -82.2,
+        "y": 32.8,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 160
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "f8qB4FGSJPrIhNL4u4I/KG",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "走路动画",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_children": [
+      {
+        "__id__": 171
+      },
+      {
+        "__id__": 174
+      },
+      {
+        "__id__": 177
+      },
+      {
+        "__id__": 180
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 183
+      }
+    ],
+    "_prefab": {
+      "__id__": 184
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 596,
+      "height": 687
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "图层 6",
+    "_active": false,
+    "_parent": {
+      "__id__": 170
+    },
+    "_components": [
+      {
+        "__id__": 172
+      }
+    ],
+    "_prefab": {
+      "__id__": 173
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 217,
+      "height": 550
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        168.546,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "a7338ac1-4cf4-4da1-8ba7-9917fb5d240c"
+    },
+    "node": {
+      "__id__": 171
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "a3CPJdQ09FsJvV/CaeA0kv",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "走路动画",
+    "_active": false,
+    "_parent": {
+      "__id__": 170
+    },
+    "_components": [
+      {
+        "__id__": 175
+      }
+    ],
+    "_prefab": {
+      "__id__": 176
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        4.244,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "zoul",
+    "_preCacheMode": 0,
+    "loop": false,
+    "_animationName": "zoul",
+    "_playTimes": 1,
+    "node": {
+      "__id__": 174
+    },
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "a8636a1a-1ef7-40c7-a70c-a9c2f8606d6e"
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "96vLbeAfVJ3655sT9tmLg0",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "位置",
+    "_active": false,
+    "_parent": {
+      "__id__": 170
+    },
+    "_components": [
+      {
+        "__id__": 178
+      }
+    ],
+    "_prefab": {
+      "__id__": 179
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -195.852,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "zoul",
+    "_preCacheMode": 0,
+    "loop": false,
+    "_animationName": "zoul",
+    "_playTimes": 1,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "a8636a1a-1ef7-40c7-a70c-a9c2f8606d6e"
+    },
+    "node": {
+      "__id__": 177
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "e9w0GwcvNMEKkCsIv2nTdb",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "图层 7",
+    "_active": false,
+    "_parent": {
+      "__id__": 170
+    },
+    "_components": [
+      {
+        "__id__": 181
+      }
+    ],
+    "_prefab": {
+      "__id__": 182
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 217,
+      "height": 550
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -153.421,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "0d4db91e-ec84-49ea-9966-490bd25700e7"
+    },
+    "node": {
+      "__id__": 180
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "d4aAsdIUBJm67GlQ1rA36u",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "03935deb-4198-4049-97ca-5cad631405ad"
+    },
+    "node": {
+      "__id__": 170
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "1cmX/FgnhCvZ2RBiK7NiVs",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "天花板collider",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 186
+      }
+    ],
+    "_prefab": {
+      "__id__": 187
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        252.343,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": -297,
+        "y": -98,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 301,
+        "y": -91,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 302,
+        "y": 42.3,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -300,
+        "y": 39.1,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 185
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "f2UCx94rdMFaWaCOF668ri",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "地板collider",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 189
+      }
+    ],
+    "_prefab": {
+      "__id__": 190
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -20.383,
+        -257.833,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": -74,
+        "y": -15,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -73,
+        "y": 71,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -141,
+        "y": 78,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -215,
+        "y": 72,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -213,
+        "y": -14,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 188
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "fcNZesYnhA1pp5OS+YtYVd",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "掉落卡片1",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_children": [
+      {
+        "__id__": 192
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 195
+      },
+      {
+        "__id__": 196
+      }
+    ],
+    "_prefab": {
+      "__id__": 197
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 122,
+      "height": 82
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        143.7,
+        -231.778,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "79",
+    "_parent": {
+      "__id__": 191
+    },
+    "_components": [
+      {
+        "__id__": 193
+      }
+    ],
+    "_prefab": {
+      "__id__": 194
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "kap_3",
+    "_preCacheMode": 0,
+    "loop": false,
+    "_animationName": "kap_3",
+    "_playTimes": 1,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "a8636a1a-1ef7-40c7-a70c-a9c2f8606d6e"
+    },
+    "node": {
+      "__id__": 192
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "76jkqSel9KTL7prwslQnm8",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "乔杉说话#args={乔杉1}|{乔杉1url},key#乔杉卡片1",
+    "handType": 0,
+    "node": {
+      "__id__": 191
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isHideNode": true,
+    "node": {
+      "__id__": 191
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "aeY9+5PwVCwL4AbJY1B92C",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "掉落卡片2",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_children": [
+      {
+        "__id__": 199
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 202
+      },
+      {
+        "__id__": 203
+      }
+    ],
+    "_prefab": {
+      "__id__": 204
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 140,
+      "height": 87
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        144.35484,
+        -241.93548,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "79",
+    "_parent": {
+      "__id__": 198
+    },
+    "_components": [
+      {
+        "__id__": 200
+      }
+    ],
+    "_prefab": {
+      "__id__": 201
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "kap_2",
+    "_preCacheMode": 0,
+    "loop": false,
+    "_animationName": "kap_2",
+    "_playTimes": 1,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "a8636a1a-1ef7-40c7-a70c-a9c2f8606d6e"
+    },
+    "node": {
+      "__id__": 199
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "63Nv9vPj9O6Jp4shG3yMQ1",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "乔杉说话#args={乔杉1}|{乔杉1url},key#乔杉卡片2",
+    "handType": 0,
+    "node": {
+      "__id__": 198
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isHideNode": true,
+    "node": {
+      "__id__": 198
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "51R9Fva4RNForRfkpyLNFi",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "掉落卡片3",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_children": [
+      {
+        "__id__": 206
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 209
+      },
+      {
+        "__id__": 210
+      }
+    ],
+    "_prefab": {
+      "__id__": 211
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 156,
+      "height": 105
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        136.427,
+        -223.986,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "79",
+    "_parent": {
+      "__id__": 205
+    },
+    "_components": [
+      {
+        "__id__": 207
+      }
+    ],
+    "_prefab": {
+      "__id__": 208
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -20.288,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "kap_1",
+    "_preCacheMode": 0,
+    "loop": false,
+    "_animationName": "kap_1",
+    "_playTimes": 1,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "a8636a1a-1ef7-40c7-a70c-a9c2f8606d6e"
+    },
+    "node": {
+      "__id__": 206
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "3dIjWtzWBANb+3dQkqyea/",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "乔杉说话#args={乔杉1}|{乔杉1url},key#乔杉卡片3",
+    "handType": 0,
+    "node": {
+      "__id__": 205
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isHideNode": true,
+    "node": {
+      "__id__": 205
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "f7x2W/2bhE/4DahiPvKpr5",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "掉落卡片",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 213
+      }
+    ],
+    "_prefab": {
+      "__id__": 214
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -272.433,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "zhipian",
+    "_preCacheMode": 0,
+    "loop": false,
+    "_animationName": "zhipian",
+    "_playTimes": 1,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "a8636a1a-1ef7-40c7-a70c-a9c2f8606d6e"
+    },
+    "node": {
+      "__id__": 212
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "5aXu6+VjVE+4PhJPAoxOWG",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "天花板掉落",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_children": [
+      {
+        "__id__": 216
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 220
+      }
+    ],
+    "_prefab": {
+      "__id__": 221
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        4.649,
+        -278.916,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "范围",
+    "_active": false,
+    "_parent": {
+      "__id__": 215
+    },
+    "_components": [
+      {
+        "__id__": 217
+      },
+      {
+        "__id__": 218
+      }
+    ],
+    "_prefab": {
+      "__id__": 219
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 485,
+      "height": 444
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        236.879,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "点击掉落美女",
+    "handType": 0,
+    "node": {
+      "__id__": 216
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isAutoHide": true,
+    "node": {
+      "__id__": 216
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "59SxM3CY5K34xFiKoBePTP",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "diaoluo",
+    "_preCacheMode": 0,
+    "loop": false,
+    "_animationName": "diaoluo",
+    "_playTimes": 1,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "a8636a1a-1ef7-40c7-a70c-a9c2f8606d6e"
+    },
+    "node": {
+      "__id__": 215
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "bcfjDvGqRMr7pmKYb42hkS",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "手机",
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 223
+      },
+      {
+        "__id__": 224
+      }
+    ],
+    "_prefab": {
+      "__id__": 225
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 46,
+      "height": 43
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -218.54839,
+        -135.48387,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "684db745-c364-4b20-881a-3046048dc15f"
+    },
+    "node": {
+      "__id__": 222
+    }
+  },
+  {
+    "__type__": "8e0fbuSoV9JT4tzaNr9rSt0",
+    "clickTriggerId": "点击手机",
+    "DragTriggerId": "手机给乔杉",
+    "checkNode": {
+      "__id__": 147
+    },
+    "node": {
+      "__id__": 222
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "bauVUACLhJzr2rNygOJVvD",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "手机范围",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 227
+      },
+      {
+        "__id__": 228
+      }
+    ],
+    "_prefab": {
+      "__id__": 229
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 46,
+      "height": 43
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -218.54839,
+        -135.48387,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "684db745-c364-4b20-881a-3046048dc15f"
+    },
+    "node": {
+      "__id__": 226
+    }
+  },
+  {
+    "__type__": "8e0fbuSoV9JT4tzaNr9rSt0",
+    "clickTriggerId": "点击手机",
+    "DragTriggerId": "手机给乔杉",
+    "checkNode": {
+      "__id__": 147
+    },
+    "node": {
+      "__id__": 226
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "39dNENUmdPF5wyk1uHnzz3",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "锤子砸天花板",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 231
+      }
+    ],
+    "_prefab": {
+      "__id__": 232
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        107.749,
+        175.556,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "cz",
+    "_preCacheMode": 0,
+    "loop": false,
+    "_animationName": "cz",
+    "_playTimes": 1,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "a8636a1a-1ef7-40c7-a70c-a9c2f8606d6e"
+    },
+    "node": {
+      "__id__": 230
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "7d+JkedsFKVLEEjlpXdVKk",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "锤子砸地板",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 234
+      }
+    ],
+    "_prefab": {
+      "__id__": 235
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        98.546,
+        -189.447,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "cz",
+    "_preCacheMode": 0,
+    "loop": false,
+    "_animationName": "cz",
+    "_playTimes": 1,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "a8636a1a-1ef7-40c7-a70c-a9c2f8606d6e"
+    },
+    "node": {
+      "__id__": 233
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "8cb8os7mNGxY4MBRgNLxnc",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "锤子砸牌匾",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 237
+      }
+    ],
+    "_prefab": {
+      "__id__": 238
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        143.064,
+        68.224,
+        0,
+        0,
+        0,
+        -0.7071067811865475,
+        0.7071067811865476,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": -90
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "cz",
+    "_preCacheMode": 0,
+    "loop": false,
+    "_animationName": "cz",
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "2bc57202-17e6-4cd6-8de4-7b08a5cd32f3"
+    },
+    "node": {
+      "__id__": 236
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "96Yo0VCHFM8ZuQonLqLZE6",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "锤子砸乔杉",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_components": [
+      {
+        "__id__": 240
+      }
+    ],
+    "_prefab": {
+      "__id__": 241
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        224.254,
+        35.001,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "cz",
+    "_preCacheMode": 0,
+    "loop": false,
+    "_animationName": "cz",
+    "_playTimes": 1,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "2bc57202-17e6-4cd6-8de4-7b08a5cd32f3"
+    },
+    "node": {
+      "__id__": 239
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "8d1WdLbXlBSIu9cdbcyAl/",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "分身动画",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_children": [
+      {
+        "__id__": 243
+      },
+      {
+        "__id__": 246
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 249
+      }
+    ],
+    "_prefab": {
+      "__id__": 250
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 596,
+      "height": 687
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "mk",
+    "_parent": {
+      "__id__": 242
+    },
+    "_components": [
+      {
+        "__id__": 244
+      }
+    ],
+    "_prefab": {
+      "__id__": 245
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -25.52,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "biaoyan",
+    "_preCacheMode": 0,
+    "_animationName": "biaoyan",
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "a83d91fe-7230-4423-956a-1bbf3e440f0b"
+    },
+    "node": {
+      "__id__": 243
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "85dUhUdZ5Mv7GALKR0yA7O",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "分身动画",
+    "_parent": {
+      "__id__": 242
+    },
+    "_components": [
+      {
+        "__id__": 247
+      }
+    ],
+    "_prefab": {
+      "__id__": 248
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 122.74520111083984,
+      "height": 333.5210266113281
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        31.382,
+        -116.229,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "_preCacheMode": 0,
+    "loop": false,
+    "_animationName": "shengli",
+    "_playTimes": 1,
+    "node": {
+      "__id__": 246
+    },
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "4516bbbc-62d2-4370-8c44-b3bca3ee4e18"
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "11WtwoqP9N2IQW45ld/j5y",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "03935deb-4198-4049-97ca-5cad631405ad"
+    },
+    "node": {
+      "__id__": 242
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "28X0ySh21PPpWxsG30LC3K",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "解锁",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_children": [
+      {
+        "__id__": 252
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 255
+      },
+      {
+        "__id__": 256
+      },
+      {
+        "__id__": 257
+      }
+    ],
+    "_prefab": {
+      "__id__": 258
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 596,
+      "height": 687
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "1-8",
+    "_parent": {
+      "__id__": 251
+    },
+    "_components": [
+      {
+        "__id__": 253
+      }
+    ],
+    "_prefab": {
+      "__id__": 254
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 298,
+      "height": 547
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "2f9263de-f3d7-4202-992c-6b7b41fa179f"
+    },
+    "node": {
+      "__id__": 252
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "82zLLz8DhPL7XSrgm6p7vr",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "03935deb-4198-4049-97ca-5cad631405ad"
+    },
+    "node": {
+      "__id__": 251
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "handType": 0,
+    "node": {
+      "__id__": 251
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isHideNode": true,
+    "node": {
+      "__id__": 251
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "71prZU5UlMR4UhOXdqHfgo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "聊天记录",
+    "_active": false,
+    "_parent": {
+      "__id__": 52
+    },
+    "_children": [
+      {
+        "__id__": 260
+      },
+      {
+        "__id__": 263
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 266
+      },
+      {
+        "__id__": 267
+      },
+      {
+        "__id__": 268
+      }
+    ],
+    "_prefab": {
+      "__id__": 269
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 596,
+      "height": 687
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "场景1@1-8",
+    "_parent": {
+      "__id__": 259
+    },
+    "_components": [
+      {
+        "__id__": 261
+      }
+    ],
+    "_prefab": {
+      "__id__": 262
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 298,
+      "height": 547
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "2f9263de-f3d7-4202-992c-6b7b41fa179f"
+    },
+    "node": {
+      "__id__": 260
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "03/soz8htGYoEOJSxCZDDA",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "聊天记录",
+    "_parent": {
+      "__id__": 259
+    },
+    "_components": [
+      {
+        "__id__": 264
+      }
+    ],
+    "_prefab": {
+      "__id__": 265
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 214,
+      "height": 445
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -10.713,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "7be4c66b-cb5e-48c6-bcfe-a6a557420e61"
+    },
+    "node": {
+      "__id__": 263
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "14lkuPo+VDEqiPEEDjB+qn",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "03935deb-4198-4049-97ca-5cad631405ad"
+    },
+    "node": {
+      "__id__": 259
+    }
+  },
+  {
+    "__type__": "26c49uP2PpLHpuX+AQ2WdoR",
+    "isClick": true,
+    "clickActionId": "乔杉说话#args={手机}|{手机url},key#手机",
+    "handType": 0,
+    "node": {
+      "__id__": 259
+    }
+  },
+  {
+    "__type__": "1c411HqlmpMGKPpYYaMgEPd",
+    "isHideNode": true,
+    "node": {
+      "__id__": 259
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "57NVhn4qlFl41Vp/lmLPS7",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "_bubble",
+    "_opacity": 0,
+    "_parent": {
+      "__id__": 52
+    },
+    "_children": [
+      {
+        "__id__": 271
+      },
+      {
+        "__id__": 274
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 277
+      }
+    ],
+    "_prefab": {
+      "__id__": 278
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        110.401,
+        67.143,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bg",
+    "_parent": {
+      "__id__": 270
+    },
+    "_components": [
+      {
+        "__id__": 272
+      }
+    ],
+    "_prefab": {
+      "__id__": 273
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 297,
+      "height": 185
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "1b7aab1a-c9d4-495c-8d0c-2e17a1af58d5"
+    },
+    "node": {
+      "__id__": 271
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "95FG1jhGJENbjzEPQJRIFs",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "label",
+    "_parent": {
+      "__id__": 270
+    },
+    "_components": [
+      {
+        "__id__": 275
+      }
+    ],
+    "_prefab": {
+      "__id__": 276
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 213.93,
+      "height": 72.32
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -2.839,
+        3.103,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "_string": "明年我能得到什么你就能得到什么",
+    "_fontSize": 25,
+    "_lineHeight": 32.69999999999995,
+    "_isSystemFontUsed": false,
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1,
+    "_N$overflow": 3,
+    "node": {
+      "__id__": 274
+    },
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_N$file": {
+      "__uuid__": "a0d50213-97b1-4dfd-b5a8-4673df7fe9b7"
+    },
+    "_N$string": "明年我能得到什么你就能得到什么"
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "8cXUzy5OBDgbHnfXAvQ2UK",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "e973alHjoJDlKG/C21XNYYR",
+    "typeCool": 0,
+    "delayHide": 5,
+    "myText": {
+      "__id__": 275
+    },
+    "node": {
+      "__id__": 270
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "54GNjLiChMb4KhUEORgJWU",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "_bubble2",
+    "_opacity": 0,
+    "_parent": {
+      "__id__": 52
+    },
+    "_children": [
+      {
+        "__id__": 280
+      },
+      {
+        "__id__": 283
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 286
+      }
+    ],
+    "_prefab": {
+      "__id__": 287
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -119.275,
+        169.221,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.80645,
+        0.80645,
+        0.80645
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bg",
+    "_parent": {
+      "__id__": 279
+    },
+    "_components": [
+      {
+        "__id__": 281
+      }
+    ],
+    "_prefab": {
+      "__id__": 282
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 297,
+      "height": 185
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "1b7aab1a-c9d4-495c-8d0c-2e17a1af58d5"
+    },
+    "node": {
+      "__id__": 280
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "6ds1aHFZlL/Z5pbTTrVpDp",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "label",
+    "_parent": {
+      "__id__": 279
+    },
+    "_components": [
+      {
+        "__id__": 284
+      }
+    ],
+    "_prefab": {
+      "__id__": 285
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 213.93,
+      "height": 72.32
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -2.839,
+        3.103,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "_string": "明年我能得到什么你就能得到什么",
+    "_fontSize": 25,
+    "_lineHeight": 32.69999999999995,
+    "_isSystemFontUsed": false,
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1,
+    "_N$overflow": 3,
+    "node": {
+      "__id__": 283
+    },
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_N$file": {
+      "__uuid__": "a0d50213-97b1-4dfd-b5a8-4673df7fe9b7"
+    },
+    "_N$string": "明年我能得到什么你就能得到什么"
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "ec2bfJYgRK1ZgyfXPtVu7g",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "e973alHjoJDlKG/C21XNYYR",
+    "typeCool": 0,
+    "delayHide": 5,
+    "myText": {
+      "__id__": 284
+    },
+    "node": {
+      "__id__": 279
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "23NFM8WaxBiaRQkqJC1RXd",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "b1j1cGsrFGkLo8/Eo0caGr",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "52sqyDjDVHg5S3bMlsttTu",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Mask",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "node": {
+      "__id__": 50
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "0a7l44DIxLn4LfoHMulAo6",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "04PM2xqdlDx6NAX8Cbswfk",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "标题背景",
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 294
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 297
+      }
+    ],
+    "_prefab": {
+      "__id__": 298
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 596,
+      "height": 67
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -0.561,
+        605.716,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "title",
+    "_parent": {
+      "__id__": 293
+    },
+    "_components": [
+      {
+        "__id__": 295
+      }
+    ],
+    "_prefab": {
+      "__id__": 296
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 23,
+      "g": 47,
+      "r": 60
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 304,
+      "height": 50.4
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -0.048,
+        -0.104,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "_string": "找到所有隐藏技师",
+    "_fontSize": 38,
+    "_isSystemFontUsed": false,
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_N$file": {
+      "__uuid__": "8c2d774b-5bff-4b10-b903-4d9e75ab3fd6"
+    },
+    "node": {
+      "__id__": 294
+    },
+    "_N$string": "找到所有隐藏技师"
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "24LJ6T2odG9ZbtUMVponT3",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_type": 1,
+    "_sizeMode": 0,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "3ef71831-b7f4-4fee-b657-06d877cd9f0f"
+    },
+    "node": {
+      "__id__": 293
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "8a/OBaq2ZOU6jwOUzwNxhz",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "加时按钮",
+    "_active": false,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 300
+      },
+      {
+        "__id__": 303
+      },
+      {
+        "__id__": 306
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 309
+      },
+      {
+        "__id__": 311
+      }
+    ],
+    "_prefab": {
+      "__id__": 312
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 208,
+      "height": 81
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -570.5,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "按钮2",
+    "_parent": {
+      "__id__": 299
+    },
+    "_components": [
+      {
+        "__id__": 301
+      }
+    ],
+    "_prefab": {
+      "__id__": 302
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 208,
+      "height": 81
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0.85
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "0ad12b51-88fc-4cf5-91fa-5bfeed648322"
+    },
+    "node": {
+      "__id__": 300
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "98zE6QrJ1NO7VENZxU7pY2",
+    "root": {
+      "__id__": 299
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "图层 1",
+    "_parent": {
+      "__id__": 299
+    },
+    "_components": [
+      {
+        "__id__": 304
+      }
+    ],
+    "_prefab": {
+      "__id__": 305
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 59,
+      "height": 43
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -52.454,
+        6.494,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "4da6a47e-557e-4580-a0df-81ae36d0c61d"
+    },
+    "node": {
+      "__id__": 303
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "0eQ72tP25LyZYXfgPBmp+i",
+    "root": {
+      "__id__": 299
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "图层 3",
+    "_parent": {
+      "__id__": 299
+    },
+    "_components": [
+      {
+        "__id__": 307
+      }
+    ],
+    "_prefab": {
+      "__id__": 308
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 86,
+      "height": 41
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        38.383,
+        5.744,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "86ea4316-c164-4bf3-95c3-d5dea94b8164"
+    },
+    "node": {
+      "__id__": 306
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "b1FQ2lsZVMa5uTdLx4cFgU",
+    "root": {
+      "__id__": 299
+    }
+  },
+  {
+    "__type__": "cc.Button",
+    "zoomScale": 0.95,
+    "_N$transition": 3,
+    "clickEvents": [
+      {
+        "__id__": 310
+      }
+    ],
+    "node": {
+      "__id__": 299
+    }
+  },
+  {
+    "__type__": "cc.ClickEvent",
+    "_componentId": "928551iWOVBxL4oXtVAYllB",
+    "handler": "videoAddTime",
+    "target": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Widget",
+    "_alignFlags": 4,
+    "_bottom": 56,
+    "node": {
+      "__id__": 299
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "cfiH1LZKNLkY28Opme4God",
+    "root": {
+      "__id__": 299
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "倒计时",
+    "_objFlags": 512,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 314
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 317
+      }
+    ],
+    "_prefab": {
+      "__id__": 318
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 96,
+      "g": 105,
+      "r": 141
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 147,
+      "height": 44
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -198.671,
+        535,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "downTime",
+    "_parent": {
+      "__id__": 313
+    },
+    "_components": [
+      {
+        "__id__": 315
+      }
+    ],
+    "_prefab": {
+      "__id__": 316
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 71,
+      "g": 94,
+      "r": 172
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 72.89,
+      "height": 40
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        89.40625,
+        3.725,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1.25,
+        1.25,
+        1.25
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "_string": "99s",
+    "_isSystemFontUsed": false,
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1,
+    "node": {
+      "__id__": 314
+    },
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_N$file": {
+      "__uuid__": "b7834170-e86a-4354-b4f5-92c1211447e8"
+    },
+    "_N$string": "99s"
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "a8dBJxpe1Ed5eSxJJdKlFm",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "16e0dbb7-259c-41ee-8c09-646939bcf767"
+    },
+    "node": {
+      "__id__": 313
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "c6YLn7XApJv5CGgKoSGFXv",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "道具栏",
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 320
+      },
+      {
+        "__id__": 323
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 330
+      }
+    ],
+    "_prefab": {
+      "__id__": 331
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 740,
+      "height": 168
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -402.007,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bg",
+    "_parent": {
+      "__id__": 319
+    },
+    "_components": [
+      {
+        "__id__": 321
+      }
+    ],
+    "_prefab": {
+      "__id__": 322
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 730,
+      "height": 168
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_type": 1,
+    "_sizeMode": 0,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "fcba07b0-63cc-43ec-b282-45d090659b6b"
+    },
+    "node": {
+      "__id__": 320
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "9e1wmF3N9FfK7CMLxfh/ZL",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "view",
+    "_parent": {
+      "__id__": 319
+    },
+    "_children": [
+      {
+        "__id__": 324
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 328
+      }
+    ],
+    "_prefab": {
+      "__id__": 329
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 720,
+      "height": 161
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "道具列表",
+    "_components": [
+      {
+        "__id__": 325
+      },
+      {
+        "__id__": 326
+      }
+    ],
+    "_prefab": {
+      "__id__": 327
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 127,
+      "height": 161
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -360,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_parent": {
+      "__id__": 323
+    }
+  },
+  {
+    "__type__": "cc.Layout",
+    "_resize": 1,
+    "_N$layoutType": 1,
+    "_N$paddingLeft": 20,
+    "_N$paddingRight": 20,
+    "_N$spacingX": 30,
+    "_N$spacingY": 10,
+    "_layoutSize": {
+      "__type__": "cc.Size",
+      "width": 127,
+      "height": 161
+    },
+    "node": {
+      "__id__": 324
+    }
+  },
+  {
+    "__type__": "cc.Widget",
+    "_alignFlags": 13,
+    "_originalWidth": 630,
+    "_originalHeight": 150,
+    "node": {
+      "__id__": 324
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "dbjcfmnj9FjZrmlW4q60Jf",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Mask",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "node": {
+      "__id__": 323
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "90/mcXM09IWJQ1RZgsTGSX",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.ScrollView",
+    "vertical": false,
+    "inertia": false,
+    "elastic": false,
+    "_N$content": {
+      "__id__": 324
+    },
+    "node": {
+      "__id__": 319
+    },
+    "content": {
+      "__id__": 324
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "ee6Lx23YlOIatifGsJPC1D",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "道具预设",
+    "_active": false,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 333
+      },
+      {
+        "__id__": 336
+      },
+      {
+        "__id__": 339
+      },
+      {
+        "__id__": 342
+      }
+    ],
+    "_prefab": {
+      "__id__": 346
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 115,
+      "height": 135
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -216.5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bg",
+    "_parent": {
+      "__id__": 332
+    },
+    "_components": [
+      {
+        "__id__": 334
+      }
+    ],
+    "_prefab": {
+      "__id__": 335
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 115,
+      "height": 115
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        13.784,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_type": 1,
+    "_sizeMode": 0,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "fa2c5d77-5cb0-4b15-bda3-53e12c1d65fa"
+    },
+    "node": {
+      "__id__": 333
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "fcCs692PhJE6T/Hwups6Sl",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "icon",
+    "_parent": {
+      "__id__": 332
+    },
+    "_components": [
+      {
+        "__id__": 337
+      }
+    ],
+    "_prefab": {
+      "__id__": 338
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 107,
+      "height": 107
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        13.784,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_sizeMode": 0,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "node": {
+      "__id__": 336
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "76eZKlVL9MSqUbosdQhCg7",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "label",
+    "_active": false,
+    "_parent": {
+      "__id__": 332
+    },
+    "_components": [
+      {
+        "__id__": 340
+      }
+    ],
+    "_prefab": {
+      "__id__": 341
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 0,
+      "height": 32.76
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -53.035,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "_fontSize": 26,
+    "_lineHeight": 26,
+    "_isSystemFontUsed": false,
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_N$file": {
+      "__uuid__": "a0d50213-97b1-4dfd-b5a8-4673df7fe9b7"
+    },
+    "node": {
+      "__id__": 339
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "96JQBk2QxPmYbad/QRPoTV",
+    "root": {
+      "__id__": 339
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "num",
+    "_parent": {
+      "__id__": 332
+    },
+    "_components": [
+      {
+        "__id__": 343
+      },
+      {
+        "__id__": 344
+      }
+    ],
+    "_prefab": {
+      "__id__": 345
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 2,
+      "height": 52.4
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        47.777,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "_isSystemFontUsed": false,
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_N$file": {
+      "__uuid__": "a0d50213-97b1-4dfd-b5a8-4673df7fe9b7"
+    },
+    "node": {
+      "__id__": 342
+    }
+  },
+  {
+    "__type__": "cc.LabelOutline",
+    "_width": 2,
+    "_color": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "node": {
+      "__id__": 342
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "cesSgBjrhDxr78ktZ5hgb6",
+    "root": {
+      "__id__": 342
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "f7odgkvJRHRJxWDdGju13j",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "totalNumLabel",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 348
+      }
+    ],
+    "_prefab": {
+      "__id__": 349
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 350,
+      "height": 50.4
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        185.064,
+        535,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "_string": "0/8848",
+    "_isSystemFontUsed": false,
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1,
+    "_N$overflow": 3,
+    "node": {
+      "__id__": 347
+    },
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_N$file": {
+      "__uuid__": "8c2d774b-5bff-4b10-b903-4d9e75ab3fd6"
+    },
+    "_N$string": "0/8848"
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "15zEXYx85DFoGUUTsUV/i6",
+    "root": {
+      "__id__": 347
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "过场遮罩",
+    "_objFlags": 512,
+    "_opacity": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 351
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 355
+      },
+      {
+        "__id__": 356
+      },
+      {
+        "__id__": 357
+      }
+    ],
+    "_prefab": {
+      "__id__": 358
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 750,
+      "height": 1334
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "过场遮罩Label",
+    "_parent": {
+      "__id__": 350
+    },
+    "_components": [
+      {
+        "__id__": 352
+      },
+      {
+        "__id__": 353
+      }
+    ],
+    "_prefab": {
+      "__id__": 354
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 700,
+      "height": 63
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "_fontSize": 50,
+    "_lineHeight": 50,
+    "_isSystemFontUsed": false,
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1,
+    "_N$overflow": 3,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_N$file": {
+      "__uuid__": "a0d50213-97b1-4dfd-b5a8-4673df7fe9b7"
+    },
+    "node": {
+      "__id__": 351
+    }
+  },
+  {
+    "__type__": "35103Twj+NCtZO7Uf8+W8X7",
+    "node": {
+      "__id__": 351
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "6b03DCts9Ep6jP9H59xbjx",
+    "root": {
+      "__id__": 351
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_sizeMode": 0,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "a23235d1-15db-4b95-8439-a2e005bfff91"
+    },
+    "node": {
+      "__id__": 350
+    }
+  },
+  {
+    "__type__": "cc.Widget",
+    "_alignFlags": 45,
+    "_originalWidth": 750,
+    "_originalHeight": 1334,
+    "node": {
+      "__id__": 350
+    }
+  },
+  {
+    "__type__": "8334cf1MXNOF4TkP2PlxP6w",
+    "addType": 11,
+    "actionList": [
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "隐藏黑屏字幕",
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "originIsShow": false,
+            "target": {
+              "__id__": 351
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "显示黑屏字幕",
+        "nodes": [
+          {
+            "__type__": "ShowNodeInfo",
+            "isShow": true,
+            "originIsShow": false,
+            "target": {
+              "__id__": 351
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "EffectCom",
+        "behaviorType": "效果组件",
+        "behaviorId": "黑屏字幕",
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "显示黑屏字幕"
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "黑屏in"
+              }
+            ]
+          }
+        ],
+        "showComponent": {
+          "__id__": 351
+        }
+      },
+      {
+        "__type__": "ShowNodesCom",
+        "behaviorType": "显示隐藏节点",
+        "behaviorId": "过场动画",
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "黑屏in"
+              },
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "黑屏out",
+                "delay": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__type__": "TweenPropCom",
+        "behaviorType": "缓动节点属性",
+        "behaviorId": "黑屏out",
+        "nextBehaviorInfo": [
+          {
+            "__type__": "ExecuteBehaviorInfoByKeys",
+            "delayBehaviors": [
+              {
+                "__type__": "DelayExecuteBehaviorInfo",
+                "behaviorId": "隐藏黑屏字幕",
+                "delay": 1
+              }
+            ]
+          }
+        ],
+        "tranInfo": [
+          {
+            "__type__": "TweenTranInfo",
+            "prop": 2,
+            "start": 255,
+            "isInit": false,
+            "target": {
+              "__id__": 350
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "TweenPropCom",
+        "behaviorType": "缓动节点属性",
+        "behaviorId": "黑屏in",
+        "tranInfo": [
+          {
+            "__type__": "TweenTranInfo",
+            "prop": 2,
+            "end": 255,
+            "isInit": false,
+            "target": {
+              "__id__": 350
+            }
+          }
+        ]
+      }
+    ],
+    "node": {
+      "__id__": 350
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "06qOeRh/dIGKQ3y+QTIrhB",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "气泡下",
+    "_opacity": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 360
+      },
+      {
+        "__id__": 363
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 366
+      }
+    ],
+    "_prefab": {
+      "__id__": 367
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -301.892,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bg",
+    "_parent": {
+      "__id__": 359
+    },
+    "_components": [
+      {
+        "__id__": 361
+      }
+    ],
+    "_prefab": {
+      "__id__": 362
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 558,
+      "height": 74
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        -1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "78299ee8-7fc4-4a4b-a060-e72bd1751800"
+    },
+    "node": {
+      "__id__": 360
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "af+frjKvVHJ6vZsKurYVoC",
+    "root": {
+      "__id__": 359
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "label",
+    "_parent": {
+      "__id__": 359
+    },
+    "_components": [
+      {
+        "__id__": 364
+      }
+    ],
+    "_prefab": {
+      "__id__": 365
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 700,
+      "height": 31.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        2.14,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "_fontSize": 25,
+    "_lineHeight": 25,
+    "_isSystemFontUsed": false,
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1,
+    "_N$overflow": 3,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_N$file": {
+      "__uuid__": "a0d50213-97b1-4dfd-b5a8-4673df7fe9b7"
+    },
+    "node": {
+      "__id__": 363
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "5ezXsbhl9HDIZZrKwjda4j",
+    "root": {
+      "__id__": 359
+    }
+  },
+  {
+    "__type__": "c652bg3FDxF64j1ZTa55kAm",
+    "delayHide": 0,
+    "myTextNode": {
+      "__id__": 363
+    },
+    "node": {
+      "__id__": 359
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "5bBYaTFh5ONpPmjxOdHYq5",
+    "root": {
+      "__id__": 359
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "提示动画",
+    "_active": false,
+    "_groupIndex": 2,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 369
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 376
+      }
+    ],
+    "_prefab": {
+      "__id__": 377
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 0,
+      "g": 255,
+      "r": 0
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 100,
+      "height": 100
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -2.43462,
+        -58.85615,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.46154,
+        0.46154,
+        0.46154
+      ]
+    },
+    "groupIndex": 2
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "anim",
+    "_children": [
+      {
+        "__id__": 370
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 373
+      },
+      {
+        "__id__": 374
+      }
+    ],
+    "_prefab": {
+      "__id__": 375
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1.25
+      ]
+    },
+    "_parent": {
+      "__id__": 368
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "liz",
+    "_parent": {
+      "__id__": 369
+    },
+    "_components": [
+      {
+        "__id__": 371
+      }
+    ],
+    "_prefab": {
+      "__id__": 372
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -80,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.ParticleSystem",
+    "_custom": true,
+    "totalParticles": 200,
+    "emissionRate": 999.999985098839,
+    "life": 0.4,
+    "lifeVar": 0.5,
+    "angle": 360,
+    "angleVar": 360,
+    "startSize": 0,
+    "endSize": 20,
+    "endSizeVar": 10,
+    "startSpin": -47.369998931884766,
+    "endSpin": -47.369998931884766,
+    "endSpinVar": -142.11000061035156,
+    "speed": 0,
+    "speedVar": 20,
+    "tangentialAccel": -92.11000061035156,
+    "tangentialAccelVar": 65.79000091552734,
+    "startRadius": 100,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_startColor": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 127,
+      "g": 229,
+      "r": 255
+    },
+    "_startColorVar": {
+      "__type__": "cc.Color",
+      "a": 0,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "_endColor": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 0,
+      "g": 0,
+      "r": 184
+    },
+    "_endColorVar": {
+      "__type__": "cc.Color",
+      "a": 0,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "gravity": {
+      "__type__": "cc.Vec2",
+      "x": 0.25,
+      "y": 0.8600000143051147
+    },
+    "_file": {
+      "__uuid__": "b2687ac4-099e-403c-a192-ff477686f4f5"
+    },
+    "_spriteFrame": {
+      "__uuid__": "e3cdefaf-34e1-4cb5-b5e0-2f0cef177f78"
+    },
+    "node": {
+      "__id__": 370
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "6b7daxwUOpOLoIlzGxMztXi",
+    "root": {
+      "__id__": 369
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "node": {
+      "__id__": 369
+    }
+  },
+  {
+    "__type__": "cc.Animation",
+    "_clips": [
+      {
+        "__uuid__": "f61cb858-05c0-4d2e-8ff0-3427695b4063"
+      }
+    ],
+    "_defaultClip": {
+      "__uuid__": "f61cb858-05c0-4d2e-8ff0-3427695b4063"
+    },
+    "node": {
+      "__id__": 369
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "b061bbEkZKW44vzVP0q09A",
+    "root": {
+      "__id__": 369
+    }
+  },
+  {
+    "__type__": "40f81MGwmxF07AmcX3L0sFf",
+    "zOrder": 10,
+    "node": {
+      "__id__": 368
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "8cVqOFU5hH0JxWq6I8b84M",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "答案提示",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 379
+      },
+      {
+        "__id__": 380
+      }
+    ],
+    "_prefab": {
+      "__id__": 381
+    }
+  },
+  {
+    "__type__": "8334cf1MXNOF4TkP2PlxP6w",
+    "addType": 35,
+    "actionList": [
+      {
+        "__type__": "TriggerFunctionCom",
+        "behaviorType": "触发方法",
+        "behaviorId": "隐藏提示动画",
+        "events": [
+          {
+            "__type__": "cc.ClickEvent",
+            "_componentId": "1dfa6EvLZ5GUro7wOYTMrAv",
+            "handler": "hideAnim",
+            "target": {
+              "__id__": 378
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "TriggerFunctionCom",
+        "behaviorType": "触发方法",
+        "behaviorId": "隐藏提示按钮",
+        "events": [
+          {
+            "__type__": "cc.ClickEvent",
+            "_componentId": "1dfa6EvLZ5GUro7wOYTMrAv",
+            "handler": "showTipBtn",
+            "target": {
+              "__id__": 378
+            }
+          }
+        ]
+      }
+    ],
+    "node": {
+      "__id__": 378
+    }
+  },
+  {
+    "__type__": "1dfa6EvLZ5GUro7wOYTMrAv",
+    "anwserInfoList": [
+      {
+        "__type__": "AnwserTipsInfo",
+        "finishKey": "乔杉卡片1",
+        "nodeList": [
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "finishKey": "点击乔杉1",
+            "node": {
+              "__id__": 147
+            }
+          },
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "finishKey": "乔杉卡片1",
+            "node": {
+              "__id__": 191
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "AnwserTipsInfo",
+        "finishKey": "乔杉卡片2",
+        "nodeList": [
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "finishKey": "点击乔杉2",
+            "node": {
+              "__id__": 147
+            }
+          },
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "finishKey": "乔杉卡片2",
+            "node": {
+              "__id__": 198
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "AnwserTipsInfo",
+        "finishKey": "乔杉卡片3",
+        "nodeList": [
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "finishKey": "点击乔杉3",
+            "node": {
+              "__id__": 147
+            }
+          },
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "finishKey": "乔杉卡片3",
+            "node": {
+              "__id__": 205
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "AnwserTipsInfo",
+        "finishKey": "乔杉卡片4",
+        "nodeList": [
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "tipText": "锤子拖至乔杉处",
+            "finishKey": "乔杉卡片4"
+          }
+        ]
+      },
+      {
+        "__type__": "AnwserTipsInfo",
+        "finishKey": "天花板",
+        "nodeList": [
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "tipText": "锤子拖至天花板处",
+            "finishKey": "天花板"
+          }
+        ]
+      },
+      {
+        "__type__": "AnwserTipsInfo",
+        "finishKey": "正经按摩",
+        "nodeList": [
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "tipText": "锤子拖至正经按摩处，点击后面藏的人"
+          },
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "finishKey": "正经按摩",
+            "node": {
+              "__id__": 129
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "AnwserTipsInfo",
+        "finishKey": "裂纹",
+        "nodeList": [
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "tipText": "锤子拖至地面裂缝处，点击地面下层人"
+          }
+        ]
+      },
+      {
+        "__type__": "AnwserTipsInfo",
+        "finishKey": "厕所",
+        "nodeList": [
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "finishKey": "厕所门",
+            "node": {
+              "__id__": 90
+            }
+          },
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "finishKey": "厕所",
+            "node": {
+              "__id__": 85
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "AnwserTipsInfo",
+        "finishKey": "柜子1",
+        "nodeList": [
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "finishKey": "柜子右",
+            "node": {
+              "__id__": 108
+            }
+          },
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "finishKey": "柜子1",
+            "node": {
+              "__id__": 103
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "AnwserTipsInfo",
+        "finishKey": "柜子2",
+        "nodeList": [
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "finishKey": "柜子左",
+            "node": {
+              "__id__": 113
+            }
+          },
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "finishKey": "柜子2",
+            "node": {
+              "__id__": 98
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "AnwserTipsInfo",
+        "finishKey": "手机",
+        "nodeList": [
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "tipText": "手机拖至乔杉处，点击聊天记录"
+          }
+        ]
+      },
+      {
+        "__type__": "AnwserTipsInfo",
+        "finishKey": "地毯",
+        "nodeList": [
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "tipText": "上滑紫色地毯，点击地毯下的人"
+          }
+        ]
+      },
+      {
+        "__type__": "AnwserTipsInfo",
+        "finishKey": "开关",
+        "nodeList": [
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "finishKey": "点开关",
+            "node": {
+              "__id__": 121
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "AnwserTipsInfo",
+        "finishKey": "莲花灯",
+        "nodeList": [
+          {
+            "__type__": "AnwserTipsNodeInfo",
+            "tipText": "双击莲花灯",
+            "finishKey": "莲花灯"
+          }
+        ]
+      }
+    ],
+    "tipAnimNode": {
+      "__id__": 368
+    },
+    "scaleNode": {
+      "__id__": 51
+    },
+    "node": {
+      "__id__": 378
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "c9OEJcZz1EA4bPveIhRNbJ",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "a6a86CtkTlJUaWcX3TI7p98",
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "aaf42c1QjRNDIWzJ1tLNw8o",
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "928551iWOVBxL4oXtVAYllB",
+    "levelTime": 180,
+    "timeLabel": {
+      "__id__": 315
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "b7a4aqFK+RO6qEg1si+ldaX",
+    "canScale": false,
+    "isShowTipNode": false,
+    "finishActionId": "找完道具",
+    "touchNodeScale": {
+      "__type__": "cc.Vec2",
+      "x": 1,
+      "y": 1
+    },
+    "itemNodeList": [
+      {
+        "__type__": "WLANodeInfo",
+        "name": "乔杉1",
+        "finishKey": "乔杉卡片1",
+        "num": 15,
+        "icon": {
+          "__uuid__": "3d393627-8984-4db8-bea0-52cdf0552f79"
+        },
+        "node": {
+          "__id__": 191
+        }
+      },
+      {
+        "__type__": "WLANodeInfo",
+        "name": "乔杉2",
+        "finishKey": "乔杉卡片2",
+        "num": 10,
+        "icon": {
+          "__uuid__": "d44fc63f-1dac-467d-bfc9-afee087aaedd"
+        },
+        "node": {
+          "__id__": 198
+        }
+      },
+      {
+        "__type__": "WLANodeInfo",
+        "name": "乔杉3",
+        "finishKey": "乔杉卡片3",
+        "num": 5,
+        "icon": {
+          "__uuid__": "eba37df9-224d-46ab-9088-98df9b133d67"
+        },
+        "node": {
+          "__id__": 205
+        }
+      },
+      {
+        "__type__": "WLANodeInfo",
+        "name": "乔杉4",
+        "finishKey": "乔杉卡片4",
+        "num": 666,
+        "icon": {
+          "__uuid__": "5c797169-bf0a-4bed-a3ab-8a7955ff7f99"
+        },
+        "node": {
+          "__id__": 212
+        }
+      },
+      {
+        "__type__": "WLANodeInfo",
+        "name": "厕所",
+        "finishKey": "厕所",
+        "num": 15,
+        "icon": {
+          "__uuid__": "4fae3e93-a539-4f60-8ef3-f871c7c69fa2"
+        },
+        "node": {
+          "__id__": 85
+        }
+      },
+      {
+        "__type__": "WLANodeInfo",
+        "name": "地毯",
+        "finishKey": "地毯",
+        "num": 3,
+        "icon": {
+          "__uuid__": "44ec7f5d-9c70-49de-9c7b-9c11bd14588d"
+        },
+        "node": {
+          "__id__": 73
+        }
+      },
+      {
+        "__type__": "WLANodeInfo",
+        "name": "天花板",
+        "finishKey": "天花板",
+        "num": 20,
+        "icon": {
+          "__uuid__": "a4a70e3d-d3e6-4450-8310-2d41cbfda7f4"
+        },
+        "node": {
+          "__id__": 185
+        }
+      },
+      {
+        "__type__": "WLANodeInfo",
+        "name": "开关",
+        "finishKey": "开关",
+        "num": 5,
+        "icon": {
+          "__uuid__": "504d4242-f285-4826-a5d2-61149b800325"
+        },
+        "node": {
+          "__id__": 121
+        }
+      },
+      {
+        "__type__": "WLANodeInfo",
+        "name": "手机",
+        "finishKey": "手机",
+        "num": 2000,
+        "icon": {
+          "__uuid__": "e607d7f8-c581-4d01-9dc5-aff37236ce80"
+        },
+        "node": {
+          "__id__": 222
+        }
+      },
+      {
+        "__type__": "WLANodeInfo",
+        "name": "柜子",
+        "finishKey": "柜子1",
+        "num": 2,
+        "icon": {
+          "__uuid__": "a6dc6395-ed47-4b50-b690-e42d2491502e"
+        },
+        "node": {
+          "__id__": 108
+        }
+      },
+      {
+        "__type__": "WLANodeInfo",
+        "name": "柜子",
+        "finishKey": "柜子2",
+        "num": 2,
+        "icon": {
+          "__uuid__": "664dbf8b-4a49-4834-8d48-c97d2369274e"
+        },
+        "node": {
+          "__id__": 113
+        }
+      },
+      {
+        "__type__": "WLANodeInfo",
+        "name": "正经按摩(招牌)",
+        "finishKey": "正经按摩",
+        "num": 5,
+        "icon": {
+          "__uuid__": "ec6246eb-9d39-4a2c-95a6-412d4ea6e93b"
+        },
+        "node": {
+          "__id__": 129
+        }
+      },
+      {
+        "__type__": "WLANodeInfo",
+        "name": "莲花灯",
+        "finishKey": "莲花灯",
+        "num": 9,
+        "icon": {
+          "__uuid__": "86f804cd-30a6-44b4-b589-c6a224d3785e"
+        },
+        "node": {
+          "__id__": 139
+        }
+      },
+      {
+        "__type__": "WLANodeInfo",
+        "name": "裂纹",
+        "finishKey": "裂纹",
+        "num": 30,
+        "icon": {
+          "__uuid__": "c8785937-e1e6-4a9c-b43f-e443536b1e1b"
+        },
+        "node": {
+          "__id__": 188
+        }
+      }
+    ],
+    "totalNumLabel": {
+      "__id__": 348
+    },
+    "ItemPrefab": {
+      "__id__": 332
+    },
+    "itemList": {
+      "__id__": 324
+    },
+    "touchNode": {
+      "__id__": 51
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

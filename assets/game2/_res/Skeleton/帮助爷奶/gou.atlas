@@ -1,0 +1,41 @@
+
+gou.png
+size: 939,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingqilin
+  rotate: false
+  xy: 848, 406
+  size: 89, 116
+  orig: 92, 119
+  offset: 1, 2
+  index: -1
+body
+  rotate: true
+  xy: 2, 8
+  size: 514, 475
+  orig: 514, 475
+  offset: 0, 0
+  index: -1
+gou1
+  rotate: false
+  xy: 479, 2
+  size: 428, 165
+  orig: 428, 165
+  offset: 0, 0
+  index: -1
+gou_2
+  rotate: false
+  xy: 479, 169
+  size: 367, 353
+  orig: 367, 353
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: false
+  xy: 848, 364
+  size: 40, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1

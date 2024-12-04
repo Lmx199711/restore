@@ -1,0 +1,55 @@
+
+saomiao.png
+size: 1527,725
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1100, 235
+  size: 102, 272
+  orig: 104, 274
+  offset: 1, 1
+  index: -1
+light_1
+  rotate: false
+  xy: 966, 188
+  size: 132, 535
+  orig: 134, 545
+  offset: 1, 9
+  index: -1
+light_2
+  rotate: true
+  xy: 1377, 85
+  size: 252, 148
+  orig: 267, 158
+  offset: 9, 6
+  index: -1
+light_3
+  rotate: false
+  xy: 1143, 2
+  size: 232, 231
+  orig: 232, 231
+  offset: 0, 0
+  index: -1
+light_4
+  rotate: false
+  xy: 966, 11
+  size: 175, 175
+  orig: 189, 189
+  offset: 7, 7
+  index: -1
+light_5
+  rotate: true
+  xy: 1100, 339
+  size: 384, 373
+  orig: 388, 377
+  offset: 2, 2
+  index: -1
+light_6
+  rotate: false
+  xy: 2, 45
+  size: 962, 678
+  orig: 965, 680
+  offset: 1, 1
+  index: -1

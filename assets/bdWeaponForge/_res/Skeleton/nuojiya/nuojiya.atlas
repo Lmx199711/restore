@@ -1,0 +1,41 @@
+
+nuojiya.png
+size: 739,662
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 693, 221
+  size: 20, 26
+  orig: 22, 28
+  offset: 1, 1
+  index: -1
+a5
+  rotate: false
+  xy: 662, 249
+  size: 75, 411
+  orig: 75, 411
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 662, 190
+  size: 26, 22
+  orig: 28, 24
+  offset: 1, 1
+  index: -1
+c
+  rotate: false
+  xy: 662, 214
+  size: 29, 33
+  orig: 31, 35
+  offset: 1, 1
+  index: -1
+z
+  rotate: false
+  xy: 2, 2
+  size: 658, 658
+  orig: 658, 658
+  offset: 0, 0
+  index: -1

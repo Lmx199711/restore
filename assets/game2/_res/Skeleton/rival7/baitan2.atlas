@@ -1,0 +1,104 @@
+
+baitan2.png
+size: 1023,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bq1
+  rotate: false
+  xy: 837, 2
+  size: 141, 172
+  orig: 141, 172
+  offset: 0, 0
+  index: -1
+bq2
+  rotate: true
+  xy: 837, 176
+  size: 141, 178
+  orig: 141, 179
+  offset: 0, 1
+  index: -1
+dianzi
+  rotate: false
+  xy: 2, 365
+  size: 649, 162
+  orig: 649, 162
+  offset: 0, 0
+  index: -1
+guanzi
+  rotate: false
+  xy: 240, 84
+  size: 443, 111
+  orig: 443, 111
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 240, 197
+  size: 404, 166
+  orig: 404, 166
+  offset: 0, 0
+  index: -1
+laba
+  rotate: true
+  xy: 653, 319
+  size: 208, 352
+  orig: 208, 373
+  offset: 0, 21
+  index: -1
+st
+  rotate: false
+  xy: 2, 75
+  size: 236, 288
+  orig: 236, 288
+  offset: 0, 0
+  index: -1
+sy1
+  rotate: false
+  xy: 292, 5
+  size: 128, 77
+  orig: 129, 78
+  offset: 1, 0
+  index: -1
+sy2
+  rotate: true
+  xy: 187, 22
+  size: 51, 103
+  orig: 51, 104
+  offset: 0, 0
+  index: -1
+ydb
+  rotate: true
+  xy: 2, 10
+  size: 63, 183
+  orig: 64, 185
+  offset: 0, 2
+  index: -1
+ys
+  rotate: false
+  xy: 685, 59
+  size: 150, 166
+  orig: 150, 166
+  offset: 0, 0
+  index: -1
+zb1
+  rotate: false
+  xy: 980, 83
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+zb2
+  rotate: false
+  xy: 980, 116
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+zdb
+  rotate: true
+  xy: 646, 227
+  size: 90, 189
+  orig: 90, 189
+  offset: 0, 0
+  index: -1

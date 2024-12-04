@@ -1,0 +1,120 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "防护罩",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "fanghuzhao",
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 244,
+      "height": 164
+    },
+    "_id": "16bf452e-4b07-49c4-a963-ec55c9465d2b"
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "defaultAnimation": "animation",
+    "_preCacheMode": 0,
+    "_animationName": "animation",
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "e8e0a163-a3f5-4357-9eb3-ca6825ce4750"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": -124,
+        "y": -2,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -66,
+        "y": -34,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 0,
+        "y": -49,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 85,
+        "y": -27,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 127,
+        "y": 0,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 105,
+        "y": 71,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 40,
+        "y": 124,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -37,
+        "y": 122,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -94,
+        "y": 85,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "71767Nct+hBbZA1KU/5Gz+I",
+    "bitId": "9001",
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

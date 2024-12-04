@@ -1,0 +1,404 @@
+
+shenlong.png
+size: 2045,1891
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00000
+  rotate: true
+  xy: 2, 1668
+  size: 140, 145
+  orig: 358, 358
+  offset: 107, 103
+  index: -1
+01_00001
+  rotate: true
+  xy: 149, 1663
+  size: 145, 151
+  orig: 358, 358
+  offset: 104, 102
+  index: -1
+01_00002
+  rotate: true
+  xy: 302, 1646
+  size: 160, 164
+  orig: 358, 358
+  offset: 97, 94
+  index: -1
+01_00003
+  rotate: true
+  xy: 468, 1616
+  size: 190, 191
+  orig: 358, 358
+  offset: 81, 81
+  index: -1
+01_00004
+  rotate: false
+  xy: 2, 1444
+  size: 218, 217
+  orig: 358, 358
+  offset: 68, 68
+  index: -1
+01_00005
+  rotate: true
+  xy: 362, 1034
+  size: 295, 296
+  orig: 358, 358
+  offset: 29, 30
+  index: -1
+01_00006
+  rotate: false
+  xy: 2, 570
+  size: 315, 315
+  orig: 358, 358
+  offset: 20, 21
+  index: -1
+01_00007
+  rotate: false
+  xy: 1295, 485
+  size: 330, 330
+  orig: 358, 358
+  offset: 11, 12
+  index: -1
+01_00008
+  rotate: false
+  xy: 1627, 483
+  size: 335, 332
+  orig: 358, 358
+  offset: 9, 11
+  index: -1
+01_00009
+  rotate: true
+  xy: 2, 57
+  size: 335, 337
+  orig: 358, 358
+  offset: 9, 8
+  index: -1
+01_00010
+  rotate: true
+  xy: 341, 2
+  size: 335, 340
+  orig: 358, 358
+  offset: 9, 8
+  index: -1
+01_00013
+  rotate: false
+  xy: 653, 339
+  size: 334, 333
+  orig: 358, 358
+  offset: 10, 11
+  index: -1
+01_00014
+  rotate: false
+  xy: 319, 394
+  size: 332, 334
+  orig: 358, 358
+  offset: 12, 10
+  index: -1
+01_00015
+  rotate: true
+  xy: 989, 149
+  size: 334, 335
+  orig: 358, 358
+  offset: 12, 9
+  index: -1
+01_00016
+  rotate: false
+  xy: 1326, 147
+  size: 336, 334
+  orig: 358, 358
+  offset: 11, 10
+  index: -1
+01_00017
+  rotate: false
+  xy: 1664, 147
+  size: 336, 334
+  orig: 358, 358
+  offset: 11, 10
+  index: -1
+02_00000
+  rotate: false
+  xy: 1288, 987
+  size: 304, 299
+  orig: 358, 358
+  offset: 29, 29
+  index: -1
+02_00002
+  rotate: true
+  xy: 653, 680
+  size: 308, 315
+  orig: 358, 358
+  offset: 29, 22
+  index: -1
+02_00004
+  rotate: true
+  xy: 2, 887
+  size: 301, 320
+  orig: 358, 358
+  offset: 29, 20
+  index: -1
+02_00006
+  rotate: true
+  xy: 970, 674
+  size: 311, 323
+  orig: 358, 358
+  offset: 25, 20
+  index: -1
+02_00008
+  rotate: true
+  xy: 324, 730
+  size: 302, 327
+  orig: 358, 358
+  offset: 27, 17
+  index: -1
+02_00010
+  rotate: true
+  xy: 660, 990
+  size: 296, 316
+  orig: 358, 358
+  offset: 31, 22
+  index: -1
+02_00012
+  rotate: false
+  xy: 978, 989
+  size: 308, 297
+  orig: 358, 358
+  offset: 25, 26
+  index: -1
+02_00014
+  rotate: false
+  xy: 1594, 817
+  size: 303, 301
+  orig: 358, 358
+  offset: 26, 17
+  index: -1
+0a
+  rotate: false
+  xy: 1713, 1333
+  size: 244, 242
+  orig: 258, 258
+  offset: 7, 8
+  index: -1
+body_2
+  rotate: false
+  xy: 1047, 1714
+  size: 314, 134
+  orig: 314, 134
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 1363, 1712
+  size: 393, 135
+  orig: 393, 135
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1758, 1577
+  size: 215, 255
+  orig: 215, 255
+  offset: 0, 0
+  index: -1
+long2_03
+  rotate: false
+  xy: 696, 1751
+  size: 210, 98
+  orig: 211, 358
+  offset: 1, 0
+  index: -1
+long2_04
+  rotate: true
+  xy: 1021, 1501
+  size: 211, 330
+  orig: 211, 358
+  offset: 0, 0
+  index: -1
+long2_05
+  rotate: true
+  xy: 222, 1403
+  size: 211, 344
+  orig: 211, 358
+  offset: 0, 0
+  index: -1
+long2_06
+  rotate: true
+  xy: 568, 1331
+  size: 211, 357
+  orig: 211, 358
+  offset: 0, 0
+  index: -1
+long2_07
+  rotate: true
+  xy: 927, 1288
+  size: 211, 358
+  orig: 211, 358
+  offset: 0, 0
+  index: -1
+long2_08
+  rotate: true
+  xy: 1287, 1288
+  size: 211, 358
+  orig: 211, 358
+  offset: 0, 0
+  index: -1
+long2_09
+  rotate: true
+  xy: 2, 1190
+  size: 211, 358
+  orig: 211, 358
+  offset: 0, 0
+  index: -1
+long2_10
+  rotate: true
+  xy: 1647, 1120
+  size: 211, 358
+  orig: 211, 358
+  offset: 0, 0
+  index: -1
+long2_11
+  rotate: true
+  xy: 1353, 1501
+  size: 209, 358
+  orig: 211, 358
+  offset: 0, 0
+  index: -1
+long2_12
+  rotate: true
+  xy: 661, 1544
+  size: 204, 358
+  orig: 211, 358
+  offset: 0, 0
+  index: -1
+sd_000
+  rotate: true
+  xy: 2, 1873
+  size: 16, 103
+  orig: 45, 358
+  offset: 14, 247
+  index: -1
+sd_001
+  rotate: true
+  xy: 344, 1808
+  size: 41, 350
+  orig: 45, 358
+  offset: 1, 3
+  index: -1
+sd_002
+  rotate: true
+  xy: 456, 1851
+  size: 38, 348
+  orig: 45, 358
+  offset: 2, 4
+  index: -1
+sd_003
+  rotate: true
+  xy: 107, 1852
+  size: 37, 347
+  orig: 45, 358
+  offset: 5, 4
+  index: -1
+sd_004
+  rotate: true
+  xy: 1430, 1849
+  size: 40, 345
+  orig: 45, 358
+  offset: 1, 3
+  index: -1
+sd_005
+  rotate: true
+  xy: 2, 1810
+  size: 40, 340
+  orig: 45, 358
+  offset: 2, 4
+  index: -1
+sd_006
+  rotate: true
+  xy: 1090, 1850
+  size: 39, 338
+  orig: 45, 358
+  offset: 3, 6
+  index: -1
+sd_007
+  rotate: true
+  xy: 806, 1851
+  size: 38, 282
+  orig: 45, 358
+  offset: 2, 18
+  index: -1
+zhua_1
+  rotate: false
+  xy: 908, 1750
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+zhua_2
+  rotate: false
+  xy: 1899, 1794
+  size: 144, 95
+  orig: 144, 95
+  offset: 0, 0
+  index: -1
+zhua_3
+  rotate: true
+  xy: 1777, 1833
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+
+shenlong2.png
+size: 1409,1172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 3
+  size: 349, 349
+  orig: 461, 461
+  offset: 56, 56
+  index: -1
+01_00011
+  rotate: false
+  xy: 353, 14
+  size: 335, 338
+  orig: 358, 358
+  offset: 9, 8
+  index: -1
+01_00012
+  rotate: true
+  xy: 1071, 339
+  size: 335, 336
+  orig: 358, 358
+  offset: 10, 8
+  index: -1
+01_00018
+  rotate: true
+  xy: 1071, 2
+  size: 335, 336
+  orig: 358, 358
+  offset: 12, 10
+  index: -1
+bg_2
+  rotate: false
+  xy: 623, 676
+  size: 701, 494
+  orig: 701, 494
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 690, 171
+  size: 503, 379
+  orig: 503, 407
+  offset: 0, 28
+  index: -1
+lm_guang
+  rotate: true
+  xy: 2, 354
+  size: 816, 619
+  orig: 816, 619
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+xiaojiejieAction.png
+size: 324,129
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chongz
+  rotate: false
+  xy: 137, 14
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: -1
+gunz
+  rotate: false
+  xy: 2, 2
+  size: 133, 125
+  orig: 133, 127
+  offset: 0, 1
+  index: -1
+zuib
+  rotate: true
+  xy: 244, 5
+  size: 122, 78
+  orig: 122, 78
+  offset: 0, 0
+  index: -1

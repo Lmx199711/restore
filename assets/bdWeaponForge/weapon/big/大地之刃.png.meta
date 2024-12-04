@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c5865b1f-bc3b-4120-b34e-dc8a78f745aa",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 175,
+  "height": 520,
+  "platformSettings": {},
+  "subMetas": {
+    "大地之刃": {
+      "ver": "1.0.6",
+      "uuid": "b6509598-585e-40af-8742-d5091fdfc02d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c5865b1f-bc3b-4120-b34e-dc8a78f745aa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 175,
+      "height": 520,
+      "rawWidth": 175,
+      "rawHeight": 520,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

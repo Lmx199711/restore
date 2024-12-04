@@ -1,0 +1,13 @@
+
+nvtuan_TX.png
+size: 365,322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixin
+  rotate: false
+  xy: 2, 2
+  size: 361, 318
+  orig: 450, 440
+  offset: 44, 76
+  index: -1

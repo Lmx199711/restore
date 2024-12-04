@@ -1,0 +1,83 @@
+
+bianpao.png
+size: 666,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 592, 191
+  size: 44, 90
+  orig: 44, 90
+  offset: 0, 0
+  index: -1
+01_000
+  rotate: true
+  xy: 455, 40
+  size: 99, 119
+  orig: 170, 170
+  offset: 40, 33
+  index: -1
+01_001
+  rotate: true
+  xy: 2, 3
+  size: 128, 124
+  orig: 170, 170
+  offset: 30, 26
+  index: -1
+01_002
+  rotate: false
+  xy: 310, 141
+  size: 148, 140
+  orig: 170, 170
+  offset: 16, 14
+  index: -1
+01_003
+  rotate: false
+  xy: 156, 137
+  size: 152, 144
+  orig: 170, 170
+  offset: 12, 12
+  index: -1
+01_004
+  rotate: true
+  xy: 2, 133
+  size: 148, 152
+  orig: 170, 170
+  offset: 14, 8
+  index: -1
+01_005
+  rotate: true
+  xy: 460, 141
+  size: 140, 130
+  orig: 170, 170
+  offset: 16, 19
+  index: -1
+01_006
+  rotate: false
+  xy: 310, 10
+  size: 143, 129
+  orig: 170, 170
+  offset: 13, 20
+  index: -1
+01_007
+  rotate: true
+  xy: 156, 2
+  size: 133, 129
+  orig: 170, 170
+  offset: 12, 22
+  index: -1
+01_008
+  rotate: false
+  xy: 576, 19
+  size: 88, 120
+  orig: 170, 170
+  offset: 37, 27
+  index: -1
+bianpao
+  rotate: true
+  xy: 2, 283
+  size: 267, 652
+  orig: 658, 658
+  offset: 201, 0
+  index: -1

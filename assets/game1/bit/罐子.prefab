@@ -1,0 +1,180 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "罐子",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "罐子",
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 206.00003051757812,
+      "height": 249
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        350.61,
+        189.729,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.6,
+        0.6,
+        1
+      ]
+    },
+    "_id": "4913cdeb-d413-4870-ac73-a4b45caadcbf"
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "_preCacheMode": 0,
+    "_animationName": "animation",
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "198fda37-15b0-407e-a76c-d5afb9b16393"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "31c73ePuAVON64gwxImF51Q",
+    "bitId": "3007",
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": -38.5,
+        "y": -79.2,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -74.9,
+        "y": -37,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -94.3,
+        "y": -1,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -94.5,
+        "y": 33.7,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -84,
+        "y": 60.1,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -68.6,
+        "y": 75.3,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -94.5,
+        "y": 111.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -88,
+        "y": 120.7,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -50.1,
+        "y": 128.4,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -32.5,
+        "y": 152.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 34.3,
+        "y": 153.7,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 55.5,
+        "y": 129.7,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 100.5,
+        "y": 115.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 76,
+        "y": 76.2,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 97.7,
+        "y": 29.7,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 97.5,
+        "y": -5.4,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 49.2,
+        "y": -75.7,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 29.5,
+        "y": -84.1,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

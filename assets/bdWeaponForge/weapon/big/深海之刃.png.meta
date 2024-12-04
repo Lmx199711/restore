@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ce521c44-952c-4377-b0d9-ada7ef943be6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 157,
+  "height": 514,
+  "platformSettings": {},
+  "subMetas": {
+    "深海之刃": {
+      "ver": "1.0.6",
+      "uuid": "d6eb5b23-9a6e-4499-b2ac-2083d20f70bd",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ce521c44-952c-4377-b0d9-ada7ef943be6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 157,
+      "height": 514,
+      "rawWidth": 157,
+      "rawHeight": 514,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

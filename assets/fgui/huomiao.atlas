@@ -1,0 +1,139 @@
+
+huomiao.png
+size: 557,571
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0003_00000
+  rotate: false
+  xy: 436, 2
+  size: 112, 139
+  orig: 346, 194
+  offset: 114, 15
+  index: -1
+0003_00001
+  rotate: true
+  xy: 2, 224
+  size: 112, 140
+  orig: 346, 194
+  offset: 116, 15
+  index: -1
+0003_00002
+  rotate: true
+  xy: 2, 338
+  size: 113, 144
+  orig: 346, 194
+  offset: 116, 15
+  index: -1
+0003_00003
+  rotate: true
+  xy: 150, 454
+  size: 115, 146
+  orig: 346, 194
+  offset: 114, 15
+  index: -1
+0003_00004
+  rotate: true
+  xy: 2, 453
+  size: 116, 146
+  orig: 346, 194
+  offset: 113, 16
+  index: -1
+0003_00005
+  rotate: true
+  xy: 298, 344
+  size: 115, 145
+  orig: 346, 194
+  offset: 113, 16
+  index: -1
+0003_00006
+  rotate: true
+  xy: 148, 225
+  size: 113, 144
+  orig: 346, 194
+  offset: 112, 16
+  index: -1
+0003_00007
+  rotate: true
+  xy: 298, 461
+  size: 108, 146
+  orig: 346, 194
+  offset: 114, 16
+  index: -1
+0003_00008
+  rotate: true
+  xy: 150, 340
+  size: 112, 145
+  orig: 346, 194
+  offset: 111, 16
+  index: -1
+0003_00009
+  rotate: true
+  xy: 297, 231
+  size: 111, 145
+  orig: 346, 194
+  offset: 113, 16
+  index: -1
+0003_00010
+  rotate: false
+  xy: 446, 426
+  size: 109, 143
+  orig: 346, 194
+  offset: 114, 16
+  index: -1
+0003_00011
+  rotate: true
+  xy: 2, 115
+  size: 107, 138
+  orig: 346, 194
+  offset: 115, 16
+  index: -1
+0003_00012
+  rotate: true
+  xy: 294, 125
+  size: 104, 140
+  orig: 346, 194
+  offset: 118, 16
+  index: -1
+0003_00013
+  rotate: true
+  xy: 141, 6
+  size: 103, 137
+  orig: 346, 194
+  offset: 120, 17
+  index: -1
+0003_00014
+  rotate: true
+  xy: 285, 18
+  size: 105, 137
+  orig: 346, 194
+  offset: 119, 17
+  index: -1
+0003_00015
+  rotate: true
+  xy: 2, 7
+  size: 106, 137
+  orig: 346, 194
+  offset: 117, 17
+  index: -1
+0003_00016
+  rotate: false
+  xy: 444, 143
+  size: 109, 139
+  orig: 346, 194
+  offset: 114, 16
+  index: -1
+0003_00017
+  rotate: false
+  xy: 445, 284
+  size: 110, 140
+  orig: 346, 194
+  offset: 114, 16
+  index: -1
+0003_00018
+  rotate: true
+  xy: 144, 111
+  size: 112, 139
+  orig: 346, 194
+  offset: 113, 15
+  index: -1

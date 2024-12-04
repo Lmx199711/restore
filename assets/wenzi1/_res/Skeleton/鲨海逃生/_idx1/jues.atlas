@@ -1,0 +1,125 @@
+
+jues.png
+size: 1986,363
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gunzi
+  rotate: false
+  xy: 2, 7
+  size: 446, 11
+  orig: 446, 11
+  offset: 0, 0
+  index: -1
+mz2
+  rotate: false
+  xy: 1083, 141
+  size: 159, 79
+  orig: 159, 79
+  offset: 0, 0
+  index: -1
+nv1_jiao
+  rotate: false
+  xy: 594, 4
+  size: 217, 125
+  orig: 233, 125
+  offset: 16, 0
+  index: -1
+nv1_yj1
+  rotate: false
+  xy: 813, 4
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+nv1_yj2
+  rotate: true
+  xy: 1952, 93
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+nv_1
+  rotate: false
+  xy: 1674, 2
+  size: 233, 359
+  orig: 398, 379
+  offset: 109, 20
+  index: -1
+nv_2
+  rotate: true
+  xy: 1244, 18
+  size: 202, 301
+  orig: 386, 301
+  offset: 184, 0
+  index: -1
+qipao
+  rotate: false
+  xy: 1909, 104
+  size: 41, 41
+  orig: 48, 48
+  offset: 6, 3
+  index: -1
+shouz
+  rotate: true
+  xy: 1909, 48
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 2, 20
+  size: 341, 590
+  orig: 341, 590
+  offset: 0, 0
+  index: -1
+st2
+  rotate: true
+  xy: 594, 131
+  size: 230, 487
+  orig: 230, 487
+  offset: 0, 0
+  index: -1
+sz_s
+  rotate: true
+  xy: 1083, 222
+  size: 139, 589
+  orig: 139, 589
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1547, 64
+  size: 156, 99
+  orig: 157, 125
+  offset: 1, 0
+  index: -1
+xiangj
+  rotate: false
+  xy: 1909, 147
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+yangqip
+  rotate: true
+  xy: 1010, 11
+  size: 118, 167
+  orig: 118, 167
+  offset: 0, 0
+  index: -1
+yangqizhao
+  rotate: true
+  xy: 1909, 199
+  size: 162, 65
+  orig: 162, 65
+  offset: 0, 0
+  index: -1
+yqg2
+  rotate: true
+  xy: 813, 27
+  size: 102, 195
+  orig: 102, 207
+  offset: 0, 0
+  index: -1

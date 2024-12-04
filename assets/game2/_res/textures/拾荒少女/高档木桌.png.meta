@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5f085a42-f423-448c-8ee6-d4073d952cfa",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 204,
+  "height": 233,
+  "platformSettings": {},
+  "subMetas": {
+    "高档木桌": {
+      "ver": "1.0.6",
+      "uuid": "6e5c1f6f-cee3-4056-a8e0-68e83a9e6683",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5f085a42-f423-448c-8ee6-d4073d952cfa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 204,
+      "height": 233,
+      "rawWidth": 204,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

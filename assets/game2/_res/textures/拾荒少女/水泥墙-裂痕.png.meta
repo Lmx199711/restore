@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "94003f69-0d6e-4879-9185-243e08b61a9d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1002,
+  "height": 882,
+  "platformSettings": {},
+  "subMetas": {
+    "水泥墙-裂痕": {
+      "ver": "1.0.6",
+      "uuid": "ab25249a-f5bf-4ad2-bf21-2a043bd09457",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "94003f69-0d6e-4879-9185-243e08b61a9d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1002,
+      "height": 882,
+      "rawWidth": 1002,
+      "rawHeight": 882,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

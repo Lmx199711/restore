@@ -1,0 +1,76 @@
+
+xilian.png
+size: 1085,956
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111_00000
+  rotate: false
+  xy: 138, 708
+  size: 298, 246
+  orig: 480, 480
+  offset: 104, 119
+  index: -1
+111_00001
+  rotate: false
+  xy: 438, 674
+  size: 314, 280
+  orig: 480, 480
+  offset: 93, 102
+  index: -1
+111_00002
+  rotate: false
+  xy: 2, 410
+  size: 316, 296
+  orig: 480, 480
+  offset: 94, 94
+  index: -1
+111_00003
+  rotate: true
+  xy: 2, 31
+  size: 334, 340
+  orig: 480, 480
+  offset: 83, 72
+  index: -1
+111_00004
+  rotate: true
+  xy: 344, 2
+  size: 335, 347
+  orig: 480, 480
+  offset: 83, 67
+  index: -1
+111_00005
+  rotate: false
+  xy: 320, 367
+  size: 339, 305
+  orig: 480, 480
+  offset: 82, 93
+  index: -1
+111_00006
+  rotate: false
+  xy: 661, 339
+  size: 336, 328
+  orig: 480, 480
+  offset: 74, 80
+  index: -1
+111_00007
+  rotate: true
+  xy: 693, 2
+  size: 335, 336
+  orig: 480, 480
+  offset: 70, 78
+  index: -1
+111_00008
+  rotate: false
+  xy: 754, 669
+  size: 329, 285
+  orig: 480, 480
+  offset: 63, 123
+  index: -1
+111_00009
+  rotate: true
+  xy: 2, 822
+  size: 132, 134
+  orig: 480, 480
+  offset: 176, 172
+  index: -1

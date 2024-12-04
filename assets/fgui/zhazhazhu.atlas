@@ -1,0 +1,48 @@
+
+zhazhazhu.png
+size: 223,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhu_j1
+  rotate: false
+  xy: 155, 110
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+zhu_j2
+  rotate: false
+  xy: 155, 202
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+zhu_j3
+  rotate: true
+  xy: 150, 15
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+zhu_j4
+  rotate: false
+  xy: 150, 53
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+zhu_st
+  rotate: false
+  xy: 2, 2
+  size: 146, 115
+  orig: 146, 115
+  offset: 0, 0
+  index: -1
+zhu_tou
+  rotate: false
+  xy: 2, 119
+  size: 151, 163
+  orig: 151, 163
+  offset: 0, 0
+  index: -1

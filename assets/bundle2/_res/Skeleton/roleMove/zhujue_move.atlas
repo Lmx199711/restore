@@ -1,0 +1,27 @@
+
+zhujue_move.png
+size: 285,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taimei_1
+  rotate: false
+  xy: 2, 2
+  size: 159, 273
+  orig: 159, 273
+  offset: 0, 0
+  index: -1
+taimei_2
+  rotate: false
+  xy: 163, 34
+  size: 59, 241
+  orig: 59, 241
+  offset: 0, 0
+  index: -1
+taimei_3
+  rotate: false
+  xy: 224, 35
+  size: 59, 240
+  orig: 59, 240
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+mojian_changjing.png
+size: 1848,1708
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0002
+  rotate: false
+  xy: 430, 591
+  size: 86, 575
+  orig: 86, 575
+  offset: 0, 0
+  index: -1
+001_00000
+  rotate: false
+  xy: 567, 1275
+  size: 428, 431
+  orig: 450, 450
+  offset: 15, 11
+  index: -1
+001_00002
+  rotate: false
+  xy: 997, 1278
+  size: 431, 428
+  orig: 450, 450
+  offset: 8, 13
+  index: -1
+001_00004
+  rotate: true
+  xy: 567, 849
+  size: 424, 428
+  orig: 450, 450
+  offset: 13, 13
+  index: -1
+001_00006
+  rotate: true
+  xy: 427, 2
+  size: 425, 428
+  orig: 450, 450
+  offset: 12, 11
+  index: -1
+001_00008
+  rotate: true
+  xy: 997, 851
+  size: 425, 431
+  orig: 450, 450
+  offset: 12, 6
+  index: -1
+001_00010
+  rotate: true
+  xy: 2, 132
+  size: 432, 423
+  orig: 450, 450
+  offset: 7, 16
+  index: -1
+001_00012
+  rotate: false
+  xy: 518, 429
+  size: 432, 418
+  orig: 450, 450
+  offset: 9, 19
+  index: -1
+001_00014
+  rotate: true
+  xy: 1430, 1277
+  size: 429, 416
+  orig: 450, 450
+  offset: 15, 17
+  index: -1
+001_00016
+  rotate: true
+  xy: 1430, 848
+  size: 427, 414
+  orig: 450, 450
+  offset: 15, 20
+  index: -1
+001_00018
+  rotate: false
+  xy: 857, 3
+  size: 420, 424
+  orig: 450, 450
+  offset: 17, 17
+  index: -1
+001_00020
+  rotate: true
+  xy: 952, 429
+  size: 417, 424
+  orig: 450, 450
+  offset: 15, 11
+  index: -1
+001_00022
+  rotate: false
+  xy: 1378, 426
+  size: 420, 420
+  orig: 450, 450
+  offset: 17, 13
+  index: -1
+002
+  rotate: false
+  xy: 342, 591
+  size: 86, 575
+  orig: 86, 575
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 2, 1168
+  size: 563, 538
+  orig: 592, 568
+  offset: 14, 30
+  index: -1
+004
+  rotate: false
+  xy: 2, 566
+  size: 338, 600
+  orig: 338, 600
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 2, 50
+  size: 369, 80
+  orig: 381, 99
+  offset: 12, 17
+  index: -1

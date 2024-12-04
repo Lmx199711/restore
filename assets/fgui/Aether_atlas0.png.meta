@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6ab814bc-79fc-466d-acca-fa67804bf2d3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1464,
+  "height": 756,
+  "platformSettings": {},
+  "subMetas": {
+    "Aether_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "07474831-cb3c-4159-a792-84b9417f063a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6ab814bc-79fc-466d-acca-fa67804bf2d3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 1.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1461,
+      "height": 753,
+      "rawWidth": 1464,
+      "rawHeight": 756,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

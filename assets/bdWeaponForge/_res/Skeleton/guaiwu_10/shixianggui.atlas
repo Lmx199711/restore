@@ -1,0 +1,76 @@
+
+shixianggui.png
+size: 575,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 2, 798
+  size: 217, 387
+  orig: 217, 387
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 356, 400
+  size: 214, 347
+  orig: 214, 347
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 76
+  size: 266, 271
+  orig: 266, 271
+  offset: 0, 0
+  index: -1
+chi_L
+  rotate: true
+  xy: 2, 580
+  size: 216, 352
+  orig: 216, 352
+  offset: 0, 0
+  index: -1
+chi_R
+  rotate: true
+  xy: 2, 344
+  size: 234, 325
+  orig: 234, 325
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 329, 186
+  size: 238, 212
+  orig: 238, 212
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 275, 85
+  size: 99, 69
+  orig: 99, 69
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 387, 51
+  size: 133, 186
+  orig: 133, 186
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 391, 749
+  size: 128, 266
+  orig: 128, 266
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 2
+  size: 383, 72
+  orig: 385, 75
+  offset: 1, 2
+  index: -1

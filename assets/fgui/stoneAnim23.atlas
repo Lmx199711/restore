@@ -1,0 +1,13 @@
+
+stoneAnim23.png
+size: 278,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fh
+  rotate: false
+  xy: 2, 2
+  size: 274, 297
+  orig: 299, 309
+  offset: 21, 7
+  index: -1

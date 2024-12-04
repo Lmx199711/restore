@@ -1,0 +1,20 @@
+
+mishu_8.png
+size: 437,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+08
+  rotate: true
+  xy: 2, 2
+  size: 140, 407
+  orig: 140, 407
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 411, 82
+  size: 60, 24
+  orig: 62, 26
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b314ec1a-438f-4142-9c5e-9cbd0fecaf3a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 142,
+  "height": 38,
+  "platformSettings": {},
+  "subMetas": {
+    "放假回家": {
+      "ver": "1.0.6",
+      "uuid": "b2a3fe4b-d078-400d-8bc2-eac29210b31a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b314ec1a-438f-4142-9c5e-9cbd0fecaf3a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 142,
+      "height": 38,
+      "rawWidth": 142,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

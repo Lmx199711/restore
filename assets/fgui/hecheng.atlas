@@ -1,0 +1,41 @@
+
+hecheng.png
+size: 558,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ia_700000053
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+q_1
+  rotate: false
+  xy: 516, 300
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+q_2
+  rotate: false
+  xy: 516, 405
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+q_3
+  rotate: false
+  xy: 516, 461
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+q_4
+  rotate: false
+  xy: 516, 350
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1

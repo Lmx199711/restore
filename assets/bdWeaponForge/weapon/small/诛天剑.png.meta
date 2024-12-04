@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1b32d16d-8e83-45ff-8ebf-c1d6eee935c5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 133,
+  "height": 131,
+  "platformSettings": {},
+  "subMetas": {
+    "诛天剑": {
+      "ver": "1.0.6",
+      "uuid": "b9aa2260-0257-4bc4-9d77-5cd885eb0f04",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1b32d16d-8e83-45ff-8ebf-c1d6eee935c5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0,
+      "trimX": 6,
+      "trimY": 4,
+      "width": 123,
+      "height": 123,
+      "rawWidth": 133,
+      "rawHeight": 131,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,100">
+  <displayList>
+    <image id="n4_vjv2" name="n4" src="vjv29" fileName="Image/MainHome_CoinImage_bg.png" xy="5,26" size="579,39" alpha="0.6" color="#000000"/>
+    <image id="n0_vjv2" name="n0" src="vjv2d" fileName="Image/MainHome_Earn_Time.png" xy="326,31">
+      <relation target="n2_vjv2" sidePair="left-right"/>
+    </image>
+    <image id="n1_vjv2" name="n1" src="vjv2e" fileName="Image/MainHome_Earn_Touch.png" xy="13,31"/>
+    <text id="n2_vjv2" name="labTouch" xy="93,29" size="207,35" fontSize="25" color="#ffffff" autoSize="none" text="1223万3234元/次">
+      <relation target="n1_vjv2" sidePair="left-left"/>
+      <relation target="n0_vjv2" sidePair="left-left"/>
+    </text>
+    <text id="n3_vjv2" name="labTime" xy="396,28" size="179,35" fontSize="25" color="#ffffff" autoSize="none" text="88万3849元/秒">
+      <relation target="n0_vjv2" sidePair="left-right"/>
+    </text>
+  </displayList>
+</component>

@@ -1,0 +1,20 @@
+
+HQYS.png
+size: 294,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L
+  rotate: false
+  xy: 2, 2
+  size: 142, 440
+  orig: 159, 452
+  offset: 9, 4
+  index: -1
+R
+  rotate: false
+  xy: 146, 6
+  size: 146, 436
+  orig: 161, 445
+  offset: 7, 3
+  index: -1

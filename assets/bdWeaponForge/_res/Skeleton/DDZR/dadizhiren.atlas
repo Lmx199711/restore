@@ -1,0 +1,153 @@
+
+dadizhiren.png
+size: 1653,1787
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0001_00000
+  rotate: false
+  xy: 900, 1140
+  size: 44, 19
+  orig: 658, 658
+  offset: 316, 196
+  index: -1
+0001_00001
+  rotate: false
+  xy: 1368, 1139
+  size: 283, 285
+  orig: 658, 658
+  offset: 190, 131
+  index: -1
+0001_00002
+  rotate: false
+  xy: 1305, 713
+  size: 308, 319
+  orig: 658, 658
+  offset: 178, 134
+  index: -1
+0001_00003
+  rotate: false
+  xy: 1192, 367
+  size: 320, 329
+  orig: 658, 658
+  offset: 180, 125
+  index: -1
+0001_00004
+  rotate: true
+  xy: 1004, 1034
+  size: 341, 362
+  orig: 658, 658
+  offset: 160, 119
+  index: -1
+0001_00005
+  rotate: true
+  xy: 779, 19
+  size: 355, 378
+  orig: 658, 658
+  offset: 150, 113
+  index: -1
+0001_00006
+  rotate: false
+  xy: 436, 17
+  size: 341, 378
+  orig: 658, 658
+  offset: 163, 115
+  index: -1
+0001_00007
+  rotate: true
+  xy: 790, 376
+  size: 320, 400
+  orig: 658, 658
+  offset: 182, 118
+  index: -1
+0001_00008
+  rotate: true
+  xy: 900, 698
+  size: 334, 403
+  orig: 658, 658
+  offset: 174, 113
+  index: -1
+0001_00009
+  rotate: true
+  xy: 2, 2
+  size: 343, 402
+  orig: 658, 658
+  offset: 178, 114
+  index: -1
+0001_00010
+  rotate: false
+  xy: 436, 397
+  size: 352, 408
+  orig: 658, 658
+  offset: 166, 114
+  index: -1
+0001_00011
+  rotate: true
+  xy: 479, 807
+  size: 352, 419
+  orig: 658, 658
+  offset: 170, 117
+  index: -1
+0001_00012
+  rotate: false
+  xy: 973, 1377
+  size: 384, 408
+  orig: 658, 658
+  offset: 144, 111
+  index: -1
+0001_00013
+  rotate: false
+  xy: 2, 347
+  size: 432, 462
+  orig: 658, 658
+  offset: 110, 107
+  index: -1
+0001_00014
+  rotate: false
+  xy: 2, 1288
+  size: 487, 497
+  orig: 658, 658
+  offset: 66, 85
+  index: -1
+0001_00015
+  rotate: false
+  xy: 2, 811
+  size: 475, 475
+  orig: 658, 658
+  offset: 86, 47
+  index: -1
+0001_00016
+  rotate: false
+  xy: 491, 1332
+  size: 480, 453
+  orig: 658, 658
+  offset: 90, 59
+  index: -1
+0001_00017
+  rotate: true
+  xy: 1159, 57
+  size: 308, 386
+  orig: 658, 658
+  offset: 178, 116
+  index: -1
+0001_00018
+  rotate: false
+  xy: 1359, 1426
+  size: 286, 359
+  orig: 658, 658
+  offset: 201, 134
+  index: -1
+0001_00019
+  rotate: false
+  xy: 1368, 1036
+  size: 133, 101
+  orig: 658, 658
+  offset: 263, 376
+  index: -1
+01
+  rotate: true
+  xy: 491, 1161
+  size: 169, 511
+  orig: 175, 520
+  offset: 3, 5
+  index: -1

@@ -1,0 +1,20 @@
+
+mishu_16.png
+size: 494,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20
+  rotate: true
+  xy: 2, 2
+  size: 400, 464
+  orig: 420, 468
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 468, 342
+  size: 60, 24
+  orig: 62, 26
+  offset: 1, 1
+  index: -1

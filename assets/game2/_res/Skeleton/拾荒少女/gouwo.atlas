@@ -1,0 +1,195 @@
+
+gouwo.png
+size: 617,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00000
+  rotate: true
+  xy: 246, 456
+  size: 31, 10
+  orig: 33, 12
+  offset: 1, 1
+  index: -1
+01_00001
+  rotate: false
+  xy: 116, 17
+  size: 62, 36
+  orig: 64, 38
+  offset: 1, 1
+  index: -1
+01_00002
+  rotate: true
+  xy: 454, 130
+  size: 111, 69
+  orig: 114, 71
+  offset: 2, 1
+  index: -1
+01_00003
+  rotate: true
+  xy: 116, 55
+  size: 135, 71
+  orig: 137, 73
+  offset: 1, 1
+  index: -1
+01_00004
+  rotate: true
+  xy: 172, 456
+  size: 168, 72
+  orig: 170, 74
+  offset: 1, 1
+  index: -1
+01_00005
+  rotate: true
+  xy: 189, 11
+  size: 193, 77
+  orig: 195, 79
+  offset: 1, 1
+  index: -1
+01_00006
+  rotate: false
+  xy: 319, 751
+  size: 197, 84
+  orig: 199, 86
+  offset: 1, 1
+  index: -1
+01_00007
+  rotate: true
+  xy: 362, 34
+  size: 207, 90
+  orig: 209, 92
+  offset: 1, 1
+  index: -1
+01_00008
+  rotate: true
+  xy: 518, 568
+  size: 220, 92
+  orig: 222, 94
+  offset: 1, 1
+  index: -1
+01_00009
+  rotate: true
+  xy: 268, 2
+  size: 235, 92
+  orig: 237, 94
+  offset: 1, 1
+  index: -1
+01_00010
+  rotate: true
+  xy: 521, 790
+  size: 239, 94
+  orig: 241, 96
+  offset: 1, 1
+  index: -1
+01_00011
+  rotate: true
+  xy: 350, 244
+  size: 243, 87
+  orig: 245, 89
+  offset: 1, 1
+  index: -1
+01_00012
+  rotate: true
+  xy: 439, 243
+  size: 244, 83
+  orig: 246, 85
+  offset: 1, 1
+  index: -1
+01_00013
+  rotate: true
+  xy: 525, 72
+  size: 246, 81
+  orig: 248, 83
+  offset: 1, 1
+  index: -1
+01_00014
+  rotate: true
+  xy: 524, 320
+  size: 246, 82
+  orig: 248, 84
+  offset: 1, 1
+  index: -1
+01_00015
+  rotate: true
+  xy: 179, 206
+  size: 248, 83
+  orig: 250, 85
+  offset: 1, 1
+  index: -1
+01_00016
+  rotate: true
+  xy: 264, 239
+  size: 248, 84
+  orig: 250, 86
+  offset: 1, 1
+  index: -1
+01_00017
+  rotate: false
+  xy: 266, 576
+  size: 249, 84
+  orig: 251, 86
+  offset: 1, 1
+  index: -1
+01_00018
+  rotate: false
+  xy: 246, 489
+  size: 249, 85
+  orig: 251, 87
+  offset: 1, 1
+  index: -1
+01_00019
+  rotate: true
+  xy: 91, 192
+  size: 250, 86
+  orig: 252, 88
+  offset: 1, 1
+  index: -1
+01_00020
+  rotate: false
+  xy: 266, 662
+  size: 250, 87
+  orig: 252, 89
+  offset: 1, 1
+  index: -1
+01_00021
+  rotate: true
+  xy: 2, 191
+  size: 251, 87
+  orig: 253, 89
+  offset: 1, 1
+  index: -1
+1
+  rotate: false
+  xy: 2, 770
+  size: 315, 259
+  orig: 315, 259
+  offset: 0, 0
+  index: -1
+a
+  rotate: true
+  xy: 2, 6
+  size: 183, 112
+  orig: 183, 112
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 319, 837
+  size: 200, 192
+  orig: 200, 193
+  offset: 0, 1
+  index: -1
+c
+  rotate: false
+  xy: 2, 444
+  size: 168, 180
+  orig: 169, 180
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 2, 626
+  size: 262, 142
+  orig: 262, 142
+  offset: 0, 0
+  index: -1

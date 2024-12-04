@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d2602396-8f17-47b9-b48d-ba86986798c5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 348,
+  "height": 284,
+  "platformSettings": {},
+  "subMetas": {
+    "石油坑2": {
+      "ver": "1.0.6",
+      "uuid": "bce5c80b-b088-4b92-b83e-a613b91163d5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d2602396-8f17-47b9-b48d-ba86986798c5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 348,
+      "height": 284,
+      "rawWidth": 348,
+      "rawHeight": 284,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

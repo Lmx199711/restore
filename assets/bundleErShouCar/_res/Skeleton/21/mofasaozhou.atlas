@@ -1,0 +1,27 @@
+
+mofasaozhou.png
+size: 709,774
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 2
+  size: 595, 580
+  orig: 658, 658
+  offset: 27, 32
+  index: -1
+02
+  rotate: false
+  xy: 515, 584
+  size: 192, 188
+  orig: 240, 239
+  offset: 24, 24
+  index: -1
+1
+  rotate: false
+  xy: 2, 597
+  size: 511, 175
+  orig: 511, 175
+  offset: 0, 0
+  index: -1

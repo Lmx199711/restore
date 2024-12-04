@@ -1,0 +1,213 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "核弹",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "核弹",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 6
+      },
+      {
+        "__id__": 7
+      }
+    ],
+    "_prefab": {
+      "__id__": 8
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 376,
+      "height": 109
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        48.036,
+        228.321,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_id": "12a73e8b-63ed-4f6d-a1d6-06551f70ba8c"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "baozha",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 256,
+      "height": 341
+    }
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "_preCacheMode": 0,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "db6de9e5-8e23-478b-8cd9-d3d97e35d754"
+    },
+    "node": {
+      "__id__": 2
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "422wYza0pKcIn/sGUmvYYT",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "d01d9f73-8e16-4f75-804d-b578f22c1b70"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "31c73ePuAVON64gwxImF51Q",
+    "bitId": "4001",
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": -49,
+        "y": 54.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -120,
+        "y": 36.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -147,
+        "y": 53.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -175,
+        "y": 50.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -188,
+        "y": 35.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -188,
+        "y": -13.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -163,
+        "y": -35.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -151,
+        "y": -34.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -124,
+        "y": -19.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -41,
+        "y": -49.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 102,
+        "y": -54.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 183,
+        "y": -22.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 188,
+        "y": -8.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 178,
+        "y": 9.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 109,
+        "y": 51.5,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

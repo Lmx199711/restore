@@ -1,0 +1,13 @@
+
+stoneAnim24.png
+size: 192,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laoh
+  rotate: false
+  xy: 2, 2
+  size: 188, 246
+  orig: 191, 246
+  offset: 3, 0
+  index: -1

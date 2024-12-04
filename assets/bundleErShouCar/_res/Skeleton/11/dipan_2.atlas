@@ -1,0 +1,27 @@
+
+dipan_2.png
+size: 1384,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+06
+  rotate: false
+  xy: 1174, 2
+  size: 208, 188
+  orig: 240, 231
+  offset: 14, 24
+  index: -1
+dipan_3
+  rotate: false
+  xy: 2, 13
+  size: 584, 177
+  orig: 586, 179
+  offset: 1, 1
+  index: -1
+dipan_4
+  rotate: false
+  xy: 588, 13
+  size: 584, 177
+  orig: 586, 179
+  offset: 1, 1
+  index: -1

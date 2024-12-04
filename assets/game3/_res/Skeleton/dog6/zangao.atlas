@@ -1,0 +1,104 @@
+
+zangao.png
+size: 684,1046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_body
+  rotate: true
+  xy: 323, 2
+  size: 242, 224
+  orig: 242, 224
+  offset: 0, 0
+  index: -1
+1_head_1
+  rotate: true
+  xy: 2, 498
+  size: 194, 319
+  orig: 194, 319
+  offset: 0, 0
+  index: -1
+1_head_2
+  rotate: true
+  xy: 2, 302
+  size: 194, 319
+  orig: 194, 319
+  offset: 0, 0
+  index: -1
+1_leg_L_1
+  rotate: false
+  xy: 549, 52
+  size: 122, 192
+  orig: 122, 192
+  offset: 0, 0
+  index: -1
+1_leg_L_2
+  rotate: false
+  xy: 323, 299
+  size: 79, 160
+  orig: 79, 160
+  offset: 0, 0
+  index: -1
+1_leg_R_1
+  rotate: false
+  xy: 2, 4
+  size: 113, 174
+  orig: 113, 174
+  offset: 0, 0
+  index: -1
+1_leg_R_2
+  rotate: false
+  xy: 117, 19
+  size: 100, 159
+  orig: 100, 159
+  offset: 0, 0
+  index: -1
+1_tail
+  rotate: true
+  xy: 2, 180
+  size: 120, 319
+  orig: 120, 319
+  offset: 0, 0
+  index: -1
+2_body
+  rotate: false
+  xy: 409, 378
+  size: 269, 308
+  orig: 269, 308
+  offset: 0, 0
+  index: -1
+3_body
+  rotate: true
+  xy: 2, 694
+  size: 350, 405
+  orig: 351, 405
+  offset: 1, 0
+  index: -1
+3_shetou
+  rotate: true
+  xy: 323, 258
+  size: 39, 53
+  orig: 42, 55
+  offset: 2, 1
+  index: -1
+3_tail
+  rotate: true
+  xy: 404, 246
+  size: 130, 255
+  orig: 130, 255
+  offset: 0, 0
+  index: -1
+wangzi
+  rotate: false
+  xy: 409, 688
+  size: 273, 356
+  orig: 273, 356
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 323, 461
+  size: 231, 84
+  orig: 233, 86
+  offset: 1, 1
+  index: -1

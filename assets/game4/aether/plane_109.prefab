@@ -1,0 +1,382 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "plane_109",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "行星-太阳",
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 5
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 12
+      },
+      {
+        "__id__": 13
+      },
+      {
+        "__id__": 14
+      }
+    ],
+    "_prefab": {
+      "__id__": 15
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 348,
+      "height": 348
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        1
+      ]
+    },
+    "_id": "8d07f7da-7626-49e6-80d0-00e495d5d873"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "道具11",
+    "_active": false,
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 272,
+      "height": 241
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -5,
+        37,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "85a6a7f0-49be-42d5-9788-934c67d4e14b"
+    },
+    "node": {
+      "__id__": 2
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "bbpDUT9r9NrIHSSK+1FArq",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "hp",
+    "_groupIndex": 1,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 6
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 9
+      },
+      {
+        "__id__": 10
+      }
+    ],
+    "_prefab": {
+      "__id__": 11
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 221,
+      "height": 30
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -97,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "groupIndex": 1
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bar",
+    "_objFlags": 512,
+    "_groupIndex": 1,
+    "_parent": {
+      "__id__": 5
+    },
+    "_components": [
+      {
+        "__id__": 7
+      }
+    ],
+    "_prefab": {
+      "__id__": 8
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 215,
+      "height": 21
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -107.5,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "groupIndex": 1
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_type": 1,
+    "_sizeMode": 0,
+    "node": {
+      "__id__": 6
+    },
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "8d6936bb-32d1-41ac-aa2f-3fa1cda75f0b"
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "90TPqdjjVKJpd9dznBaLQL",
+    "root": {
+      "__id__": 5
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_type": 1,
+    "_sizeMode": 0,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "ae2ed4c4-24b5-4c90-8c5a-fc3ab658b60d"
+    },
+    "node": {
+      "__id__": 5
+    }
+  },
+  {
+    "__type__": "cc.ProgressBar",
+    "_N$totalLength": 215,
+    "_N$barSprite": {
+      "__id__": 7
+    },
+    "node": {
+      "__id__": 5
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "edXF6v42RCK4PAWxQolq7K",
+    "root": {
+      "__id__": 5
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "826fceac-1906-44dc-a436-e573965fe746"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": -29,
+        "y": 154,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -64,
+        "y": 148,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -142,
+        "y": 91,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -158,
+        "y": -7,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -139,
+        "y": -70,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -119,
+        "y": -110,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -108,
+        "y": -128,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -75,
+        "y": -147,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 40,
+        "y": -154,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 74,
+        "y": -137,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 94,
+        "y": -117,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 114,
+        "y": -107,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 151,
+        "y": -35,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 145,
+        "y": 61,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 124,
+        "y": 93,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 65,
+        "y": 143,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "71767Nct+hBbZA1KU/5Gz+I",
+    "bitId": "109",
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

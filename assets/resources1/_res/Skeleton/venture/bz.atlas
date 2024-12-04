@@ -1,0 +1,34 @@
+
+bz.png
+size: 728,721
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 385
+  size: 544, 334
+  orig: 545, 334
+  offset: 1, 0
+  index: -1
+g1
+  rotate: false
+  xy: 2, 29
+  size: 409, 354
+  orig: 409, 371
+  offset: 0, 1
+  index: -1
+g2
+  rotate: true
+  xy: 548, 401
+  size: 318, 178
+  orig: 334, 184
+  offset: 9, 4
+  index: -1
+g3
+  rotate: true
+  xy: 413, 2
+  size: 381, 309
+  orig: 1054, 592
+  offset: 305, 272
+  index: -1

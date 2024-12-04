@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c1d8bf13-f593-4209-b12c-4ff0c67f8baf",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 953,
+  "height": 1668,
+  "platformSettings": {},
+  "subMetas": {
+    "拯救猪猪侠3": {
+      "ver": "1.0.6",
+      "uuid": "321aac64-c879-4731-a64d-279929ab13d8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c1d8bf13-f593-4209-b12c-4ff0c67f8baf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 953,
+      "height": 1668,
+      "rawWidth": 953,
+      "rawHeight": 1668,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

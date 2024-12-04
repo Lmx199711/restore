@@ -1,0 +1,55 @@
+
+ruk.png
+size: 148,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bh
+  rotate: false
+  xy: 78, 2
+  size: 62, 9
+  orig: 62, 9
+  offset: 0, 0
+  index: -1
+gz1
+  rotate: true
+  xy: 2, 2
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+hz1
+  rotate: true
+  xy: 78, 13
+  size: 63, 33
+  orig: 68, 33
+  offset: 2, 0
+  index: -1
+q1
+  rotate: false
+  xy: 113, 18
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+q2
+  rotate: false
+  xy: 113, 50
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+q3
+  rotate: false
+  xy: 113, 50
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+wz
+  rotate: true
+  xy: 55, 6
+  size: 70, 21
+  orig: 70, 21
+  offset: 0, 0
+  index: -1

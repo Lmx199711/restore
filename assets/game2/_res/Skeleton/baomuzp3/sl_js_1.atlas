@@ -1,0 +1,83 @@
+
+sl_js_1.png
+size: 1242,1242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12
+  rotate: false
+  xy: 336, 0
+  size: 213, 347
+  orig: 213, 347
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 0, 112
+  size: 334, 430
+  orig: 334, 430
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 651, 878
+  size: 530, 364
+  orig: 530, 364
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 651, 512
+  size: 530, 364
+  orig: 530, 364
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 558, 146
+  size: 530, 364
+  orig: 530, 364
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 0, 544
+  size: 304, 698
+  orig: 304, 698
+  offset: 0, 0
+  index: -1
+20_1
+  rotate: false
+  xy: 0, 59
+  size: 46, 14
+  orig: 46, 14
+  offset: 0, 0
+  index: -1
+20_2
+  rotate: false
+  xy: 0, 46
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+20_3
+  rotate: false
+  xy: 0, 75
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 336, 349
+  size: 220, 314
+  orig: 220, 314
+  offset: 0, 0
+  index: -1
+9_1
+  rotate: false
+  xy: 306, 665
+  size: 343, 577
+  orig: 343, 577
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0c9564da-367b-491f-aa80-858224c39373",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 165,
+  "height": 103,
+  "platformSettings": {},
+  "subMetas": {
+    "电视": {
+      "ver": "1.0.6",
+      "uuid": "f782a62b-0bf0-46cd-b74b-f1b47ac0015c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0c9564da-367b-491f-aa80-858224c39373",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 165,
+      "height": 103,
+      "rawWidth": 165,
+      "rawHeight": 103,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

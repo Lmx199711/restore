@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "36a327f4-17c9-42a9-8015-a698772b378e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 350,
+  "height": 333,
+  "platformSettings": {},
+  "subMetas": {
+    "打捞物品@图层70": {
+      "ver": "1.0.6",
+      "uuid": "797b51cc-8bd5-491e-877c-53ff53b8571c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "36a327f4-17c9-42a9-8015-a698772b378e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 350,
+      "height": 333,
+      "rawWidth": 350,
+      "rawHeight": 333,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

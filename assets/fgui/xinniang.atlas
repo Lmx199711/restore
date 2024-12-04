@@ -1,0 +1,41 @@
+
+xinniang.png
+size: 1525,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1038, 31
+  size: 485, 518
+  orig: 485, 518
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 574, 4
+  size: 545, 462
+  orig: 547, 464
+  offset: 1, 1
+  index: -1
+hua
+  rotate: false
+  xy: 2, 24
+  size: 570, 525
+  orig: 572, 527
+  offset: 1, 1
+  index: -1
+lei_L
+  rotate: true
+  xy: 78, 5
+  size: 17, 54
+  orig: 20, 57
+  offset: 2, 2
+  index: -1
+lei_R
+  rotate: true
+  xy: 2, 2
+  size: 20, 74
+  orig: 22, 78
+  offset: 1, 1
+  index: -1

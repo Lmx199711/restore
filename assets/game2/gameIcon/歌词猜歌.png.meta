@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d823f0c1-02f5-43a5-b1ad-e85a5ead0b97",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 147,
+  "height": 147,
+  "platformSettings": {},
+  "subMetas": {
+    "歌词猜歌": {
+      "ver": "1.0.6",
+      "uuid": "2b7e3dae-d2c1-4c08-b60d-9354fb136bd3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d823f0c1-02f5-43a5-b1ad-e85a5ead0b97",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 147,
+      "height": 147,
+      "rawWidth": 147,
+      "rawHeight": 147,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

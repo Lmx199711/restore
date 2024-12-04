@@ -1,0 +1,127 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "氧气 - 001",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "氧气瓶",
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 84,
+      "height": 272
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        151,
+        69,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.5,
+        0.5,
+        1
+      ]
+    },
+    "_id": "536bb56c-0d77-4fe0-8e21-2354839cc9dd"
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "35d7457b-ab78-4a33-993f-dbca8ee1a558"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "71767Nct+hBbZA1KU/5Gz+I",
+    "bitId": "1002",
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": -17,
+        "y": 136,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -19,
+        "y": 111,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -42,
+        "y": 92,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -42,
+        "y": -133,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 42,
+        "y": -134,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 42,
+        "y": 92,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 19,
+        "y": 111,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 17,
+        "y": 136,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

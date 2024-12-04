@@ -1,0 +1,146 @@
+
+xianyu.png
+size: 835,779
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+05_001
+  rotate: false
+  xy: 662, 451
+  size: 80, 104
+  orig: 128, 128
+  offset: 27, 11
+  index: -1
+05_002
+  rotate: false
+  xy: 747, 671
+  size: 79, 106
+  orig: 128, 128
+  offset: 28, 11
+  index: -1
+05_003
+  rotate: false
+  xy: 662, 557
+  size: 79, 109
+  orig: 128, 128
+  offset: 28, 11
+  index: -1
+05_004
+  rotate: false
+  xy: 517, 8
+  size: 80, 109
+  orig: 128, 128
+  offset: 26, 11
+  index: -1
+05_005
+  rotate: false
+  xy: 662, 668
+  size: 83, 109
+  orig: 128, 128
+  offset: 25, 12
+  index: -1
+05_006
+  rotate: false
+  xy: 599, 26
+  size: 87, 91
+  orig: 128, 128
+  offset: 23, 11
+  index: -1
+05_007
+  rotate: false
+  xy: 744, 485
+  size: 88, 89
+  orig: 128, 128
+  offset: 22, 11
+  index: -1
+05_008
+  rotate: true
+  xy: 662, 157
+  size: 92, 87
+  orig: 128, 128
+  offset: 19, 12
+  index: -1
+05_009
+  rotate: true
+  xy: 745, 316
+  size: 76, 86
+  orig: 128, 128
+  offset: 17, 12
+  index: -1
+05_010
+  rotate: false
+  xy: 745, 394
+  size: 85, 89
+  orig: 128, 128
+  offset: 17, 11
+  index: -1
+05_011
+  rotate: false
+  xy: 743, 576
+  size: 90, 90
+  orig: 128, 128
+  offset: 17, 11
+  index: -1
+05_012
+  rotate: false
+  xy: 688, 64
+  size: 85, 91
+  orig: 128, 128
+  offset: 18, 11
+  index: -1
+05_013
+  rotate: false
+  xy: 751, 224
+  size: 75, 90
+  orig: 128, 128
+  offset: 24, 12
+  index: -1
+05_014
+  rotate: false
+  xy: 662, 251
+  size: 79, 95
+  orig: 128, 128
+  offset: 21, 11
+  index: -1
+05_015
+  rotate: false
+  xy: 662, 348
+  size: 81, 101
+  orig: 128, 128
+  offset: 21, 11
+  index: -1
+145_15
+  rotate: false
+  xy: 738, 37
+  size: 27, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+145_15_1
+  rotate: false
+  xy: 751, 194
+  size: 25, 28
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+145_15_2
+  rotate: false
+  xy: 688, 30
+  size: 48, 32
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+a6
+  rotate: true
+  xy: 2, 2
+  size: 115, 513
+  orig: 116, 513
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 2, 119
+  size: 658, 658
+  orig: 658, 658
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+yuehui.png
+size: 2034,1370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_3
+  rotate: false
+  xy: 225, 13
+  size: 227, 519
+  orig: 227, 519
+  offset: 0, 0
+  index: -1
+11_1
+  rotate: false
+  xy: 1547, 771
+  size: 414, 271
+  orig: 414, 271
+  offset: 0, 0
+  index: -1
+11_2
+  rotate: true
+  xy: 1171, 8
+  size: 130, 210
+  orig: 130, 210
+  offset: 0, 0
+  index: -1
+11_dp
+  rotate: true
+  xy: 1963, 787
+  size: 255, 46
+  orig: 255, 46
+  offset: 0, 0
+  index: -1
+11bg
+  rotate: false
+  xy: 2, 534
+  size: 501, 834
+  orig: 501, 834
+  offset: 0, 0
+  index: -1
+12_2
+  rotate: false
+  xy: 454, 31
+  size: 279, 501
+  orig: 279, 501
+  offset: 0, 0
+  index: -1
+12_3
+  rotate: false
+  xy: 765, 746
+  size: 368, 622
+  orig: 368, 622
+  offset: 0, 0
+  index: -1
+2_1
+  rotate: false
+  xy: 1809, 40
+  size: 221, 568
+  orig: 221, 568
+  offset: 0, 0
+  index: -1
+2_2
+  rotate: false
+  xy: 505, 739
+  size: 258, 629
+  orig: 258, 629
+  offset: 0, 0
+  index: -1
+2_3
+  rotate: false
+  xy: 1135, 762
+  size: 410, 606
+  orig: 410, 606
+  offset: 0, 0
+  index: -1
+3_1
+  rotate: true
+  xy: 735, 31
+  size: 501, 256
+  orig: 501, 256
+  offset: 0, 0
+  index: -1
+3_2
+  rotate: true
+  xy: 764, 540
+  size: 197, 283
+  orig: 198, 285
+  offset: 1, 1
+  index: -1
+3_3
+  rotate: false
+  xy: 1342, 141
+  size: 168, 259
+  orig: 168, 260
+  offset: 0, 1
+  index: -1
+4_1
+  rotate: false
+  xy: 1661, 26
+  size: 146, 582
+  orig: 146, 582
+  offset: 0, 0
+  index: -1
+4_2
+  rotate: true
+  xy: 1049, 549
+  size: 195, 610
+  orig: 195, 610
+  offset: 0, 0
+  index: -1
+7_1
+  rotate: false
+  xy: 505, 534
+  size: 257, 203
+  orig: 257, 203
+  offset: 0, 0
+  index: -1
+7_2
+  rotate: false
+  xy: 1171, 140
+  size: 169, 260
+  orig: 169, 260
+  offset: 0, 0
+  index: -1
+7_3
+  rotate: false
+  xy: 1661, 1044
+  size: 371, 324
+  orig: 371, 324
+  offset: 0, 0
+  index: -1
+7_4
+  rotate: true
+  xy: 1661, 610
+  size: 159, 304
+  orig: 159, 304
+  offset: 0, 0
+  index: -1
+8_1
+  rotate: true
+  xy: 1171, 402
+  size: 145, 426
+  orig: 145, 426
+  offset: 0, 0
+  index: -1
+8_2
+  rotate: false
+  xy: 993, 77
+  size: 176, 461
+  orig: 176, 461
+  offset: 0, 0
+  index: -1
+cjl
+  rotate: false
+  xy: 2, 2
+  size: 221, 530
+  orig: 221, 530
+  offset: 0, 0
+  index: -1
+qi
+  rotate: false
+  xy: 1383, 25
+  size: 240, 114
+  orig: 256, 128
+  offset: 10, 6
+  index: -1

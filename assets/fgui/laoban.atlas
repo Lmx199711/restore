@@ -1,0 +1,125 @@
+
+laoban.png
+size: 318,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2321
+  rotate: true
+  xy: 192, 2
+  size: 146, 43
+  orig: 148, 45
+  offset: 1, 1
+  index: -1
+arm_L_2
+  rotate: false
+  xy: 237, 20
+  size: 34, 128
+  orig: 34, 128
+  offset: 0, 0
+  index: -1
+arm_R_2
+  rotate: true
+  xy: 192, 150
+  size: 29, 114
+  orig: 29, 114
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 192, 181
+  size: 86, 120
+  orig: 86, 122
+  offset: 0, 2
+  index: -1
+eye_L_1
+  rotate: true
+  xy: 111, 7
+  size: 21, 34
+  orig: 23, 36
+  offset: 1, 1
+  index: -1
+eye_L_2
+  rotate: false
+  xy: 237, 3
+  size: 25, 15
+  orig: 27, 17
+  offset: 1, 1
+  index: -1
+eye_R_1
+  rotate: false
+  xy: 147, 3
+  size: 19, 29
+  orig: 21, 31
+  offset: 1, 1
+  index: -1
+eye_R_2
+  rotate: true
+  xy: 273, 21
+  size: 23, 14
+  orig: 25, 16
+  offset: 1, 1
+  index: -1
+eyebow_L_1
+  rotate: false
+  xy: 147, 57
+  size: 39, 17
+  orig: 42, 19
+  offset: 1, 1
+  index: -1
+eyebow_L_2
+  rotate: true
+  xy: 300, 9
+  size: 35, 10
+  orig: 37, 12
+  offset: 1, 1
+  index: -1
+eyebow_R_1
+  rotate: true
+  xy: 172, 19
+  size: 36, 17
+  orig: 38, 19
+  offset: 1, 1
+  index: -1
+eyebow_R_2
+  rotate: false
+  xy: 136, 34
+  size: 34, 21
+  orig: 36, 23
+  offset: 1, 1
+  index: -1
+head_2
+  rotate: false
+  xy: 2, 76
+  size: 188, 191
+  orig: 188, 191
+  offset: 0, 0
+  index: -1
+leg_L_2
+  rotate: true
+  xy: 2, 20
+  size: 54, 107
+  orig: 54, 107
+  offset: 0, 0
+  index: -1
+leg_R_2
+  rotate: false
+  xy: 273, 46
+  size: 43, 102
+  orig: 45, 102
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: true
+  xy: 111, 30
+  size: 44, 23
+  orig: 46, 25
+  offset: 1, 1
+  index: -1
+mouth_2
+  rotate: false
+  xy: 264, 4
+  size: 34, 14
+  orig: 36, 16
+  offset: 1, 1
+  index: -1

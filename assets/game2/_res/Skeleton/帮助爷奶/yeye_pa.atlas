@@ -1,0 +1,41 @@
+
+yeye_pa.png
+size: 475,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 290, 2
+  size: 183, 279
+  orig: 183, 279
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 294, 283
+  size: 161, 225
+  orig: 161, 225
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 197
+  size: 286, 156
+  orig: 286, 165
+  offset: 0, 9
+  index: -1
+leg_L
+  rotate: true
+  xy: 2, 26
+  size: 169, 272
+  orig: 169, 272
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 2, 355
+  size: 153, 290
+  orig: 153, 290
+  offset: 0, 0
+  index: -1

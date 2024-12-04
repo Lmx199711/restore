@@ -1,0 +1,104 @@
+
+daxiang.png
+size: 742,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_10
+  rotate: false
+  xy: 2, 3
+  size: 277, 129
+  orig: 277, 129
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: true
+  xy: 310, 3
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+1_4_1
+  rotate: true
+  xy: 727, 62
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+1_4_10
+  rotate: false
+  xy: 611, 73
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+1_4_11
+  rotate: false
+  xy: 440, 10
+  size: 193, 42
+  orig: 194, 43
+  offset: 1, 0
+  index: -1
+1_4_2
+  rotate: true
+  xy: 281, 2
+  size: 20, 27
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+1_4_3
+  rotate: false
+  xy: 337, 9
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+1_4_4
+  rotate: true
+  xy: 681, 11
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+1_4_5
+  rotate: false
+  xy: 281, 24
+  size: 157, 108
+  orig: 157, 108
+  offset: 0, 0
+  index: -1
+1_4_6
+  rotate: false
+  xy: 635, 2
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+1_4_7
+  rotate: true
+  xy: 675, 90
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+1_4_8
+  rotate: false
+  xy: 440, 54
+  size: 169, 78
+  orig: 169, 78
+  offset: 0, 0
+  index: -1
+1_4_9
+  rotate: false
+  xy: 681, 34
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+sd1
+  rotate: true
+  xy: 611, 59
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1

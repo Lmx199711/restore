@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5a09ae3a-0f61-4112-90d7-e2ed47cab7de",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 461,
+  "height": 946,
+  "platformSettings": {},
+  "subMetas": {
+    "麻子身体胖1": {
+      "ver": "1.0.6",
+      "uuid": "a46f9986-f99a-4550-82b2-614fcda7e5ac",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5a09ae3a-0f61-4112-90d7-e2ed47cab7de",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 461,
+      "height": 946,
+      "rawWidth": 461,
+      "rawHeight": 946,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

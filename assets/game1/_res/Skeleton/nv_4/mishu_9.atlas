@@ -1,0 +1,34 @@
+
+mishu_9.png
+size: 500,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+09_1
+  rotate: false
+  xy: 475, 79
+  size: 23, 72
+  orig: 23, 72
+  offset: 0, 0
+  index: -1
+09_2
+  rotate: true
+  xy: 2, 2
+  size: 149, 401
+  orig: 149, 401
+  offset: 0, 0
+  index: -1
+09_3
+  rotate: false
+  xy: 405, 38
+  size: 68, 113
+  orig: 68, 113
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 405, 12
+  size: 60, 24
+  orig: 62, 26
+  offset: 1, 1
+  index: -1

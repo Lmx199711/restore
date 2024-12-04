@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6f3855b6-1c13-403e-87db-b3dc7b740f33",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1792,
+  "height": 768,
+  "platformSettings": {},
+  "subMetas": {
+    "Homework_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "7faf3ae6-5690-4fe9-b37e-13883e1fdf95",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6f3855b6-1c13-403e-87db-b3dc7b740f33",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1789,
+      "height": 766,
+      "rawWidth": 1792,
+      "rawHeight": 768,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

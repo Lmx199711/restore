@@ -1,0 +1,41 @@
+
+men.png
+size: 1562,694
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0001
+  rotate: false
+  xy: 1206, 332
+  size: 354, 360
+  orig: 658, 598
+  offset: 137, 127
+  index: -1
+0002
+  rotate: false
+  xy: 1206, 47
+  size: 285, 283
+  orig: 315, 315
+  offset: 15, 15
+  index: -1
+0003
+  rotate: false
+  xy: 2, 34
+  size: 658, 658
+  orig: 658, 658
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 662, 198
+  size: 542, 494
+  orig: 658, 494
+  offset: 49, 0
+  index: -1
+5
+  rotate: false
+  xy: 662, 2
+  size: 195, 194
+  orig: 256, 256
+  offset: 30, 31
+  index: -1

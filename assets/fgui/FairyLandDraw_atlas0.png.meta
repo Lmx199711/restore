@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2701a769-d4fd-4523-9672-178c0e3e2e08",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1984,
+  "height": 1404,
+  "platformSettings": {},
+  "subMetas": {
+    "FairyLandDraw_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "b84970c8-0c8e-4957-9089-c29a0c3cb7e1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2701a769-d4fd-4523-9672-178c0e3e2e08",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1982,
+      "height": 1401,
+      "rawWidth": 1984,
+      "rawHeight": 1404,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

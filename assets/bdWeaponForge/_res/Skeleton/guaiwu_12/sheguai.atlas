@@ -1,0 +1,41 @@
+
+sheguai.png
+size: 930,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 101, 37
+  size: 481, 575
+  orig: 481, 575
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 678, 5
+  size: 226, 133
+  orig: 228, 136
+  offset: 1, 2
+  index: -1
+shetou
+  rotate: true
+  xy: 813, 57
+  size: 174, 114
+  orig: 174, 114
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 678, 233
+  size: 285, 250
+  orig: 285, 250
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 2, 2
+  size: 516, 97
+  orig: 518, 99
+  offset: 1, 1
+  index: -1

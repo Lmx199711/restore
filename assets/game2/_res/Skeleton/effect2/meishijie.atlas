@@ -1,0 +1,20 @@
+
+meishijie.png
+size: 650,458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L
+  rotate: false
+  xy: 2, 2
+  size: 322, 454
+  orig: 322, 454
+  offset: 0, 0
+  index: -1
+R
+  rotate: false
+  xy: 326, 2
+  size: 322, 454
+  orig: 322, 454
+  offset: 0, 0
+  index: -1

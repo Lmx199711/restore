@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "97cd97ef-d99c-4849-bc95-09ae86711e30",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1002,
+  "height": 1668,
+  "platformSettings": {},
+  "subMetas": {
+    "Wedding_atlas_w41rx": {
+      "ver": "1.0.6",
+      "uuid": "5f82b220-dd21-45ec-bced-74d4f095a36b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "97cd97ef-d99c-4849-bc95-09ae86711e30",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1002,
+      "height": 1668,
+      "rawWidth": 1002,
+      "rawHeight": 1668,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

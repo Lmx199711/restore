@@ -1,0 +1,13 @@
+
+dianzan_down.png
+size: 84,40
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2222
+  rotate: false
+  xy: 2, 2
+  size: 80, 36
+  orig: 86, 41
+  offset: 3, 0
+  index: -1

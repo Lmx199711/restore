@@ -1,0 +1,27 @@
+
+long_2.png
+size: 592,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 498, 91
+  size: 131, 92
+  orig: 161, 92
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 2, 2
+  size: 246, 220
+  orig: 248, 223
+  offset: 1, 2
+  index: -1
+head_2
+  rotate: false
+  xy: 250, 5
+  size: 246, 217
+  orig: 248, 219
+  offset: 1, 1
+  index: -1

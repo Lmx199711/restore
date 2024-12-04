@@ -1,0 +1,111 @@
+
+paimainv.png
+size: 380,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0001_000
+  rotate: false
+  xy: 330, 102
+  size: 44, 32
+  orig: 77, 58
+  offset: 17, 14
+  index: -1
+0001_001
+  rotate: false
+  xy: 214, 3
+  size: 53, 40
+  orig: 77, 58
+  offset: 12, 9
+  index: -1
+0001_002
+  rotate: true
+  xy: 330, 136
+  size: 60, 48
+  orig: 77, 58
+  offset: 8, 6
+  index: -1
+0001_003
+  rotate: true
+  xy: 214, 45
+  size: 69, 55
+  orig: 77, 58
+  offset: 5, 1
+  index: -1
+0001_004
+  rotate: true
+  xy: 271, 54
+  size: 69, 56
+  orig: 77, 58
+  offset: 3, 1
+  index: -1
+0001_005
+  rotate: true
+  xy: 271, 125
+  size: 71, 57
+  orig: 77, 58
+  offset: 3, 1
+  index: -1
+arm_L
+  rotate: false
+  xy: 329, 58
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 214, 116
+  size: 55, 80
+  orig: 55, 80
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 198
+  size: 67, 335
+  orig: 67, 335
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 2
+  size: 159, 194
+  orig: 161, 196
+  offset: 1, 1
+  index: -1
+elbow_L
+  rotate: false
+  xy: 339, 209
+  size: 27, 56
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 360, 86
+  size: 13, 14
+  orig: 15, 16
+  offset: 1, 1
+  index: -1
+hand_L_1
+  rotate: true
+  xy: 339, 200
+  size: 7, 11
+  orig: 9, 13
+  offset: 1, 1
+  index: -1
+tool
+  rotate: true
+  xy: 271, 5
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 163, 7
+  size: 189, 49
+  orig: 189, 49
+  offset: 0, 0
+  index: -1

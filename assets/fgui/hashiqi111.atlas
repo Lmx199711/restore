@@ -1,0 +1,104 @@
+
+hashiqi111.png
+size: 564,1026
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_body
+  rotate: true
+  xy: 334, 757
+  size: 267, 208
+  orig: 267, 222
+  offset: 0, 14
+  index: -1
+1_head
+  rotate: true
+  xy: 277, 251
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+1_leg_L_1
+  rotate: false
+  xy: 377, 85
+  size: 81, 161
+  orig: 81, 161
+  offset: 0, 0
+  index: -1
+1_leg_L_2
+  rotate: true
+  xy: 377, 18
+  size: 65, 103
+  orig: 65, 103
+  offset: 0, 0
+  index: -1
+1_leg_R_1
+  rotate: true
+  xy: 403, 300
+  size: 80, 133
+  orig: 80, 133
+  offset: 0, 0
+  index: -1
+1_leg_R_2
+  rotate: true
+  xy: 403, 248
+  size: 50, 138
+  orig: 50, 138
+  offset: 0, 0
+  index: -1
+1_tail
+  rotate: true
+  xy: 460, 141
+  size: 105, 91
+  orig: 105, 91
+  offset: 0, 0
+  index: -1
+2_body
+  rotate: false
+  xy: 377, 491
+  size: 185, 264
+  orig: 185, 264
+  offset: 0, 0
+  index: -1
+2_qi
+  rotate: false
+  xy: 2, 596
+  size: 330, 428
+  orig: 330, 428
+  offset: 0, 0
+  index: -1
+3_body
+  rotate: true
+  xy: 2, 2
+  size: 234, 373
+  orig: 234, 373
+  offset: 0, 0
+  index: -1
+3_shetou
+  rotate: false
+  xy: 334, 712
+  size: 29, 43
+  orig: 31, 45
+  offset: 1, 1
+  index: -1
+3_tail
+  rotate: true
+  xy: 363, 382
+  size: 107, 195
+  orig: 107, 195
+  offset: 0, 0
+  index: -1
+wangzi
+  rotate: false
+  xy: 2, 238
+  size: 273, 356
+  orig: 273, 356
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 277, 363
+  size: 231, 84
+  orig: 233, 86
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,13 @@
+
+take7.png
+size: 101,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s7
+  rotate: false
+  xy: 2, 2
+  size: 97, 188
+  orig: 97, 188
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+jiandao.png
+size: 188,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 94, 5
+  size: 92, 155
+  orig: 94, 157
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 90, 158
+  orig: 92, 160
+  offset: 1, 1
+  index: -1

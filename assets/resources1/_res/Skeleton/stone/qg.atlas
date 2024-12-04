@@ -1,0 +1,41 @@
+
+qg.png
+size: 769,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianju
+  rotate: false
+  xy: 2, 2
+  size: 325, 288
+  orig: 325, 288
+  offset: 0, 0
+  index: -1
+dianju_1
+  rotate: false
+  xy: 329, 15
+  size: 304, 275
+  orig: 304, 277
+  offset: 0, 1
+  index: -1
+dianju_2
+  rotate: false
+  xy: 668, 134
+  size: 99, 156
+  orig: 99, 156
+  offset: 0, 0
+  index: -1
+dianju_4
+  rotate: false
+  xy: 635, 39
+  size: 31, 251
+  orig: 31, 251
+  offset: 0, 0
+  index: -1
+dianju_5
+  rotate: false
+  xy: 668, 88
+  size: 26, 44
+  orig: 26, 45
+  offset: 0, 1
+  index: -1

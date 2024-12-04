@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "name": "白旗",
+    "weight": 100,
+    "price": 200,
+    "scale": 0.7,
+    "rotate": 0,
+    "desc": "往好了想,还可以用来诈降麻痹敌人",
+    "showAnim": "weapon/stageShow/baiqi"
+  },
+  {
+    "id": 2,
+    "name": "木吉他",
+    "weight": 100,
+    "price": 200,
+    "scale": 0.8,
+    "rotate": 43,
+    "desc": "除了用来弹,还能用来砸",
+    "showAnim": "weapon/stageShow/jita"
+  },
+  {
+    "id": 3,
+    "name": "板砖",
+    "weight": 100,
+    "price": 200,
+    "scale": 0.5,
+    "rotate": 0,
+    "desc": "功夫再高,也怕板砖",
+    "showAnim": "weapon/stageShow/zhuankuai"
+  },
+  {
+    "id": 4,
+    "name": "诺鸡鸭",
+    "weight": 100,
+    "price": 200,
+    "scale": 0.8,
+    "rotate": 25,
+    "desc": "不当武器用还能拿来开核桃",
+    "showAnim": "weapon/stageShow/nuojiya"
+  },
+  {
+    "id": 5,
+    "name": "雨伞",
+    "weight": 100,
+    "price": 200,
+    "scale": 0.9,
+    "rotate": 73,
+    "desc": "每个人应该都拿这玩意当武器挥过",
+    "showAnim": "weapon/stageShow/yusan"
+  },
+  {
+    "id": 6,
+    "name": "尚方宝剑",
+    "weight": 80,
+    "price": 500,
+    "scale": 1,
+    "rotate": 235,
+    "desc": "宝剑在手,咸鱼我有",
+    "showAnim": "weapon/stageShow/xianyu"
+  },
+  {
+    "id": 7,
+    "name": "电锯",
+    "weight": 80,
+    "price": 500,
+    "scale": 0.9,
+    "rotate": 72,
+    "desc": "没电的情况下就是个单纯的铁片",
+    "showAnim": "weapon/stageShow/juzi"
+  },
+  {
+    "id": 8,
+    "name": "键盘",
+    "weight": 80,
+    "price": 500,
+    "scale": 0.8,
+    "rotate": 93,
+    "desc": "键盘侠主武器装备,出击!",
+    "showAnim": "weapon/stageShow/jianpan"
+  },
+  {
+    "id": 9,
+    "name": "咖喱棒",
+    "weight": 20,
+    "type": "是",
+    "way": "通过天工熔炉获得",
+    "price": 3000,
+    "scale": 0.9,
+    "rotate": 47,
+    "desc": "听说大喊它的名字就能从剑上发射光束",
+    "showAnim": "weapon/stageShow/galibang"
+  },
+  {
+    "id": 10,
+    "name": "屠龙刀",
+    "weight": 10,
+    "type": "是",
+    "way": "通过天工熔炉获得",
+    "price": 3000,
+    "scale": 1,
+    "rotate": -135,
+    "desc": "一刀99999不是梦",
+    "showAnim": "weapon/stageShow/tulongdao"
+  },
+  {
+    "id": 11,
+    "name": "倚天剑",
+    "weight": 10,
+    "type": "是",
+    "way": "通过天工熔炉获得",
+    "price": 3000,
+    "scale": 1,
+    "rotate": 237,
+    "desc": "比起屠龙刀,待遇似乎总是差了很多",
+    "showAnim": "weapon/stageShow/yitianjian"
+  },
+  {
+    "id": 12,
+    "name": "火麒麟",
+    "weight": 60,
+    "type": "是",
+    "price": 1000,
+    "scale": 1,
+    "rotate": 53,
+    "desc": "不要998,只要888,绝版火麒麟带回家",
+    "showAnim": "weapon/stageShow/huoqilin"
+  },
+  {
+    "id": 13,
+    "name": "斩舰刀",
+    "weight": 60,
+    "type": "是",
+    "price": 1000,
+    "scale": 1,
+    "rotate": 230,
+    "desc": "可以像切豆腐一样斩断所有材料",
+    "showAnim": "weapon/stageShow/zhanjiandao"
+  },
+  {
+    "id": 14,
+    "name": "无影剑",
+    "weight": 20,
+    "type": "是",
+    "way": "通过天工熔炉获得",
+    "price": 3000,
+    "scale": 1,
+    "rotate": 45,
+    "desc": "怎么只有个把？原来是无影剑",
+    "showAnim": "weapon/stageShow/wuyingjian"
+  },
+  {
+    "id": 15,
+    "name": "激流村雨",
+    "weight": 40,
+    "type": "是",
+    "price": 1500,
+    "scale": 1,
+    "rotate": 53,
+    "desc": "独特的剑鞘设计,让你同时享受两种居合",
+    "showAnim": "weapon/stageShow/jiliucunyu"
+  },
+  {
+    "id": 16,
+    "name": "天羽羽斩",
+    "weight": 40,
+    "type": "是",
+    "price": 1500,
+    "scale": 1,
+    "rotate": 50,
+    "desc": "这把剑又叫天习习习习斩",
+    "showAnim": "weapon/stageShow/tianyuyuzhan"
+  }
+]

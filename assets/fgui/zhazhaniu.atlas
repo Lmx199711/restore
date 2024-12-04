@@ -1,0 +1,55 @@
+
+zhazhaniu.png
+size: 503,295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niu_j1
+  rotate: false
+  xy: 369, 24
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+niu_j2
+  rotate: false
+  xy: 369, 153
+  size: 132, 140
+  orig: 132, 140
+  offset: 0, 0
+  index: -1
+niu_j3
+  rotate: true
+  xy: 2, 9
+  size: 72, 116
+  orig: 72, 116
+  offset: 0, 0
+  index: -1
+niu_j4
+  rotate: true
+  xy: 120, 23
+  size: 58, 108
+  orig: 58, 108
+  offset: 0, 0
+  index: -1
+niu_kj1
+  rotate: false
+  xy: 230, 2
+  size: 127, 68
+  orig: 127, 68
+  offset: 0, 0
+  index: -1
+niu_st
+  rotate: true
+  xy: 247, 72
+  size: 221, 120
+  orig: 221, 120
+  offset: 0, 0
+  index: -1
+niu_tou
+  rotate: false
+  xy: 2, 83
+  size: 243, 210
+  orig: 243, 210
+  offset: 0, 0
+  index: -1

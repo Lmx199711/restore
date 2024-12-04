@@ -1,0 +1,76 @@
+
+bianyixie.png
+size: 1342,357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 560, 99
+  size: 253, 256
+  orig: 253, 256
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 1039, 57
+  size: 197, 298
+  orig: 197, 298
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 9
+  size: 556, 346
+  orig: 556, 346
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: true
+  xy: 1251, 22
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 906, 113
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1
+leg_L_1
+  rotate: false
+  xy: 1238, 84
+  size: 100, 271
+  orig: 100, 271
+  offset: 0, 0
+  index: -1
+leg_L_2
+  rotate: true
+  xy: 1039, 2
+  size: 53, 210
+  orig: 53, 210
+  offset: 0, 0
+  index: -1
+leg_R_1
+  rotate: false
+  xy: 906, 179
+  size: 98, 176
+  orig: 98, 176
+  offset: 0, 0
+  index: -1
+leg_R_2
+  rotate: false
+  xy: 815, 117
+  size: 89, 238
+  orig: 89, 238
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 560, 6
+  size: 477, 91
+  orig: 479, 93
+  offset: 1, 1
+  index: -1

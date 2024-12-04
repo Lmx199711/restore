@@ -1,0 +1,160 @@
+
+shenlinzhiren.png
+size: 2030,1985
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 404, 188
+  size: 188, 505
+  orig: 196, 514
+  offset: 4, 5
+  index: -1
+03_00000
+  rotate: false
+  xy: 1604, 2
+  size: 391, 390
+  orig: 400, 400
+  offset: 9, 9
+  index: -1
+03_00001
+  rotate: true
+  xy: 422, 1182
+  size: 399, 400
+  orig: 400, 400
+  offset: 1, 0
+  index: -1
+03_00002
+  rotate: false
+  xy: 404, 378
+  size: 398, 400
+  orig: 400, 400
+  offset: 2, 0
+  index: -1
+03_00003
+  rotate: false
+  xy: 2, 877
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+03_00004
+  rotate: false
+  xy: 422, 1583
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+03_00005
+  rotate: false
+  xy: 1606, 787
+  size: 399, 392
+  orig: 400, 400
+  offset: 1, 0
+  index: -1
+03_00006
+  rotate: true
+  xy: 824, 1182
+  size: 399, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+03_00007
+  rotate: false
+  xy: 2, 475
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+03_00008
+  rotate: false
+  xy: 824, 1583
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+03_00009
+  rotate: false
+  xy: 2, 73
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+03_00010
+  rotate: false
+  xy: 1226, 1583
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+03_00011
+  rotate: false
+  xy: 1628, 1583
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+03_00012
+  rotate: false
+  xy: 1226, 1182
+  size: 400, 399
+  orig: 400, 400
+  offset: 0, 1
+  index: -1
+03_00013
+  rotate: false
+  xy: 806, 780
+  size: 398, 400
+  orig: 400, 400
+  offset: 2, 0
+  index: -1
+03_00014
+  rotate: false
+  xy: 804, 378
+  size: 398, 400
+  orig: 400, 400
+  offset: 2, 0
+  index: -1
+03_00015
+  rotate: false
+  xy: 1628, 1181
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+03_00016
+  rotate: false
+  xy: 404, 780
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+03_00017
+  rotate: false
+  xy: 1204, 379
+  size: 398, 399
+  orig: 400, 400
+  offset: 2, 0
+  index: -1
+03_00018
+  rotate: false
+  xy: 1206, 780
+  size: 398, 400
+  orig: 400, 400
+  offset: 2, 0
+  index: -1
+03_00019
+  rotate: false
+  xy: 1606, 394
+  size: 398, 391
+  orig: 400, 400
+  offset: 2, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 1279
+  size: 418, 704
+  orig: 423, 704
+  offset: 3, 0
+  index: -1

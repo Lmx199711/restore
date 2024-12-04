@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2b4d6896-0560-4479-8b88-dd64f36444b1",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1002,
+  "height": 764,
+  "platformSettings": {},
+  "subMetas": {
+    "木地板": {
+      "ver": "1.0.6",
+      "uuid": "72921163-5555-4719-8d46-5bb501e5f8c9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2b4d6896-0560-4479-8b88-dd64f36444b1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 1002,
+      "height": 763,
+      "rawWidth": 1002,
+      "rawHeight": 764,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

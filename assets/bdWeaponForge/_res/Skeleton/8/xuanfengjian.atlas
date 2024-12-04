@@ -1,0 +1,146 @@
+
+xuanfengjian.png
+size: 1183,1082
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00000
+  rotate: true
+  xy: 719, 3
+  size: 229, 230
+  orig: 246, 231
+  offset: 8, 0
+  index: -1
+01_00001
+  rotate: false
+  xy: 493, 9
+  size: 224, 223
+  orig: 246, 231
+  offset: 11, 5
+  index: -1
+01_00006
+  rotate: false
+  xy: 493, 9
+  size: 224, 223
+  orig: 246, 231
+  offset: 11, 5
+  index: -1
+01_00002
+  rotate: false
+  xy: 247, 14
+  size: 244, 218
+  orig: 246, 231
+  offset: 1, 6
+  index: -1
+01_00003
+  rotate: false
+  xy: 247, 14
+  size: 244, 218
+  orig: 246, 231
+  offset: 1, 6
+  index: -1
+01_00004
+  rotate: false
+  xy: 951, 2
+  size: 230, 230
+  orig: 246, 231
+  offset: 8, 0
+  index: -1
+01_00005
+  rotate: false
+  xy: 2, 19
+  size: 243, 217
+  orig: 246, 231
+  offset: 2, 7
+  index: -1
+03
+  rotate: true
+  xy: 381, 234
+  size: 195, 754
+  orig: 208, 765
+  offset: 7, 0
+  index: -1
+04_00000
+  rotate: true
+  xy: 371, 635
+  size: 163, 370
+  orig: 236, 425
+  offset: 39, 19
+  index: -1
+04_00001
+  rotate: true
+  xy: 2, 654
+  size: 182, 367
+  orig: 236, 425
+  offset: 29, 25
+  index: -1
+04_00002
+  rotate: true
+  xy: 2, 838
+  size: 157, 367
+  orig: 236, 425
+  offset: 43, 25
+  index: -1
+04_00003
+  rotate: true
+  xy: 371, 802
+  size: 158, 363
+  orig: 236, 425
+  offset: 41, 30
+  index: -1
+04_00004
+  rotate: true
+  xy: 736, 800
+  size: 160, 367
+  orig: 236, 425
+  offset: 41, 22
+  index: -1
+04_00005
+  rotate: true
+  xy: 2, 452
+  size: 181, 369
+  orig: 236, 425
+  offset: 33, 18
+  index: -1
+04_00006
+  rotate: true
+  xy: 373, 438
+  size: 183, 372
+  orig: 236, 425
+  offset: 30, 16
+  index: -1
+04_00007
+  rotate: true
+  xy: 743, 623
+  size: 175, 372
+  orig: 236, 425
+  offset: 37, 16
+  index: -1
+04_00008
+  rotate: true
+  xy: 747, 431
+  size: 190, 375
+  orig: 236, 425
+  offset: 29, 14
+  index: -1
+04_00009
+  rotate: true
+  xy: 2, 238
+  size: 198, 377
+  orig: 236, 425
+  offset: 21, 11
+  index: -1
+1
+  rotate: true
+  xy: 2, 997
+  size: 83, 468
+  orig: 83, 468
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 472, 962
+  size: 118, 502
+  orig: 123, 507
+  offset: 3, 3
+  index: -1

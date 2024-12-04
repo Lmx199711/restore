@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "fac49842-d7ec-4a85-a8e1-ede9d277fea5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 568,
+  "height": 465,
+  "platformSettings": {},
+  "subMetas": {
+    "油田投资": {
+      "ver": "1.0.6",
+      "uuid": "01fe460e-822f-4396-ba66-a9affb1fe97a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fac49842-d7ec-4a85-a8e1-ede9d277fea5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 567,
+      "height": 464,
+      "rawWidth": 568,
+      "rawHeight": 465,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

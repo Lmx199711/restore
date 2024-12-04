@@ -1,0 +1,146 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "太空海盗",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "飞船",
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 339,
+      "height": 324
+    },
+    "_id": "8c7e2fe2-fd8f-4fa2-bd29-d13aac9d103c"
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "a5baaab3-e2bc-42d3-b0ff-1a9fc42773be"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": 64.5,
+        "y": 162,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -18.5,
+        "y": 131,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 8.5,
+        "y": 102,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -59.5,
+        "y": 93,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -67.5,
+        "y": 141,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -169.5,
+        "y": 64,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -89.5,
+        "y": 48,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -156.5,
+        "y": -114,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -103.5,
+        "y": -162,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 46.5,
+        "y": -56,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 65.5,
+        "y": 11,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 155.5,
+        "y": 1,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 153.5,
+        "y": 111,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 68.5,
+        "y": 78,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 121.5,
+        "y": 154,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "71767Nct+hBbZA1KU/5Gz+I",
+    "bitId": "5002",
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

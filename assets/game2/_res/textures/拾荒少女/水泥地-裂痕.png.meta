@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "fde96a83-79fb-47a1-b7ee-599f9db170d7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1002,
+  "height": 490,
+  "platformSettings": {},
+  "subMetas": {
+    "水泥地-裂痕": {
+      "ver": "1.0.6",
+      "uuid": "5e0fb2fd-70e3-406c-8b48-77a6daf8746c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fde96a83-79fb-47a1-b7ee-599f9db170d7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 41,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1002,
+      "height": 408,
+      "rawWidth": 1002,
+      "rawHeight": 490,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

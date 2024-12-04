@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9406f741-ebed-4dc2-be64-17b2068b3e94",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 221,
+  "height": 153,
+  "platformSettings": {},
+  "subMetas": {
+    "六灵宏广车标": {
+      "ver": "1.0.6",
+      "uuid": "2d265a57-ba50-4b2f-86a1-aced6def826b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9406f741-ebed-4dc2-be64-17b2068b3e94",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 221,
+      "height": 153,
+      "rawWidth": 221,
+      "rawHeight": 153,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

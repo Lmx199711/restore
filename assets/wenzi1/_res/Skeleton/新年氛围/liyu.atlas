@@ -1,0 +1,13 @@
+
+liyu.png
+size: 88,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 2
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1

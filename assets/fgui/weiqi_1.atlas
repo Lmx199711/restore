@@ -1,0 +1,48 @@
+
+weiqi_1.png
+size: 1581,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_00000
+  rotate: false
+  xy: 538, 192
+  size: 517, 199
+  orig: 600, 600
+  offset: 32, 285
+  index: -1
+001_00001
+  rotate: false
+  xy: 1057, 4
+  size: 504, 190
+  orig: 600, 600
+  offset: 24, 286
+  index: -1
+001_00002
+  rotate: false
+  xy: 504, 5
+  size: 498, 185
+  orig: 600, 600
+  offset: 18, 280
+  index: -1
+001_00003
+  rotate: false
+  xy: 2, 2
+  size: 500, 188
+  orig: 600, 600
+  offset: 15, 282
+  index: -1
+001_00004
+  rotate: false
+  xy: 1057, 196
+  size: 522, 195
+  orig: 600, 600
+  offset: 13, 282
+  index: -1
+001_00005
+  rotate: false
+  xy: 2, 192
+  size: 534, 199
+  orig: 600, 600
+  offset: 12, 283
+  index: -1

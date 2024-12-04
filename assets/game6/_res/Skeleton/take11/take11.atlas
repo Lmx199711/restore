@@ -1,0 +1,13 @@
+
+take11.png
+size: 197,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sz4
+  rotate: false
+  xy: 2, 2
+  size: 193, 220
+  orig: 193, 220
+  offset: 0, 0
+  index: -1

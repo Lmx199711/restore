@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "60bf3624-44d8-425a-9d48-33aa577f4b1b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 952,
+  "height": 316,
+  "platformSettings": {},
+  "subMetas": {
+    "LevelRole_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "ea6e62cf-e562-4090-9a50-b48529db418d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "60bf3624-44d8-425a-9d48-33aa577f4b1b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 1.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 948,
+      "height": 313,
+      "rawWidth": 952,
+      "rawHeight": 316,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

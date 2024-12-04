@@ -1,0 +1,27 @@
+
+juanzhou.png
+size: 760,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 2
+  size: 461, 47
+  orig: 461, 47
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 381, 52
+  size: 377, 410
+  orig: 377, 410
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2, 51
+  size: 377, 411
+  orig: 377, 411
+  offset: 0, 0
+  index: -1

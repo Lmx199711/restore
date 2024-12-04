@@ -1,0 +1,34 @@
+
+SGTF.png
+size: 849,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 373, 35
+  size: 303, 328
+  orig: 303, 328
+  offset: 0, 0
+  index: -1
+elbow_R
+  rotate: true
+  xy: 678, 160
+  size: 203, 169
+  orig: 203, 169
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 678, 61
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+yizi
+  rotate: false
+  xy: 2, 2
+  size: 369, 361
+  orig: 369, 361
+  offset: 0, 0
+  index: -1

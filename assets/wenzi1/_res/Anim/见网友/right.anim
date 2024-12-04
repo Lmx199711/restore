@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "right",
+  "_duration": 0.25,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            227.5,
+            3,
+            0
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            -89.358,
+            526.504,
+            0
+          ]
+        }
+      ]
+    }
+  }
+}

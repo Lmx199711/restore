@@ -1,0 +1,62 @@
+
+nianturenou.png
+size: 479,1006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 2, 101
+  size: 149, 356
+  orig: 149, 356
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 153, 150
+  size: 156, 307
+  orig: 156, 307
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 459
+  size: 378, 545
+  orig: 378, 545
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 382, 471
+  size: 51, 28
+  orig: 53, 30
+  offset: 1, 1
+  index: -1
+leg_L
+  rotate: false
+  xy: 311, 184
+  size: 150, 273
+  orig: 150, 273
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 153, 2
+  size: 146, 187
+  orig: 146, 187
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 64
+  size: 29, 35
+  orig: 31, 37
+  offset: 1, 1
+  index: -1
+yy
+  rotate: true
+  xy: 382, 501
+  size: 503, 95
+  orig: 505, 98
+  offset: 1, 2
+  index: -1

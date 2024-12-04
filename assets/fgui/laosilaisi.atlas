@@ -1,0 +1,20 @@
+
+laosilaisi.png
+size: 854,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 600, 27
+  size: 257, 252
+  orig: 268, 265
+  offset: 5, 7
+  index: -1
+02
+  rotate: false
+  xy: 2, 2
+  size: 596, 282
+  orig: 598, 284
+  offset: 1, 1
+  index: -1

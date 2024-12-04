@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "83da87a1-0314-4f0a-9d56-0d710e3edb5c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 196,
+  "height": 514,
+  "platformSettings": {},
+  "subMetas": {
+    "森林之刃": {
+      "ver": "1.0.6",
+      "uuid": "5e260f01-bb1a-4a51-8512-c0dbf3ce237a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "83da87a1-0314-4f0a-9d56-0d710e3edb5c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 196,
+      "height": 514,
+      "rawWidth": 196,
+      "rawHeight": 514,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

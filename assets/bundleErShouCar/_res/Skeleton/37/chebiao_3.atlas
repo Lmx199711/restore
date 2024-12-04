@@ -1,0 +1,27 @@
+
+chebiao_3.png
+size: 292,374
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+06
+  rotate: false
+  xy: 69, 184
+  size: 208, 188
+  orig: 240, 231
+  offset: 14, 24
+  index: -1
+a
+  rotate: false
+  xy: 69, 29
+  size: 221, 153
+  orig: 223, 155
+  offset: 1, 1
+  index: -1
+b
+  rotate: false
+  xy: 2, 2
+  size: 65, 370
+  orig: 69, 376
+  offset: 2, 3
+  index: -1

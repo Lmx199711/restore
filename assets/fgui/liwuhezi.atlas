@@ -1,0 +1,48 @@
+
+liwuhezi.png
+size: 244,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 115, 2
+  size: 61, 68
+  orig: 63, 70
+  offset: 1, 1
+  index: -1
+02
+  rotate: false
+  xy: 2, 80
+  size: 126, 80
+  orig: 139, 89
+  offset: 5, 7
+  index: -1
+03
+  rotate: false
+  xy: 2, 8
+  size: 111, 70
+  orig: 113, 72
+  offset: 1, 1
+  index: -1
+04
+  rotate: true
+  xy: 178, 5
+  size: 65, 49
+  orig: 67, 51
+  offset: 1, 1
+  index: -1
+05
+  rotate: false
+  xy: 130, 87
+  size: 72, 73
+  orig: 74, 75
+  offset: 1, 1
+  index: -1
+yy
+  rotate: true
+  xy: 204, 72
+  size: 88, 38
+  orig: 88, 38
+  offset: 0, 0
+  index: -1

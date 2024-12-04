@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5cfd9ee2-c47a-4ba6-9a3f-3d6cfc42a8d1",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1504,
+  "height": 1132,
+  "platformSettings": {},
+  "subMetas": {
+    "WeaponRank_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "1a9ce0ba-0a0f-44ea-9053-e60f541b902a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5cfd9ee2-c47a-4ba6-9a3f-3d6cfc42a8d1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1499,
+      "height": 1130,
+      "rawWidth": 1504,
+      "rawHeight": 1132,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

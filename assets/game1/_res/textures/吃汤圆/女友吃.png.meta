@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d3346929-9898-48a7-ae7b-f48dc6a0d16b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 106,
+  "height": 39,
+  "platformSettings": {},
+  "subMetas": {
+    "女友吃": {
+      "ver": "1.0.6",
+      "uuid": "94e115e2-aa64-4e92-b3d8-14facfe1cc85",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d3346929-9898-48a7-ae7b-f48dc6a0d16b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 106,
+      "height": 39,
+      "rawWidth": 106,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

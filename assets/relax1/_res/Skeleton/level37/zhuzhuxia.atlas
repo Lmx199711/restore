@@ -1,0 +1,111 @@
+
+zhuzhuxia.png
+size: 613,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L_1
+  rotate: true
+  xy: 453, 851
+  size: 171, 146
+  orig: 171, 146
+  offset: 0, 0
+  index: -1
+arm_R_1
+  rotate: true
+  xy: 453, 675
+  size: 174, 142
+  orig: 174, 142
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 342, 2
+  size: 252, 269
+  orig: 252, 269
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 299, 256
+  size: 322, 269
+  orig: 322, 269
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 97, 103
+  size: 243, 40
+  orig: 245, 42
+  offset: 1, 1
+  index: -1
+eye_2
+  rotate: true
+  xy: 570, 369
+  size: 209, 34
+  orig: 211, 36
+  offset: 1, 1
+  index: -1
+eyebow_1
+  rotate: false
+  xy: 97, 69
+  size: 175, 32
+  orig: 177, 34
+  offset: 1, 1
+  index: -1
+head_1
+  rotate: true
+  xy: 2, 145
+  size: 483, 295
+  orig: 485, 297
+  offset: 1, 1
+  index: -1
+head_A
+  rotate: false
+  xy: 2, 630
+  size: 449, 392
+  orig: 449, 392
+  offset: 0, 0
+  index: -1
+leg_L_1
+  rotate: true
+  xy: 453, 580
+  size: 93, 138
+  orig: 95, 140
+  offset: 1, 1
+  index: -1
+leg_R_1
+  rotate: false
+  xy: 2, 5
+  size: 93, 138
+  orig: 95, 140
+  offset: 1, 1
+  index: -1
+mouth_1
+  rotate: true
+  xy: 570, 260
+  size: 107, 31
+  orig: 109, 33
+  offset: 1, 1
+  index: -1
+mouth_2
+  rotate: true
+  xy: 299, 145
+  size: 109, 35
+  orig: 111, 37
+  offset: 1, 1
+  index: -1
+mouth_3
+  rotate: true
+  xy: 274, 11
+  size: 90, 35
+  orig: 92, 37
+  offset: 1, 1
+  index: -1
+nose_1
+  rotate: false
+  xy: 299, 582
+  size: 87, 46
+  orig: 89, 48
+  offset: 1, 1
+  index: -1

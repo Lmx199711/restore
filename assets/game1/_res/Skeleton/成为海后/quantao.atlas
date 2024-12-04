@@ -1,0 +1,55 @@
+
+quantao.png
+size: 575,651
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 2, 529
+  size: 120, 157
+  orig: 120, 157
+  offset: 0, 0
+  index: -1
+01_000
+  rotate: false
+  xy: 161, 513
+  size: 184, 136
+  orig: 186, 138
+  offset: 1, 1
+  index: -1
+01_001
+  rotate: false
+  xy: 347, 480
+  size: 226, 169
+  orig: 228, 171
+  offset: 1, 1
+  index: -1
+01_002
+  rotate: false
+  xy: 2, 308
+  size: 256, 203
+  orig: 258, 205
+  offset: 1, 1
+  index: -1
+01_003
+  rotate: false
+  xy: 260, 247
+  size: 293, 231
+  orig: 295, 233
+  offset: 1, 1
+  index: -1
+01_004
+  rotate: true
+  xy: 2, 10
+  size: 296, 236
+  orig: 298, 238
+  offset: 1, 1
+  index: -1
+01_005
+  rotate: false
+  xy: 240, 2
+  size: 305, 243
+  orig: 307, 245
+  offset: 1, 1
+  index: -1

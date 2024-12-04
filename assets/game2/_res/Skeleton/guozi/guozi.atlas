@@ -1,0 +1,279 @@
+
+guozi.png
+size: 1068,665
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_000
+  rotate: true
+  xy: 931, 435
+  size: 27, 16
+  orig: 102, 102
+  offset: 37, 44
+  index: -1
+01_001
+  rotate: true
+  xy: 931, 464
+  size: 43, 22
+  orig: 102, 102
+  offset: 30, 42
+  index: -1
+01_002
+  rotate: true
+  xy: 868, 2
+  size: 47, 24
+  orig: 102, 102
+  offset: 29, 45
+  index: -1
+01_003
+  rotate: false
+  xy: 984, 68
+  size: 49, 28
+  orig: 102, 102
+  offset: 29, 44
+  index: -1
+01_004
+  rotate: true
+  xy: 948, 13
+  size: 53, 31
+  orig: 102, 102
+  offset: 28, 43
+  index: -1
+01_005
+  rotate: false
+  xy: 1012, 371
+  size: 54, 31
+  orig: 102, 102
+  offset: 28, 43
+  index: -1
+01_006
+  rotate: false
+  xy: 929, 114
+  size: 57, 35
+  orig: 102, 102
+  offset: 25, 41
+  index: -1
+01_007
+  rotate: true
+  xy: 1028, 502
+  size: 52, 38
+  orig: 102, 102
+  offset: 30, 40
+  index: -1
+01_008
+  rotate: false
+  xy: 868, 51
+  size: 53, 40
+  orig: 102, 102
+  offset: 30, 41
+  index: -1
+01_009
+  rotate: false
+  xy: 1012, 404
+  size: 54, 40
+  orig: 102, 102
+  offset: 29, 41
+  index: -1
+01_010
+  rotate: false
+  xy: 894, 6
+  size: 52, 43
+  orig: 102, 102
+  offset: 28, 39
+  index: -1
+01_011
+  rotate: false
+  xy: 929, 68
+  size: 53, 44
+  orig: 102, 102
+  offset: 28, 38
+  index: -1
+01_012
+  rotate: true
+  xy: 981, 14
+  size: 52, 43
+  orig: 102, 102
+  offset: 29, 39
+  index: -1
+01_013
+  rotate: false
+  xy: 988, 98
+  size: 53, 47
+  orig: 102, 102
+  offset: 29, 37
+  index: -1
+01_014
+  rotate: true
+  xy: 1018, 446
+  size: 54, 48
+  orig: 102, 102
+  offset: 29, 38
+  index: -1
+01_015
+  rotate: false
+  xy: 991, 147
+  size: 59, 46
+  orig: 102, 102
+  offset: 23, 40
+  index: -1
+01_016
+  rotate: false
+  xy: 955, 506
+  size: 71, 48
+  orig: 102, 102
+  offset: 18, 41
+  index: -1
+01_017
+  rotate: false
+  xy: 868, 509
+  size: 85, 51
+  orig: 102, 102
+  offset: 11, 36
+  index: -1
+01_018
+  rotate: false
+  xy: 970, 610
+  size: 94, 53
+  orig: 102, 102
+  offset: 6, 34
+  index: -1
+01_019
+  rotate: false
+  xy: 868, 562
+  size: 97, 51
+  orig: 102, 102
+  offset: 4, 34
+  index: -1
+01_020
+  rotate: false
+  xy: 868, 615
+  size: 100, 48
+  orig: 102, 102
+  offset: 2, 33
+  index: -1
+01_021
+  rotate: false
+  xy: 967, 556
+  size: 94, 52
+  orig: 102, 102
+  offset: 8, 23
+  index: -1
+a
+  rotate: false
+  xy: 2, 6
+  size: 864, 657
+  orig: 864, 657
+  offset: 0, 0
+  index: -1
+ycccdq1_000
+  rotate: true
+  xy: 868, 211
+  size: 57, 60
+  orig: 64, 64
+  offset: 5, 0
+  index: -1
+ycccdq1_001
+  rotate: true
+  xy: 930, 329
+  size: 58, 60
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+ycccdq1_002
+  rotate: true
+  xy: 868, 270
+  size: 58, 60
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+ycccdq1_003
+  rotate: true
+  xy: 868, 330
+  size: 59, 60
+  orig: 64, 64
+  offset: 3, 0
+  index: -1
+ycccdq1_004
+  rotate: true
+  xy: 992, 311
+  size: 58, 60
+  orig: 64, 64
+  offset: 3, 0
+  index: -1
+ycccdq1_005
+  rotate: true
+  xy: 868, 449
+  size: 58, 61
+  orig: 64, 64
+  offset: 3, 0
+  index: -1
+ycccdq1_006
+  rotate: true
+  xy: 930, 269
+  size: 58, 60
+  orig: 64, 64
+  offset: 3, 0
+  index: -1
+ycccdq1_007
+  rotate: true
+  xy: 992, 252
+  size: 57, 60
+  orig: 64, 64
+  offset: 3, 0
+  index: -1
+ycccdq1_008
+  rotate: true
+  xy: 930, 210
+  size: 57, 60
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+ycccdq1_009
+  rotate: true
+  xy: 868, 391
+  size: 56, 61
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+ycccdq1_010
+  rotate: true
+  xy: 955, 447
+  size: 57, 61
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+ycccdq1_011
+  rotate: true
+  xy: 868, 152
+  size: 57, 60
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+ycccdq1_012
+  rotate: true
+  xy: 930, 151
+  size: 57, 59
+  orig: 64, 64
+  offset: 4, 1
+  index: -1
+ycccdq1_013
+  rotate: true
+  xy: 868, 93
+  size: 57, 59
+  orig: 64, 64
+  offset: 4, 1
+  index: -1
+ycccdq1_014
+  rotate: true
+  xy: 949, 389
+  size: 56, 61
+  orig: 64, 64
+  offset: 5, 1
+  index: -1
+ycccdq1_015
+  rotate: true
+  xy: 992, 195
+  size: 55, 60
+  orig: 64, 64
+  offset: 6, 1
+  index: -1

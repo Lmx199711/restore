@@ -1,0 +1,27 @@
+
+wang.png
+size: 903,453
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shou
+  rotate: true
+  xy: 2, 327
+  size: 124, 899
+  orig: 124, 899
+  offset: 0, 0
+  index: -1
+wang_1
+  rotate: true
+  xy: 377, 50
+  size: 275, 358
+  orig: 275, 358
+  offset: 0, 0
+  index: -1
+wang_2
+  rotate: false
+  xy: 2, 2
+  size: 373, 323
+  orig: 373, 323
+  offset: 0, 0
+  index: -1

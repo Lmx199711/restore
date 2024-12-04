@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5dfb1898-1d66-4280-b98e-35c340a07078",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 642,
+  "height": 782,
+  "platformSettings": {},
+  "subMetas": {
+    "水管@图层104": {
+      "ver": "1.0.6",
+      "uuid": "4d5927b0-2ad6-41d6-b238-ed06d4d9d0ab",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5dfb1898-1d66-4280-b98e-35c340a07078",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 642,
+      "height": 782,
+      "rawWidth": 642,
+      "rawHeight": 782,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

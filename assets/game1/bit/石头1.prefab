@@ -1,0 +1,166 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "石头1",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "石头1",
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 266,
+      "height": 180
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -274.173,
+        135.283,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_id": "5f8b8053-71c2-43a9-8bbb-ec8fbe11fe27"
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "defaultSkin": "default",
+    "_preCacheMode": 0,
+    "_animationName": "animation",
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "_N$skeletonData": {
+      "__uuid__": "5f7f97d4-92b2-4b0a-851b-75508c3a5b1c"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "31c73ePuAVON64gwxImF51Q",
+    "bitId": "3002",
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "tag": 1,
+    "_offset": {
+      "__type__": "cc.Vec2",
+      "x": -4,
+      "y": -9.3
+    },
+    "points": [
+      {
+        "x": -49.2,
+        "y": -47.4,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 25.5,
+        "y": -56,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 118,
+        "y": -49.3,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 131.7,
+        "y": -29.6,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 129.4,
+        "y": 1.6,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 99.1,
+        "y": 42.3,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 47.5,
+        "y": 72.2,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -22.1,
+        "y": 106.4,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -60.3,
+        "y": 111.3,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -92.3,
+        "y": 89.8,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -110.7,
+        "y": 46.3,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -115.5,
+        "y": -0.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -108.7,
+        "y": -30.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -84.7,
+        "y": -44.7,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

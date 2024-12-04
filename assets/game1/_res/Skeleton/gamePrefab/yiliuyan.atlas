@@ -1,0 +1,62 @@
+
+yiliuyan.png
+size: 1079,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02
+  rotate: false
+  xy: 570, 2
+  size: 360, 141
+  orig: 402, 150
+  offset: 42, 0
+  index: -1
+03
+  rotate: false
+  xy: 239, 154
+  size: 345, 127
+  orig: 402, 150
+  offset: 53, 13
+  index: -1
+04
+  rotate: false
+  xy: 239, 154
+  size: 345, 127
+  orig: 402, 150
+  offset: 53, 13
+  index: -1
+05
+  rotate: false
+  xy: 586, 145
+  size: 348, 136
+  orig: 402, 150
+  offset: 0, 10
+  index: -1
+06
+  rotate: false
+  xy: 2, 16
+  size: 290, 136
+  orig: 402, 150
+  offset: 58, 10
+  index: -1
+07
+  rotate: false
+  xy: 294, 7
+  size: 274, 145
+  orig: 402, 150
+  offset: 71, 5
+  index: -1
+08
+  rotate: true
+  xy: 936, 23
+  size: 258, 141
+  orig: 402, 150
+  offset: 89, 8
+  index: -1
+09
+  rotate: false
+  xy: 2, 188
+  size: 235, 93
+  orig: 402, 150
+  offset: 114, 55
+  index: -1

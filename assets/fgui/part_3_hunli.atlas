@@ -1,0 +1,76 @@
+
+part_3_hunli.png
+size: 1228,462
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_R_1
+  rotate: false
+  xy: 745, 92
+  size: 205, 84
+  orig: 211, 84
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 458, 741
+  orig: 467, 741
+  offset: 9, 0
+  index: -1
+elbow_L
+  rotate: true
+  xy: 745, 18
+  size: 72, 159
+  orig: 72, 171
+  offset: 0, 12
+  index: -1
+jiezhi_1
+  rotate: false
+  xy: 906, 4
+  size: 28, 31
+  orig: 30, 33
+  offset: 1, 1
+  index: -1
+jiezhi_2
+  rotate: false
+  xy: 906, 37
+  size: 43, 53
+  orig: 45, 55
+  offset: 1, 1
+  index: -1
+jiezhi_3
+  rotate: false
+  xy: 936, 12
+  size: 22, 23
+  orig: 24, 25
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 951, 43
+  size: 46, 47
+  orig: 57, 51
+  offset: 6, 2
+  index: -1
+nan_arm_L
+  rotate: false
+  xy: 1125, 66
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+nan_body
+  rotate: true
+  xy: 745, 178
+  size: 282, 480
+  orig: 282, 480
+  offset: 0, 0
+  index: -1
+nan_elbow_L
+  rotate: false
+  xy: 999, 52
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1

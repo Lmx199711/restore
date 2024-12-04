@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6abfb8fa-9b13-4229-86bf-2fcc85412032",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1002,
+  "height": 1668,
+  "platformSettings": {},
+  "subMetas": {
+    "Job_atlas_wmyi18": {
+      "ver": "1.0.6",
+      "uuid": "7eb93e10-5df0-47d2-a72d-3b428f158250",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6abfb8fa-9b13-4229-86bf-2fcc85412032",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1002,
+      "height": 1668,
+      "rawWidth": 1002,
+      "rawHeight": 1668,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

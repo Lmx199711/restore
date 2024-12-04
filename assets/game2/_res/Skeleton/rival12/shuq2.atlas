@@ -1,0 +1,125 @@
+
+shuq2.png
+size: 908,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bq1
+  rotate: false
+  xy: 835, 70
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+bq2
+  rotate: true
+  xy: 750, 69
+  size: 62, 33
+  orig: 67, 36
+  offset: 3, 3
+  index: -1
+fuhao
+  rotate: false
+  xy: 622, 11
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 646, 133
+  size: 130, 201
+  orig: 130, 201
+  offset: 0, 0
+  index: -1
+lianh
+  rotate: true
+  xy: 876, 169
+  size: 62, 28
+  orig: 67, 36
+  offset: 3, 4
+  index: -1
+q1
+  rotate: false
+  xy: 740, 14
+  size: 59, 53
+  orig: 61, 53
+  offset: 2, 0
+  index: -1
+q2
+  rotate: false
+  xy: 801, 19
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+q3
+  rotate: false
+  xy: 678, 15
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+qian
+  rotate: false
+  xy: 646, 70
+  size: 102, 61
+  orig: 102, 61
+  offset: 0, 0
+  index: -1
+shouz
+  rotate: false
+  xy: 785, 83
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 2, 2
+  size: 332, 555
+  orig: 332, 558
+  offset: 0, 3
+  index: -1
+tou
+  rotate: false
+  xy: 835, 233
+  size: 71, 101
+  orig: 71, 101
+  offset: 0, 0
+  index: -1
+youj
+  rotate: false
+  xy: 559, 67
+  size: 85, 267
+  orig: 85, 267
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 778, 141
+  size: 55, 193
+  orig: 55, 193
+  offset: 0, 0
+  index: -1
+zb1
+  rotate: false
+  xy: 876, 151
+  size: 27, 16
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+zdb
+  rotate: false
+  xy: 835, 121
+  size: 39, 110
+  orig: 39, 110
+  offset: 0, 0
+  index: -1
+zuos
+  rotate: false
+  xy: 559, 11
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1

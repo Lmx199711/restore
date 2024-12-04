@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6771f139-8601-484e-98e0-9e8bddc05f7a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 88,
+  "height": 147,
+  "platformSettings": {},
+  "subMetas": {
+    "洗衣液": {
+      "ver": "1.0.6",
+      "uuid": "b57797e5-1654-407d-96bc-62e6935ccd55",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6771f139-8601-484e-98e0-9e8bddc05f7a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 88,
+      "height": 147,
+      "rawWidth": 88,
+      "rawHeight": 147,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

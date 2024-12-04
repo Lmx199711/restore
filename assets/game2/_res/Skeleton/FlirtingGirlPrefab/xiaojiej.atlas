@@ -1,0 +1,125 @@
+
+xiaojiej.png
+size: 1937,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_000
+  rotate: true
+  xy: 1584, 314
+  size: 178, 224
+  orig: 256, 256
+  offset: 34, 0
+  index: -1
+h_001
+  rotate: false
+  xy: 1181, 94
+  size: 193, 218
+  orig: 256, 256
+  offset: 38, 0
+  index: -1
+h_002
+  rotate: true
+  xy: 1326, 314
+  size: 178, 256
+  orig: 256, 256
+  offset: 37, 0
+  index: -1
+h_003
+  rotate: false
+  xy: 986, 85
+  size: 193, 256
+  orig: 256, 256
+  offset: 19, 0
+  index: -1
+js
+  rotate: false
+  xy: 700, 8
+  size: 284, 333
+  orig: 284, 333
+  offset: 0, 0
+  index: -1
+st_1
+  rotate: true
+  xy: 700, 343
+  size: 149, 624
+  orig: 164, 624
+  offset: 15, 0
+  index: -1
+tou_0
+  rotate: true
+  xy: 1780, 164
+  size: 148, 155
+  orig: 148, 161
+  offset: 0, 6
+  index: -1
+tou_1
+  rotate: true
+  xy: 1617, 164
+  size: 148, 161
+  orig: 148, 161
+  offset: 0, 0
+  index: -1
+tou_2
+  rotate: true
+  xy: 1702, 13
+  size: 149, 159
+  orig: 149, 160
+  offset: 0, 1
+  index: -1
+tou_4
+  rotate: true
+  xy: 1376, 16
+  size: 148, 161
+  orig: 148, 161
+  offset: 0, 0
+  index: -1
+tou_5
+  rotate: true
+  xy: 1539, 14
+  size: 148, 161
+  orig: 148, 161
+  offset: 0, 0
+  index: -1
+tou_xiao
+  rotate: false
+  xy: 1810, 382
+  size: 105, 110
+  orig: 105, 114
+  offset: 0, 4
+  index: -1
+yanl
+  rotate: true
+  xy: 986, 19
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+yumao
+  rotate: true
+  xy: 1376, 166
+  size: 146, 239
+  orig: 146, 239
+  offset: 0, 0
+  index: -1
+zb_1
+  rotate: false
+  xy: 1181, 318
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+zb_2
+  rotate: false
+  xy: 1863, 138
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: true
+  xy: 2, 2
+  size: 490, 696
+  orig: 490, 696
+  offset: 0, 0
+  index: -1

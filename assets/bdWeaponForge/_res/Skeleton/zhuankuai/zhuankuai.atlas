@@ -1,0 +1,20 @@
+
+zhuankuai.png
+size: 849,662
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a8
+  rotate: true
+  xy: 662, 466
+  size: 194, 185
+  orig: 194, 185
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 2, 2
+  size: 658, 658
+  orig: 658, 658
+  offset: 0, 0
+  index: -1

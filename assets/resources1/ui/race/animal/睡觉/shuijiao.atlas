@@ -1,0 +1,13 @@
+
+shuijiao.png
+size: 48,34
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z
+  rotate: false
+  xy: 2, 2
+  size: 44, 30
+  orig: 44, 31
+  offset: 0, 1
+  index: -1

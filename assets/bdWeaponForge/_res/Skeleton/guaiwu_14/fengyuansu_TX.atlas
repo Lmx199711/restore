@@ -1,0 +1,174 @@
+
+fengyuansu_TX.png
+size: 1898,1834
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00000
+  rotate: true
+  xy: 373, 1120
+  size: 357, 369
+  orig: 480, 480
+  offset: 61, 55
+  index: -1
+01_00001
+  rotate: true
+  xy: 1110, 1115
+  size: 360, 387
+  orig: 480, 480
+  offset: 65, 44
+  index: -1
+01_00002
+  rotate: true
+  xy: 2, 17
+  size: 372, 383
+  orig: 480, 480
+  offset: 57, 49
+  index: -1
+01_00003
+  rotate: true
+  xy: 1142, 2
+  size: 373, 383
+  orig: 480, 480
+  offset: 56, 49
+  index: -1
+01_00004
+  rotate: false
+  xy: 1142, 377
+  size: 373, 371
+  orig: 480, 480
+  offset: 56, 54
+  index: -1
+01_00005
+  rotate: false
+  xy: 2, 1482
+  size: 362, 350
+  orig: 480, 480
+  offset: 59, 66
+  index: -1
+01_00006
+  rotate: false
+  xy: 366, 1482
+  size: 369, 350
+  orig: 480, 480
+  offset: 57, 59
+  index: -1
+01_00007
+  rotate: false
+  xy: 744, 1118
+  size: 364, 359
+  orig: 480, 480
+  offset: 62, 60
+  index: -1
+01_00008
+  rotate: false
+  xy: 1467, 1477
+  size: 373, 355
+  orig: 480, 480
+  offset: 54, 62
+  index: -1
+01_00009
+  rotate: false
+  xy: 740, 754
+  size: 368, 362
+  orig: 480, 480
+  offset: 56, 58
+  index: -1
+01_00010
+  rotate: true
+  xy: 1499, 1115
+  size: 360, 362
+  orig: 480, 480
+  offset: 58, 60
+  index: -1
+01_00011
+  rotate: true
+  xy: 388, 387
+  size: 365, 375
+  orig: 480, 480
+  offset: 59, 51
+  index: -1
+01_00012
+  rotate: true
+  xy: 2, 761
+  size: 361, 369
+  orig: 480, 480
+  offset: 61, 57
+  index: -1
+01_00013
+  rotate: false
+  xy: 1110, 752
+  size: 380, 361
+  orig: 480, 480
+  offset: 50, 59
+  index: -1
+01_00014
+  rotate: true
+  xy: 737, 1479
+  size: 353, 358
+  orig: 480, 480
+  offset: 67, 60
+  index: -1
+01_00015
+  rotate: true
+  xy: 1097, 1479
+  size: 353, 368
+  orig: 480, 480
+  offset: 69, 56
+  index: -1
+01_00016
+  rotate: true
+  xy: 373, 757
+  size: 361, 365
+  orig: 480, 480
+  offset: 61, 57
+  index: -1
+01_00017
+  rotate: true
+  xy: 2, 1124
+  size: 356, 369
+  orig: 480, 480
+  offset: 64, 54
+  index: -1
+01_00018
+  rotate: false
+  xy: 2, 391
+  size: 384, 364
+  orig: 480, 480
+  offset: 48, 58
+  index: -1
+01_00019
+  rotate: true
+  xy: 1517, 377
+  size: 371, 379
+  orig: 480, 480
+  offset: 55, 48
+  index: -1
+01_00020
+  rotate: true
+  xy: 762, 3
+  size: 376, 378
+  orig: 480, 480
+  offset: 56, 51
+  index: -1
+01_00021
+  rotate: false
+  xy: 387, 8
+  size: 373, 377
+  orig: 480, 480
+  offset: 59, 53
+  index: -1
+01_00022
+  rotate: false
+  xy: 1492, 750
+  size: 382, 363
+  orig: 480, 480
+  offset: 50, 55
+  index: -1
+01_00023
+  rotate: false
+  xy: 765, 381
+  size: 375, 369
+  orig: 480, 480
+  offset: 57, 55
+  index: -1

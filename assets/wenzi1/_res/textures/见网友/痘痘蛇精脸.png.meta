@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e9f436c0-c911-44d8-867c-3ec0d9458bd8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 145,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "痘痘蛇精脸": {
+      "ver": "1.0.6",
+      "uuid": "0a4ee563-499e-48a6-9211-20f8f0277ee8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e9f436c0-c911-44d8-867c-3ec0d9458bd8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 145,
+      "height": 229,
+      "rawWidth": 145,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

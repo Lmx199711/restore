@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "05cd0a61-6ac6-4c0b-bb98-5201ee144094",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1984,
+  "height": 1600,
+  "platformSettings": {},
+  "subMetas": {
+    "Farm_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "e332266a-d4b9-45ed-83fc-ca5c54c1e311",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "05cd0a61-6ac6-4c0b-bb98-5201ee144094",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 2,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1982,
+      "height": 1596,
+      "rawWidth": 1984,
+      "rawHeight": 1600,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,139 @@
+
+luoxuanjian.png
+size: 1999,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_00001
+  rotate: false
+  xy: 1074, 362
+  size: 64, 31
+  orig: 600, 600
+  offset: 267, 67
+  index: -1
+001_00003
+  rotate: false
+  xy: 1733, 71
+  size: 192, 127
+  orig: 600, 600
+  offset: 203, 22
+  index: -1
+001_00005
+  rotate: true
+  xy: 1578, 21
+  size: 196, 153
+  orig: 600, 600
+  offset: 200, 14
+  index: -1
+001_00007
+  rotate: false
+  xy: 1342, 41
+  size: 234, 176
+  orig: 600, 600
+  offset: 180, 0
+  index: -1
+001_00009
+  rotate: false
+  xy: 1098, 5
+  size: 242, 212
+  orig: 600, 600
+  offset: 176, 0
+  index: -1
+001_00011
+  rotate: true
+  xy: 1750, 200
+  size: 259, 238
+  orig: 600, 600
+  offset: 168, 0
+  index: -1
+001_00014
+  rotate: false
+  xy: 2, 434
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+001_00016
+  rotate: true
+  xy: 1183, 467
+  size: 567, 600
+  orig: 600, 600
+  offset: 31, 0
+  index: -1
+001_00018
+  rotate: false
+  xy: 604, 439
+  size: 577, 595
+  orig: 600, 600
+  offset: 12, 1
+  index: -1
+001_00020
+  rotate: true
+  xy: 2, 184
+  size: 248, 585
+  orig: 600, 600
+  offset: 168, 3
+  index: -1
+001_00022
+  rotate: true
+  xy: 1183, 219
+  size: 246, 565
+  orig: 600, 600
+  offset: 178, 19
+  index: -1
+001_00024
+  rotate: false
+  xy: 1785, 461
+  size: 212, 573
+  orig: 600, 600
+  offset: 190, 14
+  index: -1
+001_00026
+  rotate: true
+  xy: 2, 2
+  size: 180, 498
+  orig: 600, 600
+  offset: 209, 23
+  index: -1
+001_00028
+  rotate: true
+  xy: 589, 262
+  size: 131, 483
+  orig: 600, 600
+  offset: 232, 38
+  index: -1
+001_00030
+  rotate: true
+  xy: 589, 191
+  size: 69, 507
+  orig: 600, 600
+  offset: 266, 44
+  index: -1
+001_00032
+  rotate: true
+  xy: 502, 124
+  size: 43, 467
+  orig: 600, 600
+  offset: 278, 54
+  index: -1
+001_00034
+  rotate: true
+  xy: 604, 395
+  size: 42, 538
+  orig: 600, 600
+  offset: 277, 62
+  index: -1
+001_00036
+  rotate: true
+  xy: 589, 169
+  size: 20, 497
+  orig: 600, 600
+  offset: 296, 64
+  index: -1
+01
+  rotate: true
+  xy: 502, 23
+  size: 99, 369
+  orig: 99, 369
+  offset: 0, 0
+  index: -1

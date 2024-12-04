@@ -1,0 +1,97 @@
+
+bathRole1.png
+size: 1459,804
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_3_1
+  rotate: false
+  xy: 1328, 556
+  size: 129, 246
+  orig: 129, 246
+  offset: 0, 0
+  index: -1
+3_3_2
+  rotate: false
+  xy: 756, 27
+  size: 82, 65
+  orig: 82, 65
+  offset: 0, 0
+  index: -1
+3_3_3
+  rotate: true
+  xy: 564, 636
+  size: 166, 762
+  orig: 166, 762
+  offset: 0, 0
+  index: -1
+4_2_1
+  rotate: false
+  xy: 2, 353
+  size: 560, 449
+  orig: 560, 449
+  offset: 0, 0
+  index: -1
+4_2_2
+  rotate: true
+  xy: 1073, 47
+  size: 587, 194
+  orig: 587, 194
+  offset: 0, 0
+  index: -1
+4_3_1
+  rotate: true
+  xy: 2, 21
+  size: 330, 334
+  orig: 330, 334
+  offset: 0, 0
+  index: -1
+4_3_2
+  rotate: true
+  xy: 564, 294
+  size: 340, 507
+  orig: 340, 507
+  offset: 0, 0
+  index: -1
+4_3_3
+  rotate: false
+  xy: 674, 94
+  size: 208, 198
+  orig: 208, 198
+  offset: 0, 0
+  index: -1
+4_3_4
+  rotate: false
+  xy: 338, 2
+  size: 334, 290
+  orig: 334, 290
+  offset: 0, 0
+  index: -1
+4_4_1
+  rotate: false
+  xy: 1269, 370
+  size: 148, 184
+  orig: 148, 184
+  offset: 0, 0
+  index: -1
+4_4_2
+  rotate: false
+  xy: 884, 8
+  size: 167, 284
+  orig: 167, 284
+  offset: 0, 0
+  index: -1
+4_4_3
+  rotate: false
+  xy: 1269, 210
+  size: 142, 158
+  orig: 142, 158
+  offset: 0, 0
+  index: -1
+gsq
+  rotate: false
+  xy: 674, 15
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1

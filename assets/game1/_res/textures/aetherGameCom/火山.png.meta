@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1110f149-7c76-4a93-8691-2a1a78e32b26",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2026,
+  "height": 2000,
+  "platformSettings": {},
+  "subMetas": {
+    "火山": {
+      "ver": "1.0.6",
+      "uuid": "c476edc4-2015-4450-9b3d-a295e77c42f5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1110f149-7c76-4a93-8691-2a1a78e32b26",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2026,
+      "height": 2000,
+      "rawWidth": 2026,
+      "rawHeight": 2000,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

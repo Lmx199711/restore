@@ -1,0 +1,97 @@
+
+qitao.png
+size: 1109,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bq_1
+  rotate: true
+  xy: 887, 40
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 288, 105
+  size: 354, 152
+  orig: 354, 153
+  offset: 0, 0
+  index: -1
+mm
+  rotate: false
+  xy: 79, 2
+  size: 64, 17
+  orig: 65, 18
+  offset: 0, 1
+  index: -1
+shengti
+  rotate: true
+  xy: 2, 49
+  size: 208, 284
+  orig: 215, 285
+  offset: 0, 0
+  index: -1
+shuye
+  rotate: false
+  xy: 79, 21
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 644, 112
+  size: 145, 162
+  orig: 188, 168
+  offset: 5, 1
+  index: -1
+tou2
+  rotate: true
+  xy: 808, 112
+  size: 145, 162
+  orig: 188, 168
+  offset: 5, 1
+  index: -1
+yanj
+  rotate: false
+  xy: 2, 5
+  size: 75, 42
+  orig: 75, 78
+  offset: 0, 36
+  index: -1
+youdab
+  rotate: true
+  xy: 960, 29
+  size: 67, 147
+  orig: 67, 148
+  offset: 0, 0
+  index: -1
+yous
+  rotate: false
+  xy: 972, 98
+  size: 131, 159
+  orig: 142, 159
+  offset: 11, 0
+  index: -1
+zb
+  rotate: true
+  xy: 145, 16
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+zuodb
+  rotate: true
+  xy: 737, 20
+  size: 90, 148
+  orig: 90, 180
+  offset: 0, 0
+  index: -1
+zuos_1
+  rotate: true
+  xy: 288, 19
+  size: 84, 447
+  orig: 84, 447
+  offset: 0, 0
+  index: -1

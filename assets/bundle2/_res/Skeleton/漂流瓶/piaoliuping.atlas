@@ -1,0 +1,48 @@
+
+piaoliuping.png
+size: 928,1033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 717, 39
+  size: 102, 297
+  orig: 102, 297
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 688, 428
+  size: 238, 603
+  orig: 239, 603
+  offset: 1, 0
+  index: -1
+4_1
+  rotate: false
+  xy: 805, 395
+  size: 79, 31
+  orig: 79, 31
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 688, 338
+  size: 88, 115
+  orig: 88, 115
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 2
+  size: 713, 245
+  orig: 713, 245
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 249
+  size: 684, 782
+  orig: 684, 782
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "559b4cab-debb-4978-a5fe-98ed298d6a42",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1992,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "ErShouCar_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "67569c45-fed2-498e-b345-aac089264cb6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "559b4cab-debb-4978-a5fe-98ed298d6a42",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 1.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1988,
+      "height": 1021,
+      "rawWidth": 1992,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

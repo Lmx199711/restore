@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "45191970-2095-4886-b97c-1d69686e506f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 361,
+  "height": 373,
+  "platformSettings": {},
+  "subMetas": {
+    "结算新娘头上的头巾": {
+      "ver": "1.0.6",
+      "uuid": "6058b42d-46d5-4cbd-b152-4d936e9e5001",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "45191970-2095-4886-b97c-1d69686e506f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 361,
+      "height": 373,
+      "rawWidth": 361,
+      "rawHeight": 373,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

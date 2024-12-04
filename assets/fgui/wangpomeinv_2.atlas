@@ -1,0 +1,104 @@
+
+wangpomeinv_2.png
+size: 1822,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 1429, 51
+  size: 242, 316
+  orig: 242, 316
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 780, 18
+  size: 149, 209
+  orig: 242, 316
+  offset: 55, 93
+  index: -1
+03
+  rotate: true
+  xy: 282, 8
+  size: 219, 236
+  orig: 242, 316
+  offset: 21, 80
+  index: -1
+04_2
+  rotate: false
+  xy: 2, 11
+  size: 278, 216
+  orig: 278, 216
+  offset: 0, 0
+  index: -1
+04_3
+  rotate: true
+  xy: 2, 229
+  size: 297, 1425
+  orig: 297, 1425
+  offset: 0, 0
+  index: -1
+04_4
+  rotate: true
+  xy: 520, 72
+  size: 155, 258
+  orig: 155, 258
+  offset: 0, 0
+  index: -1
+05_1
+  rotate: true
+  xy: 1343, 15
+  size: 127, 74
+  orig: 127, 74
+  offset: 0, 0
+  index: -1
+05_2
+  rotate: true
+  xy: 1264, 2
+  size: 140, 77
+  orig: 140, 77
+  offset: 0, 0
+  index: -1
+05_3
+  rotate: false
+  xy: 1264, 144
+  size: 136, 83
+  orig: 136, 83
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 1429, 295
+  size: 231, 391
+  orig: 231, 391
+  offset: 0, 0
+  index: -1
+07_1
+  rotate: true
+  xy: 1044, 13
+  size: 214, 111
+  orig: 214, 111
+  offset: 0, 0
+  index: -1
+07_2
+  rotate: true
+  xy: 931, 4
+  size: 223, 111
+  orig: 223, 111
+  offset: 0, 0
+  index: -1
+07_3
+  rotate: true
+  xy: 1157, 19
+  size: 208, 105
+  orig: 208, 105
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 1747, 127
+  size: 166, 67
+  orig: 166, 67
+  offset: 0, 0
+  index: -1

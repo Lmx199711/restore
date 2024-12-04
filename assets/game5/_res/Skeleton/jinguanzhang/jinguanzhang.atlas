@@ -1,0 +1,27 @@
+
+jinguanzhang.png
+size: 721,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_R_1
+  rotate: true
+  xy: 442, 10
+  size: 120, 271
+  orig: 120, 271
+  offset: 0, 0
+  index: -1
+arm_R_2
+  rotate: true
+  xy: 442, 132
+  size: 167, 277
+  orig: 167, 277
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 297, 438
+  orig: 297, 438
+  offset: 0, 0
+  index: -1

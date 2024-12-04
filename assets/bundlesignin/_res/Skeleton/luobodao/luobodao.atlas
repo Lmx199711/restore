@@ -1,0 +1,202 @@
+
+luobodao.png
+size: 1986,1924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000000
+  rotate: false
+  xy: 1675, 564
+  size: 273, 252
+  orig: 277, 255
+  offset: 3, 2
+  index: -1
+002_00000
+  rotate: true
+  xy: 868, 1461
+  size: 461, 433
+  orig: 658, 997
+  offset: 96, 278
+  index: -1
+002_00001
+  rotate: true
+  xy: 868, 1461
+  size: 461, 433
+  orig: 658, 997
+  offset: 96, 278
+  index: -1
+002_00002
+  rotate: false
+  xy: 798, 508
+  size: 445, 458
+  orig: 658, 997
+  offset: 101, 250
+  index: -1
+002_00003
+  rotate: false
+  xy: 789, 968
+  size: 408, 476
+  orig: 658, 997
+  offset: 114, 234
+  index: -1
+002_00004
+  rotate: true
+  xy: 430, 1446
+  size: 476, 436
+  orig: 658, 997
+  offset: 96, 251
+  index: -1
+002_00005
+  rotate: true
+  xy: 2, 1416
+  size: 506, 426
+  orig: 658, 997
+  offset: 81, 253
+  index: -1
+002_00006
+  rotate: false
+  xy: 387, 11
+  size: 477, 411
+  orig: 658, 997
+  offset: 95, 260
+  index: -1
+002_00007
+  rotate: false
+  xy: 1199, 1001
+  size: 429, 458
+  orig: 658, 997
+  offset: 118, 250
+  index: -1
+002_00008
+  rotate: false
+  xy: 401, 424
+  size: 395, 494
+  orig: 658, 997
+  offset: 137, 233
+  index: -1
+002_00009
+  rotate: false
+  xy: 2, 920
+  size: 398, 494
+  orig: 658, 997
+  offset: 135, 233
+  index: -1
+002_00010
+  rotate: false
+  xy: 2, 424
+  size: 397, 494
+  orig: 658, 997
+  offset: 135, 233
+  index: -1
+002_00011
+  rotate: false
+  xy: 402, 932
+  size: 385, 482
+  orig: 658, 997
+  offset: 141, 237
+  index: -1
+002_00012
+  rotate: false
+  xy: 866, 49
+  size: 386, 457
+  orig: 658, 997
+  offset: 141, 250
+  index: -1
+002_00013
+  rotate: false
+  xy: 2, 2
+  size: 383, 420
+  orig: 658, 997
+  offset: 142, 269
+  index: -1
+002_00020
+  rotate: true
+  xy: 1303, 1461
+  size: 142, 143
+  orig: 658, 997
+  offset: 256, 408
+  index: -1
+002_00021
+  rotate: true
+  xy: 1786, 413
+  size: 149, 152
+  orig: 658, 997
+  offset: 257, 405
+  index: -1
+002_00022
+  rotate: false
+  xy: 1631, 36
+  size: 153, 156
+  orig: 658, 997
+  offset: 254, 403
+  index: -1
+002_00023
+  rotate: false
+  xy: 1461, 13
+  size: 168, 179
+  orig: 658, 997
+  offset: 246, 391
+  index: -1
+002_00024
+  rotate: false
+  xy: 1254, 8
+  size: 205, 184
+  orig: 658, 997
+  offset: 229, 394
+  index: -1
+002_00025
+  rotate: true
+  xy: 1649, 205
+  size: 206, 234
+  orig: 658, 997
+  offset: 224, 371
+  index: -1
+002_00026
+  rotate: true
+  xy: 1675, 818
+  size: 256, 281
+  orig: 658, 997
+  offset: 200, 350
+  index: -1
+002_00027
+  rotate: false
+  xy: 1303, 1605
+  size: 323, 317
+  orig: 658, 997
+  offset: 173, 328
+  index: -1
+002_00028
+  rotate: true
+  xy: 1630, 1590
+  size: 332, 354
+  orig: 658, 997
+  offset: 169, 315
+  index: -1
+002_00029
+  rotate: false
+  xy: 1630, 1207
+  size: 344, 381
+  orig: 658, 997
+  offset: 164, 301
+  index: -1
+002_00030
+  rotate: true
+  xy: 1254, 194
+  size: 375, 393
+  orig: 658, 997
+  offset: 144, 294
+  index: -1
+002_00031
+  rotate: false
+  xy: 1245, 571
+  size: 428, 428
+  orig: 658, 997
+  offset: 108, 271
+  index: -1
+01
+  rotate: true
+  xy: 1630, 1076
+  size: 129, 336
+  orig: 129, 336
+  offset: 0, 0
+  index: -1

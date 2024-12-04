@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="550,100">
+  <displayList>
+    <image id="n2_vjv2" name="n2" src="vjv29" fileName="Image/MainHome_CoinImage_bg.png" xy="25,29" size="295,47" alpha="0.61" color="#000000"/>
+    <text id="n1_vjv2" name="num" xy="41,75" pivot="0,1" anchor="true" size="112,40" fontSize="29" color="#ffffff" autoSize="none" text="Lv.401"/>
+    <image id="n3_vjv2" name="imgName" src="vjv2j" fileName="Image/菜鸟摊贩.png" xy="169,37">
+      <relation target="n1_vjv2" sidePair="left-right"/>
+    </image>
+  </displayList>
+</component>

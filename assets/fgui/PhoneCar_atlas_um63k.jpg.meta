@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4fe5e10d-23f9-4db4-abe9-2de72140e0fd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1843,
+  "height": 2118,
+  "platformSettings": {},
+  "subMetas": {
+    "PhoneCar_atlas_um63k": {
+      "ver": "1.0.6",
+      "uuid": "222b3173-1842-4b1c-a9ec-247470e4722a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4fe5e10d-23f9-4db4-abe9-2de72140e0fd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1843,
+      "height": 2118,
+      "rawWidth": 1843,
+      "rawHeight": 2118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

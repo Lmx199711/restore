@@ -1,0 +1,13 @@
+
+take5.png
+size: 155,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s5
+  rotate: false
+  xy: 2, 2
+  size: 151, 129
+  orig: 151, 129
+  offset: 0, 0
+  index: -1

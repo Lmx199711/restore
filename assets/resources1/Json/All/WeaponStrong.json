@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "cost": 500,
+    "sAtk": 5,
+    "sCrit": 1,
+    "sFack": 1,
+    "succRate": 100
+  },
+  {
+    "id": 2,
+    "cost": 750,
+    "sAtk": 10,
+    "sCrit": 2,
+    "sFack": 2,
+    "succRate": 95
+  },
+  {
+    "id": 3,
+    "cost": 1000,
+    "sAtk": 15,
+    "sCrit": 3,
+    "sFack": 3,
+    "succRate": 90
+  },
+  {
+    "id": 4,
+    "cost": 1500,
+    "sAtk": 20,
+    "sCrit": 4,
+    "sFack": 4,
+    "succRate": 85
+  },
+  {
+    "id": 5,
+    "cost": 2000,
+    "sAtk": 25,
+    "sCrit": 5,
+    "sFack": 5,
+    "succRate": 80
+  },
+  {
+    "id": 6,
+    "cost": 3000,
+    "sAtk": 30,
+    "sCrit": 6,
+    "sFack": 6,
+    "succRate": 70
+  },
+  {
+    "id": 7,
+    "cost": 4000,
+    "sAtk": 35,
+    "sCrit": 7,
+    "sFack": 7,
+    "succRate": 70
+  },
+  {
+    "id": 8,
+    "cost": 6000,
+    "sAtk": 40,
+    "sCrit": 8,
+    "sFack": 8,
+    "succRate": 65
+  },
+  {
+    "id": 9,
+    "cost": 8000,
+    "sAtk": 45,
+    "sCrit": 9,
+    "sFack": 9,
+    "succRate": 60
+  },
+  {
+    "id": 10,
+    "cost": 12000,
+    "sAtk": 50,
+    "sCrit": 10,
+    "sFack": 10,
+    "succRate": 55
+  },
+  {
+    "id": 11,
+    "cost": 16000,
+    "sAtk": 60,
+    "sCrit": 12,
+    "sFack": 12,
+    "succRate": 50
+  },
+  {
+    "id": 12,
+    "cost": 20000,
+    "sAtk": 70,
+    "sCrit": 14,
+    "sFack": 14,
+    "succRate": 35
+  },
+  {
+    "id": 13,
+    "cost": 30000,
+    "sAtk": 80,
+    "sCrit": 16,
+    "sFack": 16,
+    "succRate": 20
+  },
+  {
+    "id": 14,
+    "cost": 40000,
+    "sAtk": 90,
+    "sCrit": 18,
+    "sFack": 18,
+    "succRate": 16
+  },
+  {
+    "id": 15,
+    "cost": 50000,
+    "sAtk": 100,
+    "sCrit": 20,
+    "sFack": 20,
+    "succRate": 13
+  },
+  {
+    "id": 16,
+    "cost": 60000,
+    "sAtk": 120,
+    "sCrit": 22,
+    "sFack": 22,
+    "succRate": 10
+  },
+  {
+    "id": 17,
+    "cost": 70000,
+    "sAtk": 140,
+    "sCrit": 24,
+    "sFack": 24,
+    "succRate": 8
+  },
+  {
+    "id": 18,
+    "cost": 80000,
+    "sAtk": 160,
+    "sCrit": 26,
+    "sFack": 26,
+    "succRate": 6
+  },
+  {
+    "id": 19,
+    "cost": 90000,
+    "sAtk": 180,
+    "sCrit": 28,
+    "sFack": 28,
+    "succRate": 4
+  },
+  {
+    "id": 20,
+    "cost": 100000,
+    "sAtk": 200,
+    "sCrit": 30,
+    "sFack": 30,
+    "succRate": 2
+  },
+  {
+    "id": 21,
+    "cost": 110000,
+    "sAtk": 205,
+    "sCrit": 31,
+    "sFack": 31,
+    "succRate": 1
+  },
+  {
+    "id": 22,
+    "cost": 120000,
+    "sAtk": 210,
+    "sCrit": 32,
+    "sFack": 32,
+    "succRate": 1
+  },
+  {
+    "id": 23,
+    "cost": 130000,
+    "sAtk": 215,
+    "sCrit": 33,
+    "sFack": 33,
+    "succRate": 1
+  },
+  {
+    "id": 24,
+    "cost": 140000,
+    "sAtk": 220,
+    "sCrit": 34,
+    "sFack": 34,
+    "succRate": 1
+  },
+  {
+    "id": 25,
+    "cost": 150000,
+    "sAtk": 225,
+    "sCrit": 35,
+    "sFack": 35,
+    "succRate": 1
+  },
+  {
+    "id": 26,
+    "cost": 160000,
+    "sAtk": 230,
+    "sCrit": 36,
+    "sFack": 36,
+    "succRate": 1
+  },
+  {
+    "id": 27,
+    "cost": 170000,
+    "sAtk": 235,
+    "sCrit": 37,
+    "sFack": 37,
+    "succRate": 1
+  },
+  {
+    "id": 28,
+    "cost": 180000,
+    "sAtk": 240,
+    "sCrit": 38,
+    "sFack": 38,
+    "succRate": 1
+  },
+  {
+    "id": 29,
+    "cost": 190000,
+    "sAtk": 245,
+    "sCrit": 39,
+    "sFack": 39,
+    "succRate": 1
+  },
+  {
+    "id": 30,
+    "cost": 200000,
+    "sAtk": 250,
+    "sCrit": 40,
+    "sFack": 40,
+    "succRate": 1
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "id": 1,
+    "name": "铁剑",
+    "type": 2,
+    "bornAtk": 50,
+    "bornCrit": 0,
+    "bornFack": 0,
+    "desc": "锋利无比的利器!",
+    "skin": "tiejian"
+  },
+  {
+    "id": 2,
+    "name": "长虹剑",
+    "type": 2,
+    "bornAtk": "24000>26000",
+    "bornCrit": "10>20",
+    "bornFack": "10>20",
+    "desc": "剑道无情,万物皆毁!",
+    "skin": "changhongjian"
+  },
+  {
+    "id": 3,
+    "name": "冰魄剑",
+    "type": 2,
+    "bornAtk": "10000>12000",
+    "bornCrit": "8>16",
+    "bornFack": "10>18",
+    "desc": "如白蛇吐信,嘶嘶破风!",
+    "skin": "bingpojian"
+  },
+  {
+    "id": 4,
+    "name": "紫云剑",
+    "type": 2,
+    "bornAtk": "4800>5000",
+    "bornCrit": "6>14",
+    "bornFack": "10>18",
+    "desc": "三尺青锋照胆寒!",
+    "skin": "ziyunjian"
+  },
+  {
+    "id": 5,
+    "name": "奔雷剑",
+    "type": 2,
+    "bornAtk": "2200>2400",
+    "bornCrit": "5>12",
+    "bornFack": "10>15",
+    "desc": "如游龙穿梭,行走四身!",
+    "skin": "benleijian"
+  },
+  {
+    "id": 6,
+    "name": "青光剑",
+    "type": 2,
+    "bornAtk": "1000>1100",
+    "bornCrit": "4>10",
+    "bornFack": "10>15",
+    "desc": "星辰占宝剑,雷雨化龙梭!",
+    "skin": "qingguangjian"
+  },
+  {
+    "id": 7,
+    "name": "雨花剑",
+    "type": 2,
+    "bornAtk": "400>500",
+    "bornCrit": "3>8",
+    "bornFack": "10>15",
+    "desc": "天道无情,万物皆毁!",
+    "skin": "yuhuajian"
+  },
+  {
+    "id": 8,
+    "name": "旋风剑",
+    "type": 2,
+    "bornAtk": "100>200",
+    "bornCrit": "2>5",
+    "bornFack": "10>15",
+    "desc": "浩瀚剑势,天下臣服!",
+    "skin": "xuanfengjian"
+  },
+  {
+    "id": 9,
+    "name": "盘古斧",
+    "type": 2,
+    "bornAtk": "25000>27000",
+    "bornCrit": "12>25",
+    "bornFack": "10>20",
+    "desc": "开天辟地之威能。",
+    "skin": "shuangrenfu"
+  },
+  {
+    "id": 10,
+    "name": "金箍棒",
+    "type": 2,
+    "bornAtk": "25000>27000",
+    "bornCrit": "12>25",
+    "bornFack": "10>20",
+    "desc": "定海神针，重达十万八千斤",
+    "skin": "jingubang"
+  },
+  {
+    "id": 11,
+    "name": "平底锅",
+    "type": 2,
+    "bornAtk": "1000>1200",
+    "bornCrit": "4>10",
+    "bornFack": "10>15",
+    "desc": "扎实的用料，舒适的握持手感，甚至还能炒菜",
+    "skin": "pingdiguo"
+  },
+  {
+    "id": 12,
+    "name": "螺旋剑",
+    "type": 2,
+    "bornAtk": "600>800",
+    "bornCrit": "4>10",
+    "bornFack": "10>15",
+    "desc": "3D打印螺旋剑，还可伸缩变形！",
+    "skin": "luoxuanjian"
+  },
+  {
+    "id": 13,
+    "name": "拳头伸缩剑",
+    "type": 2,
+    "bornAtk": "600>800",
+    "bornCrit": "4>10",
+    "bornFack": "10>15",
+    "desc": "伤害不高，侮辱性极强！",
+    "skin": "quantoushensuojian"
+  },
+  {
+    "id": 14,
+    "name": "水形刃",
+    "type": 2,
+    "bornAtk": "2400>2700",
+    "bornCrit": "8>15",
+    "bornFack": "8>15",
+    "desc": "流线造型，挥舞时仿佛人在起舞",
+    "skin": "shuixingren"
+  },
+  {
+    "id": 15,
+    "name": "大地之刃",
+    "type": 2,
+    "bornAtk": "48000>50000",
+    "bornCrit": "15>30",
+    "bornFack": "20>30",
+    "desc": "大地与泰坦精华凝炼的兵器，剑身上能感受到大地的震颤",
+    "skin": "dadizhiren"
+  },
+  {
+    "id": 16,
+    "name": "深海之刃",
+    "type": 2,
+    "bornAtk": "48000>50000",
+    "bornCrit": "15>30",
+    "bornFack": "20>30",
+    "desc": "海洋与利维坦精华凝炼的兵器，剑身上仿佛有飓浪在咆哮",
+    "skin": "shenhaizhiren"
+  },
+  {
+    "id": 17,
+    "name": "森林之刃",
+    "type": 2,
+    "bornAtk": "48000>50000",
+    "bornCrit": "15>30",
+    "bornFack": "20>30",
+    "desc": "森林与生命精华凝炼的兵器，剑身上能听到精灵的低语",
+    "skin": "shenlinzhiren"
+  },
+  {
+    "id": 501,
+    "name": "咖喱棒",
+    "type": 3,
+    "bornAtk": "2200>2400",
+    "bornCrit": "5>12",
+    "bornFack": "10>15",
+    "desc": "听说大喊这把剑的名字就能从剑上发射光束",
+    "skin": "galibang"
+  },
+  {
+    "id": 502,
+    "name": "屠龙刀",
+    "type": 3,
+    "bornAtk": "10000>12000",
+    "bornCrit": "8>16",
+    "bornFack": "10>18",
+    "desc": "一刀99999不是梦",
+    "skin": "tulongdao"
+  },
+  {
+    "id": 503,
+    "name": "倚天剑",
+    "type": 3,
+    "bornAtk": "10000>12000",
+    "bornCrit": "8>16",
+    "bornFack": "10>18",
+    "desc": "比起屠龙刀,待遇似乎总是差了很多",
+    "skin": "yitianjian"
+  },
+  {
+    "id": 504,
+    "name": "无影剑",
+    "type": 3,
+    "bornAtk": "4800>5000",
+    "bornCrit": "6>14",
+    "bornFack": "10>18",
+    "desc": "怎么只有个把?原来是无影剑",
+    "skin": "wuyingjian"
+  },
+  {
+    "id": 1001,
+    "name": "萝卜刀",
+    "type": 4,
+    "bornAtk": "4000>4200",
+    "bornCrit": "5>10",
+    "bornFack": "10>15",
+    "desc": "小心，这把武器非常的危险！",
+    "skin": "luobodao",
+    "factDesc": "连续签到3日获得",
+    "effectBundle": "bundlesignin",
+    "effectPath": "luobodao"
+  },
+  {
+    "id": 1002,
+    "name": "机炎之刃",
+    "type": 4,
+    "bornAtk": "24000>25000",
+    "bornCrit": "12>18",
+    "bornFack": "15>20",
+    "desc": "熔岩与地狱精华凝炼的兵器，剑身上迸发出炽热的火光",
+    "skin": "jiyanzhiren",
+    "factDesc": "连续签到7日获得",
+    "effectBundle": "bundlesignin",
+    "effectPath": "jiyanzhiren"
+  },
+  {
+    "id": 1101,
+    "name": "轩辕剑",
+    "type": 4,
+    "bornAtk": "51000>56000",
+    "bornCrit": "20>30",
+    "bornFack": "30>50",
+    "desc": "由众仙采首山之铜为黄帝所铸，其内蕴藏无穷之力。",
+    "skin": "xuanyuanjian",
+    "factDesc": "摇钱树彩蛋获得",
+    "effectBundle": "bdWeaponForge",
+    "effectPath": "weapon/stageShow/XYJ"
+  },
+  {
+    "id": 1201,
+    "name": "诛天剑",
+    "type": 4,
+    "bornAtk": "53000>58000",
+    "bornCrit": "35>45",
+    "bornFack": "30>50",
+    "desc": "由众仙采首山之铜为黄帝所铸，其内蕴藏无穷之力。",
+    "skin": "xuanyuanjian",
+    "factDesc": "击败通天塔第17层剑魔获得",
+    "effectBundle": "bdWeaponForge",
+    "effectPath": "weapon/stageShow/ZTJ"
+  },
+  {
+    "id": 9999,
+    "name": "蚩尤魔刀",
+    "type": 999,
+    "bornAtk": "4444444",
+    "bornCrit": 100,
+    "bornFack": 100,
+    "desc": "与黄帝轩辕剑齐名的上古神器!",
+    "skin": "chiyoumodao",
+    "factDesc": "持有武器强化到20级时概率获得，持有的20级兵器越多概率越高"
+  }
+]

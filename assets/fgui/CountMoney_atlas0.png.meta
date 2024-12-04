@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e9a60fe1-1a44-4e1f-9e19-96cbe054e339",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1204,
+  "height": 884,
+  "platformSettings": {},
+  "subMetas": {
+    "CountMoney_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "b2d74c84-34bb-44a7-aadb-01064c4c8ea6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e9a60fe1-1a44-4e1f-9e19-96cbe054e339",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1199,
+      "height": 882,
+      "rawWidth": 1204,
+      "rawHeight": 884,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

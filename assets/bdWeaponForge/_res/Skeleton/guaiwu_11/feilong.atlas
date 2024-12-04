@@ -1,0 +1,55 @@
+
+feilong.png
+size: 1287,438
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 475, 106
+  size: 499, 330
+  orig: 521, 330
+  offset: 22, 0
+  index: -1
+chi_L
+  rotate: false
+  xy: 2, 2
+  size: 471, 434
+  orig: 471, 434
+  offset: 0, 0
+  index: -1
+chi_R
+  rotate: true
+  xy: 976, 2
+  size: 434, 233
+  orig: 434, 233
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 475, 16
+  size: 88, 201
+  orig: 88, 201
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 678, 13
+  size: 91, 144
+  orig: 91, 144
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 824, 34
+  size: 105, 70
+  orig: 107, 72
+  offset: 1, 1
+  index: -1
+yy
+  rotate: true
+  xy: 1211, 86
+  size: 350, 74
+  orig: 352, 76
+  offset: 1, 1
+  index: -1

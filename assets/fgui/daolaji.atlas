@@ -1,0 +1,118 @@
+
+daolaji.png
+size: 1874,881
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_1
+  rotate: false
+  xy: 1469, 75
+  size: 225, 340
+  orig: 225, 340
+  offset: 0, 0
+  index: -1
+2_2
+  rotate: false
+  xy: 1006, 28
+  size: 225, 340
+  orig: 225, 340
+  offset: 0, 0
+  index: -1
+2_3
+  rotate: false
+  xy: 1233, 28
+  size: 225, 340
+  orig: 225, 340
+  offset: 0, 0
+  index: -1
+3_1
+  rotate: false
+  xy: 1006, 370
+  size: 461, 253
+  orig: 461, 253
+  offset: 0, 0
+  index: -1
+3_12_1
+  rotate: true
+  xy: 1696, 164
+  size: 189, 85
+  orig: 189, 85
+  offset: 0, 0
+  index: -1
+3_12_2
+  rotate: false
+  xy: 1783, 222
+  size: 76, 131
+  orig: 76, 131
+  offset: 0, 0
+  index: -1
+3_12_3
+  rotate: false
+  xy: 1726, 355
+  size: 117, 165
+  orig: 117, 165
+  offset: 0, 0
+  index: -1
+3_12_4
+  rotate: false
+  xy: 1726, 680
+  size: 143, 199
+  orig: 143, 199
+  offset: 0, 0
+  index: -1
+3_12_5
+  rotate: false
+  xy: 1783, 164
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+3_12_6
+  rotate: false
+  xy: 1726, 522
+  size: 146, 156
+  orig: 146, 156
+  offset: 0, 0
+  index: -1
+3_12_7
+  rotate: true
+  xy: 1696, 15
+  size: 147, 98
+  orig: 147, 98
+  offset: 0, 0
+  index: -1
+3_12_8
+  rotate: false
+  xy: 1835, 153
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+3_12_9
+  rotate: false
+  xy: 1796, 105
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+3_2
+  rotate: false
+  xy: 1006, 625
+  size: 463, 254
+  orig: 463, 254
+  offset: 0, 0
+  index: -1
+3_3
+  rotate: true
+  xy: 1471, 417
+  size: 462, 253
+  orig: 462, 253
+  offset: 0, 0
+  index: -1
+3_4
+  rotate: false
+  xy: 2, 2
+  size: 1002, 877
+  orig: 1002, 877
+  offset: 0, 0
+  index: -1

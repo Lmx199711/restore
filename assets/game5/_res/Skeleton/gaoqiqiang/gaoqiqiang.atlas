@@ -1,0 +1,27 @@
+
+gaoqiqiang.png
+size: 720,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 443, 70
+  size: 167, 275
+  orig: 167, 275
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 443, 2
+  size: 66, 253
+  orig: 66, 253
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 2, 19
+  size: 218, 439
+  orig: 218, 439
+  offset: 0, 0
+  index: -1

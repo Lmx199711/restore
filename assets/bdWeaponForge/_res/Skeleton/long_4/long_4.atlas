@@ -1,0 +1,27 @@
+
+long_4.png
+size: 503,317
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 27
+  size: 288, 234
+  orig: 288, 234
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 238, 105
+  size: 245, 210
+  orig: 245, 210
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 238, 2
+  size: 263, 101
+  orig: 263, 101
+  offset: 0, 0
+  index: -1

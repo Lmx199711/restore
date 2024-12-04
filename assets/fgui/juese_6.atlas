@@ -1,0 +1,104 @@
+
+juese_6.png
+size: 1239,437
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0000
+  rotate: false
+  xy: 984, 6
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+010_00001
+  rotate: true
+  xy: 1113, 59
+  size: 184, 124
+  orig: 250, 250
+  offset: 4, 65
+  index: -1
+010_00003
+  rotate: true
+  xy: 1104, 245
+  size: 190, 127
+  orig: 250, 250
+  offset: 4, 63
+  index: -1
+010_00005
+  rotate: true
+  xy: 984, 37
+  size: 197, 127
+  orig: 250, 250
+  offset: 5, 64
+  index: -1
+010_00007
+  rotate: true
+  xy: 853, 23
+  size: 203, 129
+  orig: 250, 250
+  offset: 5, 64
+  index: -1
+010_00009
+  rotate: true
+  xy: 852, 228
+  size: 207, 127
+  orig: 250, 250
+  offset: 6, 65
+  index: -1
+010_00011
+  rotate: true
+  xy: 603, 5
+  size: 211, 125
+  orig: 250, 250
+  offset: 7, 66
+  index: -1
+010_00013
+  rotate: true
+  xy: 480, 2
+  size: 214, 121
+  orig: 250, 250
+  offset: 7, 66
+  index: -1
+010_00015
+  rotate: true
+  xy: 480, 218
+  size: 217, 123
+  orig: 250, 250
+  offset: 6, 66
+  index: -1
+010_00017
+  rotate: true
+  xy: 605, 219
+  size: 216, 125
+  orig: 250, 250
+  offset: 6, 65
+  index: -1
+010_00019
+  rotate: true
+  xy: 730, 7
+  size: 210, 121
+  orig: 250, 250
+  offset: 6, 68
+  index: -1
+010_00021
+  rotate: true
+  xy: 732, 226
+  size: 209, 118
+  orig: 250, 250
+  offset: 5, 67
+  index: -1
+010_00023
+  rotate: true
+  xy: 981, 236
+  size: 199, 121
+  orig: 250, 250
+  offset: 5, 65
+  index: -1
+06
+  rotate: true
+  xy: 2, 6
+  size: 429, 476
+  orig: 447, 476
+  offset: 0, 0
+  index: -1

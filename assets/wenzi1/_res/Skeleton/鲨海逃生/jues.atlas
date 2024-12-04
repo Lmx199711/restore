@@ -1,0 +1,76 @@
+
+jues.png
+size: 1932,728
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg2
+  rotate: true
+  xy: 2, 2
+  size: 724, 834
+  orig: 724, 834
+  offset: 0, 0
+  index: -1
+guang_1
+  rotate: true
+  xy: 1659, 160
+  size: 270, 264
+  orig: 300, 300
+  offset: 30, 36
+  index: -1
+guang_2
+  rotate: false
+  xy: 1384, 164
+  size: 273, 266
+  orig: 300, 300
+  offset: 8, 29
+  index: -1
+qipao
+  rotate: false
+  xy: 1819, 559
+  size: 41, 41
+  orig: 48, 48
+  offset: 6, 3
+  index: -1
+yu_1
+  rotate: false
+  xy: 1445, 432
+  size: 372, 294
+  orig: 372, 295
+  offset: 0, 0
+  index: -1
+yu_2
+  rotate: false
+  xy: 838, 432
+  size: 605, 294
+  orig: 605, 295
+  offset: 0, 0
+  index: -1
+yu_3
+  rotate: false
+  xy: 838, 2
+  size: 208, 152
+  orig: 209, 152
+  offset: 1, 0
+  index: -1
+yu_4
+  rotate: true
+  xy: 1819, 602
+  size: 124, 111
+  orig: 124, 112
+  offset: 0, 0
+  index: -1
+yu_5
+  rotate: false
+  xy: 1048, 93
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+yu_6
+  rotate: false
+  xy: 838, 156
+  size: 544, 274
+  orig: 546, 275
+  offset: 2, 0
+  index: -1

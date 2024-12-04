@@ -1,0 +1,62 @@
+
+longbaobainian.png
+size: 1023,399
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+24
+  rotate: true
+  xy: 907, 158
+  size: 239, 114
+  orig: 239, 114
+  offset: 0, 0
+  index: -1
+24_1
+  rotate: true
+  xy: 431, 206
+  size: 191, 474
+  orig: 192, 474
+  offset: 1, 0
+  index: -1
+24_2
+  rotate: false
+  xy: 2, 31
+  size: 240, 30
+  orig: 240, 30
+  offset: 0, 0
+  index: -1
+24_3
+  rotate: true
+  xy: 431, 13
+  size: 191, 474
+  orig: 192, 474
+  offset: 1, 0
+  index: -1
+25
+  rotate: true
+  xy: 2, 63
+  size: 334, 427
+  orig: 342, 430
+  offset: 8, 3
+  index: -1
+25_1
+  rotate: false
+  xy: 907, 25
+  size: 98, 131
+  orig: 105, 131
+  offset: 0, 0
+  index: -1
+25_2
+  rotate: false
+  xy: 337, 13
+  size: 85, 48
+  orig: 85, 48
+  offset: 0, 0
+  index: -1
+25_3
+  rotate: false
+  xy: 244, 2
+  size: 91, 59
+  orig: 91, 59
+  offset: 0, 0
+  index: -1

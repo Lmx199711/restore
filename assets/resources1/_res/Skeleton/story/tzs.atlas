@@ -1,0 +1,27 @@
+
+tzs.png
+size: 676,417
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: false
+  xy: 2, 2
+  size: 464, 413
+  orig: 464, 413
+  offset: 0, 0
+  index: -1
+tzsd
+  rotate: true
+  xy: 468, 142
+  size: 273, 206
+  orig: 273, 206
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 468, 75
+  size: 64, 65
+  orig: 69, 71
+  offset: 2, 3
+  index: -1

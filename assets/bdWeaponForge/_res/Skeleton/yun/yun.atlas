@@ -1,0 +1,41 @@
+
+yun.png
+size: 1852,561
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 936, 2
+  size: 869, 199
+  orig: 878, 213
+  offset: 4, 13
+  index: -1
+d
+  rotate: false
+  xy: 1472, 203
+  size: 378, 356
+  orig: 400, 363
+  offset: 21, 6
+  index: -1
+f
+  rotate: false
+  xy: 2, 20
+  size: 932, 228
+  orig: 953, 235
+  offset: 13, 6
+  index: -1
+g
+  rotate: false
+  xy: 2, 250
+  size: 1002, 309
+  orig: 1004, 321
+  offset: 1, 11
+  index: -1
+s
+  rotate: false
+  xy: 1006, 229
+  size: 464, 330
+  orig: 466, 340
+  offset: 1, 9
+  index: -1

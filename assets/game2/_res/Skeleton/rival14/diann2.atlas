@@ -1,0 +1,97 @@
+
+diann2.png
+size: 1145,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao
+  rotate: false
+  xy: 959, 174
+  size: 178, 190
+  orig: 178, 210
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 457, 68
+  size: 296, 249
+  orig: 340, 249
+  offset: 42, 0
+  index: -1
+shenti2
+  rotate: true
+  xy: 708, 68
+  size: 296, 249
+  orig: 340, 249
+  offset: 42, 0
+  index: -1
+shu
+  rotate: false
+  xy: 959, 78
+  size: 180, 94
+  orig: 180, 94
+  offset: 0, 0
+  index: -1
+sq
+  rotate: true
+  xy: 870, 43
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+sq_1
+  rotate: true
+  xy: 802, 18
+  size: 48, 44
+  orig: 50, 44
+  offset: 1, 0
+  index: -1
+sq_2
+  rotate: false
+  xy: 744, 2
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 959, 2
+  size: 74, 91
+  orig: 74, 91
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: true
+  xy: 1052, 2
+  size: 74, 91
+  orig: 74, 91
+  offset: 0, 0
+  index: -1
+yj
+  rotate: true
+  xy: 848, 8
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+zuodb
+  rotate: true
+  xy: 610, 9
+  size: 57, 132
+  orig: 61, 132
+  offset: 0, 0
+  index: -1
+zuos
+  rotate: false
+  xy: 457, 15
+  size: 151, 51
+  orig: 161, 65
+  offset: 10, 14
+  index: -1
+zuoz
+  rotate: false
+  xy: 2, 11
+  size: 453, 353
+  orig: 453, 353
+  offset: 0, 0
+  index: -1

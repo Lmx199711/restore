@@ -1,0 +1,41 @@
+
+zhazhahuiGuang.png
+size: 1041,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1
+  rotate: false
+  xy: 2, 2
+  size: 277, 265
+  orig: 277, 265
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 281, 20
+  size: 188, 247
+  orig: 189, 248
+  offset: 1, 0
+  index: -1
+g3
+  rotate: false
+  xy: 471, 20
+  size: 188, 247
+  orig: 189, 248
+  offset: 1, 0
+  index: -1
+g4
+  rotate: false
+  xy: 661, 20
+  size: 188, 247
+  orig: 189, 248
+  offset: 1, 0
+  index: -1
+g5
+  rotate: false
+  xy: 851, 20
+  size: 188, 247
+  orig: 189, 248
+  offset: 1, 0
+  index: -1

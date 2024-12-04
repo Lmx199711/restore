@@ -1,0 +1,41 @@
+
+shibai.png
+size: 560,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 423, 90
+  size: 135, 71
+  orig: 137, 73
+  offset: 1, 1
+  index: -1
+d
+  rotate: false
+  xy: 2, 2
+  size: 219, 159
+  orig: 221, 172
+  offset: 1, 1
+  index: -1
+f
+  rotate: false
+  xy: 223, 11
+  size: 98, 150
+  orig: 98, 150
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 323, 11
+  size: 98, 150
+  orig: 98, 150
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 423, 4
+  size: 96, 84
+  orig: 98, 86
+  offset: 1, 1
+  index: -1

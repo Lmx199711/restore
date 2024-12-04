@@ -1,0 +1,125 @@
+
+tuzi.png
+size: 248,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_12
+  rotate: true
+  xy: 26, 6
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+1_13
+  rotate: true
+  xy: 2, 22
+  size: 118, 83
+  orig: 118, 83
+  offset: 0, 0
+  index: -1
+1_7
+  rotate: true
+  xy: 48, 6
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+1_7_1
+  rotate: true
+  xy: 58, 7
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+1_7_10
+  rotate: false
+  xy: 121, 57
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+1_7_11
+  rotate: true
+  xy: 219, 21
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+1_7_12
+  rotate: true
+  xy: 90, 2
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+1_7_13
+  rotate: true
+  xy: 87, 43
+  size: 97, 32
+  orig: 97, 32
+  offset: 0, 0
+  index: -1
+1_7_2
+  rotate: true
+  xy: 2, 3
+  size: 17, 11
+  orig: 18, 11
+  offset: 1, 0
+  index: -1
+1_7_3
+  rotate: true
+  xy: 15, 5
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+1_7_4
+  rotate: false
+  xy: 121, 46
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+1_7_5
+  rotate: true
+  xy: 191, 96
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+1_7_6
+  rotate: false
+  xy: 191, 57
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+1_7_7
+  rotate: true
+  xy: 216, 104
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+1_7_8
+  rotate: true
+  xy: 180, 11
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+1_7_9
+  rotate: true
+  xy: 130, 4
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+sd1
+  rotate: true
+  xy: 68, 8
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1

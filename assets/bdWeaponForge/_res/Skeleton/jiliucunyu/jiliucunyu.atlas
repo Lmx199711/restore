@@ -1,0 +1,20 @@
+
+jiliucunyu.png
+size: 182,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 2
+  size: 88, 513
+  orig: 88, 513
+  offset: 0, 0
+  index: -1
+2_1
+  rotate: false
+  xy: 92, 2
+  size: 88, 513
+  orig: 88, 513
+  offset: 0, 0
+  index: -1

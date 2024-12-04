@@ -1,0 +1,34 @@
+
+animAction3.png
+size: 1413,663
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zh_aix
+  rotate: false
+  xy: 1198, 96
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+zh_s1
+  rotate: true
+  xy: 1198, 407
+  size: 254, 213
+  orig: 254, 213
+  offset: 0, 0
+  index: -1
+zh_s2
+  rotate: true
+  xy: 1198, 151
+  size: 254, 213
+  orig: 254, 213
+  offset: 0, 0
+  index: -1
+zh_st
+  rotate: true
+  xy: 2, 2
+  size: 659, 1194
+  orig: 659, 1194
+  offset: 0, 0
+  index: -1

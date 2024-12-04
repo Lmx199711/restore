@@ -1,0 +1,41 @@
+
+mishu_6.png
+size: 192,434
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+06_1
+  rotate: false
+  xy: 109, 2
+  size: 69, 208
+  orig: 69, 208
+  offset: 0, 0
+  index: -1
+06_2
+  rotate: false
+  xy: 109, 212
+  size: 81, 220
+  orig: 81, 220
+  offset: 0, 0
+  index: -1
+06_3
+  rotate: true
+  xy: 2, 44
+  size: 21, 84
+  orig: 21, 84
+  offset: 0, 0
+  index: -1
+06_4
+  rotate: false
+  xy: 2, 67
+  size: 105, 365
+  orig: 105, 365
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 18
+  size: 60, 24
+  orig: 62, 26
+  offset: 1, 1
+  index: -1

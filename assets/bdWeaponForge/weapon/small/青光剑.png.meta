@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2ede4b7a-747c-4fb6-ab63-352cf46ba794",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 133,
+  "height": 131,
+  "platformSettings": {},
+  "subMetas": {
+    "青光剑": {
+      "ver": "1.0.6",
+      "uuid": "bb0b7bf6-11c1-406f-bb20-98a1d708ad7f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2ede4b7a-747c-4fb6-ab63-352cf46ba794",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": -1.5,
+      "trimX": 10,
+      "trimY": 9,
+      "width": 116,
+      "height": 116,
+      "rawWidth": 133,
+      "rawHeight": 131,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

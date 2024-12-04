@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e9bcf337-07a6-4d88-a3f8-189775338ba6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 172,
+  "height": 234,
+  "platformSettings": {},
+  "subMetas": {
+    "木板床": {
+      "ver": "1.0.6",
+      "uuid": "4427f75f-843b-4e5e-94e6-62bfdc7b8c45",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e9bcf337-07a6-4d88-a3f8-189775338ba6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 172,
+      "height": 234,
+      "rawWidth": 172,
+      "rawHeight": 234,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,34 @@
+
+penquan.png
+size: 461,322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 268
+  size: 52, 151
+  orig: 52, 151
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 155, 268
+  size: 52, 151
+  orig: 52, 151
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 308, 268
+  size: 52, 151
+  orig: 52, 151
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 2
+  size: 432, 264
+  orig: 432, 264
+  offset: 0, 0
+  index: -1

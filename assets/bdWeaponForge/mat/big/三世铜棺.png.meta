@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5a74466b-e953-44cc-8a1f-581e4744ad17",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 425,
+  "height": 425,
+  "platformSettings": {},
+  "subMetas": {
+    "三世铜棺": {
+      "ver": "1.0.6",
+      "uuid": "69f3be20-5fbf-4de1-8bcd-a9054a83cdb9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5a74466b-e953-44cc-8a1f-581e4744ad17",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 18.5,
+      "trimX": 101,
+      "trimY": 0,
+      "width": 225,
+      "height": 388,
+      "rawWidth": 425,
+      "rawHeight": 425,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

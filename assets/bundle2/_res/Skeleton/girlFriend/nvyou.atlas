@@ -1,0 +1,55 @@
+
+nvyou.png
+size: 1671,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 1265, 2
+  size: 306, 408
+  orig: 306, 408
+  offset: 0, 0
+  index: -1
+010
+  rotate: true
+  xy: 1573, 309
+  size: 101, 96
+  orig: 111, 102
+  offset: 5, 5
+  index: -1
+02
+  rotate: false
+  xy: 2, 2
+  size: 314, 408
+  orig: 314, 408
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 1573, 280
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 318, 2
+  size: 314, 408
+  orig: 314, 408
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 634, 2
+  size: 314, 408
+  orig: 314, 408
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 950, 3
+  size: 313, 407
+  orig: 313, 407
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cbaab9d9-7e97-43e5-9fa4-f306c5831c25",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 141,
+  "height": 186,
+  "platformSettings": {},
+  "subMetas": {
+    "宠物": {
+      "ver": "1.0.6",
+      "uuid": "3f9a8e0f-0e29-449c-999a-19d2616573dd",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cbaab9d9-7e97-43e5-9fa4-f306c5831c25",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 141,
+      "height": 186,
+      "rawWidth": 141,
+      "rawHeight": 186,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

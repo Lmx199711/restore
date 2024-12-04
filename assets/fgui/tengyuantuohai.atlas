@@ -1,0 +1,160 @@
+
+tengyuantuohai.png
+size: 583,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2321
+  rotate: false
+  xy: 384, 110
+  size: 146, 43
+  orig: 148, 45
+  offset: 1, 1
+  index: -1
+a
+  rotate: false
+  xy: 532, 128
+  size: 19, 25
+  orig: 28, 28
+  offset: 4, 0
+  index: -1
+arm_L_2
+  rotate: true
+  xy: 319, 10
+  size: 30, 113
+  orig: 30, 113
+  offset: 0, 0
+  index: -1
+arm_R_2
+  rotate: true
+  xy: 191, 9
+  size: 28, 126
+  orig: 28, 126
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 552, 84
+  size: 18, 25
+  orig: 28, 28
+  offset: 4, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 300, 42
+  size: 82, 111
+  orig: 82, 111
+  offset: 0, 0
+  index: -1
+c
+  rotate: true
+  xy: 524, 45
+  size: 17, 25
+  orig: 28, 28
+  offset: 5, 1
+  index: -1
+d
+  rotate: true
+  xy: 552, 64
+  size: 18, 25
+  orig: 28, 28
+  offset: 5, 1
+  index: -1
+e
+  rotate: true
+  xy: 496, 45
+  size: 17, 26
+  orig: 28, 28
+  offset: 6, 0
+  index: -1
+eye_R_2
+  rotate: false
+  xy: 445, 47
+  size: 25, 11
+  orig: 27, 13
+  offset: 1, 1
+  index: -1
+eye_R_3
+  rotate: false
+  xy: 472, 48
+  size: 22, 10
+  orig: 24, 12
+  offset: 1, 1
+  index: -1
+eyebow_L
+  rotate: false
+  xy: 417, 45
+  size: 26, 13
+  orig: 28, 15
+  offset: 1, 1
+  index: -1
+eyebow_R
+  rotate: false
+  xy: 384, 46
+  size: 31, 12
+  orig: 33, 14
+  offset: 1, 1
+  index: -1
+f
+  rotate: true
+  xy: 551, 45
+  size: 17, 21
+  orig: 28, 28
+  offset: 5, 0
+  index: -1
+h
+  rotate: false
+  xy: 553, 129
+  size: 19, 24
+  orig: 28, 28
+  offset: 4, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 191, 39
+  size: 114, 107
+  orig: 114, 107
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 2, 3
+  size: 150, 187
+  orig: 150, 187
+  offset: 0, 0
+  index: -1
+leg_L_2
+  rotate: true
+  xy: 434, 2
+  size: 41, 98
+  orig: 41, 98
+  offset: 0, 0
+  index: -1
+leg_R_2
+  rotate: true
+  xy: 384, 60
+  size: 48, 101
+  orig: 48, 101
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 487, 64
+  size: 63, 44
+  orig: 66, 46
+  offset: 2, 1
+  index: -1
+mouth_2
+  rotate: true
+  xy: 532, 111
+  size: 15, 21
+  orig: 17, 23
+  offset: 1, 1
+  index: -1
+mouth_2_2
+  rotate: false
+  xy: 534, 3
+  size: 47, 40
+  orig: 51, 44
+  offset: 2, 2
+  index: -1

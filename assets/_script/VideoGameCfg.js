@@ -1,0 +1,226 @@
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.VideoGameCfg = undefined;
+exports.VideoGameCfg = [{
+  name: "改造废车",
+  icon: "改造废车",
+  reward: 2e6,
+  ui: "PhoneCarUI",
+  data: null,
+  videoGameId: 1e3,
+  sortId: -3
+}, {
+  name: "二手车行",
+  icon: "二手车行",
+  reward: 2e6,
+  ui: "ErShouCarUI",
+  data: null,
+  videoGameId: 1001,
+  sortId: -3
+}, {
+  name: "烤淀粉肠",
+  reward: 2e6,
+  prefab: "",
+  icon: "烤淀粉肠",
+  ui: "HamUI",
+  checkVideo: true,
+  freeCount: 1,
+  videoGameId: 3022,
+  sortId: 1
+}, {
+  name: "你画我猜",
+  reward: 2e6,
+  prefab: "",
+  icon: "你画我猜",
+  ui: "DrawAndGuessUI",
+  checkVideo: true,
+  freeCount: 1,
+  videoGameId: 3021,
+  sortId: 1
+}, {
+  name: "扭转乾坤",
+  reward: 2e6,
+  prefab: "",
+  icon: "成为雀神",
+  ui: "BecomeGambleGodUI",
+  checkVideo: true,
+  freeCount: 1,
+  videoGameId: 3020,
+  sortId: 1
+}, {
+  name: "吃汤圆",
+  reward: 2e6,
+  prefab: "",
+  icon: "吃汤圆",
+  ui: "EatTangYuanUI",
+  checkVideo: true,
+  freeCount: 1,
+  videoGameId: 3019,
+  sortId: 1
+}, {
+  name: "春节返工",
+  reward: 2e6,
+  prefab: "",
+  icon: "春节返工",
+  ui: "BackWorkUI",
+  checkVideo: true,
+  freeCount: 1,
+  videoGameId: 3018,
+  sortId: 1
+}, {
+  name: "过年啦",
+  reward: 2e6,
+  prefab: "",
+  icon: "新年氛围",
+  ui: "MiniGamingUI",
+  checkVideo: true,
+  freeCount: 1,
+  data: "新年氛围",
+  videoGameId: 3016,
+  sortId: 1
+}, {
+  name: "传奇",
+  reward: 2e6,
+  prefab: "",
+  icon: "传奇",
+  ui: "ZhazhaHuiUI",
+  checkVideo: true,
+  freeCount: 1,
+  data: "传奇",
+  videoGameId: 3017,
+  sortId: 1
+}, {
+  name: "白月光",
+  reward: 2e6,
+  prefab: "",
+  icon: "白月光",
+  ui: "MiniGamingUI",
+  checkVideo: true,
+  freeCount: 1,
+  data: "白月光",
+  videoGameId: 3001,
+  sortId: 2
+}, {
+  name: "要与不要",
+  reward: 2e6,
+  prefab: "",
+  icon: "要不要",
+  ui: "YesOrNoUI",
+  checkVideo: true,
+  freeCount: 1,
+  videoGameId: 3015,
+  sortId: 3
+}, {
+  name: "网恋奔现",
+  reward: 2e6,
+  prefab: "",
+  icon: "见网友",
+  ui: "MiniGamingUI",
+  checkVideo: true,
+  freeCount: 1,
+  data: "见网友",
+  videoGameId: 3002,
+  sortId: 5
+}, {
+  name: "相亲女王",
+  reward: 2e6,
+  prefab: "",
+  icon: "成为海后",
+  ui: "HostessUI2",
+  checkVideo: true,
+  freeCount: 1,
+  data: "成为海后",
+  videoGameId: 3003,
+  sortId: 4
+}, {
+  name: "帮助爷奶",
+  reward: 2e6,
+  prefab: "",
+  icon: "帮助爷奶",
+  ui: "HelpGrandUI",
+  checkVideo: true,
+  freeCount: 1,
+  data: "帮助爷奶",
+  videoGameId: 3004,
+  sortId: 16
+}, {
+  name: "空房逃生",
+  reward: 2e6,
+  prefab: "",
+  icon: "空房逃生",
+  ui: "EscapeRoomUI",
+  checkVideo: true,
+  freeCount: 1,
+  videoGameId: 3005,
+  sortId: 6
+}, {
+  name: "EMO男神",
+  reward: 2e6,
+  prefab: "",
+  icon: "emo男神",
+  ui: "EmoManUI",
+  checkVideo: true,
+  freeCount: 1,
+  data: "emo男神",
+  videoGameId: 3006,
+  sortId: 7
+}, {
+  name: "女王生孩子",
+  reward: 2e6,
+  prefab: "",
+  icon: "美杜莎",
+  ui: "MedusaUI",
+  checkVideo: true,
+  freeCount: 1,
+  videoGameId: 3008,
+  sortId: 9
+}, {
+  name: "模拟人生",
+  reward: 2e6,
+  prefab: "",
+  icon: "模拟人生",
+  ui: "TheSimsUI",
+  checkVideo: true,
+  freeCount: 1,
+  videoGameId: 3009,
+  sortId: 10
+}, {
+  name: "扶楼梯",
+  reward: 188e4,
+  prefab: "",
+  icon: "扶楼梯",
+  ui: "LampNameUI",
+  videoGameId: 3010,
+  sortId: 11
+}, {
+  name: "砸电脑",
+  reward: 2e6,
+  prefab: "",
+  icon: "砸电脑",
+  ui: "ComputerUI",
+  checkVideo: true,
+  freeCount: 1,
+  videoGameId: 3012,
+  sortId: 13
+}, {
+  name: "神奇刀削面",
+  reward: 2e6,
+  prefab: "",
+  icon: "神奇刀削面",
+  ui: "NoodlesUI",
+  checkVideo: true,
+  freeCount: 1,
+  videoGameId: 3013,
+  sortId: 14
+}, {
+  name: "回家的路",
+  reward: 10,
+  prefab: "",
+  icon: "回家的路",
+  ui: "HomeWayUI",
+  checkVideo: true,
+  freeCount: 1,
+  videoGameId: 3014,
+  sortId: 15
+}];

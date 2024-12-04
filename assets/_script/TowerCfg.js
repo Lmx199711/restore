@@ -1,0 +1,530 @@
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.TowerDropCfg = exports.TowerCfg = undefined;
+exports.TowerCfg = [{
+  id: 1,
+  name: "风兔子",
+  fight: 1e5,
+  hp: 1e4,
+  y: -100,
+  fightY: -300,
+  drop: 1,
+  refreshTime: 150
+}, {
+  id: 2,
+  name: "岩石傀儡",
+  fight: 1e6,
+  hp: 16e4,
+  y: -50,
+  fightY: -300,
+  drop: 2,
+  refreshTime: 240
+}, {
+  id: 3,
+  name: "狮鹫",
+  fight: 1e7,
+  hp: 72e4,
+  y: -100,
+  fightY: -300,
+  drop: 3,
+  refreshTime: 300
+}, {
+  id: 4,
+  name: "牛头怪",
+  fight: 1e8,
+  hp: 144e4,
+  y: -50,
+  fightY: -300,
+  drop: 4,
+  refreshTime: 360
+}, {
+  id: 5,
+  name: "风龙",
+  fight: 1e9,
+  hp: 5e6,
+  y: -70,
+  fightY: -300,
+  drop: 5,
+  refreshTime: 360
+}, {
+  id: 6,
+  name: "粘土人偶",
+  fight: 1e9,
+  hp: 75e5,
+  y: -70,
+  fightY: -300,
+  drop: 6,
+  refreshTime: 360
+}, {
+  id: 7,
+  name: "变异蟹",
+  fight: 1e9,
+  hp: 1e7,
+  y: -40,
+  fightY: -300,
+  drop: 7,
+  refreshTime: 360
+}, {
+  id: 8,
+  name: "小恶魔",
+  fight: 1e9,
+  hp: 142e5,
+  y: -40,
+  fightY: -300,
+  drop: 8,
+  refreshTime: 360
+}, {
+  id: 9,
+  name: "地狱犬",
+  fight: 1e9,
+  hp: 21e6,
+  y: -50,
+  fightY: -300,
+  drop: 9,
+  refreshTime: 360
+}, {
+  id: 10,
+  name: "石像鬼",
+  fight: 1e9,
+  hp: 28e6,
+  y: -70,
+  fightY: -300,
+  drop: 10,
+  refreshTime: 360
+}, {
+  id: 11,
+  name: "双足飞龙",
+  fight: 1e9,
+  hp: 32e6,
+  y: -70,
+  fightY: -300,
+  drop: 11,
+  refreshTime: 360
+}, {
+  id: 12,
+  name: "巨蛇怪",
+  fight: 1e9,
+  hp: 42e6,
+  y: -40,
+  fightY: -300,
+  drop: 12,
+  refreshTime: 360
+}, {
+  id: 13,
+  name: "火元素",
+  fight: 1e9,
+  hp: 5e7,
+  y: -120,
+  fightY: -320,
+  drop: 13,
+  refreshTime: 360
+}, {
+  id: 14,
+  name: "风元素",
+  fight: 1e9,
+  hp: 53e6,
+  y: -90,
+  fightY: -300,
+  drop: 14,
+  refreshTime: 360
+}, {
+  id: 15,
+  name: "地元素",
+  fight: 1e9,
+  hp: 56e6,
+  y: -40,
+  fightY: -300,
+  drop: 15,
+  refreshTime: 360
+}, {
+  id: 16,
+  name: "海元素",
+  fight: 1e9,
+  hp: 6e7,
+  y: -80,
+  fightY: -300,
+  drop: 16,
+  refreshTime: 360
+}, {
+  id: 17,
+  name: "剑魔",
+  fight: 1e9,
+  hp: 8e7,
+  y: -80,
+  fightY: -300,
+  drop: 17,
+  refreshTime: 360,
+  desc: "你还以为你是当年的剑帝吗？"
+}, {
+  id: 999,
+  name: "树精",
+  icon1: "tower/bg/2",
+  fight: 0,
+  hp: 108e6,
+  y: 0,
+  fightY: 0,
+  drop: 999,
+  refreshTime: 360
+}];
+exports.TowerDropCfg = [{
+  id: 1,
+  desc: "第一层掉落",
+  items: [{
+    type: 2,
+    rate: 100,
+    num: 50
+  }, {
+    id: 5,
+    rate: 35,
+    num: 1
+  }, {
+    id: 3,
+    rate: 35,
+    num: 1
+  }, {
+    id: 6,
+    rate: 15,
+    num: 1
+  }, {
+    id: 7,
+    rate: 15,
+    num: 1
+  }]
+}, {
+  id: 2,
+  desc: "第二层掉落",
+  items: [{
+    type: 2,
+    rate: 100,
+    num: 200
+  }, {
+    id: 1,
+    rate: 40,
+    num: 1
+  }, {
+    id: 2,
+    rate: 40,
+    num: 1
+  }, {
+    id: 9,
+    rate: 15,
+    num: 1
+  }, {
+    id: 10,
+    rate: 5,
+    num: 1
+  }]
+}, {
+  id: 3,
+  desc: "第三层掉落",
+  items: [{
+    type: 2,
+    rate: 100,
+    num: 800
+  }, {
+    id: 4,
+    rate: 70,
+    num: 1
+  }, {
+    id: 8,
+    rate: 20,
+    num: 1
+  }, {
+    id: 11,
+    rate: 5,
+    num: 1
+  }, {
+    id: 13,
+    rate: 5,
+    num: 1
+  }]
+}, {
+  id: 4,
+  desc: "第四层掉落",
+  items: [{
+    type: 2,
+    rate: 86,
+    num: 1e3
+  }, {
+    id: 3001,
+    rate: 6,
+    num: 1
+  }, {
+    id: 12,
+    rate: 6,
+    num: 1
+  }, {
+    id: 14,
+    rate: 2,
+    num: 1
+  }]
+}, {
+  id: 5,
+  desc: "第五层掉落",
+  items: [{
+    type: 2,
+    rate: 84,
+    num: 5e3
+  }, {
+    id: 13,
+    rate: 10,
+    num: 1
+  }, {
+    id: 15,
+    rate: 3,
+    num: 1
+  }, {
+    id: 16,
+    rate: 3,
+    num: 1
+  }]
+}, {
+  id: 6,
+  desc: "第六层掉落",
+  items: [{
+    type: 2,
+    rate: 50,
+    num: 7500
+  }, {
+    id: 1001,
+    rate: 35,
+    num: 1
+  }, {
+    id: 11,
+    rate: 10,
+    num: 1
+  }, {
+    id: 4001,
+    rate: 5,
+    num: 1
+  }]
+}, {
+  id: 7,
+  desc: "第七层掉落",
+  items: [{
+    type: 2,
+    rate: 50,
+    num: 1e4
+  }, {
+    id: 1002,
+    rate: 35,
+    num: 1
+  }, {
+    id: 12,
+    rate: 10,
+    num: 1
+  }, {
+    id: 15,
+    rate: 5,
+    num: 1
+  }]
+}, {
+  id: 8,
+  desc: "第八层掉落",
+  items: [{
+    type: 2,
+    rate: 60,
+    num: 15e3
+  }, {
+    id: 2001,
+    rate: 20,
+    num: 1
+  }, {
+    id: 3001,
+    rate: 15,
+    num: 1
+  }, {
+    id: 16,
+    rate: 5,
+    num: 1
+  }]
+}, {
+  id: 9,
+  desc: "第九层掉落",
+  items: [{
+    type: 2,
+    rate: 60,
+    num: 21e3
+  }, {
+    id: 6,
+    rate: 20,
+    num: 1
+  }, {
+    id: 10,
+    rate: 15,
+    num: 1
+  }, {
+    id: 14,
+    rate: 5,
+    num: 1
+  }]
+}, {
+  id: 10,
+  desc: "第十层掉落",
+  items: [{
+    type: 2,
+    rate: 60,
+    num: 28e3
+  }, {
+    id: 3001,
+    rate: 24,
+    num: 1
+  }, {
+    id: 4001,
+    rate: 8,
+    num: 1
+  }, {
+    id: 16,
+    rate: 8,
+    num: 1
+  }]
+}, {
+  id: 11,
+  desc: "第十一层掉落",
+  items: [{
+    type: 2,
+    rate: 60,
+    num: 32e3
+  }, {
+    id: 1003,
+    rate: 35,
+    num: 1
+  }, {
+    id: 2002,
+    rate: 20,
+    num: 1
+  }, {
+    id: 15,
+    rate: 10,
+    num: 1
+  }]
+}, {
+  id: 12,
+  desc: "第十二层掉落",
+  items: [{
+    type: 2,
+    rate: 60,
+    num: 42e3
+  }, {
+    id: 13,
+    rate: 15,
+    num: 1
+  }, {
+    id: 3002,
+    rate: 15,
+    num: 1
+  }, {
+    id: 14,
+    rate: 10,
+    num: 1
+  }]
+}, {
+  id: 13,
+  desc: "第十三层掉落",
+  items: [{
+    type: 2,
+    rate: 68,
+    num: 5e4
+  }, {
+    id: 12,
+    rate: 20,
+    num: 1
+  }, {
+    id: 4002,
+    rate: 6,
+    num: 1
+  }, {
+    id: 15,
+    rate: 6,
+    num: 1
+  }]
+}, {
+  id: 14,
+  desc: "第十四层掉落",
+  items: [{
+    type: 2,
+    rate: 68,
+    num: 53e3
+  }, {
+    id: 3002,
+    rate: 20,
+    num: 1
+  }, {
+    id: 4003,
+    rate: 6,
+    num: 1
+  }, {
+    id: 16,
+    rate: 6,
+    num: 1
+  }]
+}, {
+  id: 15,
+  desc: "第十五层掉落",
+  items: [{
+    type: 2,
+    rate: 68,
+    num: 56e3
+  }, {
+    id: 11,
+    rate: 15,
+    num: 1
+  }, {
+    id: 4004,
+    rate: 6,
+    num: 1
+  }, {
+    id: 4001,
+    rate: 6,
+    num: 1
+  }]
+}, {
+  id: 16,
+  desc: "第十六层掉落",
+  items: [{
+    type: 2,
+    rate: 68,
+    num: 6e4
+  }, {
+    id: 10,
+    rate: 15,
+    num: 1
+  }, {
+    id: 4005,
+    rate: 15,
+    num: 1
+  }, {
+    id: 14,
+    rate: 10,
+    num: 1
+  }]
+}, {
+  id: 17,
+  desc: "第十七层掉落",
+  items: [{
+    type: 2,
+    rate: 68,
+    num: 6e4
+  }, {
+    id: 10,
+    rate: 15,
+    num: 1
+  }, {
+    id: 4005,
+    rate: 15,
+    num: 1
+  }, {
+    id: 14,
+    rate: 10,
+    num: 1
+  }]
+}, {
+  id: 999,
+  desc: "树精",
+  items: [{
+    type: 2,
+    rate: 100,
+    num: 1e6
+  }]
+}];

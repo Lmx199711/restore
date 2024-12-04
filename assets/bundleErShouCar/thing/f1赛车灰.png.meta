@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "dc90dc2c-1b08-4317-986c-fdd8098bf50c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 584,
+  "height": 177,
+  "platformSettings": {},
+  "subMetas": {
+    "f1赛车灰": {
+      "ver": "1.0.6",
+      "uuid": "60a362d6-d1d7-43a9-93b8-c17efea5ea05",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "dc90dc2c-1b08-4317-986c-fdd8098bf50c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 584,
+      "height": 177,
+      "rawWidth": 584,
+      "rawHeight": 177,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

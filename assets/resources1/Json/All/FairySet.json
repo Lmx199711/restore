@@ -1,0 +1,25 @@
+[
+  {
+    "id": "forgeCost",
+    "value": 100
+  },
+  {
+    "id": "washCost",
+    "value": 5000
+  },
+  {
+    "id": "stoneUnit",
+    "value": 10000000000
+  },
+  {
+    "id": "version_tower",
+    "value": "有更新"
+  },
+  {
+    "id": "version_tg"
+  },
+  {
+    "id": "version_shop",
+    "value": "有更新"
+  }
+]

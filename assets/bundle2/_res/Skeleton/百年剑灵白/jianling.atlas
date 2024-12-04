@@ -1,0 +1,27 @@
+
+jianling.png
+size: 1412,790
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jianling_1
+  rotate: false
+  xy: 724, 2
+  size: 588, 786
+  orig: 588, 786
+  offset: 0, 0
+  index: -1
+jianling_2
+  rotate: false
+  xy: 2, 3
+  size: 720, 785
+  orig: 720, 785
+  offset: 0, 0
+  index: -1
+jianling_3
+  rotate: false
+  xy: 1314, 663
+  size: 96, 125
+  orig: 96, 125
+  offset: 0, 0
+  index: -1

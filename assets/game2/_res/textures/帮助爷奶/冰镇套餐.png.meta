@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8d8267d8-865e-40f7-81bc-73b02ec9a67a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 185,
+  "height": 118,
+  "platformSettings": {},
+  "subMetas": {
+    "冰镇套餐": {
+      "ver": "1.0.6",
+      "uuid": "cdc10af6-ea5d-4696-9459-598eb9a298c2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8d8267d8-865e-40f7-81bc-73b02ec9a67a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 185,
+      "height": 118,
+      "rawWidth": 185,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

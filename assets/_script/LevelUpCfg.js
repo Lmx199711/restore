@@ -1,0 +1,8190 @@
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.LevelAddCfg = exports.LevelUpCfg = undefined;
+exports.LevelUpCfg = [{
+  level: 0,
+  click: 4,
+  coin: 2
+}, {
+  level: 1,
+  click: 8,
+  coin: 5
+}, {
+  level: 2,
+  click: 10,
+  coin: 20
+}, {
+  level: 3,
+  click: 210,
+  coin: 100
+}, {
+  level: 4,
+  click: 214,
+  coin: 119
+}, {
+  level: 5,
+  click: 218,
+  coin: 124
+}, {
+  level: 6,
+  click: 222,
+  coin: 130
+}, {
+  level: 7,
+  click: 226,
+  coin: 136
+}, {
+  level: 8,
+  click: 230,
+  coin: 142
+}, {
+  level: 9,
+  click: 235,
+  coin: 149
+}, {
+  level: 10,
+  click: 239,
+  coin: 156
+}, {
+  level: 11,
+  click: 243,
+  coin: 163
+}, {
+  level: 12,
+  click: 248,
+  coin: 171
+}, {
+  level: 13,
+  click: 252,
+  coin: 178
+}, {
+  level: 14,
+  click: 257,
+  coin: 187
+}, {
+  level: 15,
+  click: 261,
+  coin: 195
+}, {
+  level: 16,
+  click: 266,
+  coin: 204
+}, {
+  level: 17,
+  click: 271,
+  coin: 214
+}, {
+  level: 18,
+  click: 276,
+  coin: 223
+}, {
+  level: 19,
+  click: 281,
+  coin: 234
+}, {
+  level: 20,
+  click: 286,
+  coin: 244
+}, {
+  level: 21,
+  click: 291,
+  coin: 256
+}, {
+  level: 22,
+  click: 296,
+  coin: 267
+}, {
+  level: 23,
+  click: 302,
+  coin: 280
+}, {
+  level: 24,
+  click: 307,
+  coin: 293
+}, {
+  level: 25,
+  click: 313,
+  coin: 306
+}, {
+  level: 26,
+  click: 319,
+  coin: 320
+}, {
+  level: 27,
+  click: 324,
+  coin: 335
+}, {
+  level: 28,
+  click: 330,
+  coin: 350
+}, {
+  level: 29,
+  click: 336,
+  coin: 366
+}, {
+  level: 30,
+  click: 342,
+  coin: 383
+}, {
+  level: 31,
+  click: 349,
+  coin: 401
+}, {
+  level: 32,
+  click: 355,
+  coin: 419
+}, {
+  level: 33,
+  click: 362,
+  coin: 439
+}, {
+  level: 34,
+  click: 368,
+  coin: 459
+}, {
+  level: 35,
+  click: 375,
+  coin: 480
+}, {
+  level: 36,
+  click: 382,
+  coin: 502
+}, {
+  level: 37,
+  click: 389,
+  coin: 525
+}, {
+  level: 38,
+  click: 396,
+  coin: 549
+}, {
+  level: 39,
+  click: 403,
+  coin: 574
+}, {
+  level: 40,
+  click: 410,
+  coin: 601
+}, {
+  level: 41,
+  click: 418,
+  coin: 628
+}, {
+  level: 42,
+  click: 425,
+  coin: 657
+}, {
+  level: 43,
+  click: 433,
+  coin: 688
+}, {
+  level: 44,
+  click: 441,
+  coin: 719
+}, {
+  level: 45,
+  click: 449,
+  coin: 752
+}, {
+  level: 46,
+  click: 457,
+  coin: 787
+}, {
+  level: 47,
+  click: 465,
+  coin: 823
+}, {
+  level: 48,
+  click: 474,
+  coin: 861
+}, {
+  level: 49,
+  click: 482,
+  coin: 901
+}, {
+  level: 50,
+  click: 491,
+  coin: 942
+}, {
+  level: 51,
+  click: 500,
+  coin: 985
+}, {
+  level: 52,
+  click: 509,
+  coin: 1031
+}, {
+  level: 53,
+  click: 519,
+  coin: 1078
+}, {
+  level: 54,
+  click: 528,
+  coin: 1128
+}, {
+  level: 55,
+  click: 538,
+  coin: 1180
+}, {
+  level: 56,
+  click: 547,
+  coin: 1234
+}, {
+  level: 57,
+  click: 557,
+  coin: 1291
+}, {
+  level: 58,
+  click: 568,
+  coin: 1350
+}, {
+  level: 59,
+  click: 578,
+  coin: 1412
+}, {
+  level: 60,
+  click: 588,
+  coin: 1477
+}, {
+  level: 61,
+  click: 599,
+  coin: 1545
+}, {
+  level: 62,
+  click: 610,
+  coin: 1616
+}, {
+  level: 63,
+  click: 621,
+  coin: 1690
+}, {
+  level: 64,
+  click: 632,
+  coin: 1768
+}, {
+  level: 65,
+  click: 644,
+  coin: 1850
+}, {
+  level: 66,
+  click: 656,
+  coin: 1935
+}, {
+  level: 67,
+  click: 668,
+  coin: 2024
+}, {
+  level: 68,
+  click: 680,
+  coin: 2117
+}, {
+  level: 69,
+  click: 692,
+  coin: 2214
+}, {
+  level: 70,
+  click: 705,
+  coin: 2316
+}, {
+  level: 71,
+  click: 717,
+  coin: 2422
+}, {
+  level: 72,
+  click: 731,
+  coin: 2534
+}, {
+  level: 73,
+  click: 744,
+  coin: 2650
+}, {
+  level: 74,
+  click: 757,
+  coin: 2772
+}, {
+  level: 75,
+  click: 771,
+  coin: 2900
+}, {
+  level: 76,
+  click: 785,
+  coin: 3033
+}, {
+  level: 77,
+  click: 799,
+  coin: 3173
+}, {
+  level: 78,
+  click: 814,
+  coin: 3319
+}, {
+  level: 79,
+  click: 829,
+  coin: 3471
+}, {
+  level: 80,
+  click: 844,
+  coin: 3631
+}, {
+  level: 81,
+  click: 859,
+  coin: 3798
+}, {
+  level: 82,
+  click: 875,
+  coin: 3973
+}, {
+  level: 83,
+  click: 891,
+  coin: 4156
+}, {
+  level: 84,
+  click: 907,
+  coin: 4347
+}, {
+  level: 85,
+  click: 924,
+  coin: 4547
+}, {
+  level: 86,
+  click: 940,
+  coin: 4756
+}, {
+  level: 87,
+  click: 958,
+  coin: 4975
+}, {
+  level: 88,
+  click: 975,
+  coin: 5203
+}, {
+  level: 89,
+  click: 993,
+  coin: 5443
+}, {
+  level: 90,
+  click: 1011,
+  coin: 5693
+}, {
+  level: 91,
+  click: 1029,
+  coin: 5955
+}, {
+  level: 92,
+  click: 1048,
+  coin: 6229
+}, {
+  level: 93,
+  click: 1067,
+  coin: 6516
+}, {
+  level: 94,
+  click: 1086,
+  coin: 6815
+}, {
+  level: 95,
+  click: 1106,
+  coin: 7129
+}, {
+  level: 96,
+  click: 1126,
+  coin: 7457
+}, {
+  level: 97,
+  click: 1147,
+  coin: 7800
+}, {
+  level: 98,
+  click: 1168,
+  coin: 8158
+}, {
+  level: 99,
+  click: 1189,
+  coin: 8534
+}, {
+  level: 100,
+  click: 1211,
+  coin: 8926
+}, {
+  level: 101,
+  click: 1233,
+  coin: 9337
+}, {
+  level: 102,
+  click: 1255,
+  coin: 9766
+}, {
+  level: 103,
+  click: 1278,
+  coin: 10216
+}, {
+  level: 104,
+  click: 1301,
+  coin: 10686
+}, {
+  level: 105,
+  click: 1325,
+  coin: 11177
+}, {
+  level: 106,
+  click: 1349,
+  coin: 11691
+}, {
+  level: 107,
+  click: 1373,
+  coin: 12229
+}, {
+  level: 108,
+  click: 1398,
+  coin: 12792
+}, {
+  level: 109,
+  click: 1424,
+  coin: 13380
+}, {
+  level: 110,
+  click: 1450,
+  coin: 13995
+}, {
+  level: 111,
+  click: 1476,
+  coin: 14639
+}, {
+  level: 112,
+  click: 1503,
+  coin: 15313
+}, {
+  level: 113,
+  click: 1530,
+  coin: 16017
+}, {
+  level: 114,
+  click: 1558,
+  coin: 16754
+}, {
+  level: 115,
+  click: 1587,
+  coin: 17524
+}, {
+  level: 116,
+  click: 1615,
+  coin: 18331
+}, {
+  level: 117,
+  click: 1645,
+  coin: 19174
+}, {
+  level: 118,
+  click: 1675,
+  coin: 20056
+}, {
+  level: 119,
+  click: 1705,
+  coin: 20978
+}, {
+  level: 120,
+  click: 1736,
+  coin: 21943
+}, {
+  level: 121,
+  click: 1768,
+  coin: 22953
+}, {
+  level: 122,
+  click: 1800,
+  coin: 24009
+}, {
+  level: 123,
+  click: 1833,
+  coin: 25113
+}, {
+  level: 124,
+  click: 1866,
+  coin: 26268
+}, {
+  level: 125,
+  click: 1900,
+  coin: 27477
+}, {
+  level: 126,
+  click: 1935,
+  coin: 28740
+}, {
+  level: 127,
+  click: 1970,
+  coin: 30063
+}, {
+  level: 128,
+  click: 2006,
+  coin: 31445
+}, {
+  level: 129,
+  click: 2042,
+  coin: 32892
+}, {
+  level: 130,
+  click: 2080,
+  coin: 34405
+}, {
+  level: 131,
+  click: 2117,
+  coin: 35988
+}, {
+  level: 132,
+  click: 2156,
+  coin: 37643
+}, {
+  level: 133,
+  click: 2195,
+  coin: 39375
+}, {
+  level: 134,
+  click: 2235,
+  coin: 41186
+}, {
+  level: 135,
+  click: 2276,
+  coin: 43080
+}, {
+  level: 136,
+  click: 2317,
+  coin: 45062
+}, {
+  level: 137,
+  click: 2359,
+  coin: 47135
+}, {
+  level: 138,
+  click: 2402,
+  coin: 49303
+}, {
+  level: 139,
+  click: 2446,
+  coin: 51571
+}, {
+  level: 140,
+  click: 2491,
+  coin: 53943
+}, {
+  level: 141,
+  click: 2536,
+  coin: 56425
+}, {
+  level: 142,
+  click: 2582,
+  coin: 59020
+}, {
+  level: 143,
+  click: 2629,
+  coin: 61735
+}, {
+  level: 144,
+  click: 2677,
+  coin: 64575
+}, {
+  level: 145,
+  click: 2726,
+  coin: 67545
+}, {
+  level: 146,
+  click: 2775,
+  coin: 70653
+}, {
+  level: 147,
+  click: 2826,
+  coin: 73903
+}, {
+  level: 148,
+  click: 2877,
+  coin: 77302
+}, {
+  level: 149,
+  click: 2930,
+  coin: 80858
+}, {
+  level: 150,
+  click: 2983,
+  coin: 84577
+}, {
+  level: 151,
+  click: 3037,
+  coin: 88468
+}, {
+  level: 152,
+  click: 3092,
+  coin: 92537
+}, {
+  level: 153,
+  click: 3149,
+  coin: 96794
+}, {
+  level: 154,
+  click: 3206,
+  coin: 101247
+}, {
+  level: 155,
+  click: 3264,
+  coin: 105904
+}, {
+  level: 156,
+  click: 3324,
+  coin: 110776
+}, {
+  level: 157,
+  click: 3384,
+  coin: 115871
+}, {
+  level: 158,
+  click: 3446,
+  coin: 121201
+}, {
+  level: 159,
+  click: 3509,
+  coin: 126777
+}, {
+  level: 160,
+  click: 3572,
+  coin: 132608
+}, {
+  level: 161,
+  click: 3637,
+  coin: 138708
+}, {
+  level: 162,
+  click: 3704,
+  coin: 145089
+}, {
+  level: 163,
+  click: 3771,
+  coin: 151763
+}, {
+  level: 164,
+  click: 3840,
+  coin: 158744
+}, {
+  level: 165,
+  click: 3910,
+  coin: 166046
+}, {
+  level: 166,
+  click: 3981,
+  coin: 173685
+}, {
+  level: 167,
+  click: 4053,
+  coin: 181674
+}, {
+  level: 168,
+  click: 4127,
+  coin: 190031
+}, {
+  level: 169,
+  click: 4202,
+  coin: 198773
+}, {
+  level: 170,
+  click: 4278,
+  coin: 207916
+}, {
+  level: 171,
+  click: 4356,
+  coin: 217480
+}, {
+  level: 172,
+  click: 4436,
+  coin: 227484
+}, {
+  level: 173,
+  click: 4516,
+  coin: 237949
+}, {
+  level: 174,
+  click: 4599,
+  coin: 248894
+}, {
+  level: 175,
+  click: 4682,
+  coin: 260343
+}, {
+  level: 176,
+  click: 4767,
+  coin: 272319
+}, {
+  level: 177,
+  click: 4854,
+  coin: 284846
+}, {
+  level: 178,
+  click: 4943,
+  coin: 297949
+}, {
+  level: 179,
+  click: 5033,
+  coin: 311654
+}, {
+  level: 180,
+  click: 5124,
+  coin: 325990
+}, {
+  level: 181,
+  click: 5217,
+  coin: 340986
+}, {
+  level: 182,
+  click: 5312,
+  coin: 356671
+}, {
+  level: 183,
+  click: 5409,
+  coin: 373078
+}, {
+  level: 184,
+  click: 5507,
+  coin: 390240
+}, {
+  level: 185,
+  click: 5608,
+  coin: 408191
+}, {
+  level: 186,
+  click: 5710,
+  coin: 426968
+}, {
+  level: 187,
+  click: 5814,
+  coin: 446608
+}, {
+  level: 188,
+  click: 5919,
+  coin: 467152
+}, {
+  level: 189,
+  click: 6027,
+  coin: 488641
+}, {
+  level: 190,
+  click: 6137,
+  coin: 511119
+}, {
+  level: 191,
+  click: 6249,
+  coin: 534630
+}, {
+  level: 192,
+  click: 6362,
+  coin: 559223
+}, {
+  level: 193,
+  click: 6478,
+  coin: 584947
+}, {
+  level: 194,
+  click: 6596,
+  coin: 611855
+}, {
+  level: 195,
+  click: 6716,
+  coin: 64e4
+}, {
+  level: 196,
+  click: 6838,
+  coin: 669440
+}, {
+  level: 197,
+  click: 6963,
+  coin: 700235
+}, {
+  level: 198,
+  click: 7089,
+  coin: 732445
+}, {
+  level: 199,
+  click: 7219,
+  coin: 766138
+}, {
+  level: 200,
+  click: 7350,
+  coin: 801380
+}, {
+  level: 201,
+  click: 7484,
+  coin: 838244
+}, {
+  level: 202,
+  click: 7620,
+  coin: 876803
+}, {
+  level: 203,
+  click: 7759,
+  coin: 917136
+}, {
+  level: 204,
+  click: 7900,
+  coin: 959324
+}, {
+  level: 205,
+  click: 8044,
+  coin: 1003453
+}, {
+  level: 206,
+  click: 8190,
+  coin: 1049612
+}, {
+  level: 207,
+  click: 8339,
+  coin: 1097894
+}, {
+  level: 208,
+  click: 8491,
+  coin: 1148397
+}, {
+  level: 209,
+  click: 8645,
+  coin: 1201223
+}, {
+  level: 210,
+  click: 8803,
+  coin: 1256479
+}, {
+  level: 211,
+  click: 8963,
+  coin: 1314278
+}, {
+  level: 212,
+  click: 9126,
+  coin: 1374734
+}, {
+  level: 213,
+  click: 9292,
+  coin: 1437972
+}, {
+  level: 214,
+  click: 9461,
+  coin: 1504119
+}, {
+  level: 215,
+  click: 9633,
+  coin: 1573308
+}, {
+  level: 216,
+  click: 9809,
+  coin: 1645680
+}, {
+  level: 217,
+  click: 9987,
+  coin: 1721382
+}, {
+  level: 218,
+  click: 10169,
+  coin: 1800565
+}, {
+  level: 219,
+  click: 10354,
+  coin: 1883391
+}, {
+  level: 220,
+  click: 10542,
+  coin: 1970027
+}, {
+  level: 221,
+  click: 10734,
+  coin: 2060649
+}, {
+  level: 222,
+  click: 10930,
+  coin: 2155438
+}, {
+  level: 223,
+  click: 11129,
+  coin: 2254589
+}, {
+  level: 224,
+  click: 11331,
+  coin: 2358300
+}, {
+  level: 225,
+  click: 11537,
+  coin: 2466781
+}, {
+  level: 226,
+  click: 11747,
+  coin: 2580253
+}, {
+  level: 227,
+  click: 11961,
+  coin: 2698945
+}, {
+  level: 228,
+  click: 12179,
+  coin: 2823097
+}, {
+  level: 229,
+  click: 12401,
+  coin: 2952959
+}, {
+  level: 230,
+  click: 12626,
+  coin: 3088795
+}, {
+  level: 231,
+  click: 12856,
+  coin: 3230880
+}, {
+  level: 232,
+  click: 13090,
+  coin: 3379500
+}, {
+  level: 233,
+  click: 13328,
+  coin: 3534957
+}, {
+  level: 234,
+  click: 13571,
+  coin: 3697565
+}, {
+  level: 235,
+  click: 13818,
+  coin: 3867653
+}, {
+  level: 236,
+  click: 14069,
+  coin: 4045565
+}, {
+  level: 237,
+  click: 14325,
+  coin: 4231661
+}, {
+  level: 238,
+  click: 14586,
+  coin: 4426318
+}, {
+  level: 239,
+  click: 14852,
+  coin: 4629928
+}, {
+  level: 240,
+  click: 15122,
+  coin: 4842905
+}, {
+  level: 241,
+  click: 15397,
+  coin: 5065679
+}, {
+  level: 242,
+  click: 15677,
+  coin: 5298700
+}, {
+  level: 243,
+  click: 15963,
+  coin: 5542440
+}, {
+  level: 244,
+  click: 16253,
+  coin: 5797392
+}, {
+  level: 245,
+  click: 16549,
+  coin: 6064072
+}, {
+  level: 246,
+  click: 16850,
+  coin: 6343020
+}, {
+  level: 247,
+  click: 17157,
+  coin: 6634798
+}, {
+  level: 248,
+  click: 17469,
+  coin: 6939999
+}, {
+  level: 249,
+  click: 17787,
+  coin: 7259239
+}, {
+  level: 250,
+  click: 18111,
+  coin: 7593164
+}, {
+  level: 251,
+  click: 18440,
+  coin: 7942450
+}, {
+  level: 252,
+  click: 18776,
+  coin: 8307802
+}, {
+  level: 253,
+  click: 19118,
+  coin: 8689961
+}, {
+  level: 254,
+  click: 19466,
+  coin: 9089699
+}, {
+  level: 255,
+  click: 19820,
+  coin: 9507826
+}, {
+  level: 256,
+  click: 20181,
+  coin: 9945186
+}, {
+  level: 257,
+  click: 20548,
+  coin: 10402664
+}, {
+  level: 258,
+  click: 20922,
+  coin: 10881187
+}, {
+  level: 259,
+  click: 21303,
+  coin: 11381721
+}, {
+  level: 260,
+  click: 21690,
+  coin: 11905281
+}, {
+  level: 261,
+  click: 22085,
+  coin: 12452923
+}, {
+  level: 262,
+  click: 22487,
+  coin: 13025758
+}, {
+  level: 263,
+  click: 22896,
+  coin: 13624943
+}, {
+  level: 264,
+  click: 23313,
+  coin: 14251690
+}, {
+  level: 265,
+  click: 23737,
+  coin: 14907268
+}, {
+  level: 266,
+  click: 24169,
+  coin: 15593002
+}, {
+  level: 267,
+  click: 24609,
+  coin: 16310280
+}, {
+  level: 268,
+  click: 25057,
+  coin: 17060553
+}, {
+  level: 269,
+  click: 25513,
+  coin: 17845339
+}, {
+  level: 270,
+  click: 25978,
+  coin: 18666224
+}, {
+  level: 271,
+  click: 26450,
+  coin: 19524871
+}, {
+  level: 272,
+  click: 26932,
+  coin: 20423015
+}, {
+  level: 273,
+  click: 27422,
+  coin: 21362473
+}, {
+  level: 274,
+  click: 27921,
+  coin: 22345147
+}, {
+  level: 275,
+  click: 28429,
+  coin: 23373024
+}, {
+  level: 276,
+  click: 28947,
+  coin: 24448183
+}, {
+  level: 277,
+  click: 29473,
+  coin: 25572799
+}, {
+  level: 278,
+  click: 30010,
+  coin: 26749148
+}, {
+  level: 279,
+  click: 30556,
+  coin: 27979609
+}, {
+  level: 280,
+  click: 31112,
+  coin: 29266671
+}, {
+  level: 281,
+  click: 31678,
+  coin: 30612938
+}, {
+  level: 282,
+  click: 32255,
+  coin: 32021133
+}, {
+  level: 283,
+  click: 32842,
+  coin: 33494105
+}, {
+  level: 284,
+  click: 33440,
+  coin: 35034834
+}, {
+  level: 285,
+  click: 34048,
+  coin: 36646436
+}, {
+  level: 286,
+  click: 34668,
+  coin: 38332172
+}, {
+  level: 287,
+  click: 35299,
+  coin: 40095452
+}, {
+  level: 288,
+  click: 35941,
+  coin: 41939843
+}, {
+  level: 289,
+  click: 36595,
+  coin: 43869076
+}, {
+  level: 290,
+  click: 37261,
+  coin: 45887053
+}, {
+  level: 291,
+  click: 37940,
+  coin: 47997858
+}, {
+  level: 292,
+  click: 38630,
+  coin: 50205759
+}, {
+  level: 293,
+  click: 39333,
+  coin: 52515224
+}, {
+  level: 294,
+  click: 40049,
+  coin: 54930924
+}, {
+  level: 295,
+  click: 40778,
+  coin: 57457747
+}, {
+  level: 296,
+  click: 41520,
+  coin: 60100803
+}, {
+  level: 297,
+  click: 42276,
+  coin: 62865440
+}, {
+  level: 298,
+  click: 43045,
+  coin: 65757250
+}, {
+  level: 299,
+  click: 43829,
+  coin: 68782084
+}, {
+  level: 300,
+  click: 44626,
+  coin: 71946060
+}, {
+  level: 301,
+  click: 45438,
+  coin: 75255579
+}, {
+  level: 302,
+  click: 46265,
+  coin: 78717335
+}, {
+  level: 303,
+  click: 47107,
+  coin: 82338333
+}, {
+  level: 304,
+  click: 47965,
+  coin: 86125896
+}, {
+  level: 305,
+  click: 48838,
+  coin: 90087687
+}, {
+  level: 306,
+  click: 49727,
+  coin: 94231721
+}, {
+  level: 307,
+  click: 50632,
+  coin: 98566380
+}, {
+  level: 308,
+  click: 51553,
+  coin: 103100433
+}, {
+  level: 309,
+  click: 52491,
+  coin: 107843053
+}, {
+  level: 310,
+  click: 53447,
+  coin: 112803834
+}, {
+  level: 311,
+  click: 54420,
+  coin: 117992810
+}, {
+  level: 312,
+  click: 55410,
+  coin: 123420479
+}, {
+  level: 313,
+  click: 56418,
+  coin: 129097821
+}, {
+  level: 314,
+  click: 57445,
+  coin: 135036321
+}, {
+  level: 315,
+  click: 58491,
+  coin: 141247992
+}, {
+  level: 316,
+  click: 59555,
+  coin: 147745399
+}, {
+  level: 317,
+  click: 60639,
+  coin: 154541688
+}, {
+  level: 318,
+  click: 61743,
+  coin: 161650606
+}, {
+  level: 319,
+  click: 62867,
+  coin: 169086533
+}, {
+  level: 320,
+  click: 64011,
+  coin: 176864514
+}, {
+  level: 321,
+  click: 65176,
+  coin: 185000282
+}, {
+  level: 322,
+  click: 66362,
+  coin: 193510294
+}, {
+  level: 323,
+  click: 67570,
+  coin: 202411768
+}, {
+  level: 324,
+  click: 68799,
+  coin: 211722709
+}, {
+  level: 325,
+  click: 70052,
+  coin: 221461954
+}, {
+  level: 326,
+  click: 71327,
+  coin: 231649204
+}, {
+  level: 327,
+  click: 72625,
+  coin: 242305067
+}, {
+  level: 328,
+  click: 73946,
+  coin: 253451100
+}, {
+  level: 329,
+  click: 75292,
+  coin: 265109851
+}, {
+  level: 330,
+  click: 76663,
+  coin: 277304904
+}, {
+  level: 331,
+  click: 78058,
+  coin: 290060930
+}, {
+  level: 332,
+  click: 79479,
+  coin: 303403732
+}, {
+  level: 333,
+  click: 80925,
+  coin: 317360304
+}, {
+  level: 334,
+  click: 82398,
+  coin: 331958878
+}, {
+  level: 335,
+  click: 83897,
+  coin: 347228987
+}, {
+  level: 336,
+  click: 85424,
+  coin: 363201520
+}, {
+  level: 337,
+  click: 86979,
+  coin: 379908790
+}, {
+  level: 338,
+  click: 88562,
+  coin: 397384594
+}, {
+  level: 339,
+  click: 90174,
+  coin: 415664285
+}, {
+  level: 340,
+  click: 91815,
+  coin: 434784843
+}, {
+  level: 341,
+  click: 93486,
+  coin: 454784945
+}, {
+  level: 342,
+  click: 95188,
+  coin: 475705053
+}, {
+  level: 343,
+  click: 96920,
+  coin: 497587485
+}, {
+  level: 344,
+  click: 98684,
+  coin: 520476510
+}, {
+  level: 345,
+  click: 100480,
+  coin: 544418429
+}, {
+  level: 346,
+  click: 102309,
+  coin: 569461677
+}, {
+  level: 347,
+  click: 104171,
+  coin: 595656914
+}, {
+  level: 348,
+  click: 106067,
+  coin: 623057132
+}, {
+  level: 349,
+  click: 107997,
+  coin: 651717760
+}, {
+  level: 350,
+  click: 109963,
+  coin: 681696777
+}, {
+  level: 351,
+  click: 111964,
+  coin: 713054829
+}, {
+  level: 352,
+  click: 114002,
+  coin: 745855351
+}, {
+  level: 353,
+  click: 116077,
+  coin: 780164697
+}, {
+  level: 354,
+  click: 118189,
+  coin: 816052273
+}, {
+  level: 355,
+  click: 120340,
+  coin: 853590678
+}, {
+  level: 356,
+  click: 122530,
+  coin: 892855849
+}, {
+  level: 357,
+  click: 124760,
+  coin: 933927218
+}, {
+  level: 358,
+  click: 127031,
+  coin: 976887870
+}, {
+  level: 359,
+  click: 129343,
+  coin: 1021824712
+}, {
+  level: 360,
+  click: 131697,
+  coin: 1068828649
+}, {
+  level: 361,
+  click: 134094,
+  coin: 1117994766
+}, {
+  level: 362,
+  click: 136535,
+  coin: 1169422526
+}, {
+  level: 363,
+  click: 139019,
+  coin: 1223215962
+}, {
+  level: 364,
+  click: 141550,
+  coin: 1279483896
+}, {
+  level: 365,
+  click: 144126,
+  coin: 1338340155
+}, {
+  level: 366,
+  click: 146749,
+  coin: 1399903803
+}, {
+  level: 367,
+  click: 149420,
+  coin: 1464299377
+}, {
+  level: 368,
+  click: 152139,
+  coin: 1531657149
+}, {
+  level: 369,
+  click: 154908,
+  coin: 1602113378
+}, {
+  level: 370,
+  click: 157727,
+  coin: 1675810593
+}, {
+  level: 371,
+  click: 160598,
+  coin: 1752897880
+}, {
+  level: 372,
+  click: 163521,
+  coin: 1833531183
+}, {
+  level: 373,
+  click: 166497,
+  coin: 1917873617
+}, {
+  level: 374,
+  click: 169527,
+  coin: 2006095804
+}, {
+  level: 375,
+  click: 172613,
+  coin: 2098376211
+}, {
+  level: 376,
+  click: 175754,
+  coin: 2194901516
+}, {
+  level: 377,
+  click: 178953,
+  coin: 2295866986
+}, {
+  level: 378,
+  click: 182210,
+  coin: 2401476867
+}, {
+  level: 379,
+  click: 185526,
+  coin: 2511944803
+}, {
+  level: 380,
+  click: 188903,
+  coin: 2627494264
+}, {
+  level: 381,
+  click: 192341,
+  coin: 2748359e3
+}, {
+  level: 382,
+  click: 195841,
+  coin: 2874783514
+}, {
+  level: 383,
+  click: 199406,
+  coin: 3007023556
+}, {
+  level: 384,
+  click: 203035,
+  coin: 3145346640
+}, {
+  level: 385,
+  click: 206730,
+  coin: 3290032585
+}, {
+  level: 386,
+  click: 210493,
+  coin: 3441374084
+}, {
+  level: 387,
+  click: 214324,
+  coin: 3599677292
+}, {
+  level: 388,
+  click: 218224,
+  coin: 3765262447
+}, {
+  level: 389,
+  click: 222196,
+  coin: 3938464520
+}, {
+  level: 390,
+  click: 226240,
+  coin: 4119633888
+}, {
+  level: 391,
+  click: 230357,
+  coin: 4309137047
+}, {
+  level: 392,
+  click: 234550,
+  coin: 4507357351
+}, {
+  level: 393,
+  click: 238819,
+  coin: 4714695789
+}, {
+  level: 394,
+  click: 243165,
+  coin: 4931571795
+}, {
+  level: 395,
+  click: 247591,
+  coin: 5158424098
+}, {
+  level: 396,
+  click: 252097,
+  coin: 5395711606
+}, {
+  level: 397,
+  click: 256685,
+  coin: 5643914340
+}, {
+  level: 398,
+  click: 261357,
+  coin: 5903534400
+}, {
+  level: 399,
+  click: 266114,
+  coin: 6175096982
+}, {
+  level: 400,
+  click: 270957,
+  coin: 6459151443
+}, {
+  level: 401,
+  click: 275888,
+  coin: 6756272410
+}, {
+  level: 402,
+  click: 280909,
+  coin: 7067060941
+}, {
+  level: 403,
+  click: 286022,
+  coin: 7392145744
+}, {
+  level: 404,
+  click: 291228,
+  coin: 7732184448
+}, {
+  level: 405,
+  click: 296528,
+  coin: 8087864933
+}, {
+  level: 406,
+  click: 301925,
+  coin: 8459906720
+}, {
+  level: 407,
+  click: 307420,
+  coin: 8849062429
+}, {
+  level: 408,
+  click: 313015,
+  coin: 9256119300
+}, {
+  level: 409,
+  click: 318712,
+  coin: 9681900788
+}, {
+  level: 410,
+  click: 324512,
+  coin: 10127268224
+}, {
+  level: 411,
+  click: 330418,
+  coin: 10593122563
+}, {
+  level: 412,
+  click: 336432,
+  coin: 11080406201
+}, {
+  level: 413,
+  click: 342555,
+  coin: 11590104886
+}, {
+  level: 414,
+  click: 348789,
+  coin: 12123249711
+}, {
+  level: 415,
+  click: 355137,
+  coin: 12680919197
+}, {
+  level: 416,
+  click: 361601,
+  coin: 13264241480
+}, {
+  level: 417,
+  click: 368182,
+  coin: 13874396589
+}, {
+  level: 418,
+  click: 374883,
+  coin: 14512618832
+}, {
+  level: 419,
+  click: 381706,
+  coin: 15180199298
+}, {
+  level: 420,
+  click: 388653,
+  coin: 15878488466
+}, {
+  level: 421,
+  click: 395726,
+  coin: 16608898935
+}, {
+  level: 422,
+  click: 402929,
+  coin: 17372908286
+}, {
+  level: 423,
+  click: 410262,
+  coin: 18172062067
+}, {
+  level: 424,
+  click: 417729,
+  coin: 19007976922
+}, {
+  level: 425,
+  click: 425331,
+  coin: 19882343861
+}, {
+  level: 426,
+  click: 433072,
+  coin: 20796931678
+}, {
+  level: 427,
+  click: 440954,
+  coin: 21753590535
+}, {
+  level: 428,
+  click: 448980,
+  coin: 22754255700
+}, {
+  level: 429,
+  click: 457151,
+  coin: 23800951462
+}, {
+  level: 430,
+  click: 465471,
+  coin: 24895795230
+}, {
+  level: 431,
+  click: 473943,
+  coin: 26041001810
+}, {
+  level: 432,
+  click: 482569,
+  coin: 27238887893
+}, {
+  level: 433,
+  click: 491351,
+  coin: 28491876736
+}, {
+  level: 434,
+  click: 500294,
+  coin: 29802503066
+}, {
+  level: 435,
+  click: 509399,
+  coin: 31173418207
+}, {
+  level: 436,
+  click: 518670,
+  coin: 32607395445
+}, {
+  level: 437,
+  click: 528110,
+  coin: 34107335635
+}, {
+  level: 438,
+  click: 537722,
+  coin: 35676273075
+}, {
+  level: 439,
+  click: 547508,
+  coin: 37317381636
+}, {
+  level: 440,
+  click: 557473,
+  coin: 39033981191
+}, {
+  level: 441,
+  click: 567619,
+  coin: 40829544326
+}, {
+  level: 442,
+  click: 577950,
+  coin: 42707703365
+}, {
+  level: 443,
+  click: 588468,
+  coin: 44672257720
+}, {
+  level: 444,
+  click: 599178,
+  coin: 46727181575
+}, {
+  level: 445,
+  click: 610083,
+  coin: 48876631927
+}, {
+  level: 446,
+  click: 621187,
+  coin: 51124956996
+}, {
+  level: 447,
+  click: 632493,
+  coin: 53476705018
+}, {
+  level: 448,
+  click: 644004,
+  coin: 55936633449
+}, {
+  level: 449,
+  click: 655725,
+  coin: 58509718587
+}, {
+  level: 450,
+  click: 667659,
+  coin: 61201165642
+}, {
+  level: 451,
+  click: 679810,
+  coin: 64016419262
+}, {
+  level: 452,
+  click: 692183,
+  coin: 66961174548
+}, {
+  level: 453,
+  click: 704781,
+  coin: 70041388577
+}, {
+  level: 454,
+  click: 717608,
+  coin: 73263292452
+}, {
+  level: 455,
+  click: 730668,
+  coin: 76633403905
+}, {
+  level: 456,
+  click: 743966,
+  coin: 80158540484
+}, {
+  level: 457,
+  click: 757506,
+  coin: 83845833346
+}, {
+  level: 458,
+  click: 771293,
+  coin: 87702741680
+}, {
+  level: 459,
+  click: 785331,
+  coin: 91737067798
+}, {
+  level: 460,
+  click: 799624,
+  coin: 95956972916
+}, {
+  level: 461,
+  click: 814177,
+  coin: 100370993670
+}, {
+  level: 462,
+  click: 828995,
+  coin: 104988059379
+}, {
+  level: 463,
+  click: 844082,
+  coin: 109817510111
+}, {
+  level: 464,
+  click: 859445,
+  coin: 114869115576
+}, {
+  level: 465,
+  click: 875087,
+  coin: 120153094892
+}, {
+  level: 466,
+  click: 891013,
+  coin: 125680137257
+}, {
+  level: 467,
+  click: 907230,
+  coin: 131461423571
+}, {
+  level: 468,
+  click: 923741,
+  coin: 137508649056
+}, {
+  level: 469,
+  click: 940553,
+  coin: 143834046912
+}, {
+  level: 470,
+  click: 957671,
+  coin: 150450413070
+}, {
+  level: 471,
+  click: 975101,
+  coin: 157371132071
+}, {
+  level: 472,
+  click: 992848,
+  coin: 164610204147
+}, {
+  level: 473,
+  click: 1010918,
+  coin: 172182273537
+}, {
+  level: 474,
+  click: 1029316,
+  coin: 180102658120
+}, {
+  level: 475,
+  click: 1048050,
+  coin: 188387380394
+}, {
+  level: 476,
+  click: 1067124,
+  coin: 197053199892
+}, {
+  level: 477,
+  click: 1086546,
+  coin: 206117647087
+}, {
+  level: 478,
+  click: 1106321,
+  coin: 215599058853
+}, {
+  level: 479,
+  click: 1126456,
+  coin: 225516615560
+}, {
+  level: 480,
+  click: 1146958,
+  coin: 235890379876
+}, {
+  level: 481,
+  click: 1167832,
+  coin: 246741337350
+}, {
+  level: 482,
+  click: 1189087,
+  coin: 258091438868
+}, {
+  level: 483,
+  click: 1210728,
+  coin: 269963645056
+}, {
+  level: 484,
+  click: 1232764,
+  coin: 282381972728
+}, {
+  level: 485,
+  click: 1255200,
+  coin: 295371543474
+}, {
+  level: 486,
+  click: 1278045,
+  coin: 308958634474
+}, {
+  level: 487,
+  click: 1301305,
+  coin: 323170731660
+}, {
+  level: 488,
+  click: 1324989,
+  coin: 338036585316
+}, {
+  level: 489,
+  click: 1349104,
+  coin: 353586268240
+}, {
+  level: 490,
+  click: 1373657,
+  coin: 369851236580
+}, {
+  level: 491,
+  click: 1398658,
+  coin: 386864393462
+}, {
+  level: 492,
+  click: 1424113,
+  coin: 404660155561
+}, {
+  level: 493,
+  click: 1450032,
+  coin: 423274522717
+}, {
+  level: 494,
+  click: 1476423,
+  coin: 442745150762
+}, {
+  level: 495,
+  click: 1503294,
+  coin: 463111427697
+}, {
+  level: 496,
+  click: 1530654,
+  coin: 484414553371
+}, {
+  level: 497,
+  click: 1558512,
+  coin: 506697622826
+}, {
+  level: 498,
+  click: 1586876,
+  coin: 530005713476
+}, {
+  level: 499,
+  click: 1615758,
+  coin: 554385976296
+}, {
+  level: 500,
+  click: 1645164,
+  coin: 579887731206
+}, {
+  level: 501,
+  click: 1675106,
+  coin: 606562566842
+}, {
+  level: 502,
+  click: 1705593,
+  coin: 634464444916
+}, {
+  level: 503,
+  click: 1736635,
+  coin: 663649809382
+}, {
+  level: 504,
+  click: 1768242,
+  coin: 694177700614
+}, {
+  level: 505,
+  click: 1800424,
+  coin: 726109874842
+}, {
+  level: 506,
+  click: 1833192,
+  coin: 759510929085
+}, {
+  level: 507,
+  click: 1866556,
+  coin: 794448431823
+}, {
+  level: 508,
+  click: 1900527,
+  coin: 830993059687
+}, {
+  level: 509,
+  click: 1935117,
+  coin: 869218740432
+}, {
+  level: 510,
+  click: 1970336,
+  coin: 909202802492
+}, {
+  level: 511,
+  click: 2006196,
+  coin: 951026131407
+}, {
+  level: 512,
+  click: 2042709,
+  coin: 994773333452
+}, {
+  level: 513,
+  click: 2079886,
+  coin: 1040532906790
+}, {
+  level: 514,
+  click: 2117740,
+  coin: 1088397420503
+}, {
+  level: 515,
+  click: 2156283,
+  coin: 1138463701846
+}, {
+  level: 516,
+  click: 2195527,
+  coin: 1190833032131
+}, {
+  level: 517,
+  click: 2235486,
+  coin: 1245611351609
+}, {
+  level: 518,
+  click: 2276171,
+  coin: 1302909473783
+}, {
+  level: 519,
+  click: 2317598,
+  coin: 1362843309577
+}, {
+  level: 520,
+  click: 2359778,
+  coin: 1425534101817
+}, {
+  level: 521,
+  click: 2402726,
+  coin: 1491108670501
+}, {
+  level: 522,
+  click: 2446456,
+  coin: 1559699669344
+}, {
+  level: 523,
+  click: 2490981,
+  coin: 1631445854134
+}, {
+  level: 524,
+  click: 2536317,
+  coin: 1706492363424
+}, {
+  level: 525,
+  click: 2582478,
+  coin: 1784991012141
+}, {
+  level: 526,
+  click: 2629479,
+  coin: 1867100598700
+}, {
+  level: 527,
+  click: 2677336,
+  coin: 1952987226240
+}, {
+  level: 528,
+  click: 2726063,
+  coin: 2042824638647
+}, {
+  level: 529,
+  click: 2775677,
+  coin: 2136794572025
+}, {
+  level: 530,
+  click: 2826195,
+  coin: 2235087122338
+}, {
+  level: 531,
+  click: 2877631,
+  coin: 2337901129965
+}, {
+  level: 532,
+  click: 2930004,
+  coin: 2445444581944
+}, {
+  level: 533,
+  click: 2983330,
+  coin: 2557935032713
+}, {
+  level: 534,
+  click: 3037627,
+  coin: 2675600044218
+}, {
+  level: 535,
+  click: 3092912,
+  coin: 2798677646252
+}, {
+  level: 536,
+  click: 3149203,
+  coin: 2927416817980
+}, {
+  level: 537,
+  click: 3206518,
+  coin: 3062077991607
+}, {
+  level: 538,
+  click: 3264877,
+  coin: 3202933579221
+}, {
+  level: 539,
+  click: 3324298,
+  coin: 3350268523865
+}, {
+  level: 540,
+  click: 3384800,
+  coin: 3504380875963
+}, {
+  level: 541,
+  click: 3446403,
+  coin: 3665582396257
+}, {
+  level: 542,
+  click: 3509128,
+  coin: 3834199186485
+}, {
+  level: 543,
+  click: 3572994,
+  coin: 4010572349063
+}, {
+  level: 544,
+  click: 3638022,
+  coin: 4195058677120
+}, {
+  level: 545,
+  click: 3704234,
+  coin: 4388031376268
+}, {
+  level: 546,
+  click: 3771652,
+  coin: 4589880819576
+}, {
+  level: 547,
+  click: 3840296,
+  coin: 4801015337276
+}, {
+  level: 548,
+  click: 3910189,
+  coin: 5021862042791
+}, {
+  level: 549,
+  click: 3981354,
+  coin: 5252867696759
+}, {
+  level: 550,
+  click: 4053815,
+  coin: 5494499610810
+}, {
+  level: 551,
+  click: 4127594,
+  coin: 5747246592908
+}, {
+  level: 552,
+  click: 4202717,
+  coin: 6011619936181
+}, {
+  level: 553,
+  click: 4279206,
+  coin: 6288154453246
+}, {
+  level: 554,
+  click: 4357088,
+  coin: 6577409558095
+}, {
+  level: 555,
+  click: 4436387,
+  coin: 6879970397767
+}, {
+  level: 556,
+  click: 4517129,
+  coin: 7196449036065
+}, {
+  level: 557,
+  click: 4599341,
+  coin: 7527485691724
+}, {
+  level: 558,
+  click: 4683049,
+  coin: 7873750033543
+}, {
+  level: 559,
+  click: 4768280,
+  coin: 8235942535086
+}, {
+  level: 560,
+  click: 4855063,
+  coin: 8614795891700
+}, {
+  level: 561,
+  click: 4943425,
+  coin: 9011076502718
+}, {
+  level: 562,
+  click: 5033395,
+  coin: 9425586021843
+}, {
+  level: 563,
+  click: 5125003,
+  coin: 9859162978848
+}, {
+  level: 564,
+  click: 5218278,
+  coin: 10312684475875
+}, {
+  level: 565,
+  click: 5313251,
+  coin: 10787067961765
+}, {
+  level: 566,
+  click: 5409952,
+  coin: 11283273088006
+}, {
+  level: 567,
+  click: 5508413,
+  coin: 11802303650055
+}, {
+  level: 568,
+  click: 5608666,
+  coin: 12345209617957
+}, {
+  level: 569,
+  click: 5710744,
+  coin: 12913089260383
+}, {
+  level: 570,
+  click: 5814680,
+  coin: 13507091366361
+}, {
+  level: 571,
+  click: 5920507,
+  coin: 14128417569213
+}, {
+  level: 572,
+  click: 6028260,
+  coin: 14778324777397
+}, {
+  level: 573,
+  click: 6137974,
+  coin: 15458127717158
+}, {
+  level: 574,
+  click: 6249685,
+  coin: 16169201592147
+}, {
+  level: 575,
+  click: 6363430,
+  coin: 16912984865386
+}, {
+  level: 576,
+  click: 6479244,
+  coin: 17690982169193
+}, {
+  level: 577,
+  click: 6597166,
+  coin: 18504767348976
+}, {
+  level: 578,
+  click: 6717235,
+  coin: 19355986647029
+}, {
+  level: 579,
+  click: 6839488,
+  coin: 20246362032792
+}, {
+  level: 580,
+  click: 6963967,
+  coin: 21177694686301
+}, {
+  level: 581,
+  click: 7090711,
+  coin: 22151868641871
+}, {
+  level: 582,
+  click: 7219762,
+  coin: 23170854599397
+}, {
+  level: 583,
+  click: 7351162,
+  coin: 24236713910969
+}, {
+  level: 584,
+  click: 7484953,
+  coin: 25351602750874
+}, {
+  level: 585,
+  click: 7621179,
+  coin: 26517776477414
+}, {
+  level: 586,
+  click: 7759885,
+  coin: 27737594195375
+}, {
+  level: 587,
+  click: 7901115,
+  coin: 29013523528362
+}, {
+  level: 588,
+  click: 8044915,
+  coin: 30348145610667
+}, {
+  level: 589,
+  click: 8191332,
+  coin: 31744160308757
+}, {
+  level: 590,
+  click: 8340415,
+  coin: 33204391682960
+}, {
+  level: 591,
+  click: 8492210,
+  coin: 34731793700376
+}, {
+  level: 592,
+  click: 8646768,
+  coin: 36329456210594
+}, {
+  level: 593,
+  click: 8804140,
+  coin: 38000611196281
+}, {
+  level: 594,
+  click: 8964375,
+  coin: 39748639311310
+}, {
+  level: 595,
+  click: 9127526,
+  coin: 41577076719630
+}, {
+  level: 596,
+  click: 9293647,
+  coin: 43489622248733
+}, {
+  level: 597,
+  click: 9462792,
+  coin: 45490144872175
+}, {
+  level: 598,
+  click: 9635015,
+  coin: 47582691536295
+}, {
+  level: 599,
+  click: 9810372,
+  coin: 49771495346964
+}, {
+  level: 600,
+  click: 9988921,
+  coin: 52060984132925
+}, {
+  level: 601,
+  click: 10170719,
+  coin: 54455789403039
+}, {
+  level: 602,
+  click: 10355826,
+  coin: 56960755715579
+}, {
+  level: 603,
+  click: 10544302,
+  coin: 59580950478496
+}, {
+  level: 604,
+  click: 10736208,
+  coin: 62321674200507
+}, {
+  level: 605,
+  click: 10931607,
+  coin: 65188471213730
+}, {
+  level: 606,
+  click: 11130563,
+  coin: 68187140889561
+}, {
+  level: 607,
+  click: 11333139,
+  coin: 71323749370481
+}, {
+  level: 608,
+  click: 11539402,
+  coin: 74604641841523
+}, {
+  level: 609,
+  click: 11749419,
+  coin: 78036455366234
+}, {
+  level: 610,
+  click: 11963259,
+  coin: 81626132313080
+}, {
+  level: 611,
+  click: 12180990,
+  coin: 85380934399482
+}, {
+  level: 612,
+  click: 12402684,
+  coin: 89308457381858
+}, {
+  level: 613,
+  click: 12628413,
+  coin: 93416646421424
+}, {
+  level: 614,
+  click: 12858250,
+  coin: 97713812156809
+}, {
+  level: 615,
+  click: 13092270,
+  coin: 102208647516022
+}, {
+  level: 616,
+  click: 13330549,
+  coin: 106910245301759
+}, {
+  level: 617,
+  click: 13573165,
+  coin: 111828116585640
+}, {
+  level: 618,
+  click: 13820197,
+  coin: 116972209948580
+}, {
+  level: 619,
+  click: 14071725,
+  coin: 122352931606214
+}, {
+  level: 620,
+  click: 14327830,
+  coin: 127981166460100
+}, {
+  level: 621,
+  click: 14588597,
+  coin: 133868300117265
+}, {
+  level: 622,
+  click: 14854109,
+  coin: 140026241922659
+}, {
+  level: 623,
+  click: 15124454,
+  coin: 146467449051101
+}, {
+  level: 624,
+  click: 15399719,
+  coin: 153204951707452
+}, {
+  level: 625,
+  click: 15679994,
+  coin: 160252379485995
+}, {
+  level: 626,
+  click: 15965370,
+  coin: 167623988942351
+}, {
+  level: 627,
+  click: 16255939,
+  coin: 175334692433699
+}, {
+  level: 628,
+  click: 16551797,
+  coin: 183400088285649
+}, {
+  level: 629,
+  click: 16853040,
+  coin: 191836492346789
+}, {
+  level: 630,
+  click: 17159765,
+  coin: 200660970994741
+}, {
+  level: 631,
+  click: 17472073,
+  coin: 209891375660499
+}, {
+  level: 632,
+  click: 17790065,
+  coin: 219546378940882
+}, {
+  level: 633,
+  click: 18113844,
+  coin: 229645512372163
+}, {
+  level: 634,
+  click: 18443516,
+  coin: 240209205941282
+}, {
+  level: 635,
+  click: 18779188,
+  coin: 251258829414581
+}, {
+  level: 636,
+  click: 19120969,
+  coin: 262816735567652
+}, {
+  level: 637,
+  click: 19468971,
+  coin: 274906305403764
+}, {
+  level: 638,
+  click: 19823306,
+  coin: 287551995452337
+}, {
+  level: 639,
+  click: 20184090,
+  coin: 300779387243145
+}, {
+  level: 640,
+  click: 20551441,
+  coin: 314615239056329
+}, {
+  level: 641,
+  click: 20925477,
+  coin: 329087540052920
+}, {
+  level: 642,
+  click: 21306321,
+  coin: 344225566895355
+}, {
+  level: 643,
+  click: 21694096,
+  coin: 360059942972541
+}, {
+  level: 644,
+  click: 22088928,
+  coin: 376622700349278
+}, {
+  level: 645,
+  click: 22490947,
+  coin: 393947344565345
+}, {
+  level: 646,
+  click: 22900282,
+  coin: 412068922415351
+}, {
+  level: 647,
+  click: 23317067,
+  coin: 431024092846457
+}, {
+  level: 648,
+  click: 23741438,
+  coin: 450851201117394
+}, {
+  level: 649,
+  click: 24173532,
+  coin: 471590356368794
+}, {
+  level: 650,
+  click: 24613490,
+  coin: 493283512761759
+}, {
+  level: 651,
+  click: 25061456,
+  coin: 515974554348800
+}, {
+  level: 652,
+  click: 25517574,
+  coin: 539709383848844
+}, {
+  level: 653,
+  click: 25981994,
+  coin: 564536015505891
+}, {
+  level: 654,
+  click: 26454866,
+  coin: 590504672219162
+}, {
+  level: 655,
+  click: 26936345,
+  coin: 617667887141244
+}, {
+  level: 656,
+  click: 27426586,
+  coin: 646080609949741
+}, {
+  level: 657,
+  click: 27925750,
+  coin: 675800318007429
+}, {
+  level: 658,
+  click: 28433999,
+  coin: 706887132635771
+}, {
+  level: 659,
+  click: 28951498,
+  coin: 739403940737016
+}, {
+  level: 660,
+  click: 29478415,
+  coin: 773416522010919
+}, {
+  level: 661,
+  click: 30014922,
+  coin: 808993682023421
+}, {
+  level: 662,
+  click: 30561194,
+  coin: 846207391396499
+}, {
+  level: 663,
+  click: 31117407,
+  coin: 885132931400738
+}, {
+  level: 664,
+  click: 31683744,
+  coin: 925849046245172
+}, {
+  level: 665,
+  click: 32260388,
+  coin: 968438102372450
+}, {
+  level: 666,
+  click: 32847527,
+  coin: 1012986255081580
+}, {
+  level: 667,
+  click: 33445352,
+  coin: 1059583622815340
+}, {
+  level: 668,
+  click: 34054058,
+  coin: 1108324469464840
+}, {
+  level: 669,
+  click: 34673842,
+  coin: 1159307395060220
+}, {
+  level: 670,
+  click: 35304906,
+  coin: 1212635535232990
+}, {
+  level: 671,
+  click: 35947455,
+  coin: 1268416769853710
+}, {
+  level: 672,
+  click: 36601699,
+  coin: 1326763941266980
+}, {
+  level: 673,
+  click: 37267850,
+  coin: 1387795082565260
+}, {
+  level: 674,
+  click: 37946124,
+  coin: 1451633656363270
+}, {
+  level: 675,
+  click: 38636744,
+  coin: 1518408804555980
+}, {
+  level: 676,
+  click: 39339933,
+  coin: 1588255609565550
+}, {
+  level: 677,
+  click: 40055919,
+  coin: 1661315367605570
+}, {
+  level: 678,
+  click: 40784937,
+  coin: 1737735874515420
+}, {
+  level: 679,
+  click: 41527223,
+  coin: 1817671724743130
+}, {
+  level: 680,
+  click: 42283018,
+  coin: 1901284624081320
+}, {
+  level: 681,
+  click: 43052569,
+  coin: 1988743716789060
+}, {
+  level: 682,
+  click: 43836126,
+  coin: 2080225927761350
+}, {
+  level: 683,
+  click: 44633944,
+  coin: 2175916320438380
+}, {
+  level: 684,
+  click: 45446281,
+  coin: 2276008471178540
+}, {
+  level: 685,
+  click: 46273404,
+  coin: 2380704860852750
+}, {
+  level: 686,
+  click: 47115580,
+  coin: 2490217284451980
+}, {
+  level: 687,
+  click: 47973083,
+  coin: 2604767279536770
+}, {
+  level: 688,
+  click: 48846193,
+  coin: 2724586574395460
+}, {
+  level: 689,
+  click: 49735194,
+  coin: 2849917556817660
+}, {
+  level: 690,
+  click: 50640375,
+  coin: 2981013764431270
+}, {
+  level: 691,
+  click: 51562029,
+  coin: 3118140397595110
+}, {
+  level: 692,
+  click: 52500458,
+  coin: 3261574855884480
+}, {
+  level: 693,
+  click: 53455967,
+  coin: 3411607299255170
+}, {
+  level: 694,
+  click: 54428865,
+  coin: 3568541235020910
+}, {
+  level: 695,
+  click: 55419471,
+  coin: 3732694131831870
+}, {
+  level: 696,
+  click: 56428105,
+  coin: 3904398061896130
+}, {
+  level: 697,
+  click: 57455096,
+  coin: 4084000372743360
+}, {
+  level: 698,
+  click: 58500779,
+  coin: 4271864389889550
+}, {
+  level: 699,
+  click: 59565493,
+  coin: 4468370151824470
+}, {
+  level: 700,
+  click: 60649585,
+  coin: 4673915178808400
+}, {
+  level: 701,
+  click: 61753408,
+  coin: 4888915277033580
+}, {
+  level: 702,
+  click: 62877320,
+  coin: 5113805379777130
+}, {
+  level: 703,
+  click: 64021687,
+  coin: 5349040427246880
+}, {
+  level: 704,
+  click: 65186882,
+  coin: 5595096286900230
+}, {
+  level: 705,
+  click: 66373283,
+  coin: 5852470716097640
+}, {
+  level: 706,
+  click: 67581277,
+  coin: 6121684369038140
+}, {
+  level: 707,
+  click: 68811256,
+  coin: 6403281850013890
+}, {
+  level: 708,
+  click: 70063621,
+  coin: 6697832815114530
+}, {
+  level: 709,
+  click: 71338779,
+  coin: 7005933124609800
+}, {
+  level: 710,
+  click: 72637145,
+  coin: 7328206048341850
+}, {
+  level: 711,
+  click: 73959141,
+  coin: 7665303526565570
+}, {
+  level: 712,
+  click: 75305197,
+  coin: 8017907488787590
+}, {
+  level: 713,
+  click: 76675752,
+  coin: 8386731233271820
+}, {
+  level: 714,
+  click: 78071250,
+  coin: 8772520870002330
+}, {
+  level: 715,
+  click: 79492147,
+  coin: 9176056830022430
+}, {
+  level: 716,
+  click: 80938904,
+  coin: 9598155444203470
+}, {
+  level: 717,
+  click: 82411992,
+  coin: 10039670594636800
+}, {
+  level: 718,
+  click: 83911890,
+  coin: 10501495441990100
+}, {
+  level: 719,
+  click: 85439087,
+  coin: 10984564232321700
+}, {
+  level: 720,
+  click: 86994078,
+  coin: 11489854187008500
+}, {
+  level: 721,
+  click: 88577370,
+  coin: 12018387479610900
+}, {
+  level: 722,
+  click: 90189478,
+  coin: 12571233303673000
+}, {
+  level: 723,
+  click: 91830927,
+  coin: 13149510035641900
+}, {
+  level: 724,
+  click: 93502250,
+  coin: 13754387497281400
+}, {
+  level: 725,
+  click: 95203991,
+  coin: 14387089322156400
+}, {
+  level: 726,
+  click: 96936703,
+  coin: 15048895430975600
+}, {
+  level: 727,
+  click: 98700951,
+  coin: 15741144620800500
+}, {
+  level: 728,
+  click: 100497309,
+  coin: 16465237273357300
+}, {
+  level: 729,
+  click: 102326360,
+  coin: 17222638187931700
+}, {
+  level: 730,
+  click: 104188700,
+  coin: 18014879544576600
+}, {
+  level: 731,
+  click: 106084934,
+  coin: 18843564003627100
+}, {
+  level: 732,
+  click: 108015680,
+  coin: 19710367947793900
+}, {
+  level: 733,
+  click: 109981565,
+  coin: 20617044873392500
+}, {
+  level: 734,
+  click: 111983229,
+  coin: 21565428937568500
+}, {
+  level: 735,
+  click: 114021324,
+  coin: 22557438668696700
+}, {
+  level: 736,
+  click: 116096512,
+  coin: 23595080847456700
+}, {
+  level: 737,
+  click: 118209469,
+  coin: 24680454566439700
+}, {
+  level: 738,
+  click: 120360881,
+  coin: 25815755476496000
+}, {
+  level: 739,
+  click: 122551449,
+  coin: 27003280228414800
+}, {
+  level: 740,
+  click: 124781886,
+  coin: 28245431118921900
+}, {
+  level: 741,
+  click: 127052916,
+  coin: 29544720950392300
+}, {
+  level: 742,
+  click: 129365279,
+  coin: 30903778114110300
+}, {
+  level: 743,
+  click: 131719727,
+  coin: 32325351907359400
+}, {
+  level: 744,
+  click: 134117026,
+  coin: 33812318095097900
+}, {
+  level: 745,
+  click: 136557956,
+  coin: 35367684727472400
+}, {
+  level: 746,
+  click: 139043311,
+  coin: 36994598224936200
+}, {
+  level: 747,
+  click: 141573899,
+  coin: 38696349743283200
+}, {
+  level: 748,
+  click: 144150544,
+  coin: 40476381831474300
+}, {
+  level: 749,
+  click: 146774084,
+  coin: 42338295395722100
+}, {
+  level: 750,
+  click: 149445372,
+  coin: 44285856983925300
+}, {
+  level: 751,
+  click: 152165278,
+  coin: 46323006405185900
+}, {
+  level: 752,
+  click: 154934686,
+  coin: 48453864699824400
+}, {
+  level: 753,
+  click: 157754497,
+  coin: 50682742476016300
+}, {
+  level: 754,
+  click: 160625629,
+  coin: 53014148629913100
+}, {
+  level: 755,
+  click: 163549016,
+  coin: 55452799466889100
+}, {
+  level: 756,
+  click: 166525608,
+  coin: 58003628242366000
+}, {
+  level: 757,
+  click: 169556374,
+  coin: 60671795141514800
+}, {
+  level: 758,
+  click: 172642300,
+  coin: 63462697718024500
+}, {
+  level: 759,
+  click: 175784390,
+  coin: 66381981813053700
+}, {
+  level: 760,
+  click: 178983666,
+  coin: 69435552976454100
+}, {
+  level: 761,
+  click: 182241168,
+  coin: 72629588413371e3
+}, {
+  level: 762,
+  click: 185557958,
+  coin: 75970549480386100
+}, {
+  level: 763,
+  click: 188935112,
+  coin: 79465194756483900
+}, {
+  level: 764,
+  click: 192373731,
+  coin: 83120593715282100
+}, {
+  level: 765,
+  click: 195874933,
+  coin: 86944141026185100
+}, {
+  level: 766,
+  click: 199439857,
+  coin: 90943571513389600
+}, {
+  level: 767,
+  click: 203069663,
+  coin: 95126975803005500
+}, {
+  level: 768,
+  click: 206765530,
+  coin: 99502816689943800
+}, {
+  level: 769,
+  click: 210528663,
+  coin: 104079946257681000
+}, {
+  level: 770,
+  click: 214360285,
+  coin: 108867623785535000
+}, {
+  level: 771,
+  click: 218261642,
+  coin: 113875534479669000
+}, {
+  level: 772,
+  click: 222234004,
+  coin: 119113809065734000
+}, {
+  level: 773,
+  click: 226278663,
+  coin: 124593044282758000
+}, {
+  level: 774,
+  click: 230396934,
+  coin: 130324324319765000
+}, {
+  level: 775,
+  click: 234590159,
+  coin: 136319243238474000
+}, {
+  level: 776,
+  click: 238859699,
+  coin: 142589928427444000
+}, {
+  level: 777,
+  click: 243206946,
+  coin: 149149065135106000
+}, {
+  level: 778,
+  click: 247633312,
+  coin: 156009922131321000
+}, {
+  level: 779,
+  click: 252140239,
+  coin: 163186378549362000
+}, {
+  level: 780,
+  click: 256729191,
+  coin: 170692951962632000
+}, {
+  level: 781,
+  click: 261401662,
+  coin: 178544827752913000
+}, {
+  level: 782,
+  click: 266159173,
+  coin: 186757889829547000
+}, {
+  level: 783,
+  click: 271003269,
+  coin: 195348752761706000
+}, {
+  level: 784,
+  click: 275935529,
+  coin: 204334795388745000
+}, {
+  level: 785,
+  click: 280957556,
+  coin: 213734195976627000
+}, {
+  level: 786,
+  click: 286070983,
+  coin: 223565968991552000
+}, {
+  level: 787,
+  click: 291277475,
+  coin: 233850003565163000
+}, {
+  level: 788,
+  click: 296578725,
+  coin: 244607103729161000
+}, {
+  level: 789,
+  click: 301976458,
+  coin: 255859030500702000
+}, {
+  level: 790,
+  click: 307472429,
+  coin: 267628545903735000
+}, {
+  level: 791,
+  click: 313068428,
+  coin: 279939459015307000
+}, {
+  level: 792,
+  click: 318766273,
+  coin: 292816674130011000
+}, {
+  level: 793,
+  click: 324567819,
+  coin: 306286241139991000
+}, {
+  level: 794,
+  click: 330474953,
+  coin: 320375408232431000
+}, {
+  level: 795,
+  click: 336489598,
+  coin: 335112677011123000
+}, {
+  level: 796,
+  click: 342613708,
+  coin: 350527860153634000
+}, {
+  level: 797,
+  click: 348849278,
+  coin: 366652141720702000
+}, {
+  level: 798,
+  click: 355198335,
+  coin: 383518140239854000
+}, {
+  level: 799,
+  click: 361662944,
+  coin: 401159974690887000
+}, {
+  level: 800,
+  click: 368245210,
+  coin: 419613333526668000
+}, {
+  level: 801,
+  click: 374947273,
+  coin: 438915546868895000
+}, {
+  level: 802,
+  click: 381771313,
+  coin: 459105662024864000
+}, {
+  level: 803,
+  click: 388719551,
+  coin: 480224522478007000
+}, {
+  level: 804,
+  click: 395794247,
+  coin: 502314850511996000
+}, {
+  level: 805,
+  click: 402997702,
+  coin: 525421333635548000
+}, {
+  level: 806,
+  click: 410332260,
+  coin: 549590714982783000
+}, {
+  level: 807,
+  click: 417800307,
+  coin: 574871887871991000
+}, {
+  level: 808,
+  click: 425404273,
+  coin: 601315994714103000
+}, {
+  level: 809,
+  click: 433146631,
+  coin: 628976530470951000
+}, {
+  level: 810,
+  click: 441029899,
+  coin: 657909450872615000
+}, {
+  level: 811,
+  click: 449056644,
+  coin: 688173285612755000
+}, {
+  level: 812,
+  click: 457229475,
+  coin: 719829256750942000
+}, {
+  level: 813,
+  click: 465551051,
+  coin: 752941402561485000
+}, {
+  level: 814,
+  click: 474024080,
+  coin: 787576707079314000
+}, {
+  level: 815,
+  click: 482651318,
+  coin: 823805235604962000
+}, {
+  level: 816,
+  click: 491435572,
+  coin: 861700276442791000
+}, {
+  level: 817,
+  click: 500379700,
+  coin: 901338489159159000
+}, {
+  level: 818,
+  click: 509486610,
+  coin: 94280005966048e4
+}, {
+  level: 819,
+  click: 518759267,
+  coin: 986168862404862000
+}, {
+  level: 820,
+  click: 528200685,
+  coin: 1031532630075490000
+}, {
+  level: 821,
+  click: 537813938,
+  coin: 1078983131058960000
+}, {
+  level: 822,
+  click: 547602151,
+  coin: 1128616355087670000
+}, {
+  level: 823,
+  click: 557568511,
+  coin: 11805327074217e5
+}, {
+  level: 824,
+  click: 567716257,
+  coin: 12348372119631e5
+}, {
+  level: 825,
+  click: 578048693,
+  coin: 12916397237134e5
+}, {
+  level: 826,
+  click: 588569180,
+  coin: 135105515100422e4
+}, {
+  level: 827,
+  click: 599281139,
+  coin: 141320368795042e4
+}, {
+  level: 828,
+  click: 610188055,
+  coin: 147821105759614e4
+}, {
+  level: 829,
+  click: 621293478,
+  coin: 154620876624556e4
+}, {
+  level: 830,
+  click: 632601019,
+  coin: 161733436949285e4
+}, {
+  level: 831,
+  click: 644114358,
+  coin: 169173175048952e4
+}, {
+  level: 832,
+  click: 655837239,
+  coin: 176955141101204e4
+}, {
+  level: 833,
+  click: 667773477,
+  coin: 18509507759186e5
+}, {
+  level: 834,
+  click: 679926954,
+  coin: 193609451161085e4
+}, {
+  level: 835,
+  click: 692301625,
+  coin: 202515485914495e4
+}, {
+  level: 836,
+  click: 704901514,
+  coin: 211831198266562e4
+}, {
+  level: 837,
+  click: 717730722,
+  coin: 221575433386824e4
+}, {
+  level: 838,
+  click: 730793421,
+  coin: 231767903322618e4
+}, {
+  level: 839,
+  click: 744093861,
+  coin: 242429226875458e4
+}, {
+  level: 840,
+  click: 757636369,
+  coin: 253580971311729e4
+}, {
+  level: 841,
+  click: 771425351,
+  coin: 265245695992069e4
+}, {
+  level: 842,
+  click: 785465293,
+  coin: 277446998007704e4
+}, {
+  level: 843,
+  click: 799760761,
+  coin: 290209559916058e4
+}, {
+  level: 844,
+  click: 814316407,
+  coin: 303559199672197e4
+}, {
+  level: 845,
+  click: 829136966,
+  coin: 317522922857118e4
+}, {
+  level: 846,
+  click: 844227258,
+  coin: 332128977308546e4
+}, {
+  level: 847,
+  click: 859592194,
+  coin: 347406910264739e4
+}, {
+  level: 848,
+  click: 875236772,
+  coin: 363387628136917e4
+}, {
+  level: 849,
+  click: 891166082,
+  coin: 380103459031215e4
+}, {
+  level: 850,
+  click: 907385304,
+  coin: 397588218146651e4
+}, {
+  level: 851,
+  click: 923899717,
+  coin: 415877276181397e4
+}, {
+  level: 852,
+  click: 940714692,
+  coin: 435007630885741e4
+}, {
+  level: 853,
+  click: 957835699,
+  coin: 455017981906485e4
+}, {
+  level: 854,
+  click: 975268309,
+  coin: 475948809074183e4
+}, {
+  level: 855,
+  click: 993018192,
+  coin: 497842454291596e4
+}, {
+  level: 856,
+  click: 1011091123,
+  coin: 520743207189009e4
+}, {
+  level: 857,
+  click: 1029492982,
+  coin: 544697394719704e4
+}, {
+  level: 858,
+  click: 1048229754,
+  coin: 56975347487681e5
+}, {
+  level: 859,
+  click: 1067307535,
+  coin: 595962134721144e4
+}, {
+  level: 860,
+  click: 1086732533,
+  coin: 623376392918316e4
+}, {
+  level: 861,
+  click: 1106511065,
+  coin: 652051706992559e4
+}, {
+  level: 862,
+  click: 1126649566,
+  coin: 682046085514216e4
+}, {
+  level: 863,
+  click: 1147154588,
+  coin: 71342020544787e5
+}, {
+  level: 864,
+  click: 1168032802,
+  coin: 746237534898473e4
+}, {
+  level: 865,
+  click: 1189290999,
+  coin: 780564461503802e4
+}, {
+  level: 866,
+  click: 1210936095,
+  coin: 816470426732977e4
+}, {
+  level: 867,
+  click: 1232975132,
+  coin: 854028066362694e4
+}, {
+  level: 868,
+  click: 1255415279,
+  coin: 893313357415378e4
+}, {
+  level: 869,
+  click: 1278263837,
+  coin: 934405771856486e4
+}, {
+  level: 870,
+  click: 1301528239,
+  coin: 977388437361884e4
+}, {
+  level: 871,
+  click: 1325216053,
+  coin: 102234830548053e5
+}, {
+  level: 872,
+  click: 1349334985,
+  coin: 106937632753264e5
+}, {
+  level: 873,
+  click: 1373892882,
+  coin: 111856763859914e5
+}, {
+  level: 874,
+  click: 1398897732,
+  coin: 11700217499747e6
+}, {
+  level: 875,
+  click: 1424357671,
+  coin: 122384275047353e5
+}, {
+  level: 876,
+  click: 1450280981,
+  coin: 128013951699532e5
+}, {
+  level: 877,
+  click: 1476676095,
+  coin: 13390259347771e6
+}, {
+  level: 878,
+  click: 1503551599,
+  coin: 140062112777685e5
+}, {
+  level: 879,
+  click: 1530916239,
+  coin: 146504969965458e5
+}, {
+  level: 880,
+  click: 1558778914,
+  coin: 153244198583869e5
+}, {
+  level: 881,
+  click: 1587148690,
+  coin: 160293431718727e5
+}, {
+  level: 882,
+  click: 1616034796,
+  coin: 167666929577789e5
+}, {
+  level: 883,
+  click: 1645446630,
+  coin: 175379608338367e5
+}, {
+  level: 884,
+  click: 1675393758,
+  coin: 183447070321932e5
+}, {
+  level: 885,
+  click: 1705885925,
+  coin: 191885635556741e5
+}, {
+  level: 886,
+  click: 1736933049,
+  coin: 200712374792351e5
+}, {
+  level: 887,
+  click: 1768545230,
+  coin: 209945144032799e5
+}, {
+  level: 888,
+  click: 1800732753,
+  coin: 219602620658308e5
+}, {
+  level: 889,
+  click: 1833506089,
+  coin: 22970434120859e6
+}, {
+  level: 890,
+  click: 1866875900,
+  coin: 240270740904185e5
+}, {
+  level: 891,
+  click: 1900853042,
+  coin: 251323194985778e5
+}, {
+  level: 892,
+  click: 1935448567,
+  coin: 262884061955123e5
+}, {
+  level: 893,
+  click: 1970673731,
+  coin: 274976728805059e5
+}, {
+  level: 894,
+  click: 2006539993,
+  coin: 287625658330092e5
+}, {
+  level: 895,
+  click: 2043059021,
+  coin: 300856438613276e5
+}, {
+  level: 896,
+  click: 2080242695,
+  coin: 314695834789487e5
+}, {
+  level: 897,
+  click: 2118103112,
+  coin: 329171843189803e5
+}, {
+  level: 898,
+  click: 2156652589,
+  coin: 344313747976534e5
+}, {
+  level: 899,
+  click: 2195903666,
+  coin: 360152180383455e5
+}, {
+  level: 900,
+  click: 2235869112,
+  coin: 376719180681094e5
+}, {
+  level: 901,
+  click: 2276561930,
+  coin: 394048262992424e5
+}, {
+  level: 902,
+  click: 2317995357,
+  coin: 412174483090075e5
+}, {
+  level: 903,
+  click: 2360182873,
+  coin: 431134509312219e5
+}, {
+  level: 904,
+  click: 2403138201,
+  coin: 450966696740581e5
+}, {
+  level: 905,
+  click: 2446875316,
+  coin: 471711164790648e5
+}, {
+  level: 906,
+  click: 2491408447,
+  coin: 493409878371018e5
+}, {
+  level: 907,
+  click: 2536752081,
+  coin: 516106732776084e5
+}, {
+  level: 908,
+  click: 2582920969,
+  coin: 539847642483784e5
+}, {
+  level: 909,
+  click: 2629930130,
+  coin: 564680634038038e5
+}, {
+  level: 910,
+  click: 2677794859,
+  coin: 590655943203788e5
+}, {
+  level: 911,
+  click: 2726530725,
+  coin: 617826116591162e5
+}, {
+  level: 912,
+  click: 2776153584,
+  coin: 646246117954356e5
+}, {
+  level: 913,
+  click: 2826679580,
+  coin: 675973439380256e5
+}, {
+  level: 914,
+  click: 2878125148,
+  coin: 707068217591748e5
+}, {
+  level: 915,
+  click: 2930507026,
+  coin: 739593355600969e5
+}, {
+  level: 916,
+  click: 2983842254,
+  coin: 773614649958613e5
+}, {
+  level: 917,
+  click: 3038148183,
+  coin: 809200923856709e5
+}, {
+  level: 918,
+  click: 3093442480,
+  coin: 846424166354118e5
+}, {
+  level: 919,
+  click: 3149743133,
+  coin: 885359678006407e5
+}, {
+  level: 920,
+  click: 3207068458,
+  coin: 926086223194702e5
+}, {
+  level: 921,
+  click: 3265437104,
+  coin: 968686189461659e5
+}, {
+  level: 922,
+  click: 3324868059,
+  coin: 10132457541769e7
+}, {
+  level: 923,
+  click: 3385380658,
+  coin: 105985505886903e6
+}, {
+  level: 924,
+  click: 3446994586,
+  coin: 110860839157701e6
+}, {
+  level: 925,
+  click: 3509729887,
+  coin: 115960437758955e6
+}, {
+  level: 926,
+  click: 3573606971,
+  coin: 121294617895867e6
+}, {
+  level: 927,
+  click: 3638646618,
+  coin: 126874170319077e6
+}, {
+  level: 928,
+  click: 3704869986,
+  coin: 132710382153754e6
+}, {
+  level: 929,
+  click: 3772298620,
+  coin: 138815059732827e6
+}, {
+  level: 930,
+  click: 3840954455,
+  coin: 145200552480537e6
+}, {
+  level: 931,
+  click: 3910859826,
+  coin: 151879777894642e6
+}, {
+  level: 932,
+  click: 3982037475,
+  coin: 158866247677795e6
+}, {
+  level: 933,
+  click: 4054510557,
+  coin: 166174095070974e6
+}, {
+  level: 934,
+  click: 4128302649,
+  coin: 173818103444239e6
+}, {
+  level: 935,
+  click: 4203437757,
+  coin: 181813736202674e6
+}, {
+  level: 936,
+  click: 4279940324,
+  coin: 190177168067997e6
+}, {
+  level: 937,
+  click: 4357835238,
+  coin: 198925317799125e6
+}, {
+  level: 938,
+  click: 4437147840,
+  coin: 208075882417884e6
+}, {
+  level: 939,
+  click: 4517903930,
+  coin: 217647373009107e6
+}, {
+  level: 940,
+  click: 4600129782,
+  coin: 227659152167526e6
+}, {
+  level: 941,
+  click: 4683852144,
+  coin: 238131473167232e6
+}, {
+  level: 942,
+  click: 4769098253,
+  coin: 249085520932925e6
+}, {
+  level: 943,
+  click: 4855895841,
+  coin: 260543454895839e6
+}, {
+  level: 944,
+  click: 4944273145,
+  coin: 272528453821048e6
+}, {
+  level: 945,
+  click: 5034258917,
+  coin: 285064762696816e6
+}, {
+  level: 946,
+  click: 5125882429,
+  coin: 29817774178087e7
+}, {
+  level: 947,
+  click: 5219173489,
+  coin: 31189391790279e7
+}, {
+  level: 948,
+  click: 5314162447,
+  coin: 326241038126318e6
+}, {
+  level: 949,
+  click: 5410880203,
+  coin: 341248125880129e6
+}, {
+  level: 950,
+  click: 5509358223,
+  coin: 356945539670615e6
+}, {
+  level: 951,
+  click: 5609628543,
+  coin: 373365034495463e6
+}, {
+  level: 952,
+  click: 5711723782,
+  coin: 390539826082254e6
+}, {
+  level: 953,
+  click: 5815677155,
+  coin: 408504658082038e6
+}, {
+  level: 954,
+  click: 5921522479,
+  coin: 427295872353812e6
+}, {
+  level: 955,
+  click: 6029294188,
+  coin: 446951482482087e6
+}, {
+  level: 956,
+  click: 6139027342,
+  coin: 467511250676263e6
+}, {
+  level: 957,
+  click: 6250757640,
+  coin: 489016768207372e6
+}, {
+  level: 958,
+  click: 6364521429,
+  coin: 511511539544911e6
+}, {
+  level: 959,
+  click: 6480355719,
+  coin: 535041070363977e6
+}, {
+  level: 960,
+  click: 6598298193,
+  coin: 55965295960072e7
+}, {
+  level: 961,
+  click: 6718387220,
+  coin: 585396995742353e6
+}, {
+  level: 962,
+  click: 6840661868,
+  coin: 612325257546501e6
+}, {
+  level: 963,
+  click: 6965161914,
+  coin: 64049221939364e7
+}, {
+  level: 964,
+  click: 7091927861,
+  coin: 669954861485747e6
+}, {
+  level: 965,
+  click: 7221000948,
+  coin: 700772785114092e6
+}, {
+  level: 966,
+  click: 7352423165,
+  coin: 73300833322934e7
+}, {
+  level: 967,
+  click: 7486237266,
+  coin: 76672671655789e7
+}, {
+  level: 968,
+  click: 7622486785,
+  coin: 801996145519553e6
+}, {
+  level: 969,
+  click: 7761216044,
+  coin: 838887968213452e6
+}, {
+  level: 970,
+  click: 7902470176,
+  coin: 877476814751271e6
+}, {
+  level: 971,
+  click: 8046295133,
+  coin: 91784074822983e7
+}, {
+  level: 972,
+  click: 8192737705,
+  coin: 960061422648402e6
+}, {
+  level: 973,
+  click: 8341845531,
+  coin: 1.00422424809023e21
+}, {
+  level: 974,
+  click: 8493667120,
+  coin: 1.05042424809023e21
+}, {
+  level: 975,
+  click: 8648251861,
+  coin: 1.09873424809023e21
+}, {
+  level: 976,
+  click: 8805650045,
+  coin: 1.14927424809023e21
+}, {
+  level: 977,
+  click: 8965912876,
+  coin: 1.20214424809023e21
+}, {
+  level: 978,
+  click: 9129092490,
+  coin: 1.25744424809023e21
+}, {
+  level: 979,
+  click: 9295241974,
+  coin: 1.31528424809023e21
+}, {
+  level: 980,
+  click: 9464415378,
+  coin: 1.37579424809023e21
+}, {
+  level: 981,
+  click: 9636667737,
+  coin: 1.43907424809023e21
+}, {
+  level: 982,
+  click: 9812055090,
+  coin: 1.50527424809023e21
+}, {
+  level: 983,
+  click: 9990634493,
+  coin: 1.57451424809023e21
+}, {
+  level: 984,
+  click: 10172464041,
+  coin: 1.64694424809023e21
+}, {
+  level: 985,
+  click: 10357602886,
+  coin: 1.72270424809023e21
+}, {
+  level: 986,
+  click: 10546111259,
+  coin: 1.80194424809023e21
+}, {
+  level: 987,
+  click: 10738050484,
+  coin: 1.88483224809023e21
+}, {
+  level: 988,
+  click: 10933483002,
+  coin: 1.97154424809023e21
+}, {
+  level: 989,
+  click: 11132472393,
+  coin: 2.06223424809023e21
+}, {
+  level: 990,
+  click: 11335083391,
+  coin: 2.15709424809023e21
+}, {
+  level: 991,
+  click: 11541381908,
+  coin: 2.25632424809023e21
+}, {
+  level: 992,
+  click: 11751435059,
+  coin: 2.36011424809023e21
+}, {
+  level: 993,
+  click: 11965311177,
+  coin: 2.46867424809023e21
+}, {
+  level: 994,
+  click: 12183079841,
+  coin: 2.58223684809023e21
+}, {
+  level: 995,
+  click: 12404811894,
+  coin: 2.70101424809023e21
+}, {
+  level: 996,
+  click: 12630579470,
+  coin: 2.82526424809023e21
+}, {
+  level: 997,
+  click: 12860456016,
+  coin: 2.95522424809023e21
+}, {
+  level: 998,
+  click: 13094516316,
+  coin: 3.09116424809023e21
+}, {
+  level: 999,
+  click: 13332836513,
+  coin: 3.23363424809023e21
+}, {
+  level: 1e3,
+  click: 13575494137,
+  coin: 3.38209424809023e21
+}, {
+  level: 1001,
+  click: 13875494137,
+  coin: 3.48209424809023e21
+}, {
+  level: 1002,
+  click: 14075494137,
+  coin: 3.58209424809023e21
+}, {
+  level: 1003,
+  click: 14275494137,
+  coin: 3.68209424809023e21
+}, {
+  level: 1004,
+  click: 14575494137,
+  coin: 3.78209424809023e21
+}, {
+  level: 1005,
+  click: 14854941377,
+  coin: 3.88209424809023e21
+}, {
+  level: 1006,
+  click: 15275494137,
+  coin: 3.98209424809023e21
+}, {
+  level: 1007,
+  click: 15575494137,
+  coin: 4.08209424809023e21
+}, {
+  level: 1008,
+  click: 15875494137,
+  coin: 4.18209424809023e21
+}, {
+  level: 1009,
+  click: 16075494137,
+  coin: 4.28209424809023e21
+}, {
+  level: 1010,
+  click: 16258728297,
+  coin: 5.30277293903026e21
+}, {
+  level: 1011,
+  click: 16554637152,
+  coin: 5.54670049422566e21
+}, {
+  level: 1012,
+  click: 16855931549,
+  coin: 5.80184871696004e21
+}, {
+  level: 1013,
+  click: 17162709503,
+  coin: 6.0687337579402e21
+}, {
+  level: 1014,
+  click: 17475070816,
+  coin: 6.34789551080545e21
+}, {
+  level: 1015,
+  click: 17793117105,
+  coin: 6.6398987043025e21
+}, {
+  level: 1016,
+  click: 18116951836,
+  coin: 6.94533404470042e21
+}, {
+  level: 1017,
+  click: 18446680359,
+  coin: 7.26481941075664e21
+}, {
+  level: 1018,
+  click: 18782409942,
+  coin: 7.59900110365144e21
+}, {
+  level: 1019,
+  click: 19124249803,
+  coin: 7.94855515441941e21
+}, {
+  level: 1020,
+  click: 19472311149,
+  coin: 8.3141886915227e21
+}, {
+  level: 1021,
+  click: 19826707212,
+  coin: 8.69664137133274e21
+}, {
+  level: 1022,
+  click: 20187553283,
+  coin: 9.09668687441405e21
+}, {
+  level: 1023,
+  click: 20554966753,
+  coin: 9.5151344706371e21
+}, {
+  level: 1024,
+  click: 20929067148,
+  coin: 9.95283065628641e21
+}, {
+  level: 1025,
+  click: 21309976170,
+  coin: 1.04106608664756e22
+}, {
+  level: 1026,
+  click: 21697817736,
+  coin: 1.08895512663335e22
+}, {
+  level: 1027,
+  click: 22092718019,
+  coin: 1.13904706245848e22
+}, {
+  level: 1028,
+  click: 22494805487,
+  coin: 1.19144322733157e22
+}, {
+  level: 1029,
+  click: 22904210947,
+  coin: 1.24624961578882e22
+}, {
+  level: 1030,
+  click: 23321067586,
+  coin: 1.30357709811511e22
+}, {
+  level: 1031,
+  click: 23745511016,
+  coin: 1.3635416446284e22
+}, {
+  level: 1032,
+  click: 24177679317,
+  coin: 1.42626456028131e22
+}, {
+  level: 1033,
+  click: 24617713080,
+  coin: 1.49187273005425e22
+}, {
+  level: 1034,
+  click: 25065755458,
+  coin: 1.56049887563675e22
+}, {
+  level: 1035,
+  click: 25521952208,
+  coin: 1.63228182391604e22
+}, {
+  level: 1036,
+  click: 25986451738,
+  coin: 1.70736678781617e22
+}, {
+  level: 1037,
+  click: 26459405160,
+  coin: 1.78590566005572e22
+}, {
+  level: 1038,
+  click: 26940966334,
+  coin: 1.86805732041828e22
+}, {
+  level: 1039,
+  click: 27431291921,
+  coin: 1.95398795715752e22
+}, {
+  level: 1040,
+  click: 27930541434,
+  coin: 2.04387140318677e22
+}, {
+  level: 1041,
+  click: 28438877288,
+  coin: 2.13788948773336e22
+}, {
+  level: 1042,
+  click: 28956464854,
+  coin: 2.23623240416909e22
+}, {
+  level: 1043,
+  click: 29483472515,
+  coin: 2.33909909476087e22
+}, {
+  level: 1044,
+  click: 30020071715,
+  coin: 2.44669765311987e22
+}, {
+  level: 1045,
+  click: 30566437020,
+  coin: 2.55924574516339e22
+}, {
+  level: 1046,
+  click: 31122746174,
+  coin: 2.6769710494409e22
+}, {
+  level: 1047,
+  click: 31689180154,
+  coin: 2.80011171771518e22
+}, {
+  level: 1048,
+  click: 32265923233,
+  coin: 2.92891685673008e22
+}, {
+  level: 1049,
+  click: 32853163036,
+  coin: 3.06364703213967e22
+}, {
+  level: 1050,
+  click: 33451090603,
+  coin: 3.20457479561809e22
+}, {
+  level: 1051,
+  click: 34059900452,
+  coin: 3.35198523621652e22
+}, {
+  level: 1052,
+  click: 34679790640,
+  coin: 3.50617655708248e22
+}, {
+  level: 1053,
+  click: 35310962830,
+  coin: 3.66746067870828e22
+}, {
+  level: 1054,
+  click: 35953622353,
+  coin: 3.83616386992886e22
+}, {
+  level: 1055,
+  click: 36607978280,
+  coin: 4.01262740794559e22
+}, {
+  level: 1056,
+  click: 37274243485,
+  coin: 4.19720826871108e22
+}, {
+  level: 1057,
+  click: 37952634716,
+  coin: 4.39027984907179e22
+}, {
+  level: 1058,
+  click: 38643372668,
+  coin: 4.5922327221291e22
+}, {
+  level: 1059,
+  click: 39346682050,
+  coin: 4.80347542734704e22
+}, {
+  level: 1060,
+  click: 40062791664,
+  coin: 5.024435297005e22
+}, {
+  level: 1061,
+  click: 40791934472,
+  coin: 5.25555932066723e22
+}, {
+  level: 1062,
+  click: 41534347679,
+  coin: 5.49731504941792e22
+}, {
+  level: 1063,
+  click: 42290272807,
+  coin: 5.75019154169115e22
+}, {
+  level: 1064,
+  click: 43059955772,
+  coin: 6.01470035260894e22
+}, {
+  level: 1065,
+  click: 43843646967,
+  coin: 6.29137656882895e22
+}, {
+  level: 1066,
+  click: 44641601342,
+  coin: 6.58077989099508e22
+}, {
+  level: 1067,
+  click: 45454078487,
+  coin: 6.88349576598086e22
+}, {
+  level: 1068,
+  click: 46281342715,
+  coin: 7.20013657121598e22
+}, {
+  level: 1069,
+  click: 47123663152,
+  coin: 7.53134285349191e22
+}, {
+  level: 1070,
+  click: 47981313822,
+  coin: 7.87778462475254e22
+}, {
+  level: 1071,
+  click: 48854573733,
+  coin: 8.24016271749116e22
+}, {
+  level: 1072,
+  click: 49743726975,
+  coin: 8.61921020249575e22
+}, {
+  level: 1073,
+  click: 50649062806,
+  coin: 9.01569387181055e22
+}, {
+  level: 1074,
+  click: 51570875749,
+  coin: 9.43041578991384e22
+}, {
+  level: 1075,
+  click: 52509465688,
+  coin: 9.86421491624988e22
+}, {
+  level: 1076,
+  click: 53465137964,
+  coin: 1.03179688023974e23
+}, {
+  level: 1077,
+  click: 54438203474,
+  coin: 1.07925953673077e23
+}, {
+  level: 1078,
+  click: 55428978778,
+  coin: 1.12890547542038e23
+}, {
+  level: 1079,
+  click: 56437786191,
+  coin: 1.18083512728972e23
+}, {
+  level: 1080,
+  click: 57464953900,
+  coin: 1.23515354314505e23
+}, {
+  level: 1081,
+  click: 58510816061,
+  coin: 1.29197060612972e23
+}, {
+  level: 1082,
+  click: 59575712913,
+  coin: 1.35140125401168e23
+}, {
+  level: 1083,
+  click: 60659990888,
+  coin: 1.41356571169622e23
+}, {
+  level: 1084,
+  click: 61764002723,
+  coin: 1.47858973443425e23
+}, {
+  level: 1085,
+  click: 62888107572,
+  coin: 1.54660486221822e23
+}, {
+  level: 1086,
+  click: 64032671130,
+  coin: 1.61774868588026e23
+}, {
+  level: 1087,
+  click: 65198065745,
+  coin: 1.69216512543075e23
+}, {
+  level: 1088,
+  click: 66384670541,
+  coin: 1.77000472120057e23
+}, {
+  level: 1089,
+  click: 67592871545,
+  coin: 1.8514249383758e23
+}, {
+  level: 1090,
+  click: 68823061807,
+  coin: 1.93659048554108e23
+}, {
+  level: 1091,
+  click: 70075641532,
+  coin: 2.02567364787597e23
+}, {
+  level: 1092,
+  click: 71351018208,
+  coin: 2.11885463567827e23
+}, {
+  level: 1093,
+  click: 72649606739,
+  coin: 2.21632194891947e23
+}, {
+  level: 1094,
+  click: 73971829582,
+  coin: 2.31827275856976e23
+}, {
+  level: 1095,
+  click: 75318116880,
+  coin: 2.42491330546397e23
+}, {
+  level: 1096,
+  click: 76688906608,
+  coin: 2.53645931751531e23
+}, {
+  level: 1097,
+  click: 78084644708,
+  coin: 2.65313644612102e23
+}, {
+  level: 1098,
+  click: 79505785241,
+  coin: 2.77518072264259e23
+}, {
+  level: 1099,
+  click: 80952790533,
+  coin: 2.90283903588414e23
+}, {
+  level: 1100,
+  click: 82426131321,
+  coin: 3.03636963153481e23
+}, {
+  level: 1101,
+  click: 83926286911,
+  coin: 3.17604263458542e23
+}, {
+  level: 1102,
+  click: 85453745332,
+  coin: 3.32214059577635e23
+}, {
+  level: 1103,
+  click: 87009003497,
+  coin: 3.47495906318206e23
+}, {
+  level: 1104,
+  click: 88592567361,
+  coin: 3.63480718008843e23
+}, {
+  level: 1105,
+  click: 90204952087,
+  coin: 3.8020083103725e23
+}, {
+  level: 1106,
+  click: 91846682215,
+  coin: 3.97690069264964e23
+}, {
+  level: 1107,
+  click: 93518291831,
+  coin: 4.15983812451152e23
+}, {
+  level: 1108,
+  click: 95220324743,
+  coin: 4.35119067823905e23
+}, {
+  level: 1109,
+  click: 96953334653,
+  coin: 4.55134544943805e23
+}, {
+  level: 1110,
+  click: 98717885344,
+  coin: 4.7607073401122e23
+}, {
+  level: 1111,
+  click: 100514550857,
+  coin: 4.97969987775736e23
+}, {
+  level: 1112,
+  click: 102343915683,
+  coin: 5.2087660721342e23
+}, {
+  level: 1113,
+  click: 104206574948,
+  coin: 5.44836931145237e23
+}, {
+  level: 1114,
+  click: 106103134612,
+  coin: 5.69899429977918e23
+}, {
+  level: 1115,
+  click: 108034211662,
+  coin: 5.96114803756902e23
+}, {
+  level: 1116,
+  click: 110000434314,
+  coin: 6.2353608472972e23
+}, {
+  level: 1117,
+  click: 112002442219,
+  coin: 6.52218744627287e23
+}, {
+  level: 1118,
+  click: 114040886667,
+  coin: 6.82220806880142e23
+}, {
+  level: 1119,
+  click: 116116430804,
+  coin: 7.13602963996629e23
+}, {
+  level: 1120,
+  click: 118229749845,
+  coin: 7.46428700340473e23
+}, {
+  level: 1121,
+  click: 120381531292,
+  coin: 7.80764420556135e23
+}, {
+  level: 1122,
+  click: 122572475162,
+  coin: 8.16679583901718e23
+}, {
+  level: 1123,
+  click: 124803294210,
+  coin: 8.54246844761197e23
+}, {
+  level: 1124,
+  click: 127074714164,
+  coin: 8.93542199620212e23
+}, {
+  level: 1125,
+  click: 129387473962,
+  coin: 9.34645140802741e23
+}, {
+  level: 1126,
+  click: 131742325988,
+  coin: 9.77638817279668e23
+}, {
+  level: 1127,
+  click: 134140036321,
+  coin: 1.02261020287453e24
+}, {
+  level: 1128,
+  click: 136581384982,
+  coin: 1.06965027220676e24
+}, {
+  level: 1129,
+  click: 139067166189,
+  coin: 1.11885418472827e24
+}, {
+  level: 1130,
+  click: 141598188614,
+  coin: 1.17032147722577e24
+}, {
+  level: 1131,
+  click: 144175275646,
+  coin: 1.22415626517816e24
+}, {
+  level: 1132,
+  click: 146799265663,
+  coin: 1.28046745337635e24
+}, {
+  level: 1133,
+  click: 149471012298,
+  coin: 1.33936895623167e24
+}, {
+  level: 1134,
+  click: 152191384722,
+  coin: 1.40097992821832e24
+}, {
+  level: 1135,
+  click: 154961267924,
+  coin: 1.46542500491637e24
+}, {
+  level: 1136,
+  click: 157781563e3,
+  coin: 1.53283455514252e24
+}, {
+  level: 1137,
+  click: 160653187447,
+  coin: 1.60334494467907e24
+}, {
+  level: 1138,
+  click: 163577075458,
+  coin: 1.67709881213431e24
+}, {
+  level: 1139,
+  click: 166554178232,
+  coin: 1.75424535749249e24
+}, {
+  level: 1140,
+  click: 169585464275,
+  coin: 1.83494064393714e24
+}, {
+  level: 1141,
+  click: 172671919725,
+  coin: 1.91934791355825e24
+}, {
+  level: 1142,
+  click: 175814548664,
+  coin: 2.00763791758193e24
+}, {
+  level: 1143,
+  click: 179014373450,
+  coin: 2.0999892617907e24
+}, {
+  level: 1144,
+  click: 182272435047,
+  coin: 2.19658876783307e24
+}, {
+  level: 1145,
+  click: 185589793365,
+  coin: 2.2976318511534e24
+}, {
+  level: 1146,
+  click: 188967527604,
+  coin: 2.40332291630645e24
+}, {
+  level: 1147,
+  click: 192406736606,
+  coin: 2.51387577045655e24
+}, {
+  level: 1148,
+  click: 195908539212,
+  coin: 2.62951405589755e24
+}, {
+  level: 1149,
+  click: 199474074626,
+  coin: 2.75047170246884e24
+}, {
+  level: 1150,
+  click: 203104502784,
+  coin: 2.8769934007824e24
+}, {
+  level: 1151,
+  click: 206801004735,
+  coin: 3.00933509721839e24
+}, {
+  level: 1152,
+  click: 210564783021,
+  coin: 3.14776451169044e24
+}, {
+  level: 1153,
+  click: 214397062072,
+  coin: 3.2925616792282e24
+}, {
+  level: 1154,
+  click: 218299088602,
+  coin: 3.4440195164727e24
+}, {
+  level: 1155,
+  click: 222272132014,
+  coin: 3.60244441423044e24
+}, {
+  level: 1156,
+  click: 226317484817,
+  coin: 3.76815685728504e24
+}, {
+  level: 1157,
+  click: 230436463041,
+  coin: 3.94149207272016e24
+}, {
+  level: 1158,
+  click: 234630406668,
+  coin: 4.12280070806528e24
+}, {
+  level: 1159,
+  click: 238900680069,
+  coin: 4.31244954063629e24
+}, {
+  level: 1160,
+  click: 243248672447,
+  coin: 4.51082221950556e24
+}, {
+  level: 1161,
+  click: 247675798285,
+  coin: 4.71832004160281e24
+}, {
+  level: 1162,
+  click: 252183497814,
+  coin: 4.93536276351654e24
+}, {
+  level: 1163,
+  click: 256773237474,
+  coin: 5.1623894506383e24
+}, {
+  level: 1164,
+  click: 261446510396,
+  coin: 5.39985936536767e24
+}, {
+  level: 1165,
+  click: 266204836885,
+  coin: 5.64825289617458e24
+}, {
+  level: 1166,
+  click: 271049764917,
+  coin: 5.90807252939861e24
+}, {
+  level: 1167,
+  click: 275982870638,
+  coin: 6.17984386575095e24
+}, {
+  level: 1168,
+  click: 281005758884,
+  coin: 6.46411668357549e24
+}, {
+  level: 1169,
+  click: 286120063696,
+  coin: 6.76146605101996e24
+}, {
+  level: 1170,
+  click: 291327448855,
+  coin: 7.07249348936688e24
+}, {
+  level: 1171,
+  click: 296629608424,
+  coin: 7.39782818987776e24
+}, {
+  level: 1172,
+  click: 302028267297,
+  coin: 7.73812828661213e24
+}, {
+  level: 1173,
+  click: 307525181762,
+  coin: 8.09408218779629e24
+}, {
+  level: 1174,
+  click: 313122140070,
+  coin: 8.46640996843492e24
+}, {
+  level: 1175,
+  click: 318820963019,
+  coin: 8.85586482698293e24
+}, {
+  level: 1176,
+  click: 324623504546,
+  coin: 9.26323460902414e24
+}, {
+  level: 1177,
+  click: 330531652329,
+  coin: 9.68934340103926e24
+}, {
+  level: 1178,
+  click: 336547328402,
+  coin: 1.01350531974871e25
+}, {
+  level: 1179,
+  click: 342672489778,
+  coin: 1.06012656445715e25
+}, {
+  level: 1180,
+  click: 348909129092,
+  coin: 1.10889238642218e25
+}, {
+  level: 1181,
+  click: 355259275242,
+  coin: 1.1599014361976e25
+}, {
+  level: 1182,
+  click: 361724994051,
+  coin: 1.21325690226268e25
+}, {
+  level: 1183,
+  click: 368308388943,
+  coin: 1.26906671976677e25
+}, {
+  level: 1184,
+  click: 375011601622,
+  coin: 1.32744378887604e25
+}, {
+  level: 1185,
+  click: 381836812771,
+  coin: 1.38850620316434e25
+}, {
+  level: 1186,
+  click: 388786242764,
+  coin: 1.4523774885099e25
+}, {
+  level: 1187,
+  click: 395862152382,
+  coin: 1.51918685298135e25
+}, {
+  level: 1188,
+  click: 403066843555,
+  coin: 1.58906944821849e25
+}, {
+  level: 1189,
+  click: 410402660108,
+  coin: 1.66216664283655e25
+}, {
+  level: 1190,
+  click: 417871988522,
+  coin: 1.73862630840703e25
+}, {
+  level: 1191,
+  click: 425477258713,
+  coin: 1.81860311859375e25
+}, {
+  level: 1192,
+  click: 433220944822,
+  coin: 1.90225886204906e25
+}, {
+  level: 1193,
+  click: 441105566018,
+  coin: 1.98976276970332e25
+}, {
+  level: 1194,
+  click: 449133687319,
+  coin: 2.08129185710967e25
+}, {
+  level: 1195,
+  click: 457307920428,
+  coin: 2.17703128253672e25
+}, {
+  level: 1196,
+  click: 465630924580,
+  coin: 2.27717472153341e25
+}, {
+  level: 1197,
+  click: 474105407407,
+  coin: 2.38192475872394e25
+}, {
+  level: 1198,
+  click: 482734125822,
+  coin: 2.49149329762524e25
+}, {
+  level: 1199,
+  click: 491519886912,
+  coin: 2.60610198931601e25
+}, {
+  level: 1200,
+  click: 500465548854,
+  coin: 2.72598268082454e25
+}, {
+  level: 1201,
+  click: 509574021843,
+  coin: 2.85137788414247e25
+}, {
+  level: 1202,
+  click: 518848269041,
+  coin: 2.98254126681303e25
+}, {
+  level: 1203,
+  click: 528291307537,
+  coin: 3.11973816508642e25
+}, {
+  level: 1204,
+  click: 537906209334,
+  coin: 3.2632461206804e25
+}, {
+  level: 1205,
+  click: 547696102344,
+  coin: 3.4133554422317e25
+}, {
+  level: 1206,
+  click: 557664171407,
+  coin: 3.57036979257436e25
+}, {
+  level: 1207,
+  click: 567813659327,
+  coin: 3.73460680303278e25
+}, {
+  level: 1208,
+  click: 578147867926,
+  coin: 3.90639871597229e25
+}, {
+  level: 1209,
+  click: 588670159123,
+  coin: 4.08609305690701e25
+}, {
+  level: 1210,
+  click: 599383956019,
+  coin: 4.27405333752473e25
+}, {
+  level: 1211,
+  click: 610292744018,
+  coin: 4.47065979105087e25
+}, {
+  level: 1212,
+  click: 621400071959,
+  coin: 4.67631014143921e25
+}, {
+  level: 1213,
+  click: 632709553269,
+  coin: 4.89142040794542e25
+}, {
+  level: 1214,
+  click: 644224867138,
+  coin: 5.11642574671091e25
+}, {
+  level: 1215,
+  click: 655949759720,
+  coin: 5.35178133105961e25
+}, {
+  level: 1216,
+  click: 667888045347,
+  coin: 5.59796327228835e25
+}, {
+  level: 1217,
+  click: 680043607773,
+  coin: 5.85546958281361e25
+}, {
+  level: 1218,
+  click: 692420401434,
+  coin: 6.12482118362304e25
+}, {
+  level: 1219,
+  click: 705022452740,
+  coin: 6.4065629580697e25
+}, {
+  level: 1220,
+  click: 717853861380,
+  coin: 6.70126485414091e25
+}, {
+  level: 1221,
+  click: 730918801657,
+  coin: 7.00952303743139e25
+}, {
+  level: 1222,
+  click: 744221523847,
+  coin: 7.33196109715323e25
+}, {
+  level: 1223,
+  click: 757766355581,
+  coin: 7.66923130762228e25
+}, {
+  level: 1224,
+  click: 771557703253,
+  coin: 8.02201594777291e25
+}, {
+  level: 1225,
+  click: 785600053452,
+  coin: 8.39102868137046e25
+}, {
+  level: 1226,
+  click: 799897974425,
+  coin: 8.7770160007135e25
+}, {
+  level: 1227,
+  click: 814456117559,
+  coin: 9.18075873674633e25
+}, {
+  level: 1228,
+  click: 829279218899,
+  coin: 9.60307363863666e25
+}, {
+  level: 1229,
+  click: 844372100683,
+  coin: 1.00448150260139e26
+}, {
+  level: 1230,
+  click: 859739672915,
+  coin: 1.05068765172106e26
+}, {
+  level: 1231,
+  click: 875386934962,
+  coin: 1.09901928370023e26
+}, {
+  level: 1232,
+  click: 891318977179,
+  coin: 1.14957417075044e26
+}, {
+  level: 1233,
+  click: 907540982563,
+  coin: 1.20245458260496e26
+}, {
+  level: 1234,
+  click: 924058228446,
+  coin: 1.25776749340479e26
+}, {
+  level: 1235,
+  click: 940876088204,
+  coin: 1.31562479810141e26
+}, {
+  level: 1236,
+  click: 958000033009,
+  coin: 1.37614353881407e26
+}, {
+  level: 1237,
+  click: 975435633610,
+  coin: 1.43944614159952e26
+}, {
+  level: 1238,
+  click: 993188562142,
+  coin: 1.5056606641131e26
+}, {
+  level: 1239,
+  click: 1011264593973,
+  coin: 1.5749210546623e26
+}, {
+  level: 1240,
+  click: 1029669609583,
+  coin: 1.64736742317676e26
+}, {
+  level: 1241,
+  click: 1048409596477,
+  coin: 1.7231463246429e26
+}, {
+  level: 1242,
+  click: 1067490651133,
+  coin: 1.80241105557647e26
+}, {
+  level: 1243,
+  click: 1086918980984,
+  coin: 1.88532196413299e26
+}, {
+  level: 1244,
+  click: 1106700906438,
+  coin: 1.9720467744831e26
+}, {
+  level: 1245,
+  click: 1126842862935,
+  coin: 2.06276092610933e26
+}, {
+  level: 1246,
+  click: 1147351403040,
+  coin: 2.15764792871036e26
+}, {
+  level: 1247,
+  click: 1168233198576,
+  coin: 2.25689973343103e26
+}, {
+  level: 1248,
+  click: 1189495042790,
+  coin: 2.36071712116886e26
+}, {
+  level: 1249,
+  click: 1211143852568,
+  coin: 2.46931010874263e26
+}, {
+  level: 1250,
+  click: 1233186670685,
+  coin: 2.58289837374479e26
+}, {
+  level: 1251,
+  click: 1255630668092,
+  coin: 2.70171169893705e26
+}, {
+  level: 1252,
+  click: 1278483146251,
+  coin: 2.82599043708815e26
+}, {
+  level: 1253,
+  click: 1301751539513,
+  coin: 2.95598599719421e26
+}, {
+  level: 1254,
+  click: 1325443417532,
+  coin: 3.09196135306514e26
+}, {
+  level: 1255,
+  click: 1349566487731,
+  coin: 3.23419157530614e26
+}, {
+  level: 1256,
+  click: 1374128597808,
+  coin: 3.38296438777022e26
+}, {
+  level: 1257,
+  click: 1399137738288,
+  coin: 3.53858074960765e26
+}, {
+  level: 1258,
+  click: 1424602045125,
+  coin: 3.7013554640896e26
+}, {
+  level: 1259,
+  click: 1450529802346,
+  coin: 3.87161781543772e26
+}, {
+  level: 1260,
+  click: 1476929444748,
+  coin: 4.04971223494786e26
+}, {
+  level: 1261,
+  click: 1503809560643,
+  coin: 4.23599899775546e26
+}, {
+  level: 1262,
+  click: 1531178894647,
+  coin: 4.43085495165221e26
+}, {
+  level: 1263,
+  click: 1559046350529,
+  coin: 4.63467427942821e26
+}, {
+  level: 1264,
+  click: 1587420994109,
+  coin: 4.84786929628191e26
+}, {
+  level: 1265,
+  click: 1616312056202,
+  coin: 5.07087128391088e26
+}, {
+  level: 1266,
+  click: 1645728935624,
+  coin: 5.30413136297078e26
+}, {
+  level: 1267,
+  click: 1675681202253,
+  coin: 5.54812140566744e26
+}, {
+  level: 1268,
+  click: 1706178600134,
+  coin: 5.80333499032814e26
+}, {
+  level: 1269,
+  click: 1737231050656,
+  coin: 6.07028839988324e26
+}, {
+  level: 1270,
+  click: 1768848655778,
+  coin: 6.34952166627787e26
+}, {
+  level: 1271,
+  click: 1801041701313,
+  coin: 6.64159966292665e26
+}, {
+  level: 1272,
+  click: 1833820660277,
+  coin: 6.94711324742127e26
+}, {
+  level: 1273,
+  click: 1867196196294,
+  coin: 7.26668045680265e26
+}, {
+  level: 1274,
+  click: 1901179167067,
+  coin: 7.60094775781558e26
+}, {
+  level: 1275,
+  click: 1935780627907,
+  coin: 7.95059135467509e26
+}, {
+  level: 1276,
+  click: 1971011835335,
+  coin: 8.31631855699015e26
+}, {
+  level: 1277,
+  click: 2006884250738,
+  coin: 8.69886921061169e26
+}, {
+  level: 1278,
+  click: 2043409544102,
+  coin: 9.09901719429983e26
+}, {
+  level: 1279,
+  click: 2080599597805,
+  coin: 9.51757198523762e26
+}, {
+  level: 1280,
+  click: 2118466510485,
+  coin: 9.95538029655855e26
+}, {
+  level: 1281,
+  click: 2157022600975,
+  coin: 1.04133277902002e27
+}, {
+  level: 1282,
+  click: 2196280412313,
+  coin: 1.08923408685495e27
+}, {
+  level: 1283,
+  click: 2236252715817,
+  coin: 1.13933885485027e27
+}, {
+  level: 1284,
+  click: 2276952515245,
+  coin: 1.19174844217339e27
+}, {
+  level: 1285,
+  click: 2318393051023,
+  coin: 1.24656887051336e27
+}, {
+  level: 1286,
+  click: 2360587804551,
+  coin: 1.30391103855698e27
+}, {
+  level: 1287,
+  click: 2403550502594,
+  coin: 1.3638909463306e27
+}, {
+  level: 1288,
+  click: 2447295121741,
+  coin: 1.42662992986181e27
+}, {
+  level: 1289,
+  click: 2491835892957,
+  coin: 1.49225490663545e27
+}, {
+  level: 1290,
+  click: 2537187306209,
+  coin: 1.56089863234068e27
+}, {
+  level: 1291,
+  click: 2583364115182,
+  coin: 1.63269996942835e27
+}, {
+  level: 1292,
+  click: 2630381342078,
+  coin: 1.70780416802205e27
+}, {
+  level: 1293,
+  click: 2678254282504,
+  coin: 1.78636315975107e27
+}, {
+  level: 1294,
+  click: 2726998510446,
+  coin: 1.86853586509962e27
+}, {
+  level: 1295,
+  click: 2776629883336,
+  coin: 1.9544885148942e27
+}, {
+  level: 1296,
+  click: 2827164547212,
+  coin: 2.04439498657933e27
+}, {
+  level: 1297,
+  click: 2878618941972,
+  coin: 2.13843715596198e27
+}, {
+  level: 1298,
+  click: 2931009806715,
+  coin: 2.23680526513624e27
+}, {
+  level: 1299,
+  click: 2984354185198,
+  coin: 2.3396983073325e27
+}, {
+  level: 1300,
+  click: 3038669431368,
+  coin: 2.4473244294698e27
+}, {
+  level: 1301,
+  click: 3093973215019,
+  coin: 2.55990135322541e27
+}, {
+  level: 1302,
+  click: 3150283527533,
+  coin: 2.67765681547378e27
+}, {
+  level: 1303,
+  click: 3207618687734,
+  coin: 2.80082902898557e27
+}, {
+  level: 1304,
+  click: 3265997347850,
+  coin: 2.92966716431891e27
+}, {
+  level: 1305,
+  click: 3325438499581,
+  coin: 3.06443185387758e27
+}, {
+  level: 1306,
+  click: 3385961480274,
+  coin: 3.20539571915594e27
+}, {
+  level: 1307,
+  click: 3447585979215,
+  coin: 3.35284392223712e27
+}, {
+  level: 1308,
+  click: 3510332044036,
+  coin: 3.50707474266003e27
+}, {
+  level: 1309,
+  click: 3574220087238,
+  coin: 3.66840018082239e27
+}, {
+  level: 1310,
+  click: 3639270892826,
+  coin: 3.83714658914022e27
+}, {
+  level: 1311,
+  click: 3705505623075,
+  coin: 4.01365533224067e27
+}, {
+  level: 1312,
+  click: 3772945825415,
+  coin: 4.19828347752374e27
+}, {
+  level: 1313,
+  click: 3841613439437,
+  coin: 4.39140451748983e27
+}, {
+  level: 1314,
+  click: 3911530804035,
+  coin: 4.59340912529436e27
+}, {
+  level: 1315,
+  click: 3982720664669,
+  coin: 4.8047059450579e27
+}, {
+  level: 1316,
+  click: 4055206180766,
+  coin: 5.02572241853057e27
+}, {
+  level: 1317,
+  click: 4129010933256,
+  coin: 5.25690564978297e27
+}, {
+  level: 1318,
+  click: 4204158932241,
+  coin: 5.49872330967299e27
+}, {
+  level: 1319,
+  click: 4280674624808,
+  coin: 5.75166458191795e27
+}, {
+  level: 1320,
+  click: 4358582902979,
+  coin: 6.01624115268618e27
+}, {
+  level: 1321,
+  click: 4437909111813,
+  coin: 6.29298824570974e27
+}, {
+  level: 1322,
+  click: 4518679057648,
+  coin: 6.58246570501239e27
+}, {
+  level: 1323,
+  click: 4600919016498,
+  coin: 6.88525912744296e27
+}, {
+  level: 1324,
+  click: 4684655742598,
+  coin: 7.20198104730533e27
+}, {
+  level: 1325,
+  click: 4769916477113,
+  coin: 7.53327217548138e27
+}, {
+  level: 1326,
+  click: 4856728956997,
+  coin: 7.87980269555352e27
+}, {
+  level: 1327,
+  click: 4945121424014,
+  coin: 8.24227361954899e27
+}, {
+  level: 1328,
+  click: 5035122633931,
+  coin: 8.62141820604824e27
+}, {
+  level: 1329,
+  click: 5126761865868,
+  coin: 9.01800344352646e27
+}, {
+  level: 1330,
+  click: 5220068931827,
+  coin: 9.43283160192868e27
+}, {
+  level: 1331,
+  click: 5315074186387,
+  coin: 9.8667418556174e27
+}, {
+  level: 1332,
+  click: 5411808536579,
+  coin: 1.03206119809758e28
+}, {
+  level: 1333,
+  click: 5510303451944,
+  coin: 1.07953601321007e28
+}, {
+  level: 1334,
+  click: 5610590974770,
+  coin: 1.12919466981773e28
+}, {
+  level: 1335,
+  click: 5712703730511,
+  coin: 1.18113762462935e28
+}, {
+  level: 1336,
+  click: 5816674938406,
+  coin: 1.2354699553623e28
+}, {
+  level: 1337,
+  click: 5922538422285,
+  coin: 1.29230157330896e28
+}, {
+  level: 1338,
+  click: 6030328621571,
+  coin: 1.35174744568118e28
+}, {
+  level: 1339,
+  click: 6140080602483,
+  coin: 1.41392782818251e28
+}, {
+  level: 1340,
+  click: 6251830069448,
+  coin: 1.4789685082789e28
+}, {
+  level: 1341,
+  click: 6365613376712,
+  coin: 1.54700105965973e28
+}, {
+  level: 1342,
+  click: 6481467540168,
+  coin: 1.61816310840408e28
+}, {
+  level: 1343,
+  click: 6599430249400,
+  coin: 1.69259861139067e28
+}, {
+  level: 1344,
+  click: 6719539879939,
+  coin: 1.77045814751464e28
+}, {
+  level: 1345,
+  click: 6841835505753,
+  coin: 1.85189922230031e28
+}, {
+  level: 1346,
+  click: 6966356911958,
+  coin: 1.93708658652613e28
+}, {
+  level: 1347,
+  click: 7093144607756,
+  coin: 2.02619256950633e28
+}, {
+  level: 1348,
+  click: 7222239839617,
+  coin: 2.11939742770362e28
+}, {
+  level: 1349,
+  click: 7353684604698,
+  coin: 2.21688970937799e28
+}, {
+  level: 1350,
+  click: 7487521664503,
+  coin: 2.31886663600938e28
+}, {
+  level: 1351,
+  click: 7623794558797,
+  coin: 2.42553450126581e28
+}, {
+  level: 1352,
+  click: 7762547619768,
+  coin: 2.53710908832404e28
+}, {
+  level: 1353,
+  click: 7903825986447,
+  coin: 2.65381610638694e28
+}, {
+  level: 1354,
+  click: 8047675619401,
+  coin: 2.77589164728074e28
+}, {
+  level: 1355,
+  click: 8194143315674,
+  coin: 2.90358266305565e28
+}, {
+  level: 1356,
+  click: 8343276724019,
+  coin: 3.03714746555621e28
+}, {
+  level: 1357,
+  click: 8495124360396,
+  coin: 3.1768562489718e28
+}, {
+  level: 1358,
+  click: 8649735623755,
+  coin: 3.3229916364245e28
+}, {
+  level: 1359,
+  click: 8807160812108,
+  coin: 3.47584925170003e28
+}, {
+  level: 1360,
+  click: 8967451138888,
+  coin: 3.63573831727823e28
+}, {
+  level: 1361,
+  click: 9130658749616,
+  coin: 3.80298227987303e28
+}, {
+  level: 1362,
+  click: 9296836738859,
+  coin: 3.97791946474719e28
+}, {
+  level: 1363,
+  click: 9466039167506,
+  coin: 4.16090376012556e28
+}, {
+  level: 1364,
+  click: 9638321080355,
+  coin: 4.35230533309134e28
+}, {
+  level: 1365,
+  click: 9813738524017,
+  coin: 4.55251137841354e28
+}, {
+  level: 1366,
+  click: 9992348565154,
+  coin: 4.76192690182056e28
+}, {
+  level: 1367,
+  click: 10174209309040,
+  coin: 4.98097553930431e28
+}, {
+  level: 1368,
+  click: 10359379918465,
+  coin: 5.21010041411231e28
+}, {
+  level: 1369,
+  click: 10547920632981,
+  coin: 5.44976503316147e28
+}, {
+  level: 1370,
+  click: 10739892788501,
+  coin: 5.7004542246869e28
+}, {
+  level: 1371,
+  click: 10935358837252,
+  coin: 5.9626751190225e28
+}, {
+  level: 1372,
+  click: 11134382368090,
+  coin: 6.23695817449753e28
+}, {
+  level: 1373,
+  click: 11337028127189,
+  coin: 6.52385825052442e28
+}, {
+  level: 1374,
+  click: 11543362039104,
+  coin: 6.82395573004855e28
+}, {
+  level: 1375,
+  click: 11753451228215,
+  coin: 7.13785769363078e28
+}, {
+  level: 1376,
+  click: 11967364040569,
+  coin: 7.46619914753779e28
+}, {
+  level: 1377,
+  click: 12185170066107,
+  coin: 7.80964430832453e28
+}, {
+  level: 1378,
+  click: 12406940161310,
+  coin: 8.16888794650746e28
+}, {
+  level: 1379,
+  click: 12632746472246,
+  coin: 8.54465679204681e28
+}, {
+  level: 1380,
+  click: 12862662458041,
+  coin: 8.93771100448096e28
+}, {
+  level: 1381,
+  click: 13096762914778,
+  coin: 9.34884571068708e28
+}, {
+  level: 1382,
+  click: 13335123999826,
+  coin: 9.77889261337869e28
+}, {
+  level: 1383,
+  click: 13577823256623,
+  coin: 1.02287216735941e29
+}, {
+  level: 1384,
+  click: 13824939639894,
+  coin: 1.06992428705794e29
+}, {
+  level: 1385,
+  click: 14076553541340,
+  coin: 1.11914080426261e29
+}, {
+  level: 1386,
+  click: 14332746815792,
+  coin: 1.17062128125869e29
+}, {
+  level: 1387,
+  click: 14593602807840,
+  coin: 1.22446986019659e29
+}, {
+  level: 1388,
+  click: 14859206378942,
+  coin: 1.28079547376563e29
+}, {
+  level: 1389,
+  click: 15129643935039,
+  coin: 1.33971206555885e29
+}, {
+  level: 1390,
+  click: 15405003454657,
+  coin: 1.40133882057456e29
+}, {
+  level: 1391,
+  click: 15685374517532,
+  coin: 1.46580040632099e29
+}, {
+  level: 1392,
+  click: 15970848333751,
+  coin: 1.53322722501175e29
+}, {
+  level: 1393,
+  click: 16261517773425,
+  coin: 1.60375567736229e29
+}, {
+  level: 1394,
+  click: 16557477396901,
+  coin: 1.67752843852096e29
+}, {
+  level: 1395,
+  click: 16858823485525,
+  coin: 1.75469474669292e29
+}, {
+  level: 1396,
+  click: 17165654072961,
+  coin: 1.8354107050408e29
+}, {
+  level: 1397,
+  click: 17478068977089,
+  coin: 1.91983959747268e29
+}, {
+  level: 1398,
+  click: 17796169832472,
+  coin: 2.00815221895642e29
+}, {
+  level: 1399,
+  click: 18120060123423,
+  coin: 2.10052722102841e29
+}, {
+  level: 1400,
+  click: 18449845217670,
+  coin: 2.19715147319572e29
+}, {
+  level: 1401,
+  click: 18785632400631,
+  coin: 2.29822044096273e29
+}, {
+  level: 1402,
+  click: 19127530910323,
+  coin: 2.40393858124701e29
+}, {
+  level: 1403,
+  click: 19475651972891,
+  coin: 2.51451975598437e29
+}, {
+  level: 1404,
+  click: 19830108838797,
+  coin: 2.63018766475965e29
+}, {
+  level: 1405,
+  click: 20191016819663,
+  coin: 2.7511762973386e29
+}, {
+  level: 1406,
+  click: 20558493325781,
+  coin: 2.87773040701617e29
+}, {
+  level: 1407,
+  click: 20932657904310,
+  coin: 3.01010600573892e29
+}, {
+  level: 1408,
+  click: 21313632278169,
+  coin: 3.14857088200291e29
+}, {
+  level: 1409,
+  click: 21701540385632,
+  coin: 3.29340514257504e29
+}, {
+  level: 1410,
+  click: 22096508420650,
+  coin: 3.44490177913349e29
+}, {
+  level: 1411,
+  click: 22498664873906,
+  coin: 3.60336726097363e29
+}, {
+  level: 1412,
+  click: 22908140574611,
+  coin: 3.76912215497842e29
+}, {
+  level: 1413,
+  click: 23325068733069,
+  coin: 3.94250177410743e29
+}, {
+  level: 1414,
+  click: 23749584984011,
+  coin: 4.12385685571637e29
+}, {
+  level: 1415,
+  click: 24181827430720,
+  coin: 4.31355427107932e29
+}, {
+  level: 1416,
+  click: 24621936689959,
+  coin: 4.51197776754897e29
+}, {
+  level: 1417,
+  click: 25070055937716,
+  coin: 4.71952874485623e29
+}, {
+  level: 1418,
+  click: 25526330955783,
+  coin: 4.93662706711961e29
+}, {
+  level: 1419,
+  click: 25990910179178,
+  coin: 5.16371191220712e29
+}, {
+  level: 1420,
+  click: 26463944744439,
+  coin: 5.40124266016864e29
+}, {
+  level: 1421,
+  click: 26945588538788,
+  coin: 5.6496998225364e29
+}, {
+  level: 1422,
+  click: 27435998250194,
+  coin: 5.90958601437308e29
+}, {
+  level: 1423,
+  click: 27935333418347,
+  coin: 6.18142697103424e29
+}, {
+  level: 1424,
+  click: 28443756486561,
+  coin: 6.46577261170181e29
+}, {
+  level: 1425,
+  click: 28961432854616,
+  coin: 6.7631981518401e29
+}, {
+  level: 1426,
+  click: 29488530932570,
+  coin: 7.07430526682474e29
+}, {
+  level: 1427,
+  click: 30025222195543,
+  coin: 7.39972330909868e29
+}, {
+  level: 1428,
+  click: 30571681239502,
+  coin: 7.74011058131722e29
+}, {
+  level: 1429,
+  click: 31128085838061,
+  coin: 8.09615566805781e29
+}, {
+  level: 1430,
+  click: 31694617000314,
+  coin: 8.46857882878847e29
+}, {
+  level: 1431,
+  click: 32271459029719,
+  coin: 8.85813345491274e29
+}, {
+  level: 1432,
+  click: 32858799584060,
+  coin: 9.26560759383873e29
+}, {
+  level: 1433,
+  click: 33456829736490,
+  coin: 9.69182554315531e29
+}, {
+  level: 1434,
+  click: 34065744037694,
+  coin: 1.01376495181405e30
+}, {
+  level: 1435,
+  click: 34685740579180,
+  coin: 1.06039813959749e30
+}, {
+  level: 1436,
+  click: 35317021057721,
+  coin: 1.10917645401898e30
+}, {
+  level: 1437,
+  click: 35959790840972,
+  coin: 1.16019857090385e30
+}, {
+  level: 1438,
+  click: 36614259034278,
+  coin: 1.21356770516543e30
+}, {
+  level: 1439,
+  click: 37280638548701,
+  coin: 1.26939181960304e30
+}, {
+  level: 1440,
+  click: 37959146170288,
+  coin: 1.32778384330478e30
+}, {
+  level: 1441,
+  click: 38650002630587,
+  coin: 1.38886190009679e30
+}, {
+  level: 1442,
+  click: 39353432678464,
+  coin: 1.45274954750125e30
+}, {
+  level: 1443,
+  click: 40069665153212,
+  coin: 1.51957602668631e30
+}, {
+  level: 1444,
+  click: 40798933059e3,
+  coin: 1.58947652391388e30
+}, {
+  level: 1445,
+  click: 41541473640674,
+  coin: 1.66259244401391e30
+}, {
+  level: 1446,
+  click: 42297528460934,
+  coin: 1.73907169643855e30
+}, {
+  level: 1447,
+  click: 43067343478923,
+  coin: 1.81906899447473e30
+}, {
+  level: 1448,
+  click: 43851169130240,
+  coin: 1.90274616822056e30
+}, {
+  level: 1449,
+  click: 44649260408410,
+  coin: 1.99027249195871e30
+}, {
+  level: 1450,
+  click: 45461876947843,
+  coin: 2.08182502658881e30
+}, {
+  level: 1451,
+  click: 46289283108294,
+  coin: 2.1775889778119e30
+}, {
+  level: 1452,
+  click: 47131748060865,
+  coin: 2.27775807079124e30
+}, {
+  level: 1453,
+  click: 47989545875573,
+  coin: 2.38253494204764e30
+}, {
+  level: 1454,
+  click: 48862955610508,
+  coin: 2.49213154938183e30
+}, {
+  level: 1455,
+  click: 49752261402619,
+  coin: 2.6067696006534e30
+}, {
+  level: 1456,
+  click: 50657752560147,
+  coin: 2.72668100228345e30
+}, {
+  level: 1457,
+  click: 51579723656742,
+  coin: 2.85210832838849e30
+}, {
+  level: 1458,
+  click: 52518474627294,
+  coin: 2.98330531149436e30
+}, {
+  level: 1459,
+  click: 53474310865511,
+  coin: 3.12053735582311e30
+}, {
+  level: 1460,
+  click: 54447543323263,
+  coin: 3.26408207419097e30
+}, {
+  level: 1461,
+  click: 55438488611747,
+  coin: 3.41422984960375e30
+}, {
+  level: 1462,
+  click: 56447469104481,
+  coin: 3.57128442268553e30
+}, {
+  level: 1463,
+  click: 57474813042182,
+  coin: 3.73556350612906e30
+}, {
+  level: 1464,
+  click: 58520854639550,
+  coin: 3.907399427411e30
+}, {
+  level: 1465,
+  click: 59585934193990,
+  coin: 4.0871398010719e30
+}, {
+  level: 1466,
+  click: 60670398196320,
+  coin: 4.27514823192121e30
+}, {
+  level: 1467,
+  click: 61774599443493,
+  coin: 4.47180505058959e30
+}, {
+  level: 1468,
+  click: 62898897153365,
+  coin: 4.67750808291671e30
+}, {
+  level: 1469,
+  click: 64043657081556,
+  coin: 4.89267345473088e30
+}, {
+  level: 1470,
+  click: 65209251640440,
+  coin: 5.1177364336485e30
+}, {
+  level: 1471,
+  click: 66396060020296,
+  coin: 5.35315230959633e30
+}, {
+  level: 1472,
+  click: 67604468312666,
+  coin: 5.59939731583776e30
+}, {
+  level: 1473,
+  click: 68834869635956,
+  coin: 5.8569695923663e30
+}, {
+  level: 1474,
+  click: 70087664263331,
+  coin: 6.12639019361515e30
+}, {
+  level: 1475,
+  click: 71363259752923,
+  coin: 6.40820414252144e30
+}, {
+  level: 1476,
+  click: 72662071080426,
+  coin: 6.70298153307743e30
+}, {
+  level: 1477,
+  click: 73984520774090,
+  coin: 7.01131868359899e30
+}, {
+  level: 1478,
+  click: 75331039052179,
+  coin: 7.33383934304455e30
+}, {
+  level: 1479,
+  click: 76702063962928,
+  coin: 7.6711959528246e30
+}, {
+  level: 1480,
+  click: 78098041527054,
+  coin: 8.02407096665453e30
+}, {
+  level: 1481,
+  click: 79519425882846,
+  coin: 8.39317823112064e30
+}, {
+  level: 1482,
+  click: 80966679433914,
+  coin: 8.77926442975219e30
+}, {
+  level: 1483,
+  click: 82440272999611,
+  coin: 9.18311059352079e30
+}, {
+  level: 1484,
+  click: 83940685968204,
+  coin: 9.60553368082275e30
+}, {
+  level: 1485,
+  click: 85468406452825,
+  coin: 1.00473882301406e31
+}, {
+  level: 1486,
+  click: 87023931450267,
+  coin: 1.05095680887271e31
+}, {
+  level: 1487,
+  click: 88607767002662,
+  coin: 1.09930082208085e31
+}, {
+  level: 1488,
+  click: 90220428362110,
+  coin: 1.14986865989657e31
+}, {
+  level: 1489,
+  click: 91862440158300,
+  coin: 1.20276261825181e31
+}, {
+  level: 1490,
+  click: 93534336569181,
+  coin: 1.2580896986914e31
+}, {
+  level: 1491,
+  click: 95236661494741,
+  coin: 1.3159618248312e31
+}, {
+  level: 1492,
+  click: 96969968733945,
+  coin: 1.37649606877343e31
+}, {
+  level: 1493,
+  click: 98734822164903,
+  coin: 1.43981488793701e31
+}, {
+  level: 1494,
+  click: 100531795928304,
+  coin: 1.50604637278212e31
+}, {
+  level: 1495,
+  click: 102361474614199,
+  coin: 1.57532450593009e31
+}, {
+  level: 1496,
+  click: 104224453452177,
+  coin: 1.64778943320288e31
+}, {
+  level: 1497,
+  click: 106121338505007,
+  coin: 1.72358774713021e31
+}, {
+  level: 1498,
+  click: 108052746865798,
+  coin: 1.8028727834982e31
+}, {
+  level: 1499,
+  click: 110019306858756,
+  coin: 1.88580493153912e31
+}, {
+  level: 1500,
+  click: 112021658243585,
+  coin: 1.97255195838992e31
+}, {
+  level: 1501,
+  click: 114060452423618,
+  coin: 2.06328934847585e31
+}, {
+  level: 1502,
+  click: 116136352657728,
+  coin: 2.15820065850574e31
+}, {
+  level: 1503,
+  click: 118250034276099,
+  coin: 2.257477888797e31
+}, {
+  level: 1504,
+  click: 120402184899924,
+  coin: 2.36132187168167e31
+}, {
+  level: 1505,
+  click: 122593504665102,
+  coin: 2.46994267777902e31
+}, {
+  level: 1506,
+  click: 124824706450007,
+  coin: 2.58356004095686e31
+}, {
+  level: 1507,
+  click: 127096516107397,
+  coin: 2.70240380284087e31
+}, {
+  level: 1508,
+  click: 129409672700552,
+  coin: 2.82671437777155e31
+}, {
+  level: 1509,
+  click: 131764928743702,
+  coin: 2.95674323914905e31
+}, {
+  level: 1510,
+  click: 134163050446837,
+  coin: 3.0927534281499e31
+}, {
+  level: 1511,
+  click: 136604817964970,
+  coin: 3.2350200858448e31
+}, {
+  level: 1512,
+  click: 139091025651932,
+  coin: 3.38383100979366e31
+}, {
+  level: 1513,
+  click: 141622482318797,
+  coin: 3.53948723624417e31
+}, {
+  level: 1514,
+  click: 144200011497000,
+  coin: 3.7023036491114e31
+}, {
+  level: 1515,
+  click: 146824451706245,
+  coin: 3.87260961697052e31
+}, {
+  level: 1516,
+  click: 149496656727299,
+  coin: 4.05074965935117e31
+}, {
+  level: 1517,
+  click: 152217495879735,
+  coin: 4.23708414368132e31
+}, {
+  level: 1518,
+  click: 154987854304747,
+  coin: 4.43199001429066e31
+}, {
+  level: 1519,
+  click: 157808633253093,
+  coin: 4.63586155494804e31
+}, {
+  level: 1520,
+  click: 160680750378299,
+  coin: 4.84911118647564e31
+}, {
+  level: 1521,
+  click: 163605140035184,
+  coin: 5.07217030105352e31
+}, {
+  level: 1522,
+  click: 166582753583825,
+  coin: 5.30549013490199e31
+}, {
+  level: 1523,
+  click: 169614559699050,
+  coin: 5.54954268110748e31
+}, {
+  level: 1524,
+  click: 172701544685573,
+  coin: 5.80482164443842e31
+}, {
+  level: 1525,
+  click: 175844712798850,
+  coin: 6.07184344008259e31
+}, {
+  level: 1526,
+  click: 179045086571789,
+  coin: 6.35114823832639e31
+}, {
+  level: 1527,
+  click: 182303707147396,
+  coin: 6.6433010572894e31
+}, {
+  level: 1528,
+  click: 185621634617479,
+  coin: 6.94889290592472e31
+}, {
+  level: 1529,
+  click: 188999948367517,
+  coin: 7.26854197959725e31
+}, {
+  level: 1530,
+  click: 192439747427806,
+  coin: 7.60289491065873e31
+}, {
+  level: 1531,
+  click: 195942150830992,
+  coin: 7.95262807654903e31
+}, {
+  level: 1532,
+  click: 199508297976116,
+  coin: 8.31844896807028e31
+}, {
+  level: 1533,
+  click: 203139348999281,
+  coin: 8.70109762060152e31
+}, {
+  level: 1534,
+  click: 206836485151068,
+  coin: 9.10134811114919e31
+}, {
+  level: 1535,
+  click: 210600909180817,
+  coin: 9.52001012426205e31
+}, {
+  level: 1536,
+  click: 214433845727908,
+  coin: 9.95793058997811e31
+}, {
+  level: 1537,
+  click: 218336541720156,
+  coin: 1.04159953971171e32
+}, {
+  level: 1538,
+  click: 222310266779463,
+  coin: 1.08951311853845e32
+}, {
+  level: 1539,
+  click: 226356313634849,
+  coin: 1.13963072199122e32
+}, {
+  level: 1540,
+  click: 230475998543003,
+  coin: 1.19205373520281e32
+}, {
+  level: 1541,
+  click: 234670661716486,
+  coin: 1.24688820702214e32
+}, {
+  level: 1542,
+  click: 238941667759726,
+  coin: 1.30424506454516e32
+}, {
+  level: 1543,
+  click: 243290406112953,
+  coin: 1.36424033751424e32
+}, {
+  level: 1544,
+  click: 247718291504209,
+  coin: 1.42699539303989e32
+}, {
+  level: 1545,
+  click: 252226764409586,
+  coin: 1.49263718111973e32
+}, {
+  level: 1546,
+  click: 256817291521840,
+  coin: 1.56129849145124e32
+}, {
+  level: 1547,
+  click: 261491366227537,
+  coin: 1.63311822205799e32
+}, {
+  level: 1548,
+  click: 266250509092879,
+  coin: 1.70824166027266e32
+}, {
+  level: 1549,
+  click: 271096268358369,
+  coin: 1.7868207766452e32
+}, {
+  level: 1550,
+  click: 276030220442491,
+  coin: 1.86901453237088e32
+}, {
+  level: 1551,
+  click: 281053970454545,
+  coin: 1.95498920085994e32
+}, {
+  level: 1552,
+  click: 286169152716817,
+  coin: 2.0449187040995e32
+}, {
+  level: 1553,
+  click: 291377431296263,
+  coin: 2.13898496448808e32
+}, {
+  level: 1554,
+  click: 296680500545855,
+  coin: 2.23737827285453e32
+}, {
+  level: 1555,
+  click: 302080085655790,
+  coin: 2.34029767340584e32
+}, {
+  level: 1556,
+  click: 307577943214725,
+  coin: 2.44795136638251e32
+}, {
+  level: 1557,
+  click: 313175861781233,
+  coin: 2.5605571292361e32
+}, {
+  level: 1558,
+  click: 318875662465652,
+  coin: 2.67834275718096e32
+}, {
+  level: 1559,
+  click: 324679199522527,
+  coin: 2.80154652401129e32
+}, {
+  level: 1560,
+  click: 330588360953837,
+  coin: 2.93041766411581e32
+}, {
+  level: 1561,
+  click: 336605069123197,
+  coin: 3.06521687666514e32
+}, {
+  level: 1562,
+  click: 342731281381239,
+  coin: 3.20621685299173e32
+}, {
+  level: 1563,
+  click: 348968990702377,
+  coin: 3.35370282822935e32
+}, {
+  level: 1564,
+  click: 355320226333161,
+  coin: 3.5079731583279e32
+}, {
+  level: 1565,
+  click: 361787054452424,
+  coin: 3.66933992361099e32
+}, {
+  level: 1566,
+  click: 368371578843458,
+  coin: 3.83812956009709e32
+}, {
+  level: 1567,
+  click: 375075941578409,
+  coin: 4.01468351986156e32
+}, {
+  level: 1568,
+  click: 381902323715136,
+  coin: 4.19935896177519e32
+}, {
+  level: 1569,
+  click: 388852946006752,
+  coin: 4.39252947401685e32
+}, {
+  level: 1570,
+  click: 395930069624075,
+  coin: 4.59458582982162e32
+}, {
+  level: 1571,
+  click: 403135996891233,
+  coin: 4.80593677799342e32
+}, {
+  level: 1572,
+  click: 410473072034653,
+  coin: 5.02700986978112e32
+}, {
+  level: 1573,
+  click: 417943681945684,
+  coin: 5.25825232379105e32
+}, {
+  level: 1574,
+  click: 425550256957095,
+  coin: 5.50013193068544e32
+}, {
+  level: 1575,
+  click: 433295271633714,
+  coin: 5.75313799949697e32
+}, {
+  level: 1576,
+  click: 441181245577448,
+  coin: 6.01778234747383e32
+}, {
+  level: 1577,
+  click: 449210744246958,
+  coin: 6.29460033545762e32
+}, {
+  level: 1578,
+  click: 457386379792252,
+  coin: 6.58415195088867e32
+}, {
+  level: 1579,
+  click: 465710811904471,
+  coin: 6.88702294062955e32
+}, {
+  level: 1580,
+  click: 474186748681133,
+  coin: 7.20382599589851e32
+}, {
+  level: 1581,
+  click: 482816947507129,
+  coin: 7.53520199170985e32
+}, {
+  level: 1582,
+  click: 491604215951759,
+  coin: 7.8818212833285e32
+}, {
+  level: 1583,
+  click: 500551412682081,
+  coin: 8.24438506236161e32
+}, {
+  level: 1584,
+  click: 509661448392895,
+  coin: 8.62362677523024e32
+}, {
+  level: 1585,
+  click: 518937286753645,
+  coin: 9.02031360689084e32
+}, {
+  level: 1586,
+  click: 528381945372562,
+  coin: 9.43524803280781e32
+}, {
+  level: 1587,
+  click: 537998496778342,
+  coin: 9.86926944231697e32
+}, {
+  level: 1588,
+  click: 547790069419708,
+  coin: 1.03232558366636e33
+}, {
+  level: 1589,
+  click: 557759848683147,
+  coin: 1.07981256051501e33
+}, {
+  level: 1590,
+  click: 567911077929180,
+  coin: 1.1294839382987e33
+}, {
+  level: 1591,
+  click: 578247059547491,
+  coin: 1.18144019946044e33
+}, {
+  level: 1592,
+  click: 588771156031256,
+  coin: 1.23578644863562e33
+}, {
+  level: 1593,
+  click: 599486791071025,
+  coin: 1.29263262527286e33
+}, {
+  level: 1594,
+  click: 610397450668517,
+  coin: 1.35209372603541e33
+}, {
+  level: 1595,
+  click: 621506684270684,
+  coin: 1.41429003743304e33
+}, {
+  level: 1596,
+  click: 632818105924411,
+  coin: 1.47934737915496e33
+}, {
+  level: 1597,
+  click: 644335395452235,
+  coin: 1.54739735859609e33
+}, {
+  level: 1598,
+  click: 656062299649466,
+  coin: 1.61857763709151e33
+}, {
+  level: 1599,
+  click: 668002633503086,
+  coin: 1.69303220839771e33
+}, {
+  level: 1600,
+  click: 680160281432842,
+  coin: 1.77091168998401e33
+}, {
+  level: 1601,
+  click: 692539198554920,
+  coin: 1.85237362772327e33
+}, {
+  level: 1602,
+  click: 705143411968619,
+  coin: 1.93758281459854e33
+}, {
+  level: 1603,
+  click: 717977022066448,
+  coin: 2.02671162407008e33
+}, {
+  level: 1604,
+  click: 731044203868057,
+  coin: 2.1199403587773e33
+}, {
+  level: 1605,
+  click: 744349208378456,
+  coin: 2.21745761528106e33
+}, {
+  level: 1606,
+  click: 757896363970944,
+  coin: 2.31946066558399e33
+}, {
+  level: 1607,
+  click: 771690077795215,
+  coin: 2.42615585620085e33
+}, {
+  level: 1608,
+  click: 785734837211088,
+  coin: 2.53775902558609e33
+}, {
+  level: 1609,
+  click: 800035211248330,
+  coin: 2.65449594076305e33
+}, {
+  level: 1610,
+  click: 814595852093049,
+  coin: 2.77660275403815e33
+}, {
+  level: 1611,
+  click: 829421496601143,
+  coin: 2.9043264807239e33
+}, {
+  level: 1612,
+  click: 844516967839284,
+  coin: 3.0379254988372e33
+}, {
+  level: 1613,
+  click: 859887176653959,
+  coin: 3.17767007178372e33
+}, {
+  level: 1614,
+  click: 875537123269061,
+  coin: 3.32384289508577e33
+}, {
+  level: 1615,
+  click: 891471898912557,
+  coin: 3.47673966825971e33
+}, {
+  level: 1616,
+  click: 907696687472766,
+  coin: 3.63666969299966e33
+}, {
+  level: 1617,
+  click: 924216767184770,
+  coin: 3.80395649887764e33
+}, {
+  level: 1618,
+  click: 941037512347533,
+  coin: 3.97893849782602e33
+}, {
+  level: 1619,
+  click: 958164395072258,
+  coin: 4.16196966872601e33
+}, {
+  level: 1620,
+  click: 975602987062573,
+  coin: 4.35342027348741e33
+}, {
+  level: 1621,
+  click: 993358961427112,
+  coin: 4.55367760606783e33
+}, {
+  level: 1622,
+  click: 1011438094525090,
+  coin: 4.76314677594695e33
+}, {
+  level: 1623,
+  click: 1029846267845440,
+  coin: 4.98225152764051e33
+}, {
+  level: 1624,
+  click: 1048589469920230,
+  coin: 5.21143509791198e33
+}, {
+  level: 1625,
+  click: 1067673798272780,
+  coin: 5.45116111241593e33
+}, {
+  level: 1626,
+  click: 1087105461401340,
+  coin: 5.70191452358706e33
+}, {
+  level: 1627,
+  click: 1106890780798850,
+  coin: 5.96420259167206e33
+}, {
+  level: 1628,
+  click: 1127036193009390,
+  coin: 6.23855591088898e33
+}, {
+  level: 1629,
+  click: 1147548251722160,
+  coin: 6.52552948278987e33
+}, {
+  level: 1630,
+  click: 1168433629903500,
+  coin: 6.82570383899821e33
+}, {
+  level: 1631,
+  click: 1189699121967740,
+  coin: 7.13968621559213e33
+}, {
+  level: 1632,
+  click: 1211351645987560,
+  coin: 7.46811178150936e33
+}, {
+  level: 1633,
+  click: 1233398245944530,
+  coin: 7.81164492345879e33
+}, {
+  level: 1634,
+  click: 1255846094020720,
+  coin: 8.1709805899379e33
+}, {
+  level: 1635,
+  click: 1278702492931900,
+  coin: 8.54684569707504e33
+}, {
+  level: 1636,
+  click: 1301974878303260,
+  coin: 8.9400005991405e33
+}, {
+  level: 1637,
+  click: 1325670821088380,
+  coin: 9.35124062670096e33
+}, {
+  level: 1638,
+  click: 1349798030032190,
+  coin: 9.7813976955292e33
+}, {
+  level: 1639,
+  click: 1374364354178770,
+  coin: 1.02313419895235e34
+}, {
+  level: 1640,
+  click: 1399377785424820,
+  coin: 1.07019837210416e34
+}, {
+  level: 1641,
+  click: 1424846461119560,
+  coin: 1.11942749722095e34
+}, {
+  level: 1642,
+  click: 1450778666711930,
+  coin: 1.17092116209312e34
+}, {
+  level: 1643,
+  click: 1477182838446090,
+  coin: 1.2247835355494e34
+}, {
+  level: 1644,
+  click: 1504067566105810,
+  coin: 1.28112357818467e34
+}, {
+  level: 1645,
+  click: 1531441595808930,
+  coin: 1.34005526278117e34
+}, {
+  level: 1646,
+  click: 1559313832852660,
+  coin: 1.4016978048691e34
+}, {
+  level: 1647,
+  click: 1587693344610570,
+  coin: 1.46617590389308e34
+}, {
+  level: 1648,
+  click: 1616589363482490,
+  coin: 1.53361999547216e34
+}, {
+  level: 1649,
+  click: 1646011289897870,
+  coin: 1.60416651526388e34
+}, {
+  level: 1650,
+  click: 1675968695374010,
+  coin: 1.67795817496602e34
+}, {
+  level: 1651,
+  click: 1706471325629820,
+  coin: 1.75514425101446e34
+}, {
+  level: 1652,
+  click: 1737529103756280,
+  coin: 1.83588088656112e34
+}, {
+  level: 1653,
+  click: 1769152133444640,
+  coin: 1.92033140734294e34
+}, {
+  level: 1654,
+  click: 1801350702273340,
+  coin: 2.00866665208071e34
+}, {
+  level: 1655,
+  click: 1834135285054710,
+  coin: 2.10106531807642e34
+}, {
+  level: 1656,
+  click: 1867516547242710,
+  coin: 2.19771432270794e34
+}, {
+  level: 1657,
+  click: 1901505348402520,
+  coin: 2.29880918155251e34
+}, {
+  level: 1658,
+  click: 1936112745743450,
+  coin: 2.40455440390392e34
+}, {
+  level: 1659,
+  click: 1971349997715980,
+  coin: 2.5151639064835e34
+}, {
+  level: 1660,
+  click: 2007228567674410,
+  coin: 2.63086144618174e34
+}, {
+  level: 1661,
+  click: 2043760127606090,
+  coin: 2.7518810727061e34
+}, {
+  level: 1662,
+  click: 2080956561928520,
+  coin: 2.87846760205058e34
+}, {
+  level: 1663,
+  click: 2118829971355620,
+  coin: 3.01087711174491e34
+}, {
+  level: 1664,
+  click: 2157392676834290,
+  coin: 3.14937745888518e34
+}, {
+  level: 1665,
+  click: 2196657223552670,
+  coin: 3.29424882199389e34
+}, {
+  level: 1666,
+  click: 2236636385021330,
+  coin: 3.44578426780561e34
+}, {
+  level: 1667,
+  click: 2277343167228720,
+  coin: 3.60429034412467e34
+}, {
+  level: 1668,
+  click: 2318790812872280,
+  coin: 3.77008769995441e34
+}, {
+  level: 1669,
+  click: 2360992805666560,
+  coin: 3.94351173415231e34
+}, {
+  level: 1670,
+  click: 2403962874729690,
+  coin: 4.12491327392331e34
+}, {
+  level: 1671,
+  click: 2447714999049770,
+  coin: 4.31465928452379e34
+}, {
+  level: 1672,
+  click: 2492263412032470,
+  coin: 4.51313361161188e34
+}, {
+  level: 1673,
+  click: 2537622606131470,
+  coin: 4.72073775774603e34
+}, {
+  level: 1674,
+  click: 2583807337563060,
+  coin: 4.93789169460235e34
+}, {
+  level: 1675,
+  click: 2630832631106710,
+  coin: 5.16503471255405e34
+}, {
+  level: 1676,
+  click: 2678713784992850,
+  coin: 5.40262630933154e34
+}, {
+  level: 1677,
+  click: 2727466375879720,
+  coin: 5.65114711956079e34
+}, {
+  level: 1678,
+  click: 2777106263920730,
+  coin: 5.91109988706059e34
+}, {
+  level: 1679,
+  click: 2827649597924090,
+  coin: 6.18301048186538e34
+}, {
+  level: 1680,
+  click: 2879112820606300,
+  coin: 6.46742896403118e34
+}, {
+  level: 1681,
+  click: 2931512673941340,
+  coin: 6.76493069637662e34
+}, {
+  level: 1682,
+  click: 2984866204607070,
+  coin: 7.07611750840994e34
+}, {
+  level: 1683,
+  click: 3039190769530920,
+  coin: 7.4016189137968e34
+}, {
+  level: 1684,
+  click: 3094504041536380,
+  coin: 7.74209338383145e34
+}, {
+  level: 1685,
+  click: 3150824015092340,
+  coin: 8.0982296794877e34
+}, {
+  level: 1686,
+  click: 3208169012167020,
+  coin: 8.47074824474413e34
+}, {
+  level: 1687,
+  click: 3266557688188460,
+  coin: 8.86040266400237e34
+}, {
+  level: 1688,
+  click: 3326009038113490,
+  coin: 9.26798118654648e34
+}, {
+  level: 1689,
+  click: 3386542402607160,
+  coin: 9.69430832112761e34
+}, {
+  level: 1690,
+  click: 3448177474334610,
+  coin: 1.01402465038995e35
+}, {
+  level: 1691,
+  click: 3510934304367500,
+  coin: 1.06066978430789e35
+}, {
+  level: 1692,
+  click: 3574833308706990,
+  coin: 1.10946059438605e35
+}, {
+  level: 1693,
+  click: 3639895274925460,
+  coin: 1.16049578172781e35
+}, {
+  level: 1694,
+  click: 3706141368929100,
+  coin: 1.21387858768729e35
+}, {
+  level: 1695,
+  click: 3773593141843610,
+  coin: 1.2697170027209e35
+}, {
+  level: 1696,
+  click: 3842272537025160,
+  coin: 1.32812398484606e35
+}, {
+  level: 1697,
+  click: 3912201897199020,
+  coin: 1.38921768814898e35
+}, {
+  level: 1698,
+  click: 3983403971728040,
+  coin: 1.45312170180384e35
+}, {
+  level: 1699,
+  click: 4055901924013490,
+  coin: 1.51996530008681e35
+}, {
+  level: 1700,
+  click: 4129719339030540,
+  coin: 1.58988370389081e35
+}, {
+  level: 1701,
+  click: 4204880231000890,
+  coin: 1.66301835426978e35
+}, {
+  level: 1702,
+  click: 4281409051205110,
+  coin: 1.73951719856619e35
+}, {
+  level: 1703,
+  click: 4359330695937040,
+  coin: 1.81953498970024e35
+}, {
+  level: 1704,
+  click: 4438670514603100,
+  coin: 1.90323359922645e35
+}, {
+  level: 1705,
+  click: 4519454317968870,
+  coin: 1.99078234479086e35
+}, {
+  level: 1706,
+  click: 4601708386555910,
+  coin: 2.08235833265124e35
+}, {
+  level: 1707,
+  click: 4685459479191220,
+  coin: 2.1781468159532e35
+}, {
+  level: 1708,
+  click: 4770734841712500,
+  coin: 2.27834156948705e35
+}, {
+  level: 1709,
+  click: 4857562215831670,
+  coin: 2.38314528168345e35
+}, {
+  level: 1710,
+  click: 4945969848159810,
+  coin: 2.49276996464089e35
+}, {
+  level: 1711,
+  click: 5035986499396320,
+  coin: 2.60743738301437e35
+}, {
+  level: 1712,
+  click: 5127641453685330,
+  coin: 2.72737950263303e35
+}, {
+  level: 1713,
+  click: 5220964528142400,
+  coin: 2.85283895975415e35
+}, {
+  level: 1714,
+  click: 5315986082554590,
+  coin: 2.98406955190285e35
+}, {
+  level: 1715,
+  click: 5412737029257090,
+  coin: 3.12133675129038e35
+}, {
+  level: 1716,
+  click: 5511248843189570,
+  coin: 3.26491824184973e35
+}, {
+  level: 1717,
+  click: 5611553572135620,
+  coin: 3.41510448097482e35
+}, {
+  level: 1718,
+  click: 5713683847148480,
+  coin: 3.57219928709966e35
+}, {
+  level: 1719,
+  click: 5817672893166590,
+  coin: 3.73652045430625e35
+}, {
+  level: 1720,
+  click: 5923554539822220,
+  coin: 3.90840039520434e35
+}, {
+  level: 1721,
+  click: 6031363232446980,
+  coin: 4.08818681338374e35
+}, {
+  level: 1722,
+  click: 6141134043277520,
+  coin: 4.27624340679939e35
+}, {
+  level: 1723,
+  click: 6252902682865170,
+  coin: 4.47295060351216e35
+}, {
+  level: 1724,
+  click: 6366705511693310,
+  coin: 4.67870633127372e35
+}, {
+  level: 1725,
+  click: 6482579552006130,
+  coin: 4.89392682251231e35
+}, {
+  level: 1726,
+  click: 6600562499852640,
+  coin: 5.11904745634788e35
+}, {
+  level: 1727,
+  click: 6720692737349960,
+  coin: 5.35452363933988e35
+}, {
+  level: 1728,
+  click: 6843009345169730,
+  coin: 5.60083172674951e35
+}, {
+  level: 1729,
+  click: 6967552115251820,
+  coin: 5.85846998617999e35
+}, {
+  level: 1730,
+  click: 7094361563749400,
+  coin: 6.12795960554427e35
+}, {
+  level: 1731,
+  click: 7223478944209640,
+  coin: 6.40984574739931e35
+}, {
+  level: 1732,
+  click: 7354946260994260,
+  coin: 6.70469865177968e35
+}, {
+  level: 1733,
+  click: 7488806282944350,
+  coin: 7.01311478976154e35
+}, {
+  level: 1734,
+  click: 7625102557293940,
+  coin: 7.33571807009057e35
+}, {
+  level: 1735,
+  click: 7763879423836690,
+  coin: 7.67316110131474e35
+}, {
+  level: 1736,
+  click: 7905182029350520,
+  coin: 8.02612651197522e35
+}, {
+  level: 1737,
+  click: 8049056342284700,
+  coin: 8.39532833152608e35
+}, {
+  level: 1738,
+  click: 8195549167714280,
+  coin: 8.78151343477628e35
+}, {
+  level: 1739,
+  click: 8344708162566680,
+  coin: 9.18546305277599e35
+}, {
+  level: 1740,
+  click: 8496581851125390,
+  coin: 9.60799435320369e35
+}, {
+  level: 1741,
+  click: 8651219640815870,
+  coin: 1.00499620934511e36
+}, {
+  level: 1742,
+  click: 8808671838278720,
+  coin: 1.05122603497498e36
+}, {
+  level: 1743,
+  click: 8968989665735390,
+  coin: 1.09958243258383e36
+}, {
+  level: 1744,
+  click: 9132225277651780,
+  coin: 1.15016322448269e36
+}, {
+  level: 1745,
+  click: 9298431777705040,
+  coin: 1.20307073280889e36
+}, {
+  level: 1746,
+  click: 9467663236059270,
+  coin: 1.2584119865181e36
+}, {
+  level: 1747,
+  click: 9639974706955550,
+  coin: 1.31629893789793e36
+}, {
+  level: 1748,
+  click: 9815422246622140,
+  coin: 1.37684868904124e36
+}, {
+  level: 1749,
+  click: 9994062931510660,
+  coin: 1.44018372873713e36
+}, {
+  level: 1750,
+  click: 10175954876864200,
+  coin: 1.50643218025904e36
+}, {
+  level: 1751,
+  click: 10361157255623100,
+  coin: 1.57572806055096e36
+}, {
+  level: 1752,
+  click: 10549730317675400,
+  coin: 1.6482115513363e36
+}, {
+  level: 1753,
+  click: 10741735409457100,
+  coin: 1.72402928269777e36
+}, {
+  level: 1754,
+  click: 10937234993909200,
+  coin: 1.80333462970187e36
+}, {
+  level: 1755,
+  click: 11136292670798400,
+  coin: 1.88628802266815e36
+}, {
+  level: 1756,
+  click: 11338973197406900,
+  coin: 1.97305727171089e36
+}, {
+  level: 1757,
+  click: 11545342509599700,
+  coin: 2.06381790620959e36
+}, {
+  level: 1758,
+  click: 11755467743274400,
+  coin: 2.15875352989523e36
+}, {
+  level: 1759,
+  click: 11969417256202000,
+  coin: 2.25805619227041e36
+}, {
+  level: 1760,
+  click: 12187260650264900,
+  coin: 2.36192677711485e36
+}, {
+  level: 1761,
+  click: 12409068794099700,
+  coin: 2.47057540886214e36
+}, {
+  level: 1762,
+  click: 12634913846152300,
+  coin: 2.58422187766979e36
+}, {
+  level: 1763,
+  click: 12864869278152300,
+  coin: 2.7030960840426e36
+}, {
+  level: 1764,
+  click: 13099009899014700,
+  coin: 2.82743850390856e36
+}, {
+  level: 1765,
+  click: 13337411879176800,
+  coin: 2.95750067508836e36
+}, {
+  level: 1766,
+  click: 13580152775377800,
+  coin: 3.09354570614242e36
+}, {
+  level: 1767,
+  click: 13827311555889600,
+  coin: 3.23584880862497e36
+}, {
+  level: 1768,
+  click: 14078968626206800,
+  coin: 3.38469785382172e36
+}, {
+  level: 1769,
+  click: 14335205855203800,
+  coin: 3.54039395509752e36
+}, {
+  level: 1770,
+  click: 14596106601768500,
+  coin: 3.70325207703201e36
+}, {
+  level: 1771,
+  click: 14861755741920700,
+  coin: 3.87360167257548e36
+}, {
+  level: 1772,
+  click: 15132239696423700,
+  coin: 4.05178734951395e36
+}, {
+  level: 1773,
+  click: 15407646458898600,
+  coin: 4.2381695675916e36
+}, {
+  level: 1774,
+  click: 15688065624450500,
+  coin: 4.43312536770081e36
+}, {
+  level: 1775,
+  click: 15973588418815500,
+  coin: 4.63704913461505e36
+}, {
+  level: 1776,
+  click: 16264307728038000,
+  coin: 4.85035339480734e36
+}, {
+  level: 1777,
+  click: 16560318128688200,
+  coin: 5.07346965096848e36
+}, {
+  level: 1778,
+  click: 16861715918630400,
+  coin: 5.30684925491303e36
+}, {
+  level: 1779,
+  click: 17168599148349400,
+  coin: 5.55096432063903e36
+}, {
+  level: 1780,
+  click: 17481067652849400,
+  coin: 5.80630867938842e36
+}, {
+  level: 1781,
+  click: 17799223084131300,
+  coin: 6.07339887864029e36
+}, {
+  level: 1782,
+  click: 18123168944262500,
+  coin: 6.35277522705774e36
+}, {
+  level: 1783,
+  click: 18453010619048000,
+  coin: 6.6450028875024e36
+}, {
+  level: 1784,
+  click: 18788855412314700,
+  coin: 6.95067302032751e36
+}, {
+  level: 1785,
+  click: 19130812580818800,
+  coin: 7.27040397926258e36
+}, {
+  level: 1786,
+  click: 19478993369789700,
+  coin: 7.60484256230865e36
+}, {
+  level: 1787,
+  click: 19833511049119900,
+  coin: 7.95466532017485e36
+}, {
+  level: 1788,
+  click: 20194480950213900,
+  coin: 8.3205799249029e36
+}, {
+  level: 1789,
+  click: 20562020503507800,
+  coin: 8.70332660144843e36
+}, {
+  level: 1790,
+  click: 20936249276671600,
+  coin: 9.10367962511506e36
+}, {
+  level: 1791,
+  click: 21317289013507100,
+  coin: 9.52244888787035e36
+}, {
+  level: 1792,
+  click: 21705263673552900,
+  coin: 9.96048153671239e36
+}, {
+  level: 1793,
+  click: 22100299472411500,
+  coin: 1.04186636874012e37
+}, {
+  level: 1794,
+  click: 22502524922809400,
+  coin: 1.08979222170216e37
+}, {
+  level: 1795,
+  click: 22912070876404600,
+  coin: 1.13992266390046e37
+}, {
+  level: 1796,
+  click: 23329070566355100,
+  coin: 1.19235910643988e37
+}, {
+  level: 1797,
+  click: 23753659650662800,
+  coin: 1.24720762533612e37
+}, {
+  level: 1798,
+  click: 24185976256304900,
+  coin: 1.30457917610158e37
+}, {
+  level: 1799,
+  click: 24626161024169600,
+  coin: 1.36458981820225e37
+}, {
+  level: 1800,
+  click: 25074357154809500,
+  coin: 1.42736094983955e37
+}, {
+  level: 1801,
+  click: 25530710455027000,
+  coin: 1.49301955353217e37
+}, {
+  level: 1802,
+  click: 25995369385308500,
+  coin: 1.56169845299465e37
+}, {
+  level: 1803,
+  click: 26468485108121100,
+  coin: 1.63353658183241e37
+}, {
+  level: 1804,
+  click: 26950211537088900,
+  coin: 1.7086792645967e37
+}, {
+  level: 1805,
+  click: 27440705387064000,
+  coin: 1.78727851076815e37
+}, {
+  level: 1806,
+  click: 27940126225108500,
+  coin: 1.86949332226348e37
+}, {
+  level: 1807,
+  click: 28448636522405500,
+  coin: 1.9554900150876e37
+}, {
+  level: 1808,
+  click: 28966401707113300,
+  coin: 2.04544255578163e37
+}, {
+  level: 1809,
+  click: 29493590218182700,
+  coin: 2.13953291334759e37
+}, {
+  level: 1810,
+  click: 30030373560153700,
+  coin: 2.23795142736158e37
+}, {
+  level: 1811,
+  click: 30576926358948500,
+  coin: 2.34089719302021e37
+}, {
+  level: 1812,
+  click: 31133426418681300,
+  coin: 2.44857846389914e37
+}, {
+  level: 1813,
+  click: 31700054779501300,
+  coin: 2.5612130732385e37
+}, {
+  level: 1814,
+  click: 32276995776488200,
+  coin: 2.67902887460747e37
+}, {
+  level: 1815,
+  click: 32864437099620300,
+  coin: 2.80226420283941e37
+}, {
+  level: 1816,
+  click: 33462569854833400,
+  coin: 2.93116835617003e37
+}, {
+  level: 1817,
+  click: 34071588626191400,
+  coin: 3.06600210055385e37
+}, {
+  level: 1818,
+  click: 34691691539188100,
+  coin: 3.20703819717933e37
+}, {
+  level: 1819,
+  click: 35323080325201300,
+  coin: 3.35456195424957e37
+}, {
+  level: 1820,
+  click: 3596596038712e4,
+  coin: 3.50887180414505e37
+}, {
+  level: 1821,
+  click: 36620540866165500,
+  coin: 3.67027990713573e37
+}, {
+  level: 1822,
+  click: 37287034709929800,
+  coin: 3.83911278286397e37
+}, {
+  level: 1823,
+  click: 37965658741650500,
+  coin: 4.01571197087571e37
+}, {
+  level: 1824,
+  click: 38656633730748500,
+  coin: 4.200434721536e37
+}, {
+  level: 1825,
+  click: 39360184464648100,
+  coin: 4.39365471872665e37
+}, {
+  level: 1826,
+  click: 40076539821904700,
+  coin: 4.59576283578808e37
+}, {
+  level: 1827,
+  click: 40805932846663400,
+  coin: 4.80716792623433e37
+}, {
+  level: 1828,
+  click: 41548600824472700,
+  coin: 5.02829765084111e37
+}, {
+  level: 1829,
+  click: 42304785359478100,
+  coin: 5.2595993427798e37
+}, {
+  level: 1830,
+  click: 43074732453020600,
+  coin: 5.50154091254767e37
+}, {
+  level: 1831,
+  click: 43858692583665500,
+  coin: 5.75461179452487e37
+}, {
+  level: 1832,
+  click: 44656920788688300,
+  coin: 6.01932393707301e37
+}, {
+  level: 1833,
+  click: 45469676747042400,
+  coin: 6.29621283817837e37
+}, {
+  level: 1834,
+  click: 46297224863838600,
+  coin: 6.58583862873457e37
+}, {
+  level: 1835,
+  click: 47139834356360400,
+  coin: 6.88878720565637e37
+}, {
+  level: 1836,
+  click: 47997779341646200,
+  coin: 7.20567141711656e37
+}, {
+  level: 1837,
+  click: 48871338925664100,
+  coin: 7.53713230230392e37
+}, {
+  level: 1838,
+  click: 49760797294111200,
+  coin: 7.8838403882099e37
+}, {
+  level: 1839,
+  click: 50666443804864000,
+  coin: 8.24649704606756e37
+}, {
+  level: 1840,
+  click: 51588573082112600,
+  coin: 8.62583591018667e37
+}, {
+  level: 1841,
+  click: 52527485112207000,
+  coin: 9.02262436205525e37
+}, {
+  level: 1842,
+  click: 53483485341249200,
+  coin: 9.43766508270979e37
+}, {
+  level: 1843,
+  click: 54456884774459900,
+  coin: 9.87179767651444e37
+}, {
+  level: 1844,
+  click: 55448000077355100,
+  coin: 1.03259003696341e38
+}, {
+  level: 1845,
+  click: 56457153678763000,
+  coin: 1.08008917866373e38
+}, {
+  level: 1846,
+  click: 57484673875716400,
+  coin: 1.12977328088226e38
+}, {
+  level: 1847,
+  click: 58530894940254500,
+  coin: 1.18174285180284e38
+}, {
+  level: 1848,
+  click: 59596157228167100,
+  coin: 1.23610302298577e38
+}, {
+  level: 1849,
+  click: 60680807289719800,
+  coin: 1.29296376204312e38
+}, {
+  level: 1850,
+  click: 61785197982392700,
+  coin: 1.3524400950971e38
+}, {
+  level: 1851,
+  click: 62909688585672200,
+  coin: 1.41465233947157e38
+}, {
+  level: 1852,
+  click: 64054644917931400,
+  coin: 1.47972634708726e38
+}, {
+  level: 1853,
+  click: 65220439455437800,
+  coin: 1.54779375905328e38
+}, {
+  level: 1854,
+  click: 66407451453526800,
+  coin: 1.61899227196973e38
+}, {
+  level: 1855,
+  click: 67616067069980900,
+  coin: 1.69346591648034e38
+}, {
+  level: 1856,
+  click: 68846679490654600,
+  coin: 1.77136534863843e38
+}, {
+  level: 1857,
+  click: 70099689057384500,
+  coin: 1.8528481546758e38
+}, {
+  level: 1858,
+  click: 71375503398228900,
+  coin: 1.93807916979089e38
+}, {
+  level: 1859,
+  click: 72674537560076700,
+  coin: 2.02723081160127e38
+}, {
+  level: 1860,
+  click: 73997214143670100,
+  coin: 2.12048342893492e38
+}, {
+  level: 1861,
+  click: 75343963441084900,
+  coin: 2.21802566666593e38
+}, {
+  level: 1862,
+  click: 76715223575712600,
+  coin: 2.32005484733256e38
+}, {
+  level: 1863,
+  click: 78111440644790600,
+  coin: 2.42677737030986e38
+}, {
+  level: 1864,
+  click: 79533068864525800,
+  coin: 2.53840912934412e38
+}, {
+  level: 1865,
+  click: 80980570717860100,
+  coin: 2.65517594929395e38
+}, {
+  level: 1866,
+  click: 82454417104925200,
+  coin: 2.77731404296147e38
+}, {
+  level: 1867,
+  click: 83955087496234800,
+  coin: 2.90507048893769e38
+}, {
+  level: 1868,
+  click: 85483070088666300,
+  coin: 3.03870373142883e38
+}, {
+  level: 1869,
+  click: 8703886196428e4,
+  coin: 3.17848410307455e38
+}, {
+  level: 1870,
+  click: 88622969252029900,
+  coin: 3.32469437181598e38
+}, {
+  level: 1871,
+  click: 90235907292416800,
+  coin: 3.47763031291952e38
+}, {
+  level: 1872,
+  click: 91878200805138800,
+  coin: 3.63760130731382e38
+}, {
+  level: 1873,
+  click: 93550384059792400,
+  coin: 3.80493096745025e38
+}, {
+  level: 1874,
+  click: 95253001049680600,
+  coin: 3.97995779195296e38
+}, {
+  level: 1875,
+  click: 96986605668784800,
+  coin: 4.1630358503828e38
+}, {
+  level: 1876,
+  click: 98751761891956700,
+  coin: 4.35453549950041e38
+}, {
+  level: 1877,
+  click: 10054904395839e4,
+  coin: 4.55484413247743e38
+}, {
+  level: 1878,
+  click: 102379036558433000,
+  coin: 4.76436696257139e38
+}, {
+  level: 1879,
+  click: 104242335023796000,
+  coin: 4.98352784284968e38
+}, {
+  level: 1880,
+  click: 10613954552123e4,
+  coin: 5.21277012362076e38
+}, {
+  level: 1881,
+  click: 108071285249716000,
+  coin: 5.45255754930732e38
+}, {
+  level: 1882,
+  click: 110038182641261000,
+  coin: 5.70337519657545e38
+}, {
+  level: 1883,
+  click: 112040877565332000,
+  coin: 5.96573045561792e38
+}, {
+  level: 1884,
+  click: 114080021537021000,
+  coin: 6.24015405657635e38
+}, {
+  level: 1885,
+  click: 116156277928995000,
+  coin: 6.52720114317886e38
+}, {
+  level: 1886,
+  click: 118270322187302000,
+  coin: 6.82745239576509e38
+}, {
+  level: 1887,
+  click: 120422842051111000,
+  coin: 7.14151520597028e38
+}, {
+  level: 1888,
+  click: 122614537776441000,
+  coin: 7.47002490544492e38
+}, {
+  level: 1889,
+  click: 124846122363973000,
+  coin: 7.81364605109538e38
+}, {
+  level: 1890,
+  click: 127118321790997000,
+  coin: 8.17307376944577e38
+}, {
+  level: 1891,
+  click: 129431875247593000,
+  coin: 8.54903516284028e38
+}, {
+  level: 1892,
+  click: 131787535377099000,
+  coin: 8.94229078033093e38
+}, {
+  level: 1893,
+  click: 134186068520962000,
+  coin: 9.35363615622615e38
+}, {
+  level: 1894,
+  click: 136628254968044000,
+  coin: 9.78390341941256e38
+}, {
+  level: 1895,
+  click: 139114889208462000,
+  coin: 1.02339629767055e39
+}, {
+  level: 1896,
+  click: 141646780192056000,
+  coin: 1.0704725273634e39
+}, {
+  level: 1897,
+  click: 144224751591552000,
+  coin: 1.11971426362212e39
+}, {
+  level: 1898,
+  click: 146849642070518000,
+  coin: 1.17122111974873e39
+}, {
+  level: 1899,
+  click: 149522305556201000,
+  coin: 1.22509729125717e39
+}, {
+  level: 1900,
+  click: 152243611517324000,
+  coin: 1.281451766655e39
+}, {
+  level: 1901,
+  click: 15501444524694e4,
+  coin: 1.34039854792113e39
+}, {
+  level: 1902,
+  click: 157835708150434000,
+  coin: 1.40205688112551e39
+}, {
+  level: 1903,
+  click: 160708318038772000,
+  coin: 1.46655149765728e39
+}, {
+  level: 1904,
+  click: 163633209427077000,
+  coin: 1.53401286654952e39
+}, {
+  level: 1905,
+  click: 16661133383865e4,
+  coin: 1.60457745841079e39
+}, {
+  level: 1906,
+  click: 169643660114514000,
+  coin: 1.67838802149769e39
+}, {
+  level: 1907,
+  click: 172731174728598000,
+  coin: 1.75559387048658e39
+}, {
+  level: 1908,
+  click: 175874882108658000,
+  coin: 1.83635118852897e39
+}, {
+  level: 1909,
+  click: 179075804963036000,
+  coin: 1.9208233432013e39
+}, {
+  level: 1910,
+  click: 182334984613363000,
+  coin: 2.00918121698856e39
+}, {
+  level: 1911,
+  click: 185653481333326000,
+  coin: 2.10160355297003e39
+}, {
+  level: 1912,
+  click: 189032374693593000,
+  coin: 2.19827731640666e39
+}, {
+  level: 1913,
+  click: 192472763913016000,
+  coin: 2.29939807296136e39
+}, {
+  level: 1914,
+  click: 195975768216233000,
+  coin: 2.40517038431758e39
+}, {
+  level: 1915,
+  click: 199542527197769000,
+  coin: 2.51580822199619e39
+}, {
+  level: 1916,
+  click: 203174201192768000,
+  coin: 2.63153540020802e39
+}, {
+  level: 1917,
+  click: 206871971654476000,
+  coin: 2.75258602861759e39
+}, {
+  level: 1918,
+  click: 210637041538588000,
+  coin: 2.879204985934e39
+}, {
+  level: 1919,
+  click: 21447063569459e4,
+  coin: 3.01164841528696e39
+}, {
+  level: 1920,
+  click: 218374001264232000,
+  coin: 3.15018424239016e39
+}, {
+  level: 1921,
+  click: 222348408087241000,
+  coin: 3.29509271754011e39
+}, {
+  level: 1922,
+  click: 226395149114428000,
+  coin: 3.44666698254695e39
+}, {
+  level: 1923,
+  click: 230515540828311000,
+  coin: 3.60521366374411e39
+}, {
+  level: 1924,
+  click: 234710923671386000,
+  coin: 3.77105349227634e39
+}, {
+  level: 1925,
+  click: 238982662482206000,
+  coin: 3.94452195292105e39
+}, {
+  level: 1926,
+  click: 243332146939382000,
+  coin: 4.12596996275542e39
+}, {
+  level: 1927,
+  click: 247760792013678000,
+  coin: 4.31576458104217e39
+}, {
+  level: 1928,
+  click: 252270038428327000,
+  coin: 4.51428975177011e39
+}, {
+  level: 1929,
+  click: 256861353127723000,
+  coin: 4.72194708035154e39
+}, {
+  level: 1930,
+  click: 261536229754647000,
+  coin: 4.93915664604771e39
+}, {
+  level: 1931,
+  click: 266296189136182000,
+  coin: 5.1663578517659e39
+}, {
+  level: 1932,
+  click: 271142779778461000,
+  coin: 5.40401031294714e39
+}, {
+  level: 1933,
+  click: 276077578370429000,
+  coin: 5.65259478734271e39
+}, {
+  level: 1934,
+  click: 28110219029677e4,
+  coin: 5.91261414756047e39
+}, {
+  level: 1935,
+  click: 286218250160172000,
+  coin: 6.18459439834825e39
+}, {
+  level: 1936,
+  click: 291427422313087000,
+  coin: 6.46908574067227e39
+}, {
+  level: 1937,
+  click: 296731401399185000,
+  coin: 6.7666636847432e39
+}, {
+  level: 1938,
+  click: 30213191290465e4,
+  coin: 7.07793021424138e39
+}, {
+  level: 1939,
+  click: 307630713719515000,
+  coin: 7.40351500409649e39
+}, {
+  level: 1940,
+  click: 31322959270921e4,
+  coin: 7.74407669428493e39
+}, {
+  level: 1941,
+  click: 318930371296518000,
+  coin: 8.10030422222203e39
+}, {
+  level: 1942,
+  click: 324734904054114000,
+  coin: 8.47291821644425e39
+}, {
+  level: 1943,
+  click: 330645079307899000,
+  coin: 8.86267245440068e39
+}, {
+  level: 1944,
+  click: 336662819751303000,
+  coin: 9.27035538730311e39
+}, {
+  level: 1945,
+  click: 342790083070777000,
+  coin: 9.69679173511906e39
+}, {
+  level: 1946,
+  click: 349028862582665000,
+  coin: 1.01428441549345e40
+}, {
+  level: 1947,
+  click: 355381187881669000,
+  coin: 1.06094149860615e40
+}, {
+  level: 1948,
+  click: 361849125501116000,
+  coin: 1.10974480754204e40
+}, {
+  level: 1949,
+  click: 368434779585236000,
+  coin: 1.16079306868897e40
+}, {
+  level: 1950,
+  click: 375140292573687000,
+  coin: 1.21418954984866e40
+}, {
+  level: 1951,
+  click: 381967845898528000,
+  coin: 1.2700422691417e40
+}, {
+  level: 1952,
+  click: 388919660693881000,
+  coin: 1.32846421352222e40
+}, {
+  level: 1953,
+  click: 39599799851851e4,
+  coin: 1.38957356734424e40
+}, {
+  level: 1954,
+  click: 403205162091547000,
+  coin: 1.45349395144208e40
+}, {
+  level: 1955,
+  click: 410543496041613000,
+  coin: 1.52035467320841e40
+}, {
+  level: 1956,
+  click: 41801538766957e4,
+  coin: 1.590290988176e40
+}, {
+  level: 1957,
+  click: 425623267725157000,
+  coin: 1.66344437363209e40
+}, {
+  level: 1958,
+  click: 433369611197754000,
+  coin: 1.73996281481917e40
+}, {
+  level: 1959,
+  click: 441256938121554000,
+  coin: 1.82000110430085e40
+}, {
+  level: 1960,
+  click: 449287814395366000,
+  coin: 1.90372115509869e40
+}, {
+  level: 1961,
+  click: 457464852617361000,
+  coin: 1.99129232823323e40
+}, {
+  level: 1962,
+  click: 465790712934997000,
+  coin: 2.08289177533196e40
+}, {
+  level: 1963,
+  click: 474268103910414000,
+  coin: 2.17870479699723e40
+}, {
+  level: 1964,
+  click: 482899783401584000,
+  coin: 2.2789252176591e40
+}, {
+  level: 1965,
+  click: 491688559459493000,
+  coin: 2.38375577767142e40
+}, {
+  level: 1966,
+  click: 500637291241655000,
+  coin: 2.49340854344431e40
+}, {
+  level: 1967,
+  click: 509748889942254000,
+  coin: 2.60810533644275e40
+}, {
+  level: 1968,
+  click: 519026319739203000,
+  coin: 2.72807818191911e40
+}, {
+  level: 1969,
+  click: 528472598758456000,
+  coin: 2.85356977828739e40
+}, {
+  level: 1970,
+  click: 53809080005586e4,
+  coin: 2.98483398808861e40
+}, {
+  level: 1971,
+  click: 547884052616877000,
+  coin: 3.12213635154069e40
+}, {
+  level: 1972,
+  click: 557855542374504000,
+  coin: 3.26575462371156e40
+}, {
+  level: 1973,
+  click: 56800851324572e4,
+  coin: 3.41597933640229e40
+}, {
+  level: 1974,
+  click: 578346268186792000,
+  coin: 3.5731143858768e40
+}, {
+  level: 1975,
+  click: 588872170267791000,
+  coin: 3.73747764762713e40
+}, {
+  level: 1976,
+  click: 599589643766665000,
+  coin: 3.90940161941798e40
+}, {
+  level: 1977,
+  click: 610502175283219000,
+  coin: 4.0892340939112e40
+}, {
+  level: 1978,
+  click: 621613314873373000,
+  coin: 4.27733886223112e40
+}, {
+  level: 1979,
+  click: 632926677204069000,
+  coin: 4.47409644989375e40
+}, {
+  level: 1980,
+  click: 644445942729183000,
+  coin: 4.67990488658886e40
+}, {
+  level: 1981,
+  click: 656174858886854000,
+  coin: 4.89518051137195e40
+}, {
+  level: 1982,
+  click: 668117241318594000,
+  coin: 5.12035881489506e40
+}, {
+  level: 1983,
+  click: 680276975110593000,
+  coin: 5.35589532038023e40
+}, {
+  level: 1984,
+  click: 692658016057606000,
+  coin: 5.60226650511773e40
+}, {
+  level: 1985,
+  click: 705264391949854000,
+  coin: 5.85997076435314e40
+}, {
+  level: 1986,
+  click: 718100203883341000,
+  coin: 6.12952941951339e40
+}, {
+  level: 1987,
+  click: 731169627594018000,
+  coin: 6.411487772811e40
+}, {
+  level: 1988,
+  click: 744476914816229000,
+  coin: 6.70641621036031e40
+}, {
+  level: 1989,
+  click: 758026394665885000,
+  coin: 7.01491135603688e40
+}, {
+  level: 1990,
+  click: 771822475048804000,
+  coin: 7.33759727841458e40
+}, {
+  level: 1991,
+  click: 785869644094692000,
+  coin: 7.67512675322165e40
+}, {
+  level: 1992,
+  click: 800172471617215000,
+  coin: 8.02818258386985e40
+}, {
+  level: 1993,
+  click: 814735610600649000,
+  coin: 8.39747898272786e40
+}, {
+  level: 1994,
+  click: 829563798713581000,
+  coin: 8.78376301593334e40
+}, {
+  level: 1995,
+  click: 844661859850168000,
+  coin: 9.18781611466627e40
+}, {
+  level: 1996,
+  click: 860034705699441000,
+  coin: 9.61045565594092e40
+}, {
+  level: 1997,
+  click: 875687337343171000,
+  coin: 1.00525366161142e41
+}, {
+  level: 1998,
+  click: 891624846882816000,
+  coin: 1.05149533004555e41
+}, {
+  level: 1999,
+  click: 907852419096084000,
+  coin: 1.09986411522764e41
+}, {
+  level: 2e3,
+  click: 924375333123632000,
+  coin: 1.15045786452811e41
+}];
+exports.LevelAddCfg = [{
+  id: 1,
+  type: "role",
+  add: .3,
+  unlock: 20
+}, {
+  id: 2,
+  type: "role",
+  add: .5,
+  unlock: 20
+}, {
+  id: 3,
+  type: "role",
+  add: .7,
+  unlock: 20
+}, {
+  id: 4,
+  type: "role",
+  add: 1,
+  unlock: 20
+}, {
+  id: 5,
+  type: "role",
+  add: 1.5,
+  unlock: 20
+}, {
+  id: 6,
+  type: "role",
+  add: 2,
+  unlock: 20
+}, {
+  id: 7,
+  type: "role",
+  add: 3,
+  unlock: 20
+}, {
+  id: 8,
+  type: "role",
+  add: 4,
+  unlock: 20
+}, {
+  id: 9,
+  type: "role",
+  add: 5,
+  unlock: 20
+}, {
+  id: 10,
+  type: "role",
+  add: 7,
+  unlock: 20
+}, {
+  id: 11,
+  type: "role",
+  add: 10,
+  unlock: 20
+}, {
+  id: 12,
+  type: "role",
+  add: 15,
+  unlock: 20
+}, {
+  id: 13,
+  type: "role",
+  add: 20,
+  unlock: 20
+}, {
+  id: 14,
+  type: "role",
+  add: 25,
+  unlock: 20
+}, {
+  id: 15,
+  type: "role",
+  add: 2,
+  unlock: 20
+}, {
+  id: 16,
+  type: "role",
+  add: 15,
+  unlock: 20
+}, {
+  id: 17,
+  type: "role",
+  add: 25,
+  unlock: 20
+}, {
+  id: 18,
+  type: "role",
+  add: 25,
+  unlock: 20
+}, {
+  id: 19,
+  type: "role",
+  add: 25,
+  unlock: 20
+}, {
+  id: 20,
+  type: "role",
+  add: 25,
+  unlock: 20
+}, {
+  id: 21,
+  type: "role",
+  add: 25,
+  unlock: 20
+}, {
+  id: 2001,
+  type: "business",
+  add: 1,
+  unlock: 20
+}, {
+  id: 2002,
+  type: "business",
+  add: 1.5,
+  unlock: 20
+}, {
+  id: 2003,
+  type: "business",
+  add: 2,
+  unlock: 20
+}, {
+  id: 2004,
+  type: "business",
+  add: 2.5,
+  unlock: 20
+}, {
+  id: 2005,
+  type: "business",
+  add: 3,
+  unlock: 20
+}, {
+  id: 2006,
+  type: "business",
+  add: 3.5,
+  unlock: 20
+}, {
+  id: 2007,
+  type: "business",
+  add: 4,
+  unlock: 20
+}, {
+  id: 2008,
+  type: "business",
+  add: 5,
+  unlock: 20
+}, {
+  id: 2009,
+  type: "business",
+  add: 6,
+  unlock: 20
+}, {
+  id: 2010,
+  type: "business",
+  add: 7,
+  unlock: 20
+}, {
+  id: 2011,
+  type: "business",
+  add: 8,
+  unlock: 20
+}, {
+  id: 2012,
+  type: "business",
+  add: 9,
+  unlock: 20
+}, {
+  id: 2013,
+  type: "business",
+  add: 10,
+  unlock: 20
+}, {
+  id: 2014,
+  type: "business",
+  add: 15,
+  unlock: 20
+}, {
+  id: 2015,
+  type: "business",
+  add: 20,
+  unlock: 20
+}];

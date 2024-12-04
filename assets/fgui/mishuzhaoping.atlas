@@ -1,0 +1,48 @@
+
+mishuzhaoping.png
+size: 1521,713
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: true
+  xy: 357, 31
+  size: 189, 342
+  orig: 189, 342
+  offset: 0, 0
+  index: -1
+a2
+  rotate: true
+  xy: 1120, 98
+  size: 265, 399
+  orig: 265, 399
+  offset: 0, 0
+  index: -1
+a3
+  rotate: true
+  xy: 2, 14
+  size: 206, 353
+  orig: 206, 353
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 222
+  size: 706, 489
+  orig: 706, 489
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 710, 2
+  size: 361, 408
+  orig: 435, 486
+  offset: 67, 75
+  index: -1
+q
+  rotate: false
+  xy: 710, 365
+  size: 689, 346
+  orig: 689, 347
+  offset: 0, 1
+  index: -1

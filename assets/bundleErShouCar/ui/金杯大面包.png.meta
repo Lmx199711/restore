@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8c741614-4786-4d28-8b95-add8f4957540",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 435,
+  "height": 364,
+  "platformSettings": {},
+  "subMetas": {
+    "金杯大面包": {
+      "ver": "1.0.6",
+      "uuid": "c0ce8704-90cc-4402-a386-73014d2ac233",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8c741614-4786-4d28-8b95-add8f4957540",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 435,
+      "height": 364,
+      "rawWidth": 435,
+      "rawHeight": 364,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

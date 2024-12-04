@@ -1,0 +1,13 @@
+
+take3.png
+size: 146,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s3
+  rotate: false
+  xy: 2, 2
+  size: 142, 154
+  orig: 142, 154
+  offset: 0, 0
+  index: -1

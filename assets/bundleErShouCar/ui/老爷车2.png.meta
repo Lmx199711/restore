@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "661bab4b-382a-4c81-bc1e-63395be4d9bb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 418,
+  "height": 296,
+  "platformSettings": {},
+  "subMetas": {
+    "老爷车2": {
+      "ver": "1.0.6",
+      "uuid": "de67e23a-5310-49f9-91c3-c8fc70a15892",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "661bab4b-382a-4c81-bc1e-63395be4d9bb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 418,
+      "height": 296,
+      "rawWidth": 418,
+      "rawHeight": 296,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

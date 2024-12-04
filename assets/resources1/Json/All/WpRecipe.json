@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "name": "木材",
+    "type": 1,
+    "url": "ui://APng/recipe01",
+    "way": "抽卡,通天塔第2层概率获得"
+  },
+  {
+    "id": 2,
+    "name": "石块",
+    "type": 1,
+    "url": "ui://APng/recipe02",
+    "way": "抽卡,通天塔第2层概率获得"
+  },
+  {
+    "id": 3,
+    "name": "铁钉",
+    "type": 1,
+    "url": "ui://APng/recipe03",
+    "way": "抽卡,通天塔第1层概率获得"
+  },
+  {
+    "id": 4,
+    "name": "火柴",
+    "type": 1,
+    "url": "ui://APng/recipe04",
+    "way": "抽卡,通天塔第3层概率获得"
+  },
+  {
+    "id": 5,
+    "name": "矿泉水",
+    "type": 1,
+    "url": "ui://APng/recipe05",
+    "way": "抽卡,通天塔第1层概率获得"
+  },
+  {
+    "id": 6,
+    "name": "钻石",
+    "type": 2,
+    "url": "ui://APng/recipe06",
+    "way": "抽卡,通天塔第1层概率获得"
+  },
+  {
+    "id": 7,
+    "name": "翡翠",
+    "type": 2,
+    "url": "ui://APng/recipe07",
+    "way": "抽卡,通天塔第1层概率获得"
+  },
+  {
+    "id": 8,
+    "name": "黄金",
+    "type": 2,
+    "url": "ui://APng/recipe08",
+    "way": "抽卡,通天塔第3层概率获得"
+  },
+  {
+    "id": 9,
+    "name": "黑曜石",
+    "type": 2,
+    "url": "ui://APng/recipe09",
+    "way": "抽卡,通天塔第2层概率获得"
+  },
+  {
+    "id": 10,
+    "name": "仙泉水",
+    "type": 3,
+    "url": "ui://APng/recipe10",
+    "way": "抽卡,通天塔第2,9,16层概率获得"
+  },
+  {
+    "id": 11,
+    "name": "补天石",
+    "type": 3,
+    "url": "ui://APng/recipe11",
+    "way": "抽卡,通天塔3,6,15层概率获得"
+  },
+  {
+    "id": 12,
+    "name": "镇妖塔",
+    "type": 3,
+    "url": "ui://APng/recipe12",
+    "way": "抽卡,通天塔4,7,13层概率获得"
+  },
+  {
+    "id": 13,
+    "name": "三世铜棺",
+    "type": 3,
+    "url": "ui://APng/recipe13",
+    "way": "抽卡,通天塔第3,5,12层概率获得"
+  },
+  {
+    "id": 14,
+    "name": "邪帝舍利",
+    "type": 4,
+    "url": "ui://APng/recipe14",
+    "way": "抽卡,通天塔4,9,12,16层概率获得"
+  },
+  {
+    "id": 15,
+    "name": "凤凰精血",
+    "type": 4,
+    "url": "ui://APng/recipe15",
+    "way": "抽卡,通天塔5,7,11,13层概率获得"
+  },
+  {
+    "id": 16,
+    "name": "青龙真元",
+    "type": 4,
+    "url": "ui://APng/recipe16",
+    "way": "抽卡,通天塔5,8,10,14层概率获得"
+  },
+  {
+    "id": 1001,
+    "name": "香蕉皮",
+    "type": 1,
+    "url": "ui://APng/recipe1001",
+    "way": "抽卡,通天塔6层概率获得"
+  },
+  {
+    "id": 1002,
+    "name": "擀面杖",
+    "type": 1,
+    "url": "ui://APng/recipe1002",
+    "way": "抽卡,通天塔7层概率获得"
+  },
+  {
+    "id": 1003,
+    "name": "塑料管",
+    "type": 1,
+    "url": "ui://APng/recipe1003",
+    "way": "抽卡,通天塔11层概率获得"
+  },
+  {
+    "id": 2001,
+    "name": "青铜马",
+    "type": 2,
+    "url": "ui://APng/recipe2001",
+    "way": "抽卡,通天塔8层概率获得"
+  },
+  {
+    "id": 2002,
+    "name": "银锭",
+    "type": 2,
+    "url": "ui://APng/recipe2002",
+    "way": "抽卡,通天塔11层概率获得"
+  },
+  {
+    "id": 3001,
+    "name": "炼仙壶",
+    "type": 3,
+    "url": "ui://APng/recipe3001",
+    "way": "抽卡,通天塔4,8,10层概率获得"
+  },
+  {
+    "id": 3002,
+    "name": "风灵羽",
+    "type": 3,
+    "url": "ui://APng/recipe3002",
+    "way": "抽卡,通天塔12,14层概率获得"
+  },
+  {
+    "id": 4001,
+    "name": "不朽之盾",
+    "type": 4,
+    "url": "ui://APng/recipe4001",
+    "way": "抽卡,通天塔6,10,15层概率获得"
+  },
+  {
+    "id": 4002,
+    "name": "熔岩精华",
+    "type": 4,
+    "url": "ui://APng/recipe4002",
+    "way": "抽卡,通天塔13层概率获得"
+  },
+  {
+    "id": 4003,
+    "name": "自然精华",
+    "type": 4,
+    "url": "ui://APng/recipe4003",
+    "way": "抽卡,通天塔14层概率获得"
+  },
+  {
+    "id": 4004,
+    "name": "大地精华",
+    "type": 4,
+    "url": "ui://APng/recipe4004",
+    "way": "抽卡,通天塔15层概率获得"
+  },
+  {
+    "id": 4005,
+    "name": "海洋精华",
+    "type": 4,
+    "url": "ui://APng/recipe4005",
+    "way": "抽卡,通天塔16层概率获得"
+  }
+]

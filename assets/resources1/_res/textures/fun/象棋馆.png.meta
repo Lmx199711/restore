@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cb9915b1-854a-4438-9546-e79458f79ea0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 511,
+  "height": 430,
+  "platformSettings": {},
+  "subMetas": {
+    "象棋馆": {
+      "ver": "1.0.6",
+      "uuid": "f40ad388-4e5d-4fd1-82b7-61bc87b1609a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cb9915b1-854a-4438-9546-e79458f79ea0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 509,
+      "height": 430,
+      "rawWidth": 511,
+      "rawHeight": 430,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

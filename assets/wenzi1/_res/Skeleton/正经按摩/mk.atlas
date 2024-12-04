@@ -1,0 +1,34 @@
+
+mk.png
+size: 660,473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g3
+  rotate: false
+  xy: 530, 19
+  size: 128, 452
+  orig: 128, 452
+  offset: 0, 0
+  index: -1
+g4
+  rotate: false
+  xy: 358, 19
+  size: 170, 452
+  orig: 170, 452
+  offset: 0, 0
+  index: -1
+g5
+  rotate: false
+  xy: 2, 49
+  size: 354, 422
+  orig: 354, 422
+  offset: 0, 0
+  index: -1
+g7
+  rotate: true
+  xy: 2, 2
+  size: 45, 252
+  orig: 45, 252
+  offset: 0, 0
+  index: -1

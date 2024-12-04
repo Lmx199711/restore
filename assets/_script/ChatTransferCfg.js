@@ -1,0 +1,525 @@
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.ChatTansferCfg4 = exports.ChatTansferCfg3 = exports.ChatTansferCfg2 = exports.ChatTansferCfg1 = exports.ChatTansferCfg = undefined;
+exports.ChatTansferCfg = [[{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "80"
+}, {
+  result: ".",
+  pr: "20"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "10"
+}, {
+  result: "num",
+  pr: "60"
+}, {
+  result: ".",
+  pr: "20"
+}, {
+  result: "zhuan",
+  pr: "10"
+}], [{
+  result: "0",
+  pr: "10"
+}, {
+  result: "num",
+  pr: "50"
+}, {
+  result: ".",
+  pr: "20"
+}, {
+  result: "zhuan",
+  pr: "20"
+}], [{
+  result: "0",
+  pr: "10"
+}, {
+  result: "num",
+  pr: "50"
+}, {
+  result: ".",
+  pr: "20"
+}, {
+  result: "zhuan",
+  pr: "20"
+}], [{
+  result: "0",
+  pr: "10"
+}, {
+  result: "num",
+  pr: "50"
+}, {
+  result: ".",
+  pr: "20"
+}, {
+  result: "zhuan",
+  pr: "20"
+}], [{
+  result: "0",
+  pr: "10"
+}, {
+  result: "num",
+  pr: "50"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "40"
+}], [{
+  result: "0",
+  pr: "10"
+}, {
+  result: "num",
+  pr: "50"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "40"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "0"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "100"
+}]];
+exports.ChatTansferCfg1 = [[{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: ""
+}, {
+  result: ".",
+  pr: "100"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "10"
+}, {
+  result: "num",
+  pr: "60"
+}, {
+  result: ".",
+  pr: "20"
+}, {
+  result: "zhuan",
+  pr: "10"
+}], [{
+  result: "0",
+  pr: "10"
+}, {
+  result: "num",
+  pr: "50"
+}, {
+  result: ".",
+  pr: "20"
+}, {
+  result: "zhuan",
+  pr: "20"
+}], [{
+  result: "0",
+  pr: "10"
+}, {
+  result: "num",
+  pr: "50"
+}, {
+  result: ".",
+  pr: "20"
+}, {
+  result: "zhuan",
+  pr: "20"
+}], [{
+  result: "0",
+  pr: "10"
+}, {
+  result: "num",
+  pr: "50"
+}, {
+  result: ".",
+  pr: "20"
+}, {
+  result: "zhuan",
+  pr: "20"
+}], [{
+  result: "0",
+  pr: "10"
+}, {
+  result: "num",
+  pr: "30"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "60"
+}], [{
+  result: "0",
+  pr: "10"
+}, {
+  result: "num",
+  pr: "10"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "80"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "0"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "100"
+}]];
+exports.ChatTansferCfg2 = [[{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "0"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "100"
+}]];
+exports.ChatTansferCfg3 = [[{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "0"
+}, {
+  result: ".",
+  pr: "100"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "0"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "100"
+}]];
+exports.ChatTansferCfg4 = [[{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "100"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "0"
+}], [{
+  result: "0",
+  pr: "0"
+}, {
+  result: "num",
+  pr: "0"
+}, {
+  result: ".",
+  pr: "0"
+}, {
+  result: "zhuan",
+  pr: "100"
+}]];

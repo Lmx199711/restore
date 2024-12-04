@@ -1,0 +1,20 @@
+
+xianren.png
+size: 1645,797
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 1004, 793
+  orig: 1004, 793
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1008, 157
+  size: 635, 638
+  orig: 642, 646
+  offset: 4, 4
+  index: -1

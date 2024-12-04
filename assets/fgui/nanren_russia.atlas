@@ -1,0 +1,76 @@
+
+nanren_russia.png
+size: 1553,1553
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 809, 661
+  size: 367, 890
+  orig: 367, 890
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 1178, 755
+  size: 369, 796
+  orig: 369, 796
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 2, 86
+  size: 442, 766
+  orig: 442, 766
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2, 530
+  size: 805, 1021
+  orig: 805, 1021
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 1044, 228
+  size: 94, 308
+  orig: 94, 308
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 1044, 76
+  size: 150, 187
+  orig: 150, 187
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 770, 50
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 809, 324
+  size: 335, 632
+  orig: 335, 632
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 1178, 661
+  size: 92, 240
+  orig: 134, 240
+  offset: 42, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 2
+  size: 167, 82
+  orig: 167, 82
+  offset: 0, 0
+  index: -1

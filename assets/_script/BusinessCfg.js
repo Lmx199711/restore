@@ -1,0 +1,110 @@
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.BusinessCfg = undefined;
+exports.BusinessCfg = [{
+  id: 2001,
+  name: "傲地",
+  icon: "icon1",
+  level: 1,
+  buy: "1000000000000",
+  increase: "1000000000"
+}, {
+  id: 2002,
+  name: "堵累丝",
+  icon: "icon2",
+  level: 2,
+  buy: "5000000000000",
+  increase: "5000000000"
+}, {
+  id: 2003,
+  name: "红心儿科",
+  icon: "icon3",
+  level: 3,
+  buy: "10000000000000",
+  increase: "10000000000"
+}, {
+  id: 2004,
+  name: "花魏",
+  icon: "icon4",
+  level: 4,
+  buy: "20000000000000",
+  increase: "20000000000"
+}, {
+  id: 2005,
+  name: "扛食斧",
+  icon: "icon5",
+  level: 5,
+  buy: "50000000000000",
+  increase: "50000000000"
+}, {
+  id: 2006,
+  name: "壳悦",
+  icon: "icon6",
+  level: 6,
+  buy: "100000000000000",
+  increase: "100000000000"
+}, {
+  id: 2007,
+  name: "劳赶马",
+  icon: "icon7",
+  level: 7,
+  buy: "200000000000000",
+  increase: "200000000000"
+}, {
+  id: 2008,
+  name: "没笛",
+  icon: "icon8",
+  level: 8,
+  buy: "500000000000000",
+  increase: "500000000000"
+}, {
+  id: 2009,
+  name: "来壳",
+  icon: "icon9",
+  level: 8,
+  buy: "800000000000000",
+  increase: "800000000000"
+}, {
+  id: 2010,
+  name: "骑批浪",
+  icon: "icon10",
+  level: 8,
+  buy: "1000000000000000",
+  increase: "1000000000000"
+}, {
+  id: 2011,
+  name: "散心",
+  icon: "icon11",
+  level: 8,
+  buy: "3000000000000000",
+  increase: "3000000000000"
+}, {
+  id: 2012,
+  name: "疼熏",
+  icon: "icon12",
+  level: 8,
+  buy: "5000000000000000",
+  increase: "5000000000000"
+}, {
+  id: 2013,
+  name: "袜嘿哈",
+  icon: "icon13",
+  level: 8,
+  buy: "7000000000000000",
+  increase: "7000000000000"
+}, {
+  id: 2014,
+  name: "望蚁",
+  icon: "icon14",
+  level: 8,
+  buy: "8000000000000000",
+  increase: "8000000000000"
+}, {
+  id: 2015,
+  name: "象乃尔",
+  icon: "icon15",
+  level: 8,
+  buy: "9999000000000000",
+  increase: "9999000000000"
+}];

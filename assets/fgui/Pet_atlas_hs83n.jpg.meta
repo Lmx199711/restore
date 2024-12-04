@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "57910193-797b-407d-b889-0b8c0ee0d793",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1002,
+  "height": 1665,
+  "platformSettings": {},
+  "subMetas": {
+    "Pet_atlas_hs83n": {
+      "ver": "1.0.6",
+      "uuid": "8bdee561-b6c7-46ba-88da-26f73ec37f22",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "57910193-797b-407d-b889-0b8c0ee0d793",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1002,
+      "height": 1665,
+      "rawWidth": 1002,
+      "rawHeight": 1665,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

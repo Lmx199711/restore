@@ -1,0 +1,16 @@
+{
+  "collision-matrix": [
+    [
+      true
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "group-list": [
+    "default",
+    "bitGame"
+  ],
+  "last-module-event-record-time": 1732853055416
+}

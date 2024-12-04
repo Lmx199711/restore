@@ -1,0 +1,90 @@
+
+gongcs.png
+size: 1107,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bq_1
+  rotate: false
+  xy: 881, 9
+  size: 98, 109
+  orig: 98, 110
+  offset: 0, 1
+  index: -1
+bq_2
+  rotate: false
+  xy: 533, 5
+  size: 42, 18
+  orig: 43, 19
+  offset: 1, 1
+  index: -1
+gth
+  rotate: true
+  xy: 899, 145
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+han
+  rotate: true
+  xy: 856, 120
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 981, 16
+  size: 124, 156
+  orig: 124, 259
+  offset: 0, 103
+  index: -1
+tou
+  rotate: true
+  xy: 695, 13
+  size: 81, 106
+  orig: 81, 106
+  offset: 0, 0
+  index: -1
+tuz
+  rotate: true
+  xy: 316, 2
+  size: 170, 215
+  orig: 170, 215
+  offset: 0, 0
+  index: -1
+youj
+  rotate: true
+  xy: 2, 4
+  size: 168, 312
+  orig: 171, 314
+  offset: 0, 0
+  index: -1
+yous
+  rotate: true
+  xy: 803, 12
+  size: 82, 76
+  orig: 83, 81
+  offset: 1, 5
+  index: -1
+zb_1
+  rotate: false
+  xy: 577, 4
+  size: 27, 19
+  orig: 28, 19
+  offset: 1, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 533, 96
+  size: 76, 321
+  orig: 77, 321
+  offset: 0, 0
+  index: -1
+zuos
+  rotate: true
+  xy: 533, 25
+  size: 69, 160
+  orig: 69, 160
+  offset: 0, 0
+  index: -1

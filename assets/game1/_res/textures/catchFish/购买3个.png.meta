@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e5f9828c-5082-4726-849b-7386c29d5edb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 127,
+  "height": 38,
+  "platformSettings": {},
+  "subMetas": {
+    "购买3个": {
+      "ver": "1.0.6",
+      "uuid": "9340abb3-fc59-4ba9-8eda-9cc948f798f8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e5f9828c-5082-4726-849b-7386c29d5edb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 127,
+      "height": 38,
+      "rawWidth": 127,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

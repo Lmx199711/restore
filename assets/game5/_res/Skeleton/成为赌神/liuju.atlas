@@ -1,0 +1,97 @@
+
+liuju.png
+size: 1722,918
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00000
+  rotate: false
+  xy: 1286, 48
+  size: 298, 245
+  orig: 480, 480
+  offset: 103, 120
+  index: -1
+01_00001
+  rotate: false
+  xy: 971, 36
+  size: 313, 287
+  orig: 480, 480
+  offset: 96, 99
+  index: -1
+01_00002
+  rotate: false
+  xy: 649, 36
+  size: 320, 303
+  orig: 480, 480
+  offset: 91, 91
+  index: -1
+01_00003
+  rotate: true
+  xy: 1002, 583
+  size: 333, 340
+  orig: 480, 480
+  offset: 84, 72
+  index: -1
+01_00004
+  rotate: false
+  xy: 2, 2
+  size: 335, 350
+  orig: 480, 480
+  offset: 84, 64
+  index: -1
+01_00005
+  rotate: true
+  xy: 339, 14
+  size: 338, 308
+  orig: 480, 480
+  offset: 82, 90
+  index: -1
+01_00006
+  rotate: false
+  xy: 660, 582
+  size: 340, 334
+  orig: 480, 480
+  offset: 72, 77
+  index: -1
+01_00007
+  rotate: true
+  xy: 1344, 582
+  size: 334, 338
+  orig: 480, 480
+  offset: 71, 76
+  index: -1
+01_00008
+  rotate: false
+  xy: 1344, 295
+  size: 330, 285
+  orig: 480, 480
+  offset: 62, 123
+  index: -1
+01_00009
+  rotate: true
+  xy: 1586, 157
+  size: 136, 134
+  orig: 480, 480
+  offset: 174, 172
+  index: -1
+03
+  rotate: false
+  xy: 2, 354
+  size: 656, 562
+  orig: 658, 658
+  offset: 2, 32
+  index: -1
+04
+  rotate: false
+  xy: 1090, 325
+  size: 252, 256
+  orig: 256, 256
+  offset: 4, 0
+  index: -1
+liuju
+  rotate: false
+  xy: 660, 341
+  size: 428, 239
+  orig: 438, 246
+  offset: 6, 4
+  index: -1

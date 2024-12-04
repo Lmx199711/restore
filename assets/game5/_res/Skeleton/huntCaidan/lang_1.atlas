@@ -1,0 +1,41 @@
+
+lang_1.png
+size: 305,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_1
+  rotate: false
+  xy: 0, 151
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+2_2
+  rotate: false
+  xy: 0, 0
+  size: 48, 149
+  orig: 48, 149
+  offset: 0, 0
+  index: -1
+2_3
+  rotate: false
+  xy: 132, 119
+  size: 43, 186
+  orig: 43, 186
+  offset: 0, 0
+  index: -1
+2_4
+  rotate: false
+  xy: 92, 75
+  size: 23, 74
+  orig: 23, 74
+  offset: 0, 0
+  index: -1
+2_5
+  rotate: false
+  xy: 50, 11
+  size: 40, 138
+  orig: 40, 138
+  offset: 0, 0
+  index: -1

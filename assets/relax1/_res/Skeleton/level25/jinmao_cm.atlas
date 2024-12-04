@@ -1,0 +1,13 @@
+
+jinmao_cm.png
+size: 363,710
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bg10
+  rotate: false
+  xy: 2, 2
+  size: 359, 706
+  orig: 359, 708
+  offset: 0, 1
+  index: -1

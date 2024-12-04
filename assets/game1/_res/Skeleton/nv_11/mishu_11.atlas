@@ -1,0 +1,27 @@
+
+mishu_11.png
+size: 608,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11_1
+  rotate: true
+  xy: 2, 8
+  size: 152, 412
+  orig: 152, 412
+  offset: 0, 0
+  index: -1
+11_2
+  rotate: true
+  xy: 416, 2
+  size: 158, 164
+  orig: 158, 164
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 582, 100
+  size: 60, 24
+  orig: 62, 26
+  offset: 1, 1
+  index: -1

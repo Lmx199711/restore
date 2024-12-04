@@ -1,0 +1,116 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "稀有矿",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "稀有矿",
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 218,
+      "height": 217
+    },
+    "_id": "d49be33c-4cf5-4b64-a619-95e72aa05b91"
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "47c6de8e-d02b-44a5-8982-0859fca8b8ad"
+    },
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": 40,
+        "y": 108.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -66,
+        "y": 44.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -109,
+        "y": -72.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -105,
+        "y": -96.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -34,
+        "y": -107.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 53,
+        "y": -63.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 98,
+        "y": -17.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 109,
+        "y": 17.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 92,
+        "y": 75.5,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "71767Nct+hBbZA1KU/5Gz+I",
+    "bitId": "6002",
+    "node": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

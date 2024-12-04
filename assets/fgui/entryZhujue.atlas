@@ -1,0 +1,188 @@
+
+entryZhujue.png
+size: 1953,1293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00002
+  rotate: true
+  xy: 1679, 221
+  size: 240, 205
+  orig: 240, 205
+  offset: 0, 0
+  index: -1
+01_001
+  rotate: true
+  xy: 1294, 2
+  size: 55, 57
+  orig: 77, 77
+  offset: 12, 10
+  index: -1
+01_002
+  rotate: false
+  xy: 1902, 1234
+  size: 49, 57
+  orig: 77, 77
+  offset: 15, 10
+  index: -1
+01_003
+  rotate: true
+  xy: 2, 9
+  size: 35, 57
+  orig: 77, 77
+  offset: 19, 9
+  index: -1
+01_004
+  rotate: false
+  xy: 1648, 404
+  size: 23, 57
+  orig: 77, 77
+  offset: 31, 9
+  index: -1
+01_005
+  rotate: false
+  xy: 1902, 1175
+  size: 45, 57
+  orig: 77, 77
+  offset: 21, 9
+  index: -1
+01_006
+  rotate: true
+  xy: 1353, 2
+  size: 55, 57
+  orig: 77, 77
+  offset: 14, 9
+  index: -1
+01_007
+  rotate: false
+  xy: 722, 452
+  size: 56, 56
+  orig: 77, 77
+  offset: 12, 10
+  index: -1
+1_arm_L
+  rotate: false
+  xy: 1294, 388
+  size: 352, 409
+  orig: 352, 409
+  offset: 0, 0
+  index: -1
+1_body
+  rotate: true
+  xy: 1208, 799
+  size: 492, 692
+  orig: 492, 692
+  offset: 0, 0
+  index: -1
+1_head
+  rotate: false
+  xy: 1679, 11
+  size: 206, 208
+  orig: 208, 211
+  offset: 1, 2
+  index: -1
+1_qian
+  rotate: false
+  xy: 1813, 641
+  size: 138, 156
+  orig: 140, 158
+  offset: 1, 1
+  index: -1
+1_qian2
+  rotate: true
+  xy: 1813, 499
+  size: 140, 99
+  orig: 140, 99
+  offset: 0, 0
+  index: -1
+2222
+  rotate: false
+  xy: 1550, 25
+  size: 83, 83
+  orig: 85, 85
+  offset: 1, 1
+  index: -1
+2_body
+  rotate: false
+  xy: 812, 17
+  size: 480, 614
+  orig: 480, 614
+  offset: 0, 0
+  index: -1
+2_hand
+  rotate: false
+  xy: 722, 510
+  size: 67, 121
+  orig: 69, 123
+  offset: 1, 1
+  index: -1
+2_head
+  rotate: false
+  xy: 1294, 59
+  size: 254, 327
+  orig: 256, 329
+  offset: 1, 1
+  index: -1
+2_mouth_1
+  rotate: true
+  xy: 1813, 463
+  size: 34, 37
+  orig: 36, 41
+  offset: 1, 2
+  index: -1
+2_mouth_2
+  rotate: false
+  xy: 1914, 586
+  size: 27, 53
+  orig: 29, 56
+  offset: 1, 1
+  index: -1
+3_arm_L
+  rotate: true
+  xy: 1550, 110
+  size: 276, 127
+  orig: 434, 127
+  offset: 158, 0
+  index: -1
+3_body
+  rotate: false
+  xy: 2, 438
+  size: 544, 853
+  orig: 544, 975
+  offset: 0, 0
+  index: -1
+3_elbow_L
+  rotate: false
+  xy: 1648, 463
+  size: 163, 334
+  orig: 163, 334
+  offset: 0, 0
+  index: -1
+3_yi_1
+  rotate: false
+  xy: 548, 452
+  size: 172, 179
+  orig: 172, 193
+  offset: 0, 14
+  index: -1
+4_body
+  rotate: true
+  xy: 2, 46
+  size: 390, 808
+  orig: 390, 808
+  offset: 0, 0
+  index: -1
+jingguang
+  rotate: false
+  xy: 548, 633
+  size: 658, 658
+  orig: 658, 658
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: true
+  xy: 1208, 675
+  size: 122, 78
+  orig: 122, 78
+  offset: 0, 0
+  index: -1

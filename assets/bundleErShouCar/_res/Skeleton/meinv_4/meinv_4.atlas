@@ -1,0 +1,27 @@
+
+meinv_4.png
+size: 584,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 137, 563
+  orig: 137, 563
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: true
+  xy: 567, 102
+  size: 37, 15
+  orig: 39, 17
+  offset: 1, 1
+  index: -1
+eyebow_1
+  rotate: true
+  xy: 567, 67
+  size: 33, 9
+  orig: 37, 10
+  offset: 4, 1
+  index: -1

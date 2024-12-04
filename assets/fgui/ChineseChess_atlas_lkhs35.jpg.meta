@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "07bb1114-3d62-443c-9a0f-5f12bf4ac21b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1002,
+  "height": 1668,
+  "platformSettings": {},
+  "subMetas": {
+    "ChineseChess_atlas_lkhs35": {
+      "ver": "1.0.6",
+      "uuid": "2a9c88bd-227b-40b5-b25e-f8954d30bc92",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "07bb1114-3d62-443c-9a0f-5f12bf4ac21b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1002,
+      "height": 1668,
+      "rawWidth": 1002,
+      "rawHeight": 1668,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

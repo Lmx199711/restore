@@ -1,0 +1,90 @@
+
+xianglong.png
+size: 1792,1282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02
+  rotate: false
+  xy: 1385, 36
+  size: 254, 242
+  orig: 277, 255
+  offset: 12, 11
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 602, 681
+  orig: 602, 681
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1474, 282
+  size: 514, 310
+  orig: 514, 310
+  offset: 0, 0
+  index: -1
+leg_1
+  rotate: true
+  xy: 1095, 51
+  size: 227, 288
+  orig: 227, 288
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: false
+  xy: 1644, 911
+  size: 129, 186
+  orig: 129, 186
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 606, 173
+  size: 510, 487
+  orig: 573, 548
+  offset: 35, 29
+  index: -1
+man
+  rotate: false
+  xy: 1095, 280
+  size: 377, 516
+  orig: 377, 516
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 1644, 1099
+  size: 181, 146
+  orig: 184, 148
+  offset: 1, 1
+  index: -1
+tail
+  rotate: true
+  xy: 1008, 798
+  size: 482, 634
+  orig: 482, 634
+  offset: 0, 0
+  index: -1
+xu_1
+  rotate: false
+  xy: 1641, 125
+  size: 92, 155
+  orig: 92, 155
+  offset: 0, 0
+  index: -1
+xu_2
+  rotate: false
+  xy: 606, 87
+  size: 454, 84
+  orig: 454, 84
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 2, 685
+  size: 1004, 595
+  orig: 1004, 595
+  offset: 0, 0
+  index: -1

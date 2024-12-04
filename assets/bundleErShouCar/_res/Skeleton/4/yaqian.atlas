@@ -1,0 +1,13 @@
+
+yaqian.png
+size: 25,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q
+  rotate: false
+  xy: 2, 2
+  size: 21, 144
+  orig: 23, 146
+  offset: 1, 1
+  index: -1

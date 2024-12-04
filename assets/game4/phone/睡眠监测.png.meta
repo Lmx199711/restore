@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8116a3f9-cca2-4d7c-9c15-55d8d32be96a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 141,
+  "height": 189,
+  "platformSettings": {},
+  "subMetas": {
+    "睡眠监测": {
+      "ver": "1.0.6",
+      "uuid": "bc69242d-2fa9-41b6-807c-a7d8fc50c059",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8116a3f9-cca2-4d7c-9c15-55d8d32be96a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 141,
+      "height": 189,
+      "rawWidth": 141,
+      "rawHeight": 189,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

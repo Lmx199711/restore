@@ -1,0 +1,61 @@
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.HouseEarnCfg = undefined;
+exports.HouseEarnCfg = [{
+  id: 2001,
+  name: "单身公寓",
+  icon: "icon1",
+  level: 1,
+  buy: "100000000",
+  increase: "100000"
+}, {
+  id: 2002,
+  name: "精装小区房",
+  icon: "icon2",
+  level: 2,
+  buy: "500000000",
+  increase: "500000"
+}, {
+  id: 2003,
+  name: "高档大平层",
+  icon: "icon3",
+  level: 3,
+  buy: "2000000000",
+  increase: "2000000"
+}, {
+  id: 2004,
+  name: "豪华别墅",
+  icon: "icon4",
+  level: 4,
+  buy: "5000000000",
+  increase: "5000000"
+}, {
+  id: 2005,
+  name: "10层写字楼",
+  icon: "icon5",
+  level: 5,
+  buy: "10000000000",
+  increase: "10000000"
+}, {
+  id: 2006,
+  name: "50层商务大厦",
+  icon: "icon6",
+  level: 6,
+  buy: "50000000000",
+  increase: "50000000"
+}, {
+  id: 2007,
+  name: "草原牧场",
+  icon: "icon7",
+  leve4: 7,
+  buy: "100000000000",
+  increase: "100000000"
+}, {
+  id: 2008,
+  name: "皇室古堡",
+  icon: "icon8",
+  level: 8,
+  buy: "300000000000",
+  increase: "300000000"
+}];

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6dcfd80d-20b8-46af-a50a-cfdaceee6aa3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 952,
+  "height": 872,
+  "platformSettings": {},
+  "subMetas": {
+    "TakeTrash_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "f2b262c9-a9b5-4544-a3f8-1a5d7d1b5b9c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6dcfd80d-20b8-46af-a50a-cfdaceee6aa3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 1.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 947,
+      "height": 869,
+      "rawWidth": 952,
+      "rawHeight": 872,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

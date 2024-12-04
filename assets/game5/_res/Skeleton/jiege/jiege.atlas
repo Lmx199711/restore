@@ -1,0 +1,48 @@
+
+jiege.png
+size: 813,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 450, 115
+  size: 87, 222
+  orig: 87, 222
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 450, 25
+  size: 88, 197
+  orig: 88, 197
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 2, 3
+  size: 199, 446
+  orig: 199, 446
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 649, 2
+  size: 77, 149
+  orig: 77, 149
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 783, 113
+  size: 89, 28
+  orig: 91, 30
+  offset: 1, 1
+  index: -1
+shuazi
+  rotate: false
+  xy: 674, 81
+  size: 107, 121
+  orig: 107, 121
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+yaoshi.png
+size: 202,1049
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00000
+  rotate: false
+  xy: 2, 588
+  size: 95, 93
+  orig: 256, 256
+  offset: 81, 86
+  index: -1
+01_00001
+  rotate: false
+  xy: 97, 395
+  size: 97, 94
+  orig: 256, 256
+  offset: 80, 86
+  index: -1
+01_00002
+  rotate: true
+  xy: 2, 299
+  size: 94, 97
+  orig: 256, 256
+  offset: 81, 83
+  index: -1
+01_00003
+  rotate: true
+  xy: 101, 299
+  size: 94, 98
+  orig: 256, 256
+  offset: 82, 82
+  index: -1
+01_00004
+  rotate: true
+  xy: 99, 586
+  size: 93, 96
+  orig: 256, 256
+  offset: 83, 85
+  index: -1
+01_00005
+  rotate: true
+  xy: 102, 775
+  size: 91, 96
+  orig: 256, 256
+  offset: 84, 85
+  index: -1
+01_00006
+  rotate: true
+  xy: 2, 868
+  size: 89, 99
+  orig: 256, 256
+  offset: 86, 82
+  index: -1
+01_00007
+  rotate: true
+  xy: 2, 959
+  size: 88, 99
+  orig: 256, 256
+  offset: 85, 84
+  index: -1
+01_00008
+  rotate: true
+  xy: 103, 868
+  size: 89, 97
+  orig: 256, 256
+  offset: 85, 84
+  index: -1
+01_00009
+  rotate: true
+  xy: 2, 776
+  size: 90, 98
+  orig: 256, 256
+  offset: 85, 83
+  index: -1
+01_00010
+  rotate: true
+  xy: 103, 959
+  size: 88, 94
+  orig: 256, 256
+  offset: 87, 86
+  index: -1
+01_00011
+  rotate: true
+  xy: 2, 493
+  size: 93, 95
+  orig: 256, 256
+  offset: 84, 84
+  index: -1
+01_00012
+  rotate: false
+  xy: 99, 681
+  size: 94, 92
+  orig: 256, 256
+  offset: 84, 86
+  index: -1
+01_00013
+  rotate: false
+  xy: 99, 491
+  size: 94, 93
+  orig: 256, 256
+  offset: 84, 85
+  index: -1
+01_00014
+  rotate: false
+  xy: 2, 398
+  size: 93, 93
+  orig: 256, 256
+  offset: 83, 85
+  index: -1
+01_00015
+  rotate: false
+  xy: 2, 683
+  size: 95, 91
+  orig: 256, 256
+  offset: 82, 85
+  index: -1
+1
+  rotate: true
+  xy: 2, 178
+  size: 119, 156
+  orig: 119, 156
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 2, 2
+  size: 174, 179
+  orig: 240, 240
+  offset: 33, 24
+  index: -1

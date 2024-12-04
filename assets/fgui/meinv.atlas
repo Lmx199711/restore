@@ -1,0 +1,13 @@
+
+meinv.png
+size: 483,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meinv1
+  rotate: false
+  xy: 2, 2
+  size: 479, 756
+  orig: 479, 756
+  offset: 0, 0
+  index: -1

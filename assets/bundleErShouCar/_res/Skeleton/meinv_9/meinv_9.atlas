@@ -1,0 +1,34 @@
+
+meinv_9.png
+size: 556,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 129, 509
+  orig: 129, 509
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 513, 51
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+eyebow
+  rotate: true
+  xy: 513, 15
+  size: 34, 6
+  orig: 34, 7
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 513, 85
+  size: 46, 41
+  orig: 47, 41
+  offset: 1, 0
+  index: -1

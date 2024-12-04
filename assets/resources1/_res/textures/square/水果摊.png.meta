@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ed4ef5a0-dc1c-4f2b-9d17-34bdea2822a7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 555,
+  "height": 473,
+  "platformSettings": {},
+  "subMetas": {
+    "水果摊": {
+      "ver": "1.0.6",
+      "uuid": "1dc59e3f-ec20-443a-be51-e45cdf0205a7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ed4ef5a0-dc1c-4f2b-9d17-34bdea2822a7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 17.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 555,
+      "height": 438,
+      "rawWidth": 555,
+      "rawHeight": 473,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

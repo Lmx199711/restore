@@ -1,0 +1,41 @@
+[
+  {
+    "id": 101,
+    "time": 2,
+    "condition": 10,
+    "name": "剑仙残魂",
+    "bgPath": "event/sprite/xianren",
+    "actPath": "event/spine/xianren",
+    "desc": "年轻人，不要气馁，本座给你送份大礼，三件绝品神兵，你可以任选其一。",
+    "type": 2,
+    "FEInfo": [
+      {
+        "wId": 10,
+        "arg": 20
+      },
+      {
+        "wId": 9,
+        "arg": 20
+      },
+      {
+        "wId": 2,
+        "arg": 20
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "time": 3,
+    "condition": 1,
+    "name": "蚩尤",
+    "bgPath": "event/sprite/emo",
+    "actPath": "event/spine/emo",
+    "desc": "吾乃兵器之神，你已拥有5把强化+20的武器，现在赐予你我的专属兵器--蚩尤魔刀！",
+    "type": 3,
+    "FEInfo": [
+      {
+        "wId": 9999
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+
+mishu_4.png
+size: 471,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+04_1
+  rotate: false
+  xy: 409, 29
+  size: 39, 77
+  orig: 39, 77
+  offset: 0, 0
+  index: -1
+04_2
+  rotate: true
+  xy: 2, 2
+  size: 104, 405
+  orig: 104, 405
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 409, 3
+  size: 60, 24
+  orig: 62, 26
+  offset: 1, 1
+  index: -1

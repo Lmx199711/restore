@@ -1,0 +1,41 @@
+
+TZJS.png
+size: 1515,358
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_2
+  rotate: false
+  xy: 1038, 177
+  size: 475, 179
+  orig: 477, 181
+  offset: 1, 1
+  index: -1
+2_1
+  rotate: false
+  xy: 2, 2
+  size: 1034, 354
+  orig: 1036, 357
+  offset: 1, 2
+  index: -1
+3_1
+  rotate: false
+  xy: 1038, 126
+  size: 79, 49
+  orig: 81, 51
+  offset: 1, 1
+  index: -1
+4_1
+  rotate: false
+  xy: 1038, 70
+  size: 65, 54
+  orig: 67, 56
+  offset: 1, 1
+  index: -1
+5_1
+  rotate: false
+  xy: 1119, 152
+  size: 36, 23
+  orig: 38, 25
+  offset: 1, 1
+  index: -1

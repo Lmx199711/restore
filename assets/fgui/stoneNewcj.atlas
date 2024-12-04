@@ -1,0 +1,125 @@
+
+stoneNewcj.png
+size: 1872,737
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 219, 249
+  orig: 219, 249
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1632, 245
+  size: 238, 235
+  orig: 242, 239
+  offset: 2, 2
+  index: -1
+3
+  rotate: false
+  xy: 997, 8
+  size: 360, 348
+  orig: 364, 353
+  offset: 2, 3
+  index: -1
+4
+  rotate: false
+  xy: 253, 3
+  size: 218, 218
+  orig: 221, 221
+  offset: 0, 3
+  index: -1
+5
+  rotate: false
+  xy: 1304, 409
+  size: 326, 326
+  orig: 334, 334
+  offset: 4, 4
+  index: -1
+6
+  rotate: false
+  xy: 1359, 147
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+dan
+  rotate: true
+  xy: 1489, 30
+  size: 115, 129
+  orig: 117, 133
+  offset: 1, 2
+  index: -1
+dan_1
+  rotate: true
+  xy: 516, 223
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+dan_2
+  rotate: false
+  xy: 575, 252
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+fh
+  rotate: false
+  xy: 721, 11
+  size: 274, 297
+  orig: 299, 309
+  offset: 21, 7
+  index: -1
+ia_700000053
+  rotate: false
+  xy: 2, 223
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ia_700000057
+  rotate: false
+  xy: 1359, 17
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+laoh
+  rotate: true
+  xy: 473, 33
+  size: 188, 246
+  orig: 191, 246
+  offset: 3, 0
+  index: -1
+long
+  rotate: false
+  xy: 1632, 482
+  size: 223, 253
+  orig: 255, 260
+  offset: 8, 7
+  index: -1
+xuanw
+  rotate: false
+  xy: 1621, 5
+  size: 232, 238
+  orig: 268, 256
+  offset: 5, 14
+  index: -1
+yuan
+  rotate: false
+  xy: 925, 358
+  size: 377, 377
+  orig: 377, 377
+  offset: 0, 0
+  index: -1
+yuan_2
+  rotate: true
+  xy: 516, 310
+  size: 425, 407
+  orig: 433, 431
+  offset: 4, 5
+  index: -1

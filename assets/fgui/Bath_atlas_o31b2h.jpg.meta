@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d559f1b7-16cd-4df6-a9f0-98790ba8d92c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1002,
+  "height": 1668,
+  "platformSettings": {},
+  "subMetas": {
+    "Bath_atlas_o31b2h": {
+      "ver": "1.0.6",
+      "uuid": "41966185-9ef7-4a09-a0d8-56aaeefb58f0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d559f1b7-16cd-4df6-a9f0-98790ba8d92c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1002,
+      "height": 1668,
+      "rawWidth": 1002,
+      "rawHeight": 1668,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "20000d04-5a11-4c85-a4d7-18b790792a4f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 579,
+  "height": 168,
+  "platformSettings": {},
+  "subMetas": {
+    "老爷车金色骨架": {
+      "ver": "1.0.6",
+      "uuid": "ed988666-6a21-415f-8a78-1a323a0ad71f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "20000d04-5a11-4c85-a4d7-18b790792a4f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 579,
+      "height": 168,
+      "rawWidth": 579,
+      "rawHeight": 168,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

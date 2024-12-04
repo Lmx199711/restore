@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d23281af-ff29-474e-8b45-b47ecaa5ba51",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 620,
+  "height": 768,
+  "platformSettings": {},
+  "subMetas": {
+    "Bank_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "5c2f841c-8075-4968-883e-878a46e19dfd",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d23281af-ff29-474e-8b45-b47ecaa5ba51",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 618,
+      "height": 766,
+      "rawWidth": 620,
+      "rawHeight": 768,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

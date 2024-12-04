@@ -1,0 +1,55 @@
+
+guaiwu_2.png
+size: 1436,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 739, 41
+  size: 190, 411
+  orig: 190, 411
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 500, 57
+  size: 237, 395
+  orig: 237, 395
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 496, 450
+  orig: 496, 450
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 931, 130
+  size: 238, 322
+  orig: 238, 322
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 1171, 141
+  size: 208, 311
+  orig: 208, 311
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 500, 36
+  size: 74, 19
+  orig: 76, 21
+  offset: 1, 1
+  index: -1
+yy
+  rotate: false
+  xy: 931, 33
+  size: 503, 95
+  orig: 505, 98
+  offset: 1, 2
+  index: -1

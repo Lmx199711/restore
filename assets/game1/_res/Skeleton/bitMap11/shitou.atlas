@@ -1,0 +1,118 @@
+
+shitou.png
+size: 564,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 502, 181
+  size: 88, 60
+  orig: 91, 62
+  offset: 1, 1
+  index: -1
+10
+  rotate: true
+  xy: 182, 117
+  size: 152, 92
+  orig: 156, 95
+  offset: 2, 1
+  index: -1
+11
+  rotate: true
+  xy: 395, 2
+  size: 129, 70
+  orig: 132, 73
+  offset: 1, 2
+  index: -1
+12
+  rotate: true
+  xy: 316, 124
+  size: 145, 32
+  orig: 147, 34
+  offset: 1, 1
+  index: -1
+13
+  rotate: true
+  xy: 182, 2
+  size: 113, 31
+  orig: 115, 33
+  offset: 1, 1
+  index: -1
+14
+  rotate: true
+  xy: 435, 134
+  size: 135, 65
+  orig: 140, 67
+  offset: 2, 1
+  index: -1
+15
+  rotate: true
+  xy: 215, 7
+  size: 108, 72
+  orig: 111, 74
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 502, 124
+  size: 56, 55
+  orig: 58, 58
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 467, 4
+  size: 52, 41
+  orig: 55, 44
+  offset: 2, 1
+  index: -1
+4
+  rotate: false
+  xy: 310, 3
+  size: 83, 19
+  orig: 86, 21
+  offset: 2, 1
+  index: -1
+5
+  rotate: true
+  xy: 289, 10
+  size: 106, 19
+  orig: 108, 21
+  offset: 1, 1
+  index: -1
+6
+  rotate: true
+  xy: 467, 47
+  size: 75, 83
+  orig: 77, 85
+  offset: 1, 1
+  index: -1
+7
+  rotate: true
+  xy: 350, 133
+  size: 136, 83
+  orig: 138, 85
+  offset: 1, 1
+  index: -1
+8
+  rotate: true
+  xy: 310, 24
+  size: 92, 54
+  orig: 95, 56
+  offset: 1, 1
+  index: -1
+9
+  rotate: true
+  xy: 276, 118
+  size: 151, 38
+  orig: 157, 40
+  offset: 2, 1
+  index: -1
+shitou
+  rotate: true
+  xy: 2, 6
+  size: 263, 178
+  orig: 265, 178
+  offset: 1, 0
+  index: -1

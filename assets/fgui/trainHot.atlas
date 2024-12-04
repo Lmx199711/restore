@@ -1,0 +1,76 @@
+
+trainHot.png
+size: 198,894
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_1_000
+  rotate: false
+  xy: 2, 277
+  size: 90, 180
+  orig: 128, 256
+  offset: 17, 20
+  index: -1
+h_1_001
+  rotate: false
+  xy: 93, 59
+  size: 99, 192
+  orig: 128, 256
+  offset: 12, 15
+  index: -1
+h_1_002
+  rotate: false
+  xy: 94, 253
+  size: 99, 207
+  orig: 128, 256
+  offset: 14, 16
+  index: -1
+h_1_003
+  rotate: false
+  xy: 2, 676
+  size: 98, 216
+  orig: 128, 256
+  offset: 15, 15
+  index: -1
+h_1_004
+  rotate: false
+  xy: 102, 677
+  size: 94, 215
+  orig: 128, 256
+  offset: 16, 15
+  index: -1
+h_1_005
+  rotate: false
+  xy: 102, 462
+  size: 92, 213
+  orig: 128, 256
+  offset: 16, 18
+  index: -1
+h_1_006
+  rotate: false
+  xy: 2, 459
+  size: 90, 215
+  orig: 128, 256
+  offset: 20, 16
+  index: -1
+h_1_007
+  rotate: false
+  xy: 2, 104
+  size: 89, 171
+  orig: 128, 256
+  offset: 19, 17
+  index: -1
+re
+  rotate: false
+  xy: 2, 2
+  size: 89, 100
+  orig: 89, 100
+  offset: 0, 0
+  index: -1
+re2
+  rotate: false
+  xy: 93, 11
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1

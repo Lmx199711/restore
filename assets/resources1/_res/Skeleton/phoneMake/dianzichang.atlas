@@ -1,0 +1,34 @@
+
+dianzichang.png
+size: 268,310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: true
+  xy: 144, 40
+  size: 47, 102
+  orig: 47, 102
+  offset: 0, 0
+  index: -1
+images/2
+  rotate: false
+  xy: 144, 89
+  size: 122, 219
+  orig: 122, 219
+  offset: 0, 0
+  index: -1
+images/3
+  rotate: true
+  xy: 2, 47
+  size: 261, 140
+  orig: 261, 140
+  offset: 0, 0
+  index: -1
+images/5
+  rotate: true
+  xy: 2, 2
+  size: 43, 98
+  orig: 43, 98
+  offset: 0, 0
+  index: -1

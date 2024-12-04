@@ -1,0 +1,69 @@
+
+baofa2.png
+size: 658,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 530, 526
+  orig: 531, 554
+  offset: 0, 0
+  index: -1
+jio
+  rotate: true
+  xy: 534, 305
+  size: 223, 96
+  orig: 223, 96
+  offset: 0, 0
+  index: -1
+q2
+  rotate: false
+  xy: 594, 15
+  size: 59, 53
+  orig: 61, 53
+  offset: 2, 0
+  index: -1
+q3
+  rotate: false
+  xy: 605, 155
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+q4
+  rotate: true
+  xy: 534, 3
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+sg_1
+  rotate: false
+  xy: 594, 70
+  size: 62, 62
+  orig: 67, 67
+  offset: 3, 2
+  index: -1
+sg_2
+  rotate: false
+  xy: 534, 134
+  size: 69, 70
+  orig: 74, 74
+  offset: 3, 2
+  index: -1
+shou
+  rotate: false
+  xy: 534, 65
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 534, 206
+  size: 82, 97
+  orig: 82, 97
+  offset: 0, 0
+  index: -1

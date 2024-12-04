@@ -1,0 +1,76 @@
+
+shu.png
+size: 1858,907
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 3
+  size: 638, 902
+  orig: 638, 902
+  offset: 0, 0
+  index: -1
+shu
+  rotate: false
+  xy: 642, 224
+  size: 618, 681
+  orig: 618, 681
+  offset: 0, 0
+  index: -1
+shu_dao
+  rotate: false
+  xy: 1262, 395
+  size: 594, 510
+  orig: 594, 510
+  offset: 0, 0
+  index: -1
+shu_dao_quek
+  rotate: false
+  xy: 1110, 10
+  size: 244, 212
+  orig: 244, 212
+  offset: 0, 0
+  index: -1
+shu_quek
+  rotate: false
+  xy: 642, 3
+  size: 45, 21
+  orig: 46, 23
+  offset: 0, 1
+  index: -1
+shuz
+  rotate: true
+  xy: 1469, 277
+  size: 116, 92
+  orig: 116, 92
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 1563, 301
+  size: 92, 91
+  orig: 128, 128
+  offset: 18, 19
+  index: -1
+y1
+  rotate: false
+  xy: 642, 26
+  size: 466, 196
+  orig: 466, 196
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 1356, 2
+  size: 476, 237
+  orig: 476, 237
+  offset: 0, 0
+  index: -1
+yuanbao
+  rotate: false
+  xy: 1262, 241
+  size: 205, 152
+  orig: 205, 152
+  offset: 0, 0
+  index: -1

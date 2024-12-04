@@ -1,0 +1,188 @@
+
+bianpao.png
+size: 1956,1771
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+004_00006
+  rotate: false
+  xy: 1623, 256
+  size: 303, 303
+  orig: 658, 658
+  offset: 176, 168
+  index: -1
+004_00007
+  rotate: true
+  xy: 465, 2
+  size: 380, 379
+  orig: 658, 658
+  offset: 138, 130
+  index: -1
+004_00008
+  rotate: false
+  xy: 2, 833
+  size: 461, 467
+  orig: 658, 658
+  offset: 97, 87
+  index: -1
+004_00009
+  rotate: false
+  xy: 2, 1302
+  size: 463, 467
+  orig: 658, 658
+  offset: 97, 87
+  index: -1
+004_00010
+  rotate: false
+  xy: 467, 1302
+  size: 461, 467
+  orig: 658, 658
+  offset: 97, 87
+  index: -1
+004_00011
+  rotate: false
+  xy: 465, 836
+  size: 463, 464
+  orig: 658, 658
+  offset: 97, 90
+  index: -1
+004_00012
+  rotate: false
+  xy: 2, 367
+  size: 461, 464
+  orig: 658, 658
+  offset: 97, 90
+  index: -1
+004_00013
+  rotate: false
+  xy: 930, 1305
+  size: 461, 464
+  orig: 658, 658
+  offset: 97, 90
+  index: -1
+004_00014
+  rotate: false
+  xy: 465, 384
+  size: 453, 450
+  orig: 658, 658
+  offset: 100, 96
+  index: -1
+004_00015
+  rotate: false
+  xy: 930, 855
+  size: 452, 448
+  orig: 658, 658
+  offset: 102, 98
+  index: -1
+004_00016
+  rotate: false
+  xy: 1393, 1324
+  size: 444, 445
+  orig: 658, 658
+  offset: 105, 98
+  index: -1
+004_00017
+  rotate: true
+  xy: 930, 420
+  size: 433, 442
+  orig: 658, 658
+  offset: 111, 101
+  index: -1
+004_00018
+  rotate: false
+  xy: 1237, 6
+  size: 384, 412
+  orig: 658, 658
+  offset: 138, 130
+  index: -1
+004_00019
+  rotate: true
+  xy: 846, 17
+  size: 365, 389
+  orig: 658, 658
+  offset: 154, 154
+  index: -1
+004_00020
+  rotate: true
+  xy: 2, 4
+  size: 361, 393
+  orig: 658, 658
+  offset: 156, 160
+  index: -1
+004_00021
+  rotate: false
+  xy: 1393, 962
+  size: 361, 360
+  orig: 658, 658
+  offset: 158, 183
+  index: -1
+004_00022
+  rotate: true
+  xy: 1384, 635
+  size: 325, 351
+  orig: 658, 658
+  offset: 199, 202
+  index: -1
+004_00023
+  rotate: false
+  xy: 1623, 25
+  size: 225, 229
+  orig: 658, 658
+  offset: 249, 273
+  index: -1
+01_00000
+  rotate: false
+  xy: 1737, 788
+  size: 217, 172
+  orig: 225, 175
+  offset: 3, 3
+  index: -1
+01_00001
+  rotate: false
+  xy: 1737, 788
+  size: 217, 172
+  orig: 225, 175
+  offset: 3, 3
+  index: -1
+01_00002
+  rotate: true
+  xy: 1737, 561
+  size: 225, 171
+  orig: 225, 175
+  offset: 0, 3
+  index: -1
+01_00003
+  rotate: true
+  xy: 1737, 561
+  size: 225, 171
+  orig: 225, 175
+  offset: 0, 3
+  index: -1
+01_00004
+  rotate: false
+  xy: 1374, 459
+  size: 224, 174
+  orig: 225, 175
+  offset: 1, 0
+  index: -1
+01_00005
+  rotate: false
+  xy: 1374, 459
+  size: 224, 174
+  orig: 225, 175
+  offset: 1, 0
+  index: -1
+1
+  rotate: false
+  xy: 1756, 1242
+  size: 68, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1839, 1645
+  size: 109, 124
+  orig: 113, 128
+  offset: 2, 1
+  index: -1

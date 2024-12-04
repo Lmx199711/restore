@@ -1,0 +1,27 @@
+
+baomu5.png
+size: 904,413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 210
+  size: 201, 775
+  orig: 201, 775
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 7
+  size: 201, 775
+  orig: 201, 775
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 779, 2
+  size: 409, 123
+  orig: 409, 123
+  offset: 0, 0
+  index: -1

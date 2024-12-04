@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "31911df1-5763-44ce-8a5e-157c11027e14",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1002,
+  "height": 1668,
+  "platformSettings": {},
+  "subMetas": {
+    "ZhazhaHui_atlas_fwsjd": {
+      "ver": "1.0.6",
+      "uuid": "4c8426c8-623e-4d2b-a607-68d925134d30",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "31911df1-5763-44ce-8a5e-157c11027e14",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1002,
+      "height": 1668,
+      "rawWidth": 1002,
+      "rawHeight": 1668,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

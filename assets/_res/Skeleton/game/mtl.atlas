@@ -1,0 +1,55 @@
+
+mtl.png
+size: 1034,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_3_1
+  rotate: false
+  xy: 398, 48
+  size: 321, 190
+  orig: 321, 190
+  offset: 0, 0
+  index: -1
+1_3_2
+  rotate: false
+  xy: 941, 114
+  size: 91, 124
+  orig: 91, 124
+  offset: 0, 0
+  index: -1
+1_3_3
+  rotate: false
+  xy: 941, 114
+  size: 91, 124
+  orig: 91, 124
+  offset: 0, 0
+  index: -1
+1_3_4
+  rotate: false
+  xy: 941, 65
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+1_3_5
+  rotate: false
+  xy: 2, 2
+  size: 394, 236
+  orig: 395, 236
+  offset: 0, 0
+  index: -1
+1_8
+  rotate: false
+  xy: 721, 20
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+1_8_1
+  rotate: false
+  xy: 721, 20
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ac3b760a-5765-4cb3-b619-0add84fde74d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 159,
+  "height": 186,
+  "platformSettings": {},
+  "subMetas": {
+    "美女打印机": {
+      "ver": "1.0.6",
+      "uuid": "5a022e04-a9ff-4886-b35b-8f90dc85aba4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ac3b760a-5765-4cb3-b619-0add84fde74d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 159,
+      "height": 186,
+      "rawWidth": 159,
+      "rawHeight": 186,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

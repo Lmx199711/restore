@@ -1,0 +1,27 @@
+
+tongtianta.png
+size: 1077,766
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 620, 384
+  size: 380, 455
+  orig: 381, 456
+  offset: 1, 1
+  index: -1
+02
+  rotate: false
+  xy: 2, 111
+  size: 616, 653
+  orig: 616, 653
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 620, 2
+  size: 380, 455
+  orig: 380, 455
+  offset: 0, 0
+  index: -1

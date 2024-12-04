@@ -1,0 +1,20 @@
+
+kele_2.png
+size: 233,210
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 137, 41
+  size: 167, 94
+  orig: 167, 94
+  offset: 0, 0
+  index: -1
+b
+  rotate: true
+  xy: 2, 2
+  size: 206, 133
+  orig: 206, 133
+  offset: 0, 0
+  index: -1

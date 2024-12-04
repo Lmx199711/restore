@@ -1,0 +1,104 @@
+
+penhuoqiang.png
+size: 1117,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00000
+  rotate: false
+  xy: 1013, 191
+  size: 102, 261
+  orig: 106, 267
+  offset: 2, 2
+  index: -1
+01_00001
+  rotate: false
+  xy: 626, 159
+  size: 126, 293
+  orig: 130, 297
+  offset: 2, 2
+  index: -1
+01_00002
+  rotate: true
+  xy: 2, 2
+  size: 129, 315
+  orig: 132, 318
+  offset: 1, 1
+  index: -1
+01_00003
+  rotate: false
+  xy: 883, 190
+  size: 128, 262
+  orig: 135, 266
+  offset: 2, 2
+  index: -1
+01_00004
+  rotate: false
+  xy: 754, 178
+  size: 127, 274
+  orig: 132, 277
+  offset: 3, 1
+  index: -1
+01_00005
+  rotate: true
+  xy: 614, 12
+  size: 136, 264
+  orig: 139, 270
+  offset: 1, 2
+  index: -1
+01_00006
+  rotate: true
+  xy: 319, 6
+  size: 136, 293
+  orig: 138, 295
+  offset: 1, 1
+  index: -1
+01_00007
+  rotate: false
+  xy: 282, 144
+  size: 133, 308
+  orig: 138, 310
+  offset: 3, 1
+  index: -1
+01_00008
+  rotate: false
+  xy: 192, 143
+  size: 88, 309
+  orig: 90, 318
+  offset: 1, 5
+  index: -1
+01_00009
+  rotate: false
+  xy: 95, 134
+  size: 95, 318
+  orig: 100, 322
+  offset: 2, 2
+  index: -1
+01_00010
+  rotate: false
+  xy: 2, 133
+  size: 91, 319
+  orig: 95, 322
+  offset: 3, 1
+  index: -1
+01_00011
+  rotate: false
+  xy: 526, 150
+  size: 98, 302
+  orig: 102, 305
+  offset: 2, 2
+  index: -1
+01_00012
+  rotate: false
+  xy: 417, 150
+  size: 107, 302
+  orig: 110, 306
+  offset: 2, 1
+  index: -1
+1
+  rotate: true
+  xy: 880, 11
+  size: 165, 231
+  orig: 165, 231
+  offset: 0, 0
+  index: -1

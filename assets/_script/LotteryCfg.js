@@ -1,0 +1,132 @@
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.LotteryCfg = undefined;
+exports.LotteryCfg = [{
+  id: 6001,
+  name: "妙笔生花",
+  icon: "妙笔生花",
+  tickets: 79e4,
+  videoNum: 0,
+  priceType: 0,
+  tipId: "huaxianzi",
+  tipNum: ["penciCaidanNum"],
+  changed: "PencilUI"
+}, {
+  id: 6002,
+  name: "愚公移山",
+  icon: "愚公移山",
+  tickets: 1e7,
+  videoNum: 0,
+  priceType: 0,
+  tipId: "yugongyishan",
+  tipNum: ["yugongCaidanNum"],
+  changed: "YugongUI"
+}, {
+  id: 6003,
+  name: "前女友",
+  icon: "前女友",
+  tickets: 5e7,
+  videoNum: 0,
+  priceType: 0,
+  tipId: "bitizhong",
+  tipNum: ["girlsChanged", "girlsJitui"],
+  changed: "GirlsFriendUI"
+}, {
+  id: 6004,
+  name: "点球大战",
+  icon: "点球大战",
+  tickets: 0,
+  videoNum: 0,
+  priceType: 2,
+  tipId: "zuqiu",
+  tipNum: ["footballCaidanNum"],
+  changed: "FootballUI"
+}, {
+  id: 6005,
+  name: "双十二",
+  icon: "双十二",
+  tickets: 0,
+  videoNum: 0,
+  priceType: 2,
+  tipId: "elevenTick",
+  tipNum: ["elevenTickCaidanNum"],
+  changed: "ElevenTickUI"
+}, {
+  id: 6007,
+  name: "比大小",
+  icon: "比大小",
+  tickets: 1e8,
+  videoNum: 1,
+  priceType: 1,
+  tipId: null,
+  tipKey: null,
+  tipNum: null,
+  changed: "BigSmallUI"
+}, {
+  id: 6008,
+  name: "八方来财",
+  icon: "八方来财",
+  tickets: 1e8,
+  videoNum: 1,
+  priceType: 1,
+  tipId: "caishen",
+  tipNum: ["caishenCaidanNum"],
+  changed: "CaishenUI"
+}, {
+  id: 6009,
+  name: "打年兽",
+  icon: "打年兽",
+  tickets: 1e8,
+  videoNum: 1,
+  priceType: 1,
+  tipId: null,
+  tipNum: null,
+  changed: "NianMonsterUI"
+}, {
+  id: 6010,
+  name: "王婆",
+  icon: "王婆",
+  tickets: 1e8,
+  videoNum: 1,
+  priceType: 1,
+  tipId: "wangpo",
+  videoId: "wangpoCaidanVideo",
+  tipNum: ["wangpoCaidanNum"],
+  changed: "WangPoUI",
+  preab: "wangPo/WangPoCom",
+  bundleName: "game6"
+}, {
+  id: 6011,
+  name: "一飞冲天",
+  icon: "一飞冲天",
+  tickets: 1e8,
+  videoNum: 1,
+  priceType: 1,
+  tipId: null,
+  tipNum: null,
+  changed: "RocketToSkyUI"
+}, {
+  id: 6012,
+  name: "Diss尼",
+  icon: "Diss尼",
+  tickets: 1e8,
+  videoNum: 1,
+  priceType: 1,
+  tipId: "diss",
+  videoId: "dissCaidanVideo",
+  tipNum: ["dissCaidanNum"],
+  changed: "DissUI",
+  preab: "diss/DissCom",
+  bundleName: "game6"
+}, {
+  id: 6006,
+  name: "大威天龙",
+  icon: "大威天龙",
+  tickets: 2e8,
+  videoNum: 1,
+  priceType: 1,
+  tipId: "shenron",
+  tipNum: ["shenronCaidanNum"],
+  changed: "ShenronUI"
+}];

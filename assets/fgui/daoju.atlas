@@ -1,0 +1,76 @@
+
+daoju.png
+size: 1033,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 2, 2
+  size: 220, 216
+  orig: 220, 216
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 824, 19
+  size: 65, 199
+  orig: 65, 199
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 446, 8
+  size: 80, 128
+  orig: 84, 130
+  offset: 2, 2
+  index: -1
+04
+  rotate: true
+  xy: 631, 49
+  size: 61, 187
+  orig: 65, 199
+  offset: 2, 7
+  index: -1
+05
+  rotate: true
+  xy: 446, 90
+  size: 128, 183
+  orig: 128, 183
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 576, 8
+  size: 39, 185
+  orig: 65, 199
+  offset: 13, 7
+  index: -1
+07
+  rotate: true
+  xy: 631, 112
+  size: 106, 191
+  orig: 110, 193
+  offset: 2, 2
+  index: -1
+08
+  rotate: false
+  xy: 891, 32
+  size: 58, 186
+  orig: 65, 199
+  offset: 3, 6
+  index: -1
+09
+  rotate: false
+  xy: 951, 90
+  size: 80, 128
+  orig: 84, 130
+  offset: 2, 2
+  index: -1
+10
+  rotate: false
+  xy: 224, 2
+  size: 220, 216
+  orig: 220, 216
+  offset: 0, 0
+  index: -1

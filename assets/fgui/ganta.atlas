@@ -1,0 +1,20 @@
+
+ganta.png
+size: 141,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quantao
+  rotate: true
+  xy: 2, 2
+  size: 72, 96
+  orig: 72, 96
+  offset: 0, 0
+  index: -1
+wz
+  rotate: true
+  xy: 100, 8
+  size: 66, 39
+  orig: 66, 40
+  offset: 0, 1
+  index: -1

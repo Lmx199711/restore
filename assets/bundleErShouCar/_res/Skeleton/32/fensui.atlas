@@ -1,0 +1,174 @@
+
+fensui.png
+size: 1920,1324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00001
+  rotate: true
+  xy: 1668, 970
+  size: 58, 53
+  orig: 66, 64
+  offset: 7, 8
+  index: -1
+01_00002
+  rotate: false
+  xy: 884, 345
+  size: 93, 95
+  orig: 112, 114
+  offset: 12, 14
+  index: -1
+01_00004
+  rotate: true
+  xy: 1726, 880
+  size: 209, 169
+  orig: 212, 171
+  offset: 2, 1
+  index: -1
+01_00006
+  rotate: false
+  xy: 1668, 675
+  size: 230, 203
+  orig: 235, 255
+  offset: 2, 2
+  index: -1
+01_00008
+  rotate: true
+  xy: 1726, 1091
+  size: 231, 192
+  orig: 235, 201
+  offset: 2, 8
+  index: -1
+01_00010
+  rotate: true
+  xy: 884, 748
+  size: 280, 395
+  orig: 282, 415
+  offset: 1, 19
+  index: -1
+01_00012
+  rotate: false
+  xy: 2, 879
+  size: 292, 443
+  orig: 294, 445
+  offset: 1, 1
+  index: -1
+01_00014
+  rotate: false
+  xy: 2, 434
+  size: 292, 443
+  orig: 294, 445
+  offset: 1, 1
+  index: -1
+01_00016
+  rotate: false
+  xy: 296, 879
+  size: 292, 443
+  orig: 294, 445
+  offset: 1, 1
+  index: -1
+01_00018
+  rotate: false
+  xy: 296, 434
+  size: 292, 443
+  orig: 294, 445
+  offset: 1, 1
+  index: -1
+01_00020
+  rotate: false
+  xy: 590, 879
+  size: 292, 443
+  orig: 294, 445
+  offset: 1, 1
+  index: -1
+01_00022
+  rotate: false
+  xy: 590, 434
+  size: 292, 443
+  orig: 294, 445
+  offset: 1, 1
+  index: -1
+01_00024
+  rotate: false
+  xy: 2, 2
+  size: 292, 430
+  orig: 294, 443
+  offset: 1, 11
+  index: -1
+01_00026
+  rotate: true
+  xy: 884, 1030
+  size: 292, 443
+  orig: 294, 445
+  offset: 1, 1
+  index: -1
+01_00028
+  rotate: false
+  xy: 296, 2
+  size: 292, 430
+  orig: 294, 445
+  offset: 1, 14
+  index: -1
+01_00030
+  rotate: false
+  xy: 590, 3
+  size: 292, 429
+  orig: 294, 445
+  offset: 1, 1
+  index: -1
+01_00032
+  rotate: true
+  xy: 884, 454
+  size: 292, 384
+  orig: 294, 413
+  offset: 1, 2
+  index: -1
+01_00034
+  rotate: false
+  xy: 1625, 325
+  size: 292, 348
+  orig: 294, 352
+  offset: 1, 3
+  index: -1
+01_00036
+  rotate: true
+  xy: 1472, 31
+  size: 292, 348
+  orig: 294, 430
+  offset: 1, 40
+  index: -1
+01_00038
+  rotate: true
+  xy: 1281, 736
+  size: 292, 385
+  orig: 294, 398
+  offset: 1, 1
+  index: -1
+01_00040
+  rotate: true
+  xy: 1329, 1030
+  size: 292, 395
+  orig: 294, 399
+  offset: 1, 1
+  index: -1
+01_00042
+  rotate: true
+  xy: 1270, 442
+  size: 292, 353
+  orig: 294, 356
+  offset: 1, 2
+  index: -1
+01_00044
+  rotate: false
+  xy: 884, 19
+  size: 292, 304
+  orig: 294, 307
+  offset: 1, 2
+  index: -1
+01_00046
+  rotate: false
+  xy: 1178, 20
+  size: 292, 303
+  orig: 294, 310
+  offset: 1, 5
+  index: -1

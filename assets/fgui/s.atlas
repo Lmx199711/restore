@@ -1,0 +1,62 @@
+
+s.png
+size: 602,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao
+  rotate: true
+  xy: 198, 122
+  size: 120, 204
+  orig: 120, 204
+  offset: 0, 0
+  index: -1
+nan
+  rotate: true
+  xy: 2, 2
+  size: 114, 372
+  orig: 114, 372
+  offset: 0, 0
+  index: -1
+nan_hp
+  rotate: true
+  xy: 404, 111
+  size: 47, 52
+  orig: 48, 52
+  offset: 1, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 118
+  size: 194, 414
+  orig: 194, 459
+  offset: 0, 0
+  index: -1
+tichuqi
+  rotate: false
+  xy: 198, 244
+  size: 266, 288
+  orig: 266, 288
+  offset: 0, 0
+  index: -1
+wb
+  rotate: true
+  xy: 466, 97
+  size: 435, 134
+  orig: 435, 134
+  offset: 0, 0
+  index: -1
+zb_bis
+  rotate: true
+  xy: 404, 160
+  size: 82, 58
+  orig: 84, 59
+  offset: 1, 0
+  index: -1
+zb_zk
+  rotate: false
+  xy: 376, 46
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1

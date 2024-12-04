@@ -1,0 +1,76 @@
+
+shuiguan.png
+size: 369,846
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00000
+  rotate: false
+  xy: 2, 286
+  size: 227, 139
+  orig: 264, 149
+  offset: 33, 0
+  index: -1
+01_00001
+  rotate: false
+  xy: 2, 705
+  size: 231, 139
+  orig: 264, 149
+  offset: 33, 0
+  index: -1
+01_00002
+  rotate: false
+  xy: 2, 564
+  size: 231, 139
+  orig: 264, 149
+  offset: 33, 0
+  index: -1
+01_00003
+  rotate: true
+  xy: 234, 300
+  size: 213, 122
+  orig: 264, 149
+  offset: 41, 18
+  index: -1
+01_00004
+  rotate: false
+  xy: 2, 427
+  size: 230, 135
+  orig: 264, 149
+  offset: 34, 5
+  index: -1
+01_00005
+  rotate: false
+  xy: 2, 144
+  size: 225, 140
+  orig: 264, 149
+  offset: 39, 0
+  index: -1
+01_00006
+  rotate: false
+  xy: 2, 2
+  size: 204, 140
+  orig: 264, 149
+  offset: 43, 0
+  index: -1
+01_00007
+  rotate: true
+  xy: 231, 91
+  size: 207, 136
+  orig: 264, 149
+  offset: 39, 4
+  index: -1
+01_00008
+  rotate: true
+  xy: 235, 515
+  size: 215, 127
+  orig: 264, 149
+  offset: 38, 11
+  index: -1
+shuiguan
+  rotate: false
+  xy: 235, 732
+  size: 131, 112
+  orig: 131, 112
+  offset: 0, 0
+  index: -1

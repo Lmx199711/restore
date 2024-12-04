@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ce779b48-6b1d-4934-a6d9-2b20bf83d482",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 435,
+  "height": 373,
+  "platformSettings": {},
+  "subMetas": {
+    "裤里难": {
+      "ver": "1.0.6",
+      "uuid": "556db779-6584-463e-a788-f724a847e113",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ce779b48-6b1d-4934-a6d9-2b20bf83d482",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 435,
+      "height": 373,
+      "rawWidth": 435,
+      "rawHeight": 373,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

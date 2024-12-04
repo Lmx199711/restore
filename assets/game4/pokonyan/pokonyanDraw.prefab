@@ -1,0 +1,272 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "pokonyanDraw",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "pokonyanDraw",
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 5
+      }
+    ],
+    "_prefab": {
+      "__id__": 12
+    },
+    "_id": "0d8abf78-21f2-4788-990d-5f865ce28e65"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "水晶球-绘画层",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 681,
+      "height": 681
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        54,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": {
+      "__uuid__": "68395419-42b1-432d-bda8-825dcc3814a2"
+    },
+    "node": {
+      "__id__": 2
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "c87pMfTE1JA6Dht0yoejaz",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "pokonyanDraw",
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 6
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 9
+      },
+      {
+        "__id__": 10
+      }
+    ],
+    "_prefab": {
+      "__id__": 11
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "touchArea",
+    "_parent": {
+      "__id__": 5
+    },
+    "_components": [
+      {
+        "__id__": 7
+      }
+    ],
+    "_prefab": {
+      "__id__": 8
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1002,
+      "height": 1668
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        54,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "points": [
+      {
+        "x": -27.5,
+        "y": 340.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -200.5,
+        "y": 276.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -318.5,
+        "y": 123.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -336.5,
+        "y": -58.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -246.5,
+        "y": -236.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": -82.5,
+        "y": -331.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 115.5,
+        "y": -321.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 270.5,
+        "y": -208.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 340.5,
+        "y": -27.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 321.5,
+        "y": 115.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 246.5,
+        "y": 236.5,
+        "__type__": "cc.Vec2"
+      },
+      {
+        "x": 123.5,
+        "y": 318.5,
+        "__type__": "cc.Vec2"
+      }
+    ],
+    "node": {
+      "__id__": 6
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "a0hnTup6ZBrpy1jT4N69ra",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "44a458jYjxI66TbklIe6U4H",
+    "graphic": {
+      "__id__": 10
+    },
+    "touchArea": {
+      "__id__": 6
+    },
+    "node": {
+      "__id__": 5
+    }
+  },
+  {
+    "__type__": "cc.Graphics",
+    "_lineWidth": 10,
+    "node": {
+      "__id__": 5
+    },
+    "_materials": [
+      {
+        "__uuid__": "a153945d-2511-4c14-be7b-05d242f47d57"
+      }
+    ],
+    "_strokeColor": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 255,
+      "g": 255,
+      "r": 255
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "fileId": "50Gvi6XsBGc60CeFyGj2Z/",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "asset": {
+      "__id__": 0
+    },
+    "root": {
+      "__id__": 1
+    }
+  }
+]

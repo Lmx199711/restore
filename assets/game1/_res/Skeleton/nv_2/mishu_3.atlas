@@ -1,0 +1,27 @@
+
+mishu_3.png
+size: 242,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03_1
+  rotate: true
+  xy: 2, 2
+  size: 115, 238
+  orig: 115, 238
+  offset: 0, 0
+  index: -1
+03_2
+  rotate: true
+  xy: 2, 119
+  size: 130, 211
+  orig: 130, 211
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 215, 189
+  size: 60, 24
+  orig: 62, 26
+  offset: 1, 1
+  index: -1

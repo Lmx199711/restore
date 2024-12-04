@@ -1,0 +1,153 @@
+
+xiche.png
+size: 1832,1802
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_00080
+  rotate: true
+  xy: 2, 282
+  size: 503, 463
+  orig: 1344, 756
+  offset: 418, 146
+  index: -1
+001_00092
+  rotate: true
+  xy: 891, 2
+  size: 490, 457
+  orig: 1344, 756
+  offset: 431, 156
+  index: -1
+001_00103
+  rotate: false
+  xy: 1342, 1337
+  size: 488, 463
+  orig: 1344, 756
+  offset: 429, 154
+  index: -1
+001_00115
+  rotate: true
+  xy: 890, 1306
+  size: 494, 450
+  orig: 1344, 756
+  offset: 428, 151
+  index: -1
+001_00126
+  rotate: true
+  xy: 431, 789
+  size: 502, 421
+  orig: 1344, 756
+  offset: 424, 151
+  index: -1
+001_00138
+  rotate: true
+  xy: 2, 787
+  size: 504, 427
+  orig: 1344, 756
+  offset: 429, 152
+  index: -1
+001_00149
+  rotate: true
+  xy: 459, 1300
+  size: 500, 429
+  orig: 1344, 756
+  offset: 427, 154
+  index: -1
+001_00160
+  rotate: false
+  xy: 1342, 906
+  size: 483, 429
+  orig: 1344, 756
+  offset: 423, 149
+  index: -1
+001_00172
+  rotate: true
+  xy: 1350, 2
+  size: 490, 417
+  orig: 1344, 756
+  offset: 426, 149
+  index: -1
+001_00183
+  rotate: false
+  xy: 1264, 494
+  size: 493, 410
+  orig: 1344, 756
+  offset: 429, 144
+  index: -1
+001_00195
+  rotate: true
+  xy: 854, 803
+  size: 495, 408
+  orig: 1344, 756
+  offset: 428, 144
+  index: -1
+001_00206
+  rotate: true
+  xy: 467, 290
+  size: 497, 422
+  orig: 1344, 756
+  offset: 424, 149
+  index: -1
+001_00218
+  rotate: true
+  xy: 2, 1293
+  size: 507, 455
+  orig: 1344, 756
+  offset: 421, 146
+  index: -1
+guanzi_L
+  rotate: true
+  xy: 2, 53
+  size: 227, 112
+  orig: 228, 113
+  offset: 1, 1
+  index: -1
+guanzi_R
+  rotate: true
+  xy: 116, 53
+  size: 227, 112
+  orig: 228, 113
+  offset: 0, 1
+  index: -1
+shui_1
+  rotate: false
+  xy: 534, 123
+  size: 116, 165
+  orig: 117, 167
+  offset: 0, 1
+  index: -1
+shui_1_1
+  rotate: false
+  xy: 701, 39
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+shui_2
+  rotate: false
+  xy: 230, 60
+  size: 150, 220
+  orig: 154, 227
+  offset: 1, 6
+  index: -1
+shui_3
+  rotate: true
+  xy: 534, 5
+  size: 116, 165
+  orig: 117, 167
+  offset: 1, 1
+  index: -1
+shui_3_1
+  rotate: false
+  xy: 652, 152
+  size: 80, 136
+  orig: 80, 136
+  offset: 0, 0
+  index: -1
+shui_4
+  rotate: false
+  xy: 382, 60
+  size: 150, 220
+  orig: 154, 227
+  offset: 3, 6
+  index: -1

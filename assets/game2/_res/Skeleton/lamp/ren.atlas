@@ -1,0 +1,48 @@
+
+ren.png
+size: 196,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: false
+  xy: 50, 57
+  size: 21, 111
+  orig: 21, 111
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 122, 4
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 2, 50
+  size: 46, 118
+  orig: 46, 118
+  offset: 0, 0
+  index: -1
+yous
+  rotate: true
+  xy: 73, 78
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 2, 2
+  size: 46, 118
+  orig: 46, 118
+  offset: 0, 0
+  index: -1
+zuos
+  rotate: true
+  xy: 127, 83
+  size: 85, 63
+  orig: 85, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "930f6e7c-c612-4061-8445-8f1e9449df45",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1920,
+  "height": 1468,
+  "platformSettings": {},
+  "subMetas": {
+    "CatchFish_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "d28f3ab5-8d01-4131-8afd-a2321604d7f0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "930f6e7c-c612-4061-8445-8f1e9449df45",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1917,
+      "height": 1468,
+      "rawWidth": 1920,
+      "rawHeight": 1468,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0bc47546-df5a-4c98-bbe8-96b5f39f99db",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 576,
+  "height": 511,
+  "platformSettings": {},
+  "subMetas": {
+    "滚球挑战": {
+      "ver": "1.0.6",
+      "uuid": "71219343-3a4a-45da-9bf3-38601e468466",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0bc47546-df5a-4c98-bbe8-96b5f39f99db",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -5,
+      "trimX": 0,
+      "trimY": 40,
+      "width": 576,
+      "height": 441,
+      "rawWidth": 576,
+      "rawHeight": 511,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

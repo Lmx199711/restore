@@ -1,0 +1,427 @@
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.SecretPosCfg = exports.SecretLevelCfg = exports.SecretRewardCfg = exports.SecretCfg = undefined;
+exports.SecretCfg = [{
+  id: 1,
+  name: "刘亦非",
+  watchCoin: 5e5,
+  buyCoin: 3e6,
+  icon: "icon1",
+  story: "聪明机智的女孩，担任富有影响力人士的秘书。她用她的组织才能和解决问题的能力，成为了你不可或缺的右膀左臂，同时也在秘书的角色中发现自己的激情与成就感",
+  talk: "想见你的时候,风都是甜的",
+  talkLevel: "谢谢老板,比心!"
+}, {
+  id: 2,
+  name: "范饼饼",
+  watchCoin: 1e6,
+  buyCoin: 5e6,
+  icon: "icon2",
+  story: "她细心周到，为上司解决难题，成为团队的支柱。然而，她也渴望有自己的事业，勇敢追寻梦想，想在业余时间学习并成为一位杰出的作家",
+  talk: "你就委屈一下，栽在我手上嘛",
+  talkLevel: "干活的动力更强了"
+}, {
+  id: 3,
+  name: "刘狮狮",
+  watchCoin: 5e5,
+  buyCoin: 7e6,
+  icon: "icon3",
+  story: "明且富有耐心，她不仅协助安排日程，处理文件，还成为了你信任的重要顾问。通过观察和学习，她逐渐培养出自己的商业眼光，展现自己的领导才能",
+  talk: "看到你心情就特别好~",
+  talkLevel: "嘻嘻爱你哟"
+}, {
+  id: 4,
+  name: "谭松云",
+  watchCoin: 1e6,
+  buyCoin: 8888888,
+  icon: "icon4",
+  story: "热衷于帮助他人，用她的协调和沟通技巧为工作筹备和执行提供支持。深受年幼时慈善事业的影响，她决定成为一名社会工作者，致力于改善弱势群体的生活条件和社会环境",
+  talk: "和老板分开的时间总感觉好漫长",
+  talkLevel: "我会继续加油的"
+}, {
+  id: 5,
+  name: "鱼书欣",
+  watchCoin: 1e6,
+  buyCoin: 5e6,
+  icon: "icon5",
+  story: "一个出生于贫困家庭的女孩，成为一名坚韧的秘书。她通过勤奋努力，获得奖学金，为家庭争取更好生活，她的坚毅和奋斗精神将她推向成功",
+  talk: "想做你怀里的猫",
+  talkLevel: "就知道你最疼我啦"
+}, {
+  id: 6,
+  name: "高园园",
+  watchCoin: 5e5,
+  buyCoin: 3e6,
+  icon: "icon6",
+  story: "家庭富裕。她成为一名秘书，不依赖家庭财富，靠自己的努力与才华脱颖而出。她在工作中展现出的专业能力和人际关系技巧让她成为企业中备受尊重的秘书",
+  talk: "我很好哄的,你可以试试",
+  talkLevel: "我才没有那么开心呢，哼~"
+}, {
+  id: 7,
+  name: "关小同",
+  watchCoin: 1e6,
+  buyCoin: 4e6,
+  icon: "icon7",
+  story: "尽管家境优渥，她成为一名秘书，虽然享受着舒适的生活，但她不满足于富有，而是积极学习并利用机会发展自己。她用聪明才智和卓越能力，为公司的成功做出了重要贡献",
+  talk: "我还是不是你的小可爱了！",
+  talkLevel: "笔芯哦老板~"
+}, {
+  id: 8,
+  name: "迪丽热八",
+  watchCoin: 5e5,
+  buyCoin: 8e6,
+  icon: "icon8",
+  story: "她在温暖的家庭环境中成长，父母的关爱和教育塑造了她的谦逊与勤奋。她凭借高效的协调能力和精细的注意力，成为了一位备受尊敬的秘书，展现出自己的职业价值",
+  talk: "近朱者赤，近你者甜",
+  talkLevel: "要和你天下第一好!"
+}, {
+  id: 9,
+  name: "赵丽英",
+  watchCoin: 1e6,
+  buyCoin: 6666666,
+  icon: "icon9",
+  story: "一个正常家庭的女孩,虽然没有特殊背景，但通过自己的勤奋和才华，展现出色的协调和管理能力，成为公司中备受赞誉的秘书，为自己和家人带来光荣与骄傲",
+  talk: "你终于回来了,好想你呀",
+  talkLevel: "嘻嘻~谢谢老板"
+}, {
+  id: 10,
+  name: "赵露丝",
+  watchCoin: 5e5,
+  buyCoin: 1e7,
+  icon: "icon10",
+  story: "普普通通的都市女孩,想依靠自己再京海买到属于自己的房子,以此为目标,她虽然年轻,但做事情却十分老练,非常值得信赖,也逐渐能挑起大梁",
+  talk: "你已经很久没有联系你的小可爱了",
+  talkLevel: "老板你最棒啦！"
+}, {
+  id: 11,
+  name: "秘书9",
+  watchCoin: 5e5,
+  buyCoin: 1e3,
+  icon: "icon11",
+  drop: true,
+  story: "故事信息9",
+  talk: "说话",
+  talkLevel: "升级说话"
+}, {
+  id: 12,
+  name: "秘书9",
+  watchCoin: 1e6,
+  buyCoin: 1e3,
+  icon: "icon12",
+  drop: true,
+  story: "故事信息9",
+  talk: "说话",
+  talkLevel: "升级说话"
+}, {
+  id: 13,
+  name: "秘书9",
+  watchCoin: 5e5,
+  buyCoin: 1e3,
+  icon: "icon13",
+  drop: true,
+  story: "故事信息9",
+  talk: "说话",
+  talkLevel: "升级说话"
+}, {
+  id: 14,
+  name: "秘书9",
+  watchCoin: 1e6,
+  buyCoin: 1e3,
+  icon: "icon14",
+  drop: true,
+  story: "故事信息9",
+  talk: "说话",
+  talkLevel: "升级说话"
+}, {
+  id: 15,
+  name: "秘书9",
+  watchCoin: 1e6,
+  buyCoin: 1e3,
+  icon: "icon15",
+  drop: true,
+  story: "故事信息9",
+  talk: "说话",
+  talkLevel: "升级说话"
+}, {
+  id: 16,
+  name: "秘书9",
+  watchCoin: 5e5,
+  buyCoin: 1e3,
+  icon: "icon16",
+  drop: true,
+  story: "故事信息9",
+  talk: "说话",
+  talkLevel: "升级说话"
+}, {
+  id: 17,
+  name: "秘书9",
+  watchCoin: 1e6,
+  buyCoin: 1e3,
+  icon: "icon17",
+  drop: true,
+  story: "故事信息9",
+  talk: "说话",
+  talkLevel: "升级说话"
+}, {
+  id: 18,
+  name: "秘书9",
+  watchCoin: 5e5,
+  buyCoin: 1e3,
+  icon: "icon18",
+  drop: true,
+  story: "故事信息9",
+  talk: "说话",
+  talkLevel: "升级说话"
+}, {
+  id: 19,
+  name: "秘书9",
+  watchCoin: 1e6,
+  buyCoin: 1e3,
+  icon: "icon19",
+  drop: true,
+  story: "故事信息9",
+  talk: "说话",
+  talkLevel: "升级说话"
+}, {
+  id: 20,
+  name: "秘书9",
+  watchCoin: 5e5,
+  buyCoin: 1e3,
+  icon: "icon20",
+  drop: true,
+  story: "故事信息9",
+  talk: "说话",
+  talkLevel: "升级说话"
+}];
+exports.SecretRewardCfg = [{
+  id: 1,
+  name: "奶茶",
+  coin: 1e4,
+  feel: 5
+}, {
+  id: 2,
+  name: "玫瑰花",
+  coin: 1e6,
+  feel: 60
+}, {
+  id: 3,
+  name: "口红",
+  coin: 3e6,
+  feel: 250
+}, {
+  id: 4,
+  name: "包包",
+  coin: 1e7,
+  feel: 1e3
+}, {
+  id: 5,
+  name: "跑车",
+  coin: 999,
+  feel: 5e3,
+  video: true,
+  anim: "secret/paoche"
+}];
+exports.SecretLevelCfg = [{
+  level: 1,
+  need: 10,
+  gains: 5
+}, {
+  level: 2,
+  need: 100,
+  gains: 6
+}, {
+  level: 3,
+  need: 250,
+  gains: 7
+}, {
+  level: 4,
+  need: 500,
+  gains: 9
+}, {
+  level: 5,
+  need: 750,
+  gains: 10
+}, {
+  level: 6,
+  need: 1e3,
+  gains: 12
+}, {
+  level: 7,
+  need: 1200,
+  gains: 15
+}, {
+  level: 8,
+  need: 1500,
+  gains: 18
+}, {
+  level: 9,
+  need: 1700,
+  gains: 21
+}, {
+  level: 10,
+  need: 2e3,
+  gains: 26
+}, {
+  level: 11,
+  need: 2500,
+  gains: 31
+}, {
+  level: 12,
+  need: 3e3,
+  gains: 37
+}, {
+  level: 13,
+  need: 3600,
+  gains: 45
+}, {
+  level: 14,
+  need: 4300,
+  gains: 53
+}, {
+  level: 15,
+  need: 5e3,
+  gains: 64
+}, {
+  level: 16,
+  need: 6e3,
+  gains: 77
+}, {
+  level: 17,
+  need: 7e3,
+  gains: 92
+}, {
+  level: 18,
+  need: 8e3,
+  gains: 100
+}, {
+  level: 19,
+  need: 9e3,
+  gains: 110
+}, {
+  level: 20,
+  need: 1e4,
+  gains: 121
+}, {
+  level: 21,
+  need: 12500,
+  gains: 133
+}, {
+  level: 22,
+  need: 15e3,
+  gains: 146
+}, {
+  level: 23,
+  need: 18e3,
+  gains: 160
+}, {
+  level: 24,
+  need: 21e3,
+  gains: 176
+}, {
+  level: 25,
+  need: 25e3,
+  gains: 194
+}, {
+  level: 26,
+  need: 3e4,
+  gains: 212
+}, {
+  level: 27,
+  need: 36e3,
+  gains: 234
+}, {
+  level: 28,
+  need: 43e3,
+  gains: 257
+}, {
+  level: 29,
+  need: 5e4,
+  gains: 283
+}, {
+  level: 30,
+  need: 6e4,
+  gains: 311
+}, {
+  level: 31,
+  need: 8e4,
+  gains: 342
+}, {
+  level: 32,
+  need: 9e4,
+  gains: 377
+}, {
+  level: 33,
+  need: 1e5,
+  gains: 414
+}, {
+  level: 34,
+  need: 11e4,
+  gains: 456
+}, {
+  level: 35,
+  need: 12e4,
+  gains: 502
+}, {
+  level: 36,
+  need: 14e4,
+  gains: 552
+}, {
+  level: 37,
+  need: 16e4,
+  gains: 607
+}, {
+  level: 38,
+  need: 18e4,
+  gains: 668
+}, {
+  level: 39,
+  need: 2e5,
+  gains: 735
+}, {
+  level: 40,
+  need: 23e4,
+  gains: 808
+}, {
+  level: 41,
+  need: 26e4,
+  gains: 889
+}, {
+  level: 42,
+  need: 29e4,
+  gains: 978
+}, {
+  level: 43,
+  need: 32e4,
+  gains: 1076
+}, {
+  level: 44,
+  need: 35e4,
+  gains: 1184
+}, {
+  level: 45,
+  need: 38e4,
+  gains: 1302
+}, {
+  level: 46,
+  need: 41e4,
+  gains: 1432
+}, {
+  level: 47,
+  need: 45e4,
+  gains: 1575
+}, {
+  level: 48,
+  need: 49e4,
+  gains: 1733
+}, {
+  level: 49,
+  need: 54e4,
+  gains: 1906
+}, {
+  level: 50,
+  need: 6e5,
+  gains: 2100
+}];
+exports.SecretPosCfg = {
+  1: [[-19, 438], [-59, 393], [-16, 393], [22, 393], [-48, 355], [-5, 355], [28, 355], [-38, 331], [5, 331], [33, 331], [-105, 286], [-62, 286], [-34, 286], [5, 286], [33, 286], [-124, 219], [-81, 219], [-53, 219], [-14, 219], [14, 219], [-136, 136], [-93, 136], [-66, 136], [-26, 136], [2, 136], [-122, 67], [-79, 67], [-52, 67], [-12, 67], [16, 67], [-110, -2], [-67, -2], [-40, -2], [0, -2], [28, -2], [-88, -76], [-45, -76], [-17, -76], [22, -76], [-64, -138], [-21, -138], [7, -138], [-62, -198], [-19, -198], [19, -198], [-59, -269], [3, -269], [-57, -335], [-5, -335], [-59, -409], [-7, -409], [78, 247], [133, 193], [72, 152], [34, 131]]
+};

@@ -1,0 +1,160 @@
+
+shengji.png
+size: 713,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00000
+  rotate: true
+  xy: 213, 241
+  size: 101, 93
+  orig: 126, 105
+  offset: 11, 1
+  index: -1
+01_00001
+  rotate: true
+  xy: 2, 211
+  size: 141, 125
+  orig: 160, 134
+  offset: 9, 1
+  index: -1
+01_00002
+  rotate: true
+  xy: 381, 2
+  size: 184, 168
+  orig: 201, 176
+  offset: 8, 1
+  index: -1
+01_00003
+  rotate: false
+  xy: 2, 5
+  size: 187, 202
+  orig: 204, 211
+  offset: 8, 1
+  index: -1
+01_00005
+  rotate: true
+  xy: 247, 344
+  size: 169, 236
+  orig: 187, 245
+  offset: 9, 1
+  index: -1
+01_00006
+  rotate: true
+  xy: 2, 517
+  size: 167, 250
+  orig: 182, 260
+  offset: 7, 1
+  index: -1
+01_00007
+  rotate: false
+  xy: 528, 640
+  size: 173, 254
+  orig: 189, 263
+  offset: 7, 1
+  index: -1
+01_00008
+  rotate: true
+  xy: 264, 680
+  size: 172, 258
+  orig: 189, 270
+  offset: 9, 4
+  index: -1
+01_00009
+  rotate: true
+  xy: 266, 854
+  size: 175, 260
+  orig: 192, 273
+  offset: 8, 4
+  index: -1
+01_00010
+  rotate: true
+  xy: 2, 857
+  size: 172, 262
+  orig: 190, 276
+  offset: 8, 4
+  index: -1
+01_00011
+  rotate: true
+  xy: 2, 686
+  size: 169, 260
+  orig: 189, 276
+  offset: 9, 4
+  index: -1
+01_00012
+  rotate: true
+  xy: 254, 515
+  size: 163, 248
+  orig: 184, 272
+  offset: 8, 10
+  index: -1
+01_00013
+  rotate: true
+  xy: 2, 354
+  size: 161, 243
+  orig: 186, 272
+  offset: 10, 13
+  index: -1
+01_00014
+  rotate: true
+  xy: 485, 349
+  size: 150, 222
+  orig: 182, 260
+  offset: 11, 20
+  index: -1
+01_00015
+  rotate: true
+  xy: 485, 209
+  size: 138, 211
+  orig: 173, 251
+  offset: 13, 24
+  index: -1
+01_00016
+  rotate: true
+  xy: 504, 501
+  size: 137, 203
+  orig: 166, 240
+  offset: 13, 19
+  index: -1
+01_00017
+  rotate: true
+  xy: 528, 896
+  size: 133, 183
+  orig: 165, 227
+  offset: 14, 25
+  index: -1
+01_00018
+  rotate: false
+  xy: 551, 40
+  size: 123, 167
+  orig: 161, 217
+  offset: 17, 30
+  index: -1
+01_00019
+  rotate: false
+  xy: 381, 188
+  size: 102, 154
+  orig: 151, 206
+  offset: 20, 30
+  index: -1
+01_00020
+  rotate: false
+  xy: 129, 217
+  size: 82, 135
+  orig: 139, 176
+  offset: 30, 11
+  index: -1
+01_00021
+  rotate: false
+  xy: 703, 885
+  size: 4, 9
+  orig: 50, 51
+  offset: 24, 21
+  index: -1
+0222
+  rotate: true
+  xy: 191, 7
+  size: 208, 188
+  orig: 240, 231
+  offset: 14, 24
+  index: -1

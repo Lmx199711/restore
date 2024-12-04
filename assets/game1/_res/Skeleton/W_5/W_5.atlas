@@ -1,0 +1,34 @@
+
+W_5.png
+size: 714,345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qipao
+  rotate: false
+  xy: 661, 133
+  size: 41, 41
+  orig: 48, 48
+  offset: 6, 3
+  index: -1
+st
+  rotate: true
+  xy: 2, 2
+  size: 341, 590
+  orig: 341, 590
+  offset: 0, 0
+  index: -1
+yangqip
+  rotate: false
+  xy: 594, 176
+  size: 118, 167
+  orig: 118, 167
+  offset: 0, 0
+  index: -1
+yangqizhao
+  rotate: true
+  xy: 594, 12
+  size: 162, 65
+  orig: 162, 65
+  offset: 0, 0
+  index: -1

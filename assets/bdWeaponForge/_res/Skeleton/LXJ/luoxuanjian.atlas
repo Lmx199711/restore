@@ -1,0 +1,62 @@
+
+luoxuanjian.png
+size: 2002,1244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0001_00000
+  rotate: true
+  xy: 427, 615
+  size: 627, 538
+  orig: 658, 578
+  offset: 10, 24
+  index: -1
+0001_00001
+  rotate: true
+  xy: 587, 4
+  size: 609, 544
+  orig: 658, 578
+  offset: 27, 21
+  index: -1
+0001_00002
+  rotate: true
+  xy: 967, 641
+  size: 601, 516
+  orig: 658, 578
+  offset: 36, 22
+  index: -1
+0001_00003
+  rotate: true
+  xy: 1485, 69
+  size: 583, 515
+  orig: 658, 578
+  offset: 38, 23
+  index: -1
+0001_00004
+  rotate: true
+  xy: 1485, 654
+  size: 588, 515
+  orig: 658, 578
+  offset: 42, 22
+  index: -1
+0001_00005
+  rotate: false
+  xy: 2, 2
+  size: 583, 534
+  orig: 658, 578
+  offset: 51, 23
+  index: -1
+01
+  rotate: false
+  xy: 1133, 173
+  size: 66, 466
+  orig: 66, 466
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 538
+  size: 423, 704
+  orig: 423, 704
+  offset: 0, 0
+  index: -1

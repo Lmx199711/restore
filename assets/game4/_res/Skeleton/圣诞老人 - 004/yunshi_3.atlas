@@ -1,0 +1,83 @@
+
+yunshi_3.png
+size: 476,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_000
+  rotate: false
+  xy: 2, 4
+  size: 176, 201
+  orig: 256, 256
+  offset: 0, 30
+  index: -1
+01_001
+  rotate: false
+  xy: 2, 362
+  size: 252, 177
+  orig: 256, 256
+  offset: 0, 31
+  index: -1
+01_002
+  rotate: false
+  xy: 2, 207
+  size: 248, 153
+  orig: 256, 256
+  offset: 4, 56
+  index: -1
+01_003
+  rotate: false
+  xy: 256, 375
+  size: 218, 164
+  orig: 256, 256
+  offset: 30, 51
+  index: -1
+a
+  rotate: true
+  xy: 180, 2
+  size: 203, 141
+  orig: 203, 141
+  offset: 0, 0
+  index: -1
+c_1
+  rotate: true
+  xy: 252, 216
+  size: 101, 124
+  orig: 103, 126
+  offset: 1, 1
+  index: -1
+c_2
+  rotate: false
+  xy: 323, 107
+  size: 69, 107
+  orig: 71, 109
+  offset: 1, 1
+  index: -1
+c_3
+  rotate: false
+  xy: 394, 309
+  size: 80, 64
+  orig: 82, 66
+  offset: 1, 1
+  index: -1
+c_4
+  rotate: true
+  xy: 323, 14
+  size: 91, 90
+  orig: 93, 92
+  offset: 1, 1
+  index: -1
+c_5
+  rotate: false
+  xy: 378, 255
+  size: 96, 52
+  orig: 99, 54
+  offset: 1, 1
+  index: -1
+c_6
+  rotate: true
+  xy: 256, 319
+  size: 54, 136
+  orig: 56, 138
+  offset: 1, 1
+  index: -1

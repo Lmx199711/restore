@@ -1,0 +1,97 @@
+
+gup.png
+size: 1108,1006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_3
+  rotate: false
+  xy: 694, 555
+  size: 263, 209
+  orig: 263, 209
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: false
+  xy: 694, 344
+  size: 263, 209
+  orig: 263, 209
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: false
+  xy: 694, 766
+  size: 265, 238
+  orig: 265, 239
+  offset: 0, 1
+  index: -1
+1_6_1
+  rotate: true
+  xy: 959, 340
+  size: 106, 131
+  orig: 106, 131
+  offset: 0, 0
+  index: -1
+1_6_2
+  rotate: false
+  xy: 791, 7
+  size: 64, 150
+  orig: 64, 150
+  offset: 0, 0
+  index: -1
+1_6_3
+  rotate: false
+  xy: 931, 131
+  size: 175, 207
+  orig: 175, 207
+  offset: 0, 0
+  index: -1
+1_6_4
+  rotate: false
+  xy: 959, 448
+  size: 111, 165
+  orig: 111, 165
+  offset: 0, 0
+  index: -1
+1_7
+  rotate: true
+  xy: 2, 2
+  size: 1002, 690
+  orig: 1002, 692
+  offset: 0, 2
+  index: -1
+1_8
+  rotate: false
+  xy: 961, 615
+  size: 107, 189
+  orig: 107, 189
+  offset: 0, 0
+  index: -1
+1_8_1
+  rotate: false
+  xy: 694, 159
+  size: 235, 183
+  orig: 235, 183
+  offset: 0, 0
+  index: -1
+1_8_2
+  rotate: false
+  xy: 961, 806
+  size: 110, 198
+  orig: 110, 198
+  offset: 0, 0
+  index: -1
+1_8_3
+  rotate: false
+  xy: 694, 27
+  size: 95, 130
+  orig: 95, 130
+  offset: 0, 0
+  index: -1
+shubiao
+  rotate: true
+  xy: 857, 20
+  size: 109, 80
+  orig: 109, 80
+  offset: 0, 0
+  index: -1

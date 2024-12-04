@@ -1,0 +1,27 @@
+
+animAction5.png
+size: 1550,596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaohu1
+  rotate: true
+  xy: 2, 7
+  size: 587, 1006
+  orig: 587, 1006
+  offset: 0, 0
+  index: -1
+xiaohu2
+  rotate: true
+  xy: 1010, 2
+  size: 188, 176
+  orig: 188, 176
+  offset: 0, 0
+  index: -1
+xiaohu3
+  rotate: true
+  xy: 1010, 192
+  size: 402, 538
+  orig: 402, 538
+  offset: 0, 0
+  index: -1

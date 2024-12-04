@@ -1,0 +1,19 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "yundao",
+  "_duration": 0.3333333333333333,
+  "curveData": {
+    "props": {
+      "angle": [
+        {
+          "frame": 0,
+          "value": -90
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 0
+        }
+      ]
+    }
+  }
+}

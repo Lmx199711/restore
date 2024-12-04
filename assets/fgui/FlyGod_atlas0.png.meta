@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "058fcbaf-d3ca-41e5-8237-28f955331600",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 248,
+  "height": 452,
+  "platformSettings": {},
+  "subMetas": {
+    "FlyGod_atlas0": {
+      "ver": "1.0.6",
+      "uuid": "cb2542bf-b76e-4da7-aa78-d94c98f37436",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "058fcbaf-d3ca-41e5-8237-28f955331600",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 1.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 247,
+      "height": 449,
+      "rawWidth": 248,
+      "rawHeight": 452,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
